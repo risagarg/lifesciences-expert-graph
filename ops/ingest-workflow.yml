@@ -1,0 +1,45 @@
+# Copy this file to .github/workflows/ingest.yml (GitHub: Add file > Create new file).
+# It pulls experts for every indication in ingest/indications.yml, adds the top
+# candidates to people/, rebuilds the indexes and commits the result.
+name: ingest
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 9 * * 1"   # Mondays 09:17 UTC
+  push:
+    paths: ["ingest/indications.yml"]
+permissions:
+  contents: write
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt
+      - name: ClinicalTrials.gov
+        run: python3 scripts/ingest/clinicaltrials.py
+        continue-on-error: true
+      - name: PubMed
+        run: python3 scripts/ingest/pubmed.py
+        env: { NCBI_API_KEY: "${{ secrets.NCBI_API_KEY }}" }
+        continue-on-error: true
+      - name: Medicare Part D
+        run: python3 scripts/ingest/partd.py
+        continue-on-error: true
+      - name: Add top candidates to people/
+        run: python3 scripts/ingest/promote.py --top 25
+      - name: NPI lookups
+        run: python3 scripts/ingest/nppes.py
+        continue-on-error: true
+      - name: Rebuild indexes
+        run: python3 scripts/build.py
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add -A data people tree EXPERTS.md
+          git diff --cached --quiet || git commit -m "Ingest: refresh experts"
+          git push

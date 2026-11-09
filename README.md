@@ -1,36 +1,43 @@
-# Sentari Expertise Tree
+# Sentari Expert Graph
 
-A map of healthcare and life sciences stakeholders and expertise, kept as plain files. The folder tree is the taxonomy, and `links:` inside each file connect nodes across branches into a graph.
+A growing map of healthcare and life sciences expertise: diseases, drugs, organizations, evidence, and the named people who know each area. Everything is plain files you can browse and edit right here on GitHub.
 
-## Layout
+**Start browsing:** [the tree](tree/README.md) · [all experts](EXPERTS.md)
+
+## How it's organized
 
 ```
-tree/
-  stakeholders/        who holds expertise (clinicians, investigators, payers…)
-  therapeutic-areas/   disease taxonomy, seeded with psoriasis
-  mechanisms/          drugs grouped by mechanism of action
-  data-sources/        public datasets that identify people and supply evidence
-scripts/
-  build_site.py        validates the tree and builds the clickable site
-  site_template.html   the site's page; the build injects the tree data
-SCHEMA.md              node types, fields and link types
+tree/                  the taxonomy: one folder or file per node
+  stakeholders/        kinds of experts (clinicians, investigators, payers…)
+  therapeutic-areas/   diseases: immunology built out, other areas started
+  mechanisms/          drugs grouped by mechanism
+  organizations/       companies, societies, academic centers, payers, regulators
+  evidence/            guidelines and trials that show who knows what
+  data-sources/        public datasets the ingest scripts pull from
+people/                one file per named expert
+EXPERTS.md             every expert, ranked
+ingest/                which indications to pull experts for, and how
+scripts/               build and ingest scripts
 ```
 
-Browse on GitHub by clicking through `tree/`. Each folder's `README.md` describes that node, and each single `.md` file is a leaf.
+Every page ends with a generated section that links to its parent, children, connections and experts, so you can click through the whole graph on GitHub.
 
-## Add a node
+## How someone becomes an expert here
 
-1. Make a folder with a `README.md` if the node will have children, or a single `.md` file if it is a leaf. Use lowercase-hyphen names.
-2. Add frontmatter with at least `title` and `type`. See `SCHEMA.md`.
-3. Cite a source for every factual field.
-4. Run the build to check it.
+A person is linked to **evidence** (a guideline they wrote, a trial they ran or published, papers, prescribing data). Each piece of evidence says what it **covers** (a disease, a drug, a mechanism). Those links decide which pages a person appears on and how they rank. Nobody is added without a cited source.
 
-## Build the site
+## Adding to it
+
+- **A node:** add a folder with a `README.md` (if it will have children) or a single `.md` file. Fill in the frontmatter (see [SCHEMA.md](SCHEMA.md)). Cite a source for every fact.
+- **A person by hand:** add `people/<first-last>.md` with `name` and at least one `evidence` entry pointing to an evidence node.
+- **Experts at scale:** add an indication to [ingest/indications.yml](ingest/indications.yml) and run the ingest scripts (see [ingest/README.md](ingest/README.md)).
+- **Then rebuild the links:**
 
 ```
 pip install -r requirements.txt
-python3 scripts/build_site.py
-open site/index.html
+python3 scripts/build.py
 ```
 
-The build fails on a missing title or type, a bad folder name, or a link to a node that doesn't exist. `site/` is generated and not committed.
+The build fails on broken links, unknown nodes or bad file names. Edit only above the `GENERATED` line in each file. Everything below it is rewritten.
+
+`python3 scripts/build.py --site` also writes `site/index.html`, a visual version of the tree you can open locally. It isn't committed.

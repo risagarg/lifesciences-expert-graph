@@ -1,0 +1,21 @@
+# One entry per indication to pull experts for. `node` must be a tree node ID.
+# Add an indication here, then run the ingest scripts (see ingest/README.md).
+- node: therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis
+  slug: plaque-psoriasis
+  clinicaltrials_condition: plaque psoriasis
+  pubmed_query: '"Psoriasis"[Majr] AND ("2021/01/01"[dp] : "3000"[dp])'
+  specialty: Dermatology          # NPI taxonomy text used to confirm a match
+  partd_generics:                 # matched against Gnrc_Name, case-insensitive prefix
+    - apremilast
+    - deucravacitinib
+    - adalimumab
+    - etanercept
+    - secukinumab
+    - ixekizumab
+    - brodalumab
+    - bimekizumab
+    - ustekinumab
+    - guselkumab
+    - tildrakizumab
+    - risankizumab
+    - certolizumab
