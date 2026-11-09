@@ -1,10 +1,18 @@
 # Sentari Expert Graph
 
-A growing map of healthcare and life sciences expertise: diseases, drugs, organizations, evidence, and the named people who know each area. Everything is plain files you can browse and edit right here on GitHub.
+To view the tree - 
+
+git clone https://github.com/risagarg/sentari-expert-graph.git
+cd sentari-expert-graph
+pip3 install pyyaml
+python3 scripts/build.py --site
+open site/index.html
+
+in terminal
+
+A growing map of healthcare and life sciences expertise: diseases, drugs, organizations, evidence, and people who know each area.
 
 **Start browsing:** [the tree](tree/README.md) · [all experts](EXPERTS.md)
-
-## How it's organized
 
 ```
 tree/                  the taxonomy: one folder or file per node
@@ -24,7 +32,7 @@ Every page ends with a generated section that links to its parent, children, con
 
 ## How someone becomes an expert here
 
-A person is linked to **evidence** (a guideline they wrote, a trial they ran or published, papers, prescribing data). Each piece of evidence says what it **covers** (a disease, a drug, a mechanism). Those links decide which pages a person appears on and how they rank. Nobody is added without a cited source.
+A person is linked to **evidence** (a guideline they wrote, a trial they ran or published, papers, prescribing data). Each piece of evidence says what it **covers** (a disease, a drug, a mechanism). Those links decide which pages a person appears on and how they rank. 
 
 ## Adding to it
 
@@ -38,6 +46,4 @@ pip install -r requirements.txt
 python3 scripts/build.py
 ```
 
-The build fails on broken links, unknown nodes or bad file names. Edit only above the `GENERATED` line in each file. Everything below it is rewritten.
-
-`python3 scripts/build.py --site` also writes `site/index.html`, a visual version of the tree you can open locally. It isn't committed.
+`python3 scripts/build.py --site` also writes `site/index.html`, a visual version of the tree you can open locally.
