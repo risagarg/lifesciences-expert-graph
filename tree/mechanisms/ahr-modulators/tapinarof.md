@@ -10,3 +10,12 @@ links:
 sources:
   - {title: "Drugs.com: new drugs for plaque psoriasis", url: "https://drugs.com/medical-answers/new-drugs-treatment-plaque-psoriasis-3511670"}
 ---
+
+<!-- GENERATED: edit above this line; run python3 scripts/build.py -->
+
+**Path:** [Healthcare & Life Sciences](../../README.md) / [Mechanisms](../README.md) / [AhR modulators](README.md) / Tapinarof
+### Connections
+- indicated for → [Plaque psoriasis](../../therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md)
+- ← markets · [Organon](../../organizations/pharma-biotech/organon.md)
+### Sources
+- [Drugs.com: new drugs for plaque psoriasis](https://drugs.com/medical-answers/new-drugs-treatment-plaque-psoriasis-3511670)
