@@ -13,3 +13,12 @@ sources:
 ### To verify
 - Coverage of physician-administered drugs, which are generally billed under Part B rather than Part D
 - Small-count suppression rules in the CMS methodology
+
+<!-- GENERATED: edit above this line; run python3 scripts/build.py -->
+
+**Path:** [Healthcare & Life Sciences](../README.md) / [Data sources](README.md) / Medicare Part D prescribers
+### Connections
+- identifies → [Community prescribers](../stakeholders/clinicians/community-prescribers.md)
+- identifies → [Clinicians](../stakeholders/clinicians/README.md)
+### Sources
+- [Part D Prescribers by Provider and Drug (data.cms.gov)](https://data.cms.gov/provider-summary-by-type-of-service/medicare-part-d-prescribers/medicare-part-d-prescribers-by-provider-and-drug)

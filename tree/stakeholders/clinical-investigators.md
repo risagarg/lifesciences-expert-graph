@@ -11,3 +11,11 @@ summary: Site investigators and study officials on industry and academic trials.
 
 ### Caution
 Investigators on ongoing trials may hold material nonpublic information. Treat as an exclusion check before outreach.
+
+<!-- GENERATED: edit above this line; run python3 scripts/build.py -->
+
+**Path:** [Healthcare & Life Sciences](../README.md) / [Stakeholders](README.md) / Clinical investigators
+### Connections
+- ← identifies · [ClinicalTrials.gov](../data-sources/clinicaltrials-gov.md)
+- ← identifies · [FDA BMIS](../data-sources/fda-bmis.md)
+- ← overlaps with · [Academic specialists](clinicians/academic-specialists.md)

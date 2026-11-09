@@ -8,3 +8,12 @@ links:
 sources:
   - {title: "FDA BMIS", url: "https://www.fda.gov/Drugs/InformationOnDrugs/ucm135162.htm"}
 ---
+
+<!-- GENERATED: edit above this line; run python3 scripts/build.py -->
+
+**Path:** [Healthcare & Life Sciences](../README.md) / [Data sources](README.md) / FDA BMIS
+### Connections
+- identifies → [Clinical investigators](../stakeholders/clinical-investigators.md)
+- ← publishes · [U.S. Food and Drug Administration (FDA)](../organizations/regulators/fda.md)
+### Sources
+- [FDA BMIS](https://www.fda.gov/Drugs/InformationOnDrugs/ucm135162.htm)
