@@ -9,6 +9,8 @@ evidence:
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
 
 **Path:** [All experts](../EXPERTS.md) / S. Li
+
+**1 source · last seen 2025 · name unconfirmed**
 ### Expertise
 - [Icotrokinra](../tree/mechanisms/il-23-pathway/icotrokinra.md) (1)
 - [Plaque psoriasis](../tree/therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md) (1)

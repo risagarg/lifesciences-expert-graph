@@ -8,6 +8,8 @@ evidence:
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
 
 **Path:** [All experts](../EXPERTS.md) / Elliot B. Tapper
+
+**1 source · last seen 2020**
 ### Expertise
 - [PDE4 inhibitors](../tree/mechanisms/pde4-inhibitors/README.md) (1)
 - [Plaque psoriasis](../tree/therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md) (1)

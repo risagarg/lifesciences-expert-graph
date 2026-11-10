@@ -1,4 +1,4 @@
-<title>Sentari Expertise Tree</title>
+<title>Life Sciences Expert Graph</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
 <style>
@@ -7,7 +7,7 @@
   --bg: #f6f7f9; --panel: #ffffff; --ink: #18202b; --muted: #5b6676; --line: #d5dae2; --soft: #eceff4;
   --accent: #1f5fbf;
   --t-root: #18202b; --t-category: #6b7686; --t-stakeholder: #b45f06; --t-disease: #b4235a;
-  --t-mechanism: #0f7d74; --t-asset: #4c4fc9; --t-data-source: #3f7d20; --t-organization: #8a4fb0; --t-evidence: #9a6b00; --t-person: #c0392b;
+  --t-mechanism: #0f7d74; --t-asset: #4c4fc9; --t-data-source: #3f7d20; --t-organization: #8a4fb0; --t-evidence: #9a6b00; --t-person: #c0392b; --t-expert-group: #c0392b;
   --sans: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
   --mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
 }
@@ -15,12 +15,12 @@
   --bg: #11151b; --panel: #171c24; --ink: #e5e9ef; --muted: #98a2b1; --line: #2c3440; --soft: #1f2630;
   --accent: #78a9f5;
   --t-root: #e5e9ef; --t-category: #9aa4b2; --t-stakeholder: #f0a35a; --t-disease: #f07aa3;
-  --t-mechanism: #4cc4b8; --t-asset: #9b9ef5; --t-data-source: #8ccf6a; --t-organization: #c79ae6; --t-evidence: #e0b44c; --t-person: #f08a7e; color-scheme: dark; } }
+  --t-mechanism: #4cc4b8; --t-asset: #9b9ef5; --t-data-source: #8ccf6a; --t-organization: #c79ae6; --t-evidence: #e0b44c; --t-person: #f08a7e; --t-expert-group: #f08a7e; color-scheme: dark; } }
 :root[data-theme="dark"] {
   --bg: #11151b; --panel: #171c24; --ink: #e5e9ef; --muted: #98a2b1; --line: #2c3440; --soft: #1f2630;
   --accent: #78a9f5;
   --t-root: #e5e9ef; --t-category: #9aa4b2; --t-stakeholder: #f0a35a; --t-disease: #f07aa3;
-  --t-mechanism: #4cc4b8; --t-asset: #9b9ef5; --t-data-source: #8ccf6a; --t-organization: #c79ae6; --t-evidence: #e0b44c; --t-person: #f08a7e; color-scheme: dark; }
+  --t-mechanism: #4cc4b8; --t-asset: #9b9ef5; --t-data-source: #8ccf6a; --t-organization: #c79ae6; --t-evidence: #e0b44c; --t-person: #f08a7e; --t-expert-group: #f08a7e; color-scheme: dark; }
 html, body { height: 100%; }
 body { background: var(--bg); color: var(--ink); font-family: var(--sans); font-size: 14px; }
 .app { height: 100%; display: flex; flex-direction: column; }
@@ -88,7 +88,7 @@ code { font-family: var(--mono); font-size: 12px; background: var(--soft); paddi
 
 <div class="app">
   <header>
-    <h1>Sentari <span>Expertise Tree</span></h1>
+    <h1>Life Sciences <span>Expert Graph</span></h1>
     <div class="search">
       <input id="q" type="search" placeholder="Find a drug, disease, company or expert…" autocomplete="off" aria-label="Find a node">
       <ul class="results" id="results" hidden></ul>
@@ -107,11 +107,11 @@ code { font-family: var(--mono); font-size: 12px; background: var(--soft); paddi
 
 <script>
 const DATA = /*__TREE_DATA__*/null;
-const TYPES = { root: "Root", category: "Category", stakeholder: "Stakeholder", disease: "Disease", mechanism: "Mechanism", asset: "Drug", "data-source": "Data source", organization: "Organization", evidence: "Evidence", person: "Expert" };
+const TYPES = { root: "Root", category: "Category", stakeholder: "Stakeholder", disease: "Disease", mechanism: "Mechanism", asset: "Drug", "data-source": "Data source", organization: "Organization", evidence: "Evidence", person: "Expert", "expert-group": "Experts" };
 const byId = new Map(DATA.nodes.map(n => [n.id, n]));
 const ROW = 30, COL = 215, PAD = 28;
 const depth = id => id ? id.split("/").length : 0;
-let selected = "", expanded = new Set(DATA.nodes.filter(n => n.children.length && n.type !== "person" && depth(n.id) <= 2).map(n => n.id));
+let selected = "", expanded = new Set(DATA.nodes.filter(n => n.children.length && n.type !== "expert-group" && depth(n.id) <= 2).map(n => n.id));
 
 const $ = s => document.querySelector(s);
 const esc = s => String(s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -119,8 +119,9 @@ const color = t => `var(--t-${TYPES[t] ? t : "category"})`;
 const toHash = id => id ? id.replace(/\//g, "--") : "";
 const fromHash = h => h.replace(/^#/, "").replace(/--/g, "/");
 const ancestors = id => { const out = []; let n = byId.get(id); while (n && n.parent !== null) { out.unshift(n.parent); n = byId.get(n.parent); } return out; };
-const countDesc = id => byId.get(id).children.reduce((s, c) => s + 1 + countDesc(c), 0);
-const countPeople = id => byId.get(id).children.reduce((s, c) => s + (byId.get(c).type === "person" ? 1 : countPeople(c)), 0);
+const isPeople = c => ["person", "expert-group"].includes(byId.get(c).type);
+const countDesc = id => byId.get(id).children.filter(c => !isPeople(c)).reduce((s, c) => s + 1 + countDesc(c), 0);
+const countPeople = id => byId.get(id).children.reduce((s, c) => s + (byId.get(c).type === "person" ? 1 : byId.get(c).type === "expert-group" ? 0 : countPeople(c)), 0) + (byId.get(id).children.map(c => byId.get(c)).find(c => c.type === "expert-group")?.children.length || 0);
 
 function linkedIds(id) {
   const n = byId.get(id);
@@ -162,7 +163,7 @@ function renderTree() {
     const cls = ["node", id === selected ? "sel" : "", linked.has(id) ? "linked" : ""].join(" ");
     const c = color(n.type);
     const np = has && !open ? countPeople(id) : 0;
-    const hidden = has && !open ? `<text class="count" x="${p.x + 12 + n.title.length * 7.1}" y="${p.y + 4}">${[countDesc(id) - np ? `+${countDesc(id) - np}` : "", np ? `${np} experts` : ""].filter(Boolean).join(" · ")}</text>` : "";
+    const hidden = has && !open ? `<text class="count" x="${p.x + 12 + n.title.length * 7.1}" y="${p.y + 4}">${n.type === "expert-group" ? "" : [countDesc(id) ? `+${countDesc(id)}` : "", np ? `${np} expert${np === 1 ? "" : "s"}` : ""].filter(Boolean).join(" · ")}</text>` : "";
     nodes += `<g class="${cls}" data-id="${esc(id)}" tabindex="0" role="treeitem" aria-selected="${id === selected}"${has ? ` aria-expanded="${open}"` : ""}>
       <circle class="halo" cx="${p.x}" cy="${p.y}" r="11"/>
       ${n.type === "person" ? `<rect x="${p.x - 4}" y="${p.y - 4}" width="8" height="8" rx="2" fill="${c}"/>` : `<circle cx="${p.x}" cy="${p.y}" r="${has ? 6 : 4.5}" stroke="${c}" fill="${has && !open ? c : "var(--panel)"}"/>`}
@@ -203,10 +204,17 @@ function renderDetail() {
     ${n.summary ? `<p class="summary">${esc(n.summary)}</p>` : ""}
     ${fields ? `<dl>${fields}</dl>` : ""}
     ${n.body ? `<div class="body">${md(n.body)}</div>` : ""}
-    ${n.children.length ? `<h3>Children · ${n.children.length}</h3><ul class="list">${n.children.map(c => nodeButton(c)).join("")}</ul>` : ""}
+    ${(() => {
+      const kids = n.children.filter(c => byId.get(c).type !== "expert-group");
+      const grp = n.children.map(c => byId.get(c)).find(c => c.type === "expert-group");
+      const experts = n.type === "expert-group" ? n.children : grp ? grp.children : [];
+      const label = n.type === "evidence" ? "Named in this source" : "Experts";
+      return (kids.length && n.type !== "expert-group" ? `<h3>Contents · ${kids.length}</h3><ul class="list">${kids.map(c => nodeButton(c)).join("")}</ul>` : "")
+        + (experts.length ? `<h3>${label} · ${experts.length}</h3><ul class="list">${experts.map(c => nodeButton(c, byId.get(c).summary)).join("")}</ul>` : "");
+    })()}
     ${conns ? `<h3>Connections</h3><ul class="list">${conns}</ul>` : ""}
     ${srcs ? `<h3>Sources</h3><ul class="list body">${srcs}</ul>` : ""}
-    <div class="path">${esc(n.path)}</div>`;
+    ${n.path ? `<div class="path">${esc(n.path)}</div>` : ""}`;
 }
 
 function select(id, { toggle = false, scroll = true } = {}) {
@@ -241,12 +249,12 @@ $("#collapse").onclick = () => { expanded = new Set([""]); select(""); };
 $("#q").addEventListener("input", e => {
   const q = e.target.value.trim().toLowerCase(), r = $("#results");
   if (!q) { r.hidden = true; return; }
-  const hits = DATA.nodes.filter(n => [n.title, n.summary, ...Object.values(n.fields)].join(" ").toLowerCase().includes(q)).slice(0, 12);
-  r.innerHTML = hits.length ? hits.map(n => nodeButton(n.id, n.type === "person" ? "in " + byId.get(n.parent).title : TYPES[n.type])).join("") : `<li style="padding:6px 8px;color:var(--muted)">No matches</li>`;
+  const hits = DATA.nodes.filter(n => n.type !== "expert-group" && [n.title, n.summary, ...Object.values(n.fields)].join(" ").toLowerCase().includes(q)).slice(0, 12);
+  r.innerHTML = hits.length ? hits.map(n => nodeButton(n.id, n.type === "person" ? "in " + byId.get(byId.get(n.parent).parent).title : TYPES[n.type])).join("") : `<li style="padding:6px 8px;color:var(--muted)">No matches</li>`;
   r.hidden = false;
 });
 $("#q").addEventListener("keydown", e => { if (e.key === "Enter") { const b = $("#results [data-go]"); if (b) { select(b.dataset.go); $("#results").hidden = true; } } if (e.key === "Escape") $("#results").hidden = true; });
-$("#legend").innerHTML = Object.entries(TYPES).filter(([t]) => t !== "root").map(([t, l]) => `<span><span class="dot" style="background:${color(t)}"></span>${l}</span>`).join("");
+$("#legend").innerHTML = Object.entries(TYPES).filter(([t]) => t !== "root" && t !== "expert-group").map(([t, l]) => `<span><span class="dot" style="background:${color(t)}"></span>${l}</span>`).join("");
 window.addEventListener("hashchange", () => select(fromHash(location.hash)));
 select(fromHash(location.hash) || "therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis");
 </script>

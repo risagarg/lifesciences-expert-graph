@@ -18,6 +18,8 @@ The same surname and first initial appear across these sources, so they are merg
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
 
 **Path:** [All experts](../EXPERTS.md) / Amy S. Paller
+
+**3 sources · last seen 2026**
 ### Expertise
 - [Plaque psoriasis](../tree/therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md) (2)
 - [TNF inhibitors](../tree/mechanisms/tnf-inhibitors/README.md) (2)

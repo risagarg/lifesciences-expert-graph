@@ -13,6 +13,8 @@ evidence:
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
 
 **Path:** [All experts](../EXPERTS.md) / Jacek C. Szepietowski
+
+**1 source · last seen 2023**
 ### Expertise
 - [Apremilast](../tree/mechanisms/pde4-inhibitors/apremilast.md) (1)
 - [Deucravacitinib](../tree/mechanisms/tyk2-inhibitors/deucravacitinib.md) (1)

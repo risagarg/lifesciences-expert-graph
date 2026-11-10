@@ -21,9 +21,10 @@ Not yet approved. Practical Dermatology reports both ONWARD studies met all prim
 ### Connections
 - indicated for → [Plaque psoriasis](../../therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md)
 ### Experts on Envudeucitinib (1)
-Why each person is listed:
+Ranked by number of independent sources. Under each name is why they are listed here.
 
-- **[Andrew Blauvelt](../../../people/andrew-blauvelt.md)** — presenter, late-breaking research: ONWARD 1 and 2 (envudeucitinib) · AAD Annual Meeting 2026
+- **[Andrew Blauvelt](../../../people/andrew-blauvelt.md)** (2 sources · last seen 2026)
+  - presenter, late-breaking research: ONWARD 1 and 2 (envudeucitinib) · AAD Annual Meeting 2026
 ### Sources
 - [Practical Dermatology: next-generation TYK2 inhibitors](https://practicaldermatology.com/topics/psoriasis/next-generation-tyk2-inhibitors-in-psoriasis/60985/)
 - [Blauvelt, ONWARD oral presentation, AAD 2026](https://www.alumis.com/file.cfm/613/docs/blauvelt_aad 2026_onward_oral_presentation.pdf)

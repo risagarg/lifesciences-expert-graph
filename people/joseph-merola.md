@@ -13,6 +13,8 @@ evidence:
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
 
 **Path:** [All experts](../EXPERTS.md) / Joseph Merola
+
+**1 source · last seen 2026**
 ### Expertise
 - [Icotrokinra](../tree/mechanisms/il-23-pathway/icotrokinra.md) (1)
 - [Ixekizumab](../tree/mechanisms/il-17-pathway/ixekizumab.md) (1)

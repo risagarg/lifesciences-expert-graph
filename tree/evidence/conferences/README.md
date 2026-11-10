@@ -8,10 +8,14 @@ summary: Meetings where experts present. Each conference lists who presented and
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
 
 **Path:** [Healthcare & Life Sciences](../../README.md) / [Evidence](../README.md) / Conferences
-### Contents (2)
+### Contents (6)
 - [AAD Annual Meeting 2025](aad-annual-meeting-2025.md) · 1 experts
 - [AAD Annual Meeting 2026](aad-annual-meeting-2026.md) · 19 experts
-### Experts in sub-branches (20)
-[Bruce E. Strober](../../../people/bruce-e-strober.md) (2), [Jennifer Soung](../../../people/j-soung.md) (2), [Kenneth B. Gordon](../../../people/kenneth-b-gordon.md) (2), [Amy S. Paller](../../../people/amy-s-paller.md) (1), [Andrew Blauvelt](../../../people/andrew-blauvelt.md) (1), [Andrew Pink](../../../people/andrew-pink.md) (1), [Gowri Kabbur](../../../people/gowri-kabbur.md) (1), [Jason Hawkes](../../../people/jason-hawkes.md) (1), [Jeffrey Cohen](../../../people/jeffrey-cohen.md) (1), [Joel M. Gelfand](../../../people/joel-m-gelfand.md) (1), [Johann Gudjonsson](../../../people/johann-gudjonsson.md) (1), [Joseph Merola](../../../people/joseph-merola.md) (1), [Kilian Eyerich](../../../people/kilian-eyerich.md) (1), [Lev Pavlovsky](../../../people/lev-pavlovsky.md) (1), [Melinda Gooderham](../../../people/melinda-gooderham.md) (1)
+- [ACR Convergence 2025](acr-convergence-2025.md) · 4 experts
+- [Digestive Disease Week (DDW) 2025](ddw-2025.md) · 11 experts
+- [EADV Congress 2025](eadv-congress-2025.md) · 2 experts
+- [Fall Clinical Dermatology Conference 2025](fall-clinical-dermatology-2025.md) · 6 experts
+### Experts in sub-branches (41)
+[Jennifer Soung](../../../people/j-soung.md) (3), [Ailsa Hart](../../../people/ailsa-hart.md) (2), [Anita Afzali](../../../people/anita-afzali.md) (2), [Bruce E. Strober](../../../people/bruce-e-strober.md) (2), [Kenneth B. Gordon](../../../people/kenneth-b-gordon.md) (2), [Linda Stein Gold](../../../people/l-gold.md) (2), [Amy S. Paller](../../../people/amy-s-paller.md) (1), [Andrew Blauvelt](../../../people/andrew-blauvelt.md) (1), [Andrew Pink](../../../people/andrew-pink.md) (1), [April W. Armstrong](../../../people/april-w-armstrong.md) (1), [Bruce E. Sands](../../../people/bruce-e-sands.md) (1), [Christopher Ma](../../../people/christopher-ma.md) (1), [Claire Daien](../../../people/claire-daien.md) (1), [Dan Turner](../../../people/dan-turner.md) (1), [Darrell Rigel](../../../people/darrell-rigel.md) (1)
 
-Numbers are evidence items in this branch. …and 5 more. Open a sub-branch to see why each person is listed, or see [all experts](../../../EXPERTS.md).
+Numbers are evidence items in this branch. …and 26 more. Open a sub-branch to see why each person is listed, or see [all experts](../../../EXPERTS.md).

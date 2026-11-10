@@ -22,9 +22,10 @@ Not yet approved. Practical Dermatology describes it as under regulatory review 
 - indicated for → [Plaque psoriasis](../../therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md)
 - ← develops · [Takeda](../../organizations/pharma-biotech/takeda.md)
 ### Experts on Zasocitinib (1)
-Why each person is listed:
+Ranked by number of independent sources. Under each name is why they are listed here.
 
-- **[Melinda Gooderham](../../../people/melinda-gooderham.md)** — presenter, late-breaking research: LATITUDE PsO 3001 and 3002 (zasocitinib) · AAD Annual Meeting 2026
+- **[Melinda Gooderham](../../../people/melinda-gooderham.md)** (3 sources · last seen 2026)
+  - presenter, late-breaking research: LATITUDE PsO 3001 and 3002 (zasocitinib) · AAD Annual Meeting 2026
 ### Sources
 - [Practical Dermatology: next-generation TYK2 inhibitors](https://practicaldermatology.com/topics/psoriasis/next-generation-tyk2-inhibitors-in-psoriasis/60985/)
 - [Fierce Biotech: Takeda phase 3 data](https://www.fiercebiotech.com/biotech/takeda-clears-path-fda-phase-3-data-4b-psoriasis-bet)

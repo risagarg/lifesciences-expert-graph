@@ -1,6 +1,7 @@
 ---
 title: ICONIC-ADVANCE (icotrokinra, phase 3)
 type: evidence
+year: 2025
 kind: trial-publication
 citation: "Gold L, Armstrong A, Bissonnette R, et al. Lancet 2025."
 links:
@@ -21,10 +22,13 @@ Only the first three authors are listed in the source, so only they are linked h
 - covers → [Plaque psoriasis](../../therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md)
 - sponsored by → [Johnson & Johnson](../../organizations/pharma-biotech/johnson-johnson.md)
 ### Experts on ICONIC-ADVANCE (icotrokinra, phase 3) (3)
-Why each person is listed:
+Ranked by number of independent sources. Under each name is why they are listed here.
 
-- **[April W. Armstrong](../../../people/april-w-armstrong.md)** — trial publication author, author 2 · ICONIC-ADVANCE (icotrokinra, phase 3)
-- **[L. Gold](../../../people/l-gold.md)** — trial publication author, author 1 · ICONIC-ADVANCE (icotrokinra, phase 3)
-- **[Robert Bissonnette](../../../people/r-bissonnette.md)** — trial publication author, author 3 · ICONIC-ADVANCE (icotrokinra, phase 3)
+- **[April W. Armstrong](../../../people/april-w-armstrong.md)** (5 sources · last seen 2025)
+  - trial publication author, author 2 · ICONIC-ADVANCE (icotrokinra, phase 3)
+- **[Robert Bissonnette](../../../people/r-bissonnette.md)** (4 sources · last seen 2025)
+  - trial publication author, author 3 · ICONIC-ADVANCE (icotrokinra, phase 3)
+- **[Linda Stein Gold](../../../people/l-gold.md)** (3 sources · last seen 2025)
+  - trial publication author, author 1 · ICONIC-ADVANCE (icotrokinra, phase 3)
 ### Sources
 - [J&J Medical Connect: pivotal trial publications](https://www.jnjmedicalconnect.com/products/icotyde/pivotal-clinical-trial-publications)

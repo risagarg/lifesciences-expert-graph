@@ -1,6 +1,7 @@
 ---
 title: AAD Annual Meeting 2025
 type: evidence
+year: 2025
 kind: conference
 dates: "2025-03-07 to 2025-03-11"
 location: Orlando, Florida
@@ -20,8 +21,9 @@ Late-breaking research: Robert Bissonnette presented ICONIC-LEAD (icotrokinra).
 - issued by → [American Academy of Dermatology (AAD)](../../organizations/professional-societies/american-academy-of-dermatology.md)
 - covers → [Plaque psoriasis](../../therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md)
 ### Experts on AAD Annual Meeting 2025 (1)
-Why each person is listed:
+Ranked by number of independent sources. Under each name is why they are listed here.
 
-- **[Robert Bissonnette](../../../people/r-bissonnette.md)** — presenter, late-breaking research: ICONIC-LEAD · AAD Annual Meeting 2025
+- **[Robert Bissonnette](../../../people/r-bissonnette.md)** (4 sources · last seen 2025)
+  - presenter, late-breaking research: ICONIC-LEAD · AAD Annual Meeting 2025
 ### Sources
 - [Dermatology Times: Bissonnette on late-breaking icotrokinra data](https://www.dermatologytimes.com/view/robert-bissonnette-late-breaking-data-on-icotrokinra-shows-promising-efficacy-and-safety-in-psoriasis)

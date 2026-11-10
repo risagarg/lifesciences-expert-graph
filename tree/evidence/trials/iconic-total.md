@@ -1,6 +1,7 @@
 ---
 title: ICONIC-TOTAL (icotrokinra, phase 3)
 type: evidence
+year: 2025
 kind: trial-publication
 citation: "Gooderham M, Lain E, Bissonnette R, et al. NEJM Evid 2025."
 links:
@@ -21,10 +22,13 @@ Only the first three authors are listed in the source, so only they are linked h
 - covers → [Plaque psoriasis](../../therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md)
 - sponsored by → [Johnson & Johnson](../../organizations/pharma-biotech/johnson-johnson.md)
 ### Experts on ICONIC-TOTAL (icotrokinra, phase 3) (3)
-Why each person is listed:
+Ranked by number of independent sources. Under each name is why they are listed here.
 
-- **[E. Lain](../../../people/e-lain.md)** — trial publication author, author 2 · ICONIC-TOTAL (icotrokinra, phase 3)
-- **[Melinda Gooderham](../../../people/melinda-gooderham.md)** — trial publication author, author 1 · ICONIC-TOTAL (icotrokinra, phase 3)
-- **[Robert Bissonnette](../../../people/r-bissonnette.md)** — trial publication author, author 3 · ICONIC-TOTAL (icotrokinra, phase 3)
+- **[Robert Bissonnette](../../../people/r-bissonnette.md)** (4 sources · last seen 2025)
+  - trial publication author, author 3 · ICONIC-TOTAL (icotrokinra, phase 3)
+- **[Melinda Gooderham](../../../people/melinda-gooderham.md)** (3 sources · last seen 2026)
+  - trial publication author, author 1 · ICONIC-TOTAL (icotrokinra, phase 3)
+- **[E. Lain](../../../people/e-lain.md)** (1 source · last seen 2025 · name unconfirmed)
+  - trial publication author, author 2 · ICONIC-TOTAL (icotrokinra, phase 3)
 ### Sources
 - [J&J Medical Connect: pivotal trial publications](https://www.jnjmedicalconnect.com/products/icotyde/pivotal-clinical-trial-publications)

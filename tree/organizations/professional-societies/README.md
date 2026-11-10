@@ -8,8 +8,10 @@ summary: Societies and patient organizations that issue guidelines or convene ex
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
 
 **Path:** [Healthcare & Life Sciences](../../README.md) / [Organizations](../README.md) / Professional societies & patient groups
-### Contents (3)
+### Contents (5)
 - [American Academy of Dermatology (AAD)](american-academy-of-dermatology.md) — Co-issuer of the joint AAD-NPF psoriasis guidelines.
+- [American College of Rheumatology (ACR)](american-college-of-rheumatology.md) — Runs ACR Convergence, the main US rheumatology meeting.
+- [European Academy of Dermatology and Venereology (EADV)](eadv.md) — Runs the EADV Congress, the largest European dermatology meeting.
 - [International Psoriasis Council (IPC)](international-psoriasis-council.md) · 14 experts — Psoriasis expert council. Its AAD 2026 report lists members' roles (board member, councilor, president), a strong expertise signal.
 - [National Psoriasis Foundation (NPF)](national-psoriasis-foundation.md) — Co-issuer of the joint AAD-NPF psoriasis guidelines.
 ### Experts in sub-branches (14)

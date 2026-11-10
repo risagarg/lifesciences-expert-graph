@@ -13,7 +13,7 @@ import yaml
 
 ROOT = pathlib.Path(__file__).resolve().parents[2]
 DATA = ROOT / "data"
-UA = "sentari-expert-graph/0.1 (research; contact via repo owner)"
+UA = "lifesciences-expert-graph/0.1 (research; contact via repo owner)"
 
 
 def indications(only=None):

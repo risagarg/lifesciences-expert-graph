@@ -21,6 +21,8 @@ The same surname and first initial appear across these sources, so they are merg
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
 
 **Path:** [All experts](../EXPERTS.md) / Melinda Gooderham
+
+**3 sources · last seen 2026**
 ### Expertise
 - [Plaque psoriasis](../tree/therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md) (3)
 - [Apremilast](../tree/mechanisms/pde4-inhibitors/apremilast.md) (1)

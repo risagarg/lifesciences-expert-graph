@@ -13,6 +13,8 @@ evidence:
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
 
 **Path:** [All experts](../EXPERTS.md) / Richard Langley
+
+**1 source · last seen 2026**
 ### Expertise
 - [Plaque psoriasis](../tree/therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md) (1)
 ### Evidence

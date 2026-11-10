@@ -18,6 +18,8 @@ The same surname and first initial appear across these sources, so they are merg
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
 
 **Path:** [All experts](../EXPERTS.md) / Joel M. Gelfand
+
+**3 sources · last seen 2026**
 ### Expertise
 - [Plaque psoriasis](../tree/therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md) (3)
 - [IL-17 pathway](../tree/mechanisms/il-17-pathway/README.md) (1)

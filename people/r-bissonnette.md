@@ -20,6 +20,8 @@ Full name from the AAD 2025 report, where Robert Bissonnette presented ICONIC-LE
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
 
 **Path:** [All experts](../EXPERTS.md) / Robert Bissonnette
+
+**4 sources · last seen 2025**
 ### Expertise
 - [Icotrokinra](../tree/mechanisms/il-23-pathway/icotrokinra.md) (4)
 - [Plaque psoriasis](../tree/therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md) (4)

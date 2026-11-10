@@ -20,6 +20,8 @@ evidence:
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
 
 **Path:** [All experts](../EXPERTS.md) / Andrew Blauvelt
+
+**2 sources · last seen 2026**
 ### Expertise
 - [Plaque psoriasis](../tree/therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md) (2)
 - [Apremilast](../tree/mechanisms/pde4-inhibitors/apremilast.md) (1)

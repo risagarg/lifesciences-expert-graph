@@ -13,6 +13,8 @@ evidence:
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
 
 **Path:** [All experts](../EXPERTS.md) / Johann Gudjonsson
+
+**1 source · last seen 2026**
 ### Expertise
 - [Atopic dermatitis](../tree/therapeutic-areas/immunology/dermatology/atopic-dermatitis.md) (1)
 - [Psoriasis](../tree/therapeutic-areas/immunology/dermatology/psoriasis/README.md) (1)

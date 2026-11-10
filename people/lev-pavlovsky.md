@@ -13,6 +13,8 @@ evidence:
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
 
 **Path:** [All experts](../EXPERTS.md) / Lev Pavlovsky
+
+**1 source · last seen 2026**
 ### Expertise
 - [Gastroenterology](../tree/therapeutic-areas/immunology/gastroenterology/README.md) (1)
 - [TNF inhibitors](../tree/mechanisms/tnf-inhibitors/README.md) (1)
