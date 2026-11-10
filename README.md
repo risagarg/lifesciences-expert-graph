@@ -4,8 +4,6 @@ The Diseases, drugs, companies and conferences are arranged as a tree. Every bra
 
 As of right now, the area the most built out is **inflammation and immunology**: psoriasis, atopic dermatitis, hidradenitis suppurativa, psoriatic arthritis, rheumatoid arthritis, Crohn's disease and ulcerative colitis.
 
----
-## Repo Instructions
 
 - **[The tree](tree/README.md)**: start here and click down, like folders.
 - **[All experts](EXPERTS.md)**: all experts, ranked by how many sources back them.
@@ -57,11 +55,6 @@ Immunology → Dermatology → Psoriasis → Plaque psoriasis.
 | issued by / sponsored by | who ran the guideline, trial or conference | ACR Convergence 2025 → American College of Rheumatology |
 | also expert in | the same person appears in other branches | |
 
-**One person can show up in many places.** If someone has evidence in psoriasis and psoriatic arthritis, they appear under both.
-
----
-
-## 4. Why someone is listed
 
 Each person is listed because a source names them as one of these:
 
@@ -76,10 +69,6 @@ Each expert shows:
 
 - **Sources**: how many independent sources name them
 - **Last seen**: the most recent year a source names them. This suggests they're active.
-  
----
-
-## 5. Add to it
 
 
 1. **Add or edit a file.**
