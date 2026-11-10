@@ -1,4 +1,4 @@
-# Sentari Expert Graph
+# Lifesciences Expert Graph
 
 A growing map of healthcare and life sciences expertise: diseases, drugs, organizations, evidence, and the named people who know each area. Everything is plain files you can browse and edit right here on GitHub.
 
