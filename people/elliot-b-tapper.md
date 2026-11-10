@@ -11,7 +11,7 @@ evidence:
 
 **1 source · last seen 2020**
 ### Expertise
-- [PDE4 inhibitors](../tree/mechanisms/pde4-inhibitors/README.md) (1)
+- [PDE4 inhibitors](../tree/therapeutic-areas/immunology/mechanisms/pde4-inhibitors/README.md) (1)
 - [Plaque psoriasis](../tree/therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md) (1)
 ### Evidence
 - [AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)](../tree/evidence/guidelines/aad-npf-systemic-nonbiologic-2020.md) — guideline co-author, author 30

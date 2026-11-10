@@ -16,8 +16,8 @@ evidence:
 
 **1 source · last seen 2023 · industry**
 ### Expertise
-- [Apremilast](../tree/mechanisms/pde4-inhibitors/apremilast.md) (1)
-- [Deucravacitinib](../tree/mechanisms/tyk2-inhibitors/deucravacitinib.md) (1)
+- [Apremilast](../tree/therapeutic-areas/immunology/mechanisms/pde4-inhibitors/apremilast.md) (1)
+- [Deucravacitinib](../tree/therapeutic-areas/immunology/mechanisms/tyk2-inhibitors/deucravacitinib.md) (1)
 - [Plaque psoriasis](../tree/therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md) (1)
 ### Evidence
 - [POETYK PSO-1 (deucravacitinib, phase 3)](../tree/evidence/trials/poetyk-pso-1.md) — trial publication author, author 10

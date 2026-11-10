@@ -27,13 +27,13 @@ The same surname and first initial appear across these sources, so they are merg
 **4 sources · last seen 2026**
 ### Expertise
 - [Plaque psoriasis](../tree/therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md) (4)
-- [Apremilast](../tree/mechanisms/pde4-inhibitors/apremilast.md) (1)
-- [Deucravacitinib](../tree/mechanisms/tyk2-inhibitors/deucravacitinib.md) (1)
-- [IL-17 pathway](../tree/mechanisms/il-17-pathway/README.md) (1)
-- [IL-23 pathway](../tree/mechanisms/il-23-pathway/README.md) (1)
-- [PDE4 inhibitors](../tree/mechanisms/pde4-inhibitors/README.md) (1)
+- [Apremilast](../tree/therapeutic-areas/immunology/mechanisms/pde4-inhibitors/apremilast.md) (1)
+- [Deucravacitinib](../tree/therapeutic-areas/immunology/mechanisms/tyk2-inhibitors/deucravacitinib.md) (1)
+- [IL-17 pathway](../tree/therapeutic-areas/immunology/mechanisms/il-17-pathway/README.md) (1)
+- [IL-23 pathway](../tree/therapeutic-areas/immunology/mechanisms/il-23-pathway/README.md) (1)
+- [PDE4 inhibitors](../tree/therapeutic-areas/immunology/mechanisms/pde4-inhibitors/README.md) (1)
 - [Psoriasis](../tree/therapeutic-areas/immunology/dermatology/psoriasis/README.md) (1)
-- [TNF inhibitors](../tree/mechanisms/tnf-inhibitors/README.md) (1)
+- [TNF inhibitors](../tree/therapeutic-areas/immunology/mechanisms/tnf-inhibitors/README.md) (1)
 ### Evidence
 - [AAD-NPF psoriasis guidelines - biologics (2019)](../tree/evidence/guidelines/aad-npf-biologics-2019.md) — guideline co-author, author 2
 - [AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)](../tree/evidence/guidelines/aad-npf-systemic-nonbiologic-2020.md) — guideline co-author, author 29

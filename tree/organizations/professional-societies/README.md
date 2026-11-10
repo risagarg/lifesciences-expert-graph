@@ -8,10 +8,12 @@ summary: Societies and patient organizations that issue guidelines or convene ex
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
 
 **Path:** [Healthcare & Life Sciences](../../README.md) / [Organizations](../README.md) / Professional societies & patient groups
-### Contents (5)
+### Contents (7)
 - [American Academy of Dermatology (AAD)](american-academy-of-dermatology.md) — Co-issuer of the joint AAD-NPF psoriasis guidelines.
 - [American College of Rheumatology (ACR)](american-college-of-rheumatology.md) — Runs ACR Convergence, the main US rheumatology meeting.
+- [EULAR (European Alliance of Associations for Rheumatology)](eular.md) — Runs the EULAR Congress, the main European rheumatology meeting.
 - [European Academy of Dermatology and Venereology (EADV)](eadv.md) — Runs the EADV Congress, the largest European dermatology meeting.
+- [European Crohn's and Colitis Organisation (ECCO)](ecco.md) — Runs the ECCO Congress, the main European meeting for Crohn's disease and ulcerative colitis.
 - [International Psoriasis Council (IPC)](international-psoriasis-council.md) · 14 experts — Psoriasis expert council. Its AAD 2026 report lists members' roles (board member, councilor, president), a strong expertise signal.
 - [National Psoriasis Foundation (NPF)](national-psoriasis-foundation.md) — Co-issuer of the joint AAD-NPF psoriasis guidelines.
 ### Experts in sub-branches (14)

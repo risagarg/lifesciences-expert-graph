@@ -6,8 +6,8 @@ kind: trial-publication
 citation: "Armstrong AW, Gooderham M, Warren RB, et al. J Am Acad Dermatol. 2023;88(1):29-39."
 doi: 10.1016/j.jaad.2022.07.002
 links:
-  - {rel: covers, to: mechanisms/tyk2-inhibitors/deucravacitinib}
-  - {rel: covers, to: mechanisms/pde4-inhibitors/apremilast}
+  - {rel: covers, to: therapeutic-areas/immunology/mechanisms/tyk2-inhibitors/deucravacitinib}
+  - {rel: covers, to: therapeutic-areas/immunology/mechanisms/pde4-inhibitors/apremilast}
   - {rel: covers, to: therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis}
   - {rel: sponsored_by, to: organizations/pharma-biotech/bristol-myers-squibb}
 sources:
@@ -20,14 +20,14 @@ Compared deucravacitinib with placebo and apremilast over 52 weeks. The sponsor 
 
 **Path:** [Healthcare & Life Sciences](../../README.md) / [Evidence](../README.md) / [Trials](README.md) / POETYK PSO-1 (deucravacitinib, phase 3)
 ### Connections
-- covers → [Deucravacitinib](../../mechanisms/tyk2-inhibitors/deucravacitinib.md)
-- covers → [Apremilast](../../mechanisms/pde4-inhibitors/apremilast.md)
+- covers → [Deucravacitinib](../../therapeutic-areas/immunology/mechanisms/tyk2-inhibitors/deucravacitinib.md)
+- covers → [Apremilast](../../therapeutic-areas/immunology/mechanisms/pde4-inhibitors/apremilast.md)
 - covers → [Plaque psoriasis](../../therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md)
 - sponsored by → [Bristol Myers Squibb](../../organizations/pharma-biotech/bristol-myers-squibb.md)
 ### Experts on POETYK PSO-1 (deucravacitinib, phase 3) (16)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
-- **[April W. Armstrong](../../../people/april-w-armstrong.md)** (5 sources · last seen 2025)
+- **[April W. Armstrong](../../../people/april-w-armstrong.md)** (6 sources · last seen 2026)
   - trial publication author, author 1 · POETYK PSO-1 (deucravacitinib, phase 3)
 - **[Bruce E. Strober](../../../people/bruce-e-strober.md)** (4 sources · last seen 2026)
   - trial publication author, author 5 · POETYK PSO-1 (deucravacitinib, phase 3)

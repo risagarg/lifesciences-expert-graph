@@ -5,7 +5,7 @@ year: 2025
 kind: trial-publication
 citation: "Gooderham M, Lain E, Bissonnette R, et al. NEJM Evid 2025."
 links:
-  - {rel: covers, to: mechanisms/il-23-pathway/icotrokinra}
+  - {rel: covers, to: therapeutic-areas/immunology/mechanisms/il-23-pathway/icotrokinra}
   - {rel: covers, to: therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis}
   - {rel: sponsored_by, to: organizations/pharma-biotech/johnson-johnson}
 sources:
@@ -18,7 +18,7 @@ Only the first three authors are listed in the source, so only they are linked h
 
 **Path:** [Healthcare & Life Sciences](../../README.md) / [Evidence](../README.md) / [Trials](README.md) / ICONIC-TOTAL (icotrokinra, phase 3)
 ### Connections
-- covers → [Icotrokinra](../../mechanisms/il-23-pathway/icotrokinra.md)
+- covers → [Icotrokinra](../../therapeutic-areas/immunology/mechanisms/il-23-pathway/icotrokinra.md)
 - covers → [Plaque psoriasis](../../therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md)
 - sponsored by → [Johnson & Johnson](../../organizations/pharma-biotech/johnson-johnson.md)
 ### Experts on ICONIC-TOTAL (icotrokinra, phase 3) (3)

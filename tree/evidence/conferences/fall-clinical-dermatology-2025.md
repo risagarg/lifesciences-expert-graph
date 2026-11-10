@@ -25,17 +25,17 @@ A major US meeting for practicing dermatologists. Listed here: the opening panel
 ### Experts on Fall Clinical Dermatology Conference 2025 (6)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
-- **[April W. Armstrong](../../../people/april-w-armstrong.md)** (5 sources · last seen 2025)
+- **[April W. Armstrong](../../../people/april-w-armstrong.md)** (6 sources · last seen 2026)
   - panelist, top advances of 2025: AD, HS, psoriasis, CSU · Fall Clinical Dermatology Conference 2025
-- **[Mark Lebwohl](../../../people/mark-lebwohl.md)** (4 sources · last seen 2025)
+- **[Linda Stein Gold](../../../people/l-gold.md)** (5 sources · last seen 2026)
   - panelist, top advances of 2025: AD, HS, psoriasis, CSU · Fall Clinical Dermatology Conference 2025
-- **[Linda Stein Gold](../../../people/l-gold.md)** (3 sources · last seen 2025)
+- **[Mark Lebwohl](../../../people/mark-lebwohl.md)** (5 sources · last seen 2026)
   - panelist, top advances of 2025: AD, HS, psoriasis, CSU · Fall Clinical Dermatology Conference 2025
-- **[Darrell Rigel](../../../people/darrell-rigel.md)** (1 source · last seen 2025)
+- **[Darrell Rigel](../../../people/darrell-rigel.md)** (2 sources · last seen 2026)
   - panelist, top advances of 2025: AD, HS, psoriasis, CSU · Fall Clinical Dermatology Conference 2025
-- **[James Del Rosso](../../../people/james-del-rosso.md)** (1 source · last seen 2025)
+- **[James Del Rosso](../../../people/james-del-rosso.md)** (2 sources · last seen 2026)
   - panelist, top advances of 2025: AD, HS, psoriasis, CSU · Fall Clinical Dermatology Conference 2025
-- **[Mark Nestor](../../../people/mark-nestor.md)** (1 source · last seen 2025)
+- **[Mark Nestor](../../../people/mark-nestor.md)** (2 sources · last seen 2026)
   - panelist, top advances of 2025: AD, HS, psoriasis, CSU · Fall Clinical Dermatology Conference 2025
 ### Sources
 - [Dermatology Times: Day 1 of Fall Clinical 2025](https://www.dermatologytimes.com/view/day-1-fall-clinical-2025)

@@ -7,9 +7,9 @@ citation: "Menter A, Strober BE, Kaplan DH, et al. J Am Acad Dermatol. 2019;80(4
 doi: 10.1016/j.jaad.2018.11.057
 links:
   - {rel: covers, to: therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis}
-  - {rel: covers, to: mechanisms/tnf-inhibitors}
-  - {rel: covers, to: mechanisms/il-17-pathway}
-  - {rel: covers, to: mechanisms/il-23-pathway}
+  - {rel: covers, to: therapeutic-areas/immunology/mechanisms/tnf-inhibitors}
+  - {rel: covers, to: therapeutic-areas/immunology/mechanisms/il-17-pathway}
+  - {rel: covers, to: therapeutic-areas/immunology/mechanisms/il-23-pathway}
   - {rel: issued_by, to: organizations/professional-societies/american-academy-of-dermatology}
   - {rel: issued_by, to: organizations/professional-societies/national-psoriasis-foundation}
 sources:
@@ -22,26 +22,26 @@ sources:
 **Path:** [Healthcare & Life Sciences](../../README.md) / [Evidence](../README.md) / [Guidelines](README.md) / AAD-NPF psoriasis guidelines - biologics (2019)
 ### Connections
 - covers → [Plaque psoriasis](../../therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md)
-- covers → [TNF inhibitors](../../mechanisms/tnf-inhibitors/README.md)
-- covers → [IL-17 pathway](../../mechanisms/il-17-pathway/README.md)
-- covers → [IL-23 pathway](../../mechanisms/il-23-pathway/README.md)
+- covers → [TNF inhibitors](../../therapeutic-areas/immunology/mechanisms/tnf-inhibitors/README.md)
+- covers → [IL-17 pathway](../../therapeutic-areas/immunology/mechanisms/il-17-pathway/README.md)
+- covers → [IL-23 pathway](../../therapeutic-areas/immunology/mechanisms/il-23-pathway/README.md)
 - issued by → [American Academy of Dermatology (AAD)](../../organizations/professional-societies/american-academy-of-dermatology.md)
 - issued by → [National Psoriasis Foundation (NPF)](../../organizations/professional-societies/national-psoriasis-foundation.md)
 ### Experts on AAD-NPF psoriasis guidelines - biologics (2019) (32)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
-- **[April W. Armstrong](../../../people/april-w-armstrong.md)** (5 sources · last seen 2025)
+- **[April W. Armstrong](../../../people/april-w-armstrong.md)** (6 sources · last seen 2026)
   - guideline co-author, author 7 · AAD-NPF psoriasis guidelines - biologics (2019)
+- **[Mark Lebwohl](../../../people/mark-lebwohl.md)** (5 sources · last seen 2026)
+  - guideline co-author, author 19 · AAD-NPF psoriasis guidelines - biologics (2019)
 - **[Bruce E. Strober](../../../people/bruce-e-strober.md)** (4 sources · last seen 2026)
   - guideline co-author, author 2 · AAD-NPF psoriasis guidelines - biologics (2019)
-- **[Mark Lebwohl](../../../people/mark-lebwohl.md)** (4 sources · last seen 2025)
-  - guideline co-author, author 19 · AAD-NPF psoriasis guidelines - biologics (2019)
+- **[Kenneth B. Gordon](../../../people/kenneth-b-gordon.md)** (4 sources · last seen 2026)
+  - guideline co-author, author 13 · AAD-NPF psoriasis guidelines - biologics (2019)
 - **[Amy S. Paller](../../../people/amy-s-paller.md)** (3 sources · last seen 2026)
   - guideline co-author, author 24 · AAD-NPF psoriasis guidelines - biologics (2019)
 - **[Joel M. Gelfand](../../../people/joel-m-gelfand.md)** (3 sources · last seen 2026)
   - guideline co-author, author 12 · AAD-NPF psoriasis guidelines - biologics (2019)
-- **[Kenneth B. Gordon](../../../people/kenneth-b-gordon.md)** (3 sources · last seen 2026)
-  - guideline co-author, author 13 · AAD-NPF psoriasis guidelines - biologics (2019)
 - **[Alan Menter](../../../people/alan-menter.md)** (2 sources · last seen 2020)
   - guideline co-author, author 1 · AAD-NPF psoriasis guidelines - biologics (2019)
 - **[Alice B. Gottlieb](../../../people/alice-b-gottlieb.md)** (2 sources · last seen 2020)

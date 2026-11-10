@@ -25,13 +25,13 @@ Late-breaking trials in psoriatic arthritis and rheumatoid arthritis, with the p
 ### Experts on ACR Convergence 2025 (4)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
+- **[Philip Mease](../../../people/philip-mease.md)** (3 sources · last seen 2026)
+  - presenter, late-breaker: 'state zero' with IL-17 inhibitors incl. bimekizumab in PsA · ACR Convergence 2025
 - **[Claire Daien](../../../people/claire-daien.md)** (1 source · last seen 2025)
   - presenter, late-breaker: SUPERFIBRE, fiber supplementation in RA · ACR Convergence 2025
 - **[Frank Behrens](../../../people/frank-behrens.md)** (1 source · last seen 2025)
   - presenter, late-breaker: AgAIN, secukinumab vs ustekinumab in TNF-experienced PsA · ACR Convergence 2025
 - **[Jonathan Graf](../../../people/jonathan-graf.md)** (1 source · last seen 2025)
   - presenter, late-breaker: rosnilimab phase 2b in RA · ACR Convergence 2025
-- **[Philip Mease](../../../people/philip-mease.md)** (1 source · last seen 2025)
-  - presenter, late-breaker: 'state zero' with IL-17 inhibitors incl. bimekizumab in PsA · ACR Convergence 2025
 ### Sources
 - [ConsultantLive: ACR Convergence 2025 recap, late-breaking trials](https://www.consultantlive.com/view/acr-convergence-2025-recap-late-breaking-trials-to-know)

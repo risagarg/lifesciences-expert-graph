@@ -121,7 +121,8 @@ const fromHash = h => h.replace(/^#/, "").replace(/--/g, "/");
 const ancestors = id => { const out = []; let n = byId.get(id); while (n && n.parent !== null) { out.unshift(n.parent); n = byId.get(n.parent); } return out; };
 const isPeople = c => ["person", "expert-group"].includes(byId.get(c).type);
 const countDesc = id => byId.get(id).children.filter(c => !isPeople(c)).reduce((s, c) => s + 1 + countDesc(c), 0);
-const countPeople = id => byId.get(id).children.reduce((s, c) => s + (byId.get(c).type === "person" ? 1 : byId.get(c).type === "expert-group" ? 0 : countPeople(c)), 0) + (byId.get(id).children.map(c => byId.get(c)).find(c => c.type === "expert-group")?.children.length || 0);
+const peopleIn = (id, acc = new Set()) => { for (const c of byId.get(id).children) { const n = byId.get(c); if (n.type === "person") acc.add(c.split("::").pop()); else peopleIn(c, acc); } return acc; };
+const countPeople = id => peopleIn(id).size;
 
 function linkedIds(id) {
   const n = byId.get(id);
@@ -163,11 +164,11 @@ function renderTree() {
     const cls = ["node", id === selected ? "sel" : "", linked.has(id) ? "linked" : ""].join(" ");
     const c = color(n.type);
     const np = has && !open ? countPeople(id) : 0;
-    const hidden = has && !open ? `<text class="count" x="${p.x + 12 + n.title.length * 7.1}" y="${p.y + 4}">${n.type === "expert-group" ? "" : [countDesc(id) ? `+${countDesc(id)}` : "", np ? `${np} expert${np === 1 ? "" : "s"}` : ""].filter(Boolean).join(" · ")}</text>` : "";
+    const hidden = has && !open ? `<tspan class="count" dx="8">${n.type === "expert-group" ? "" : [countDesc(id) ? `+${countDesc(id)}` : "", np ? `${np} expert${np === 1 ? "" : "s"}` : ""].filter(Boolean).join(" · ")}</tspan>` : "";
     nodes += `<g class="${cls}" data-id="${esc(id)}" tabindex="0" role="treeitem" aria-selected="${id === selected}"${has ? ` aria-expanded="${open}"` : ""}>
       <circle class="halo" cx="${p.x}" cy="${p.y}" r="11"/>
       ${n.type === "person" ? `<rect x="${p.x - 4}" y="${p.y - 4}" width="8" height="8" rx="2" fill="${c}"/>` : `<circle cx="${p.x}" cy="${p.y}" r="${has ? 6 : 4.5}" stroke="${c}" fill="${has && !open ? c : "var(--panel)"}"/>`}
-      <text class="label" x="${p.x + 12}" y="${p.y + 4.5}">${esc(n.title)}</text>${hidden}</g>`;
+      <text class="label" x="${p.x + 12}" y="${p.y + 4.5}">${esc(n.title)}${hidden}</text></g>`;
   }
   $("#canvas").innerHTML = `<svg width="${w}" height="${h}" viewBox="0 0 ${w} ${h}">${edges}${xl}${nodes}</svg>`;
 }

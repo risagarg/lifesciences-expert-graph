@@ -63,7 +63,13 @@ Each person is listed because a source names them as one of these:
 - **conference presenter or panelist**: gave a named talk at a major meeting
 - **first author**: first author on a conference abstract, where the source doesn't say who presented
 
-Conferences so far: **AAD 2025 and 2026**, **EADV 2025**, **Fall Clinical Dermatology 2025**, **ACR Convergence 2025** and **DDW 2025**.
+Conferences so far:
+
+- **Skin:** AAD 2025 and 2026, EADV 2025, Fall Clinical 2025, Winter Clinical Hawaii 2026, Maui Derm 2026
+- **Joints:** ACR Convergence 2025, EULAR 2026
+- **Gut:** DDW 2025, ECCO 2026
+
+Talks marked *non-CME* are company-sponsored product talks, so the speaker is likely paid by that company.
 
 Each expert shows:
 
@@ -93,14 +99,15 @@ git push
 ---
 
 ```
-tree/                  the tree itself
-  therapeutic-areas/   diseases (immunology is built out)
-  mechanisms/          drugs, grouped by how they work
-  organizations/       companies, societies, regulators
-  evidence/            guidelines, trials, conferences: the reasons people are listed
-  stakeholders/        kinds of experts (clinicians, investigators, payers...)
-  data-sources/        public datasets for bulk pulls
-people/                one file per expert
-EXPERTS.md             every expert, ranked
-scripts/build.py       rebuilds links, expert lists and the visual site
+tree/                      the tree itself
+  therapeutic-areas/       diseases, by area
+    immunology/            skin, joint and gut inflammation (built out)
+      mechanisms/          the drugs, grouped by pathway (TNF, IL-17, IL-23...)
+  organizations/           companies, societies, regulators
+  evidence/                guidelines, trials, conferences: the reasons people are listed
+  stakeholders/            kinds of experts (clinicians, investigators, payers...)
+  data-sources/            public datasets for bulk pulls
+people/                    one file per expert
+EXPERTS.md                 every expert, ranked
+scripts/build.py           rebuilds links, expert lists and the visual site
 ```

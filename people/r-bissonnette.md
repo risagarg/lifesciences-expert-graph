@@ -10,7 +10,7 @@ evidence:
   - {node: evidence/trials/iconic-lead, role: trial publication author, author_position: 1}
   - {node: evidence/trials/iconic-total, role: trial publication author, author_position: 3}
   - {node: evidence/trials/iconic-advance, role: trial publication author, author_position: 3}
-  - {node: evidence/conferences/aad-annual-meeting-2025, role: presenter, detail: "late-breaking research: ICONIC-LEAD", covers: [mechanisms/il-23-pathway/icotrokinra, therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis]}
+  - {node: evidence/conferences/aad-annual-meeting-2025, role: presenter, detail: "late-breaking research: ICONIC-LEAD", covers: [therapeutic-areas/immunology/mechanisms/il-23-pathway/icotrokinra, therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis]}
 ---
 
 The same surname and first initial appear across these sources, so they are merged here. Confirm with an identifier such as ORCID or NPI.
@@ -23,7 +23,7 @@ Full name from the AAD 2025 report, where Robert Bissonnette presented ICONIC-LE
 
 **4 sources · last seen 2025**
 ### Expertise
-- [Icotrokinra](../tree/mechanisms/il-23-pathway/icotrokinra.md) (4)
+- [Icotrokinra](../tree/therapeutic-areas/immunology/mechanisms/il-23-pathway/icotrokinra.md) (4)
 - [Plaque psoriasis](../tree/therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md) (4)
 ### Evidence
 - [ICONIC-LEAD (icotrokinra, phase 3)](../tree/evidence/trials/iconic-lead.md) — trial publication author, author 1

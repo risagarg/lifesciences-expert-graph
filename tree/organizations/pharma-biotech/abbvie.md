@@ -3,8 +3,8 @@ title: AbbVie
 type: organization
 kind: pharma-biotech
 links:
-  - {rel: markets, to: mechanisms/tnf-inhibitors/adalimumab}
-  - {rel: markets, to: mechanisms/il-23-pathway/risankizumab}
+  - {rel: markets, to: therapeutic-areas/immunology/mechanisms/tnf-inhibitors/adalimumab}
+  - {rel: markets, to: therapeutic-areas/immunology/mechanisms/il-23-pathway/risankizumab}
 sources:
   - {title: "Texas HHS DUR Board, Apr 2023 (manufacturer table)", url: "https://www.hhs.texas.gov/sites/default/files/documents/apr-2023-durb-agenda-item3r.pdf"}
 ---
@@ -13,7 +13,7 @@ sources:
 
 **Path:** [Healthcare & Life Sciences](../../README.md) / [Organizations](../README.md) / [Pharma & biotech](README.md) / AbbVie
 ### Connections
-- markets → [Adalimumab](../../mechanisms/tnf-inhibitors/adalimumab.md)
-- markets → [Risankizumab](../../mechanisms/il-23-pathway/risankizumab.md)
+- markets → [Adalimumab](../../therapeutic-areas/immunology/mechanisms/tnf-inhibitors/adalimumab.md)
+- markets → [Risankizumab](../../therapeutic-areas/immunology/mechanisms/il-23-pathway/risankizumab.md)
 ### Sources
 - [Texas HHS DUR Board, Apr 2023 (manufacturer table)](https://www.hhs.texas.gov/sites/default/files/documents/apr-2023-durb-agenda-item3r.pdf)

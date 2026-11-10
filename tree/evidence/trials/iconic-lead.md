@@ -6,7 +6,7 @@ kind: trial-publication
 citation: "Bissonnette R, Soung J, Hebert AA, et al. N Engl J Med 2025;393:1784-1795."
 nct: NCT06095115
 links:
-  - {rel: covers, to: mechanisms/il-23-pathway/icotrokinra}
+  - {rel: covers, to: therapeutic-areas/immunology/mechanisms/il-23-pathway/icotrokinra}
   - {rel: covers, to: therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis}
   - {rel: sponsored_by, to: organizations/pharma-biotech/johnson-johnson}
 sources:
@@ -19,13 +19,13 @@ sources:
 
 **Path:** [Healthcare & Life Sciences](../../README.md) / [Evidence](../README.md) / [Trials](README.md) / ICONIC-LEAD (icotrokinra, phase 3)
 ### Connections
-- covers → [Icotrokinra](../../mechanisms/il-23-pathway/icotrokinra.md)
+- covers → [Icotrokinra](../../therapeutic-areas/immunology/mechanisms/il-23-pathway/icotrokinra.md)
 - covers → [Plaque psoriasis](../../therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md)
 - sponsored by → [Johnson & Johnson](../../organizations/pharma-biotech/johnson-johnson.md)
 ### Experts on ICONIC-LEAD (icotrokinra, phase 3) (16)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
-- **[Mark Lebwohl](../../../people/mark-lebwohl.md)** (4 sources · last seen 2025)
+- **[Mark Lebwohl](../../../people/mark-lebwohl.md)** (5 sources · last seen 2026)
   - trial publication author, author 16 · ICONIC-LEAD (icotrokinra, phase 3)
 - **[Robert Bissonnette](../../../people/r-bissonnette.md)** (4 sources · last seen 2025)
   - trial publication author, author 1 · ICONIC-LEAD (icotrokinra, phase 3)

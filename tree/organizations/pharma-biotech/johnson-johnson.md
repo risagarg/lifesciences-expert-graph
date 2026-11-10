@@ -3,10 +3,10 @@ title: Johnson & Johnson
 type: organization
 kind: pharma-biotech
 links:
-  - {rel: markets, to: mechanisms/tnf-inhibitors/infliximab}
-  - {rel: markets, to: mechanisms/il-23-pathway/ustekinumab}
-  - {rel: markets, to: mechanisms/il-23-pathway/guselkumab}
-  - {rel: markets, to: mechanisms/il-23-pathway/icotrokinra}
+  - {rel: markets, to: therapeutic-areas/immunology/mechanisms/tnf-inhibitors/infliximab}
+  - {rel: markets, to: therapeutic-areas/immunology/mechanisms/il-23-pathway/ustekinumab}
+  - {rel: markets, to: therapeutic-areas/immunology/mechanisms/il-23-pathway/guselkumab}
+  - {rel: markets, to: therapeutic-areas/immunology/mechanisms/il-23-pathway/icotrokinra}
 sources:
   - {title: "Texas HHS DUR Board, Apr 2023 (manufacturer table)", url: "https://www.hhs.texas.gov/sites/default/files/documents/apr-2023-durb-agenda-item3r.pdf"} # lists Janssen Biotech, a J&J company
   - {title: "HCPLive: icotrokinra receives FDA approval", url: "https://www.hcplive.com/view/icotrokinra-receives-fda-approval-for-psoriasis"}
@@ -18,10 +18,10 @@ The Texas HHS table lists Janssen Biotech for Remicade, Stelara and Tremfya. Jan
 
 **Path:** [Healthcare & Life Sciences](../../README.md) / [Organizations](../README.md) / [Pharma & biotech](README.md) / Johnson & Johnson
 ### Connections
-- markets → [Infliximab](../../mechanisms/tnf-inhibitors/infliximab.md)
-- markets → [Ustekinumab](../../mechanisms/il-23-pathway/ustekinumab.md)
-- markets → [Guselkumab](../../mechanisms/il-23-pathway/guselkumab.md)
-- markets → [Icotrokinra](../../mechanisms/il-23-pathway/icotrokinra.md)
+- markets → [Infliximab](../../therapeutic-areas/immunology/mechanisms/tnf-inhibitors/infliximab.md)
+- markets → [Ustekinumab](../../therapeutic-areas/immunology/mechanisms/il-23-pathway/ustekinumab.md)
+- markets → [Guselkumab](../../therapeutic-areas/immunology/mechanisms/il-23-pathway/guselkumab.md)
+- markets → [Icotrokinra](../../therapeutic-areas/immunology/mechanisms/il-23-pathway/icotrokinra.md)
 - ← sponsored by · [ICONIC-ADVANCE (icotrokinra, phase 3)](../../evidence/trials/iconic-advance.md)
 - ← sponsored by · [ICONIC-LEAD (icotrokinra, phase 3)](../../evidence/trials/iconic-lead.md)
 - ← sponsored by · [ICONIC-TOTAL (icotrokinra, phase 3)](../../evidence/trials/iconic-total.md)

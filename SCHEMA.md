@@ -2,7 +2,7 @@
 
 ## Tree nodes
 
-A node's ID is its path under `tree/` without the extension, for example `mechanisms/il-23-pathway/guselkumab`. Its parent is the folder it sits in.
+A node's ID is its path under `tree/` without the extension, for example `therapeutic-areas/immunology/mechanisms/il-23-pathway/guselkumab`. Its parent is the folder it sits in.
 
 | Field | Required | Meaning |
 |---|---|---|

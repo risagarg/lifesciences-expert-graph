@@ -6,7 +6,7 @@ kind: guideline
 citation: "Menter A, Gelfand JM, Connor C, et al. J Am Acad Dermatol. 2020. PMID 32119894."
 links:
   - {rel: covers, to: therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis}
-  - {rel: covers, to: mechanisms/pde4-inhibitors}
+  - {rel: covers, to: therapeutic-areas/immunology/mechanisms/pde4-inhibitors}
   - {rel: issued_by, to: organizations/professional-societies/american-academy-of-dermatology}
   - {rel: issued_by, to: organizations/professional-societies/national-psoriasis-foundation}
 sources:
@@ -20,24 +20,24 @@ Covers non-biologic systemic drugs such as methotrexate and apremilast. Those ol
 **Path:** [Healthcare & Life Sciences](../../README.md) / [Evidence](../README.md) / [Guidelines](README.md) / AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
 ### Connections
 - covers → [Plaque psoriasis](../../therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md)
-- covers → [PDE4 inhibitors](../../mechanisms/pde4-inhibitors/README.md)
+- covers → [PDE4 inhibitors](../../therapeutic-areas/immunology/mechanisms/pde4-inhibitors/README.md)
 - issued by → [American Academy of Dermatology (AAD)](../../organizations/professional-societies/american-academy-of-dermatology.md)
 - issued by → [National Psoriasis Foundation (NPF)](../../organizations/professional-societies/national-psoriasis-foundation.md)
 ### Experts on AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020) (34)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
-- **[April W. Armstrong](../../../people/april-w-armstrong.md)** (5 sources · last seen 2025)
+- **[April W. Armstrong](../../../people/april-w-armstrong.md)** (6 sources · last seen 2026)
   - guideline co-author, author 4 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+- **[Mark Lebwohl](../../../people/mark-lebwohl.md)** (5 sources · last seen 2026)
+  - guideline co-author, author 16 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
 - **[Bruce E. Strober](../../../people/bruce-e-strober.md)** (4 sources · last seen 2026)
   - guideline co-author, author 29 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
-- **[Mark Lebwohl](../../../people/mark-lebwohl.md)** (4 sources · last seen 2025)
-  - guideline co-author, author 16 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+- **[Kenneth B. Gordon](../../../people/kenneth-b-gordon.md)** (4 sources · last seen 2026)
+  - guideline co-author, author 8 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
 - **[Amy S. Paller](../../../people/amy-s-paller.md)** (3 sources · last seen 2026)
   - guideline co-author, author 21 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
 - **[Joel M. Gelfand](../../../people/joel-m-gelfand.md)** (3 sources · last seen 2026)
   - guideline co-author, author 2 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
-- **[Kenneth B. Gordon](../../../people/kenneth-b-gordon.md)** (3 sources · last seen 2026)
-  - guideline co-author, author 8 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
 - **[Alan Menter](../../../people/alan-menter.md)** (2 sources · last seen 2020)
   - guideline co-author, author 1 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
 - **[Alice B. Gottlieb](../../../people/alice-b-gottlieb.md)** (2 sources · last seen 2020)

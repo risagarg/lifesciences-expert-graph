@@ -12,7 +12,7 @@ evidence:
 
 **1 source · last seen 2025 · name unconfirmed**
 ### Expertise
-- [Icotrokinra](../tree/mechanisms/il-23-pathway/icotrokinra.md) (1)
+- [Icotrokinra](../tree/therapeutic-areas/immunology/mechanisms/il-23-pathway/icotrokinra.md) (1)
 - [Plaque psoriasis](../tree/therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md) (1)
 ### Evidence
 - [ICONIC-LEAD (icotrokinra, phase 3)](../tree/evidence/trials/iconic-lead.md) — trial publication author, author 4
