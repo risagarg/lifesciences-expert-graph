@@ -20,9 +20,11 @@ Only the first three authors are listed in the source, so only they are linked h
 - covers → [Icotrokinra](../../mechanisms/il-23-pathway/icotrokinra.md)
 - covers → [Plaque psoriasis](../../therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md)
 - sponsored by → [Johnson & Johnson](../../organizations/pharma-biotech/johnson-johnson.md)
-### Experts (3)
-[April W. Armstrong](../../../people/april-w-armstrong.md) (1), [L. Gold](../../../people/l-gold.md) (1), [R. Bissonnette](../../../people/r-bissonnette.md) (1)
+### Experts on ICONIC-ADVANCE (icotrokinra, phase 3) (3)
+Why each person is listed:
 
-Numbers are linked evidence items under this node.
+- **[April W. Armstrong](../../../people/april-w-armstrong.md)** — trial publication author, author 2 · ICONIC-ADVANCE (icotrokinra, phase 3)
+- **[L. Gold](../../../people/l-gold.md)** — trial publication author, author 1 · ICONIC-ADVANCE (icotrokinra, phase 3)
+- **[Robert Bissonnette](../../../people/r-bissonnette.md)** — trial publication author, author 3 · ICONIC-ADVANCE (icotrokinra, phase 3)
 ### Sources
 - [J&J Medical Connect: pivotal trial publications](https://www.jnjmedicalconnect.com/products/icotyde/pivotal-clinical-trial-publications)

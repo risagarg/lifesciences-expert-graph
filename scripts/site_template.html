@@ -7,7 +7,7 @@
   --bg: #f6f7f9; --panel: #ffffff; --ink: #18202b; --muted: #5b6676; --line: #d5dae2; --soft: #eceff4;
   --accent: #1f5fbf;
   --t-root: #18202b; --t-category: #6b7686; --t-stakeholder: #b45f06; --t-disease: #b4235a;
-  --t-mechanism: #0f7d74; --t-asset: #4c4fc9; --t-data-source: #3f7d20;
+  --t-mechanism: #0f7d74; --t-asset: #4c4fc9; --t-data-source: #3f7d20; --t-organization: #8a4fb0; --t-evidence: #9a6b00; --t-person: #c0392b;
   --sans: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
   --mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
 }
@@ -15,12 +15,12 @@
   --bg: #11151b; --panel: #171c24; --ink: #e5e9ef; --muted: #98a2b1; --line: #2c3440; --soft: #1f2630;
   --accent: #78a9f5;
   --t-root: #e5e9ef; --t-category: #9aa4b2; --t-stakeholder: #f0a35a; --t-disease: #f07aa3;
-  --t-mechanism: #4cc4b8; --t-asset: #9b9ef5; --t-data-source: #8ccf6a; color-scheme: dark; } }
+  --t-mechanism: #4cc4b8; --t-asset: #9b9ef5; --t-data-source: #8ccf6a; --t-organization: #c79ae6; --t-evidence: #e0b44c; --t-person: #f08a7e; color-scheme: dark; } }
 :root[data-theme="dark"] {
   --bg: #11151b; --panel: #171c24; --ink: #e5e9ef; --muted: #98a2b1; --line: #2c3440; --soft: #1f2630;
   --accent: #78a9f5;
   --t-root: #e5e9ef; --t-category: #9aa4b2; --t-stakeholder: #f0a35a; --t-disease: #f07aa3;
-  --t-mechanism: #4cc4b8; --t-asset: #9b9ef5; --t-data-source: #8ccf6a; color-scheme: dark; }
+  --t-mechanism: #4cc4b8; --t-asset: #9b9ef5; --t-data-source: #8ccf6a; --t-organization: #c79ae6; --t-evidence: #e0b44c; --t-person: #f08a7e; color-scheme: dark; }
 html, body { height: 100%; }
 body { background: var(--bg); color: var(--ink); font-family: var(--sans); font-size: 14px; }
 .app { height: 100%; display: flex; flex-direction: column; }
@@ -90,7 +90,7 @@ code { font-family: var(--mono); font-size: 12px; background: var(--soft); paddi
   <header>
     <h1>Sentari <span>Expertise Tree</span></h1>
     <div class="search">
-      <input id="q" type="search" placeholder="Find a node: drug, disease, stakeholder…" autocomplete="off" aria-label="Find a node">
+      <input id="q" type="search" placeholder="Find a drug, disease, company or expert…" autocomplete="off" aria-label="Find a node">
       <ul class="results" id="results" hidden></ul>
     </div>
     <div class="btns">
@@ -107,10 +107,11 @@ code { font-family: var(--mono); font-size: 12px; background: var(--soft); paddi
 
 <script>
 const DATA = /*__TREE_DATA__*/null;
-const TYPES = { root: "Root", category: "Category", stakeholder: "Stakeholder", disease: "Disease", mechanism: "Mechanism", asset: "Drug", "data-source": "Data source" };
+const TYPES = { root: "Root", category: "Category", stakeholder: "Stakeholder", disease: "Disease", mechanism: "Mechanism", asset: "Drug", "data-source": "Data source", organization: "Organization", evidence: "Evidence", person: "Expert" };
 const byId = new Map(DATA.nodes.map(n => [n.id, n]));
 const ROW = 30, COL = 215, PAD = 28;
-let selected = "", expanded = new Set(DATA.nodes.filter(n => n.children.length).map(n => n.id));
+const depth = id => id ? id.split("/").length : 0;
+let selected = "", expanded = new Set(DATA.nodes.filter(n => n.children.length && n.type !== "person" && depth(n.id) <= 2).map(n => n.id));
 
 const $ = s => document.querySelector(s);
 const esc = s => String(s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -119,6 +120,7 @@ const toHash = id => id ? id.replace(/\//g, "--") : "";
 const fromHash = h => h.replace(/^#/, "").replace(/--/g, "/");
 const ancestors = id => { const out = []; let n = byId.get(id); while (n && n.parent !== null) { out.unshift(n.parent); n = byId.get(n.parent); } return out; };
 const countDesc = id => byId.get(id).children.reduce((s, c) => s + 1 + countDesc(c), 0);
+const countPeople = id => byId.get(id).children.reduce((s, c) => s + (byId.get(c).type === "person" ? 1 : countPeople(c)), 0);
 
 function linkedIds(id) {
   const n = byId.get(id);
@@ -159,10 +161,11 @@ function renderTree() {
     const n = byId.get(id), has = n.children.length > 0, open = expanded.has(id);
     const cls = ["node", id === selected ? "sel" : "", linked.has(id) ? "linked" : ""].join(" ");
     const c = color(n.type);
-    const hidden = has && !open ? `<text class="count" x="${p.x + 12 + n.title.length * 7.1}" y="${p.y + 4}">+${countDesc(id)}</text>` : "";
+    const np = has && !open ? countPeople(id) : 0;
+    const hidden = has && !open ? `<text class="count" x="${p.x + 12 + n.title.length * 7.1}" y="${p.y + 4}">${[countDesc(id) - np ? `+${countDesc(id) - np}` : "", np ? `${np} experts` : ""].filter(Boolean).join(" · ")}</text>` : "";
     nodes += `<g class="${cls}" data-id="${esc(id)}" tabindex="0" role="treeitem" aria-selected="${id === selected}"${has ? ` aria-expanded="${open}"` : ""}>
       <circle class="halo" cx="${p.x}" cy="${p.y}" r="11"/>
-      <circle cx="${p.x}" cy="${p.y}" r="${has ? 6 : 4.5}" stroke="${c}" fill="${has && !open ? c : "var(--panel)"}"/>
+      ${n.type === "person" ? `<rect x="${p.x - 4}" y="${p.y - 4}" width="8" height="8" rx="2" fill="${c}"/>` : `<circle cx="${p.x}" cy="${p.y}" r="${has ? 6 : 4.5}" stroke="${c}" fill="${has && !open ? c : "var(--panel)"}"/>`}
       <text class="label" x="${p.x + 12}" y="${p.y + 4.5}">${esc(n.title)}</text>${hidden}</g>`;
   }
   $("#canvas").innerHTML = `<svg width="${w}" height="${h}" viewBox="0 0 ${w} ${h}">${edges}${xl}${nodes}</svg>`;
@@ -238,8 +241,8 @@ $("#collapse").onclick = () => { expanded = new Set([""]); select(""); };
 $("#q").addEventListener("input", e => {
   const q = e.target.value.trim().toLowerCase(), r = $("#results");
   if (!q) { r.hidden = true; return; }
-  const hits = DATA.nodes.filter(n => [n.title, n.summary, ...Object.values(n.fields)].join(" ").toLowerCase().includes(q)).slice(0, 8);
-  r.innerHTML = hits.length ? hits.map(n => nodeButton(n.id, TYPES[n.type])).join("") : `<li style="padding:6px 8px;color:var(--muted)">No matches</li>`;
+  const hits = DATA.nodes.filter(n => [n.title, n.summary, ...Object.values(n.fields)].join(" ").toLowerCase().includes(q)).slice(0, 12);
+  r.innerHTML = hits.length ? hits.map(n => nodeButton(n.id, n.type === "person" ? "in " + byId.get(n.parent).title : TYPES[n.type])).join("") : `<li style="padding:6px 8px;color:var(--muted)">No matches</li>`;
   r.hidden = false;
 });
 $("#q").addEventListener("keydown", e => { if (e.key === "Enter") { const b = $("#results [data-go]"); if (b) { select(b.dataset.go); $("#results").hidden = true; } } if (e.key === "Escape") $("#results").hidden = true; });

@@ -9,6 +9,7 @@ summary: Every drug under Mechanisms links here, so this node shows the targeted
 
 **Path:** [Healthcare & Life Sciences](../../../../README.md) / [Therapeutic areas](../../../README.md) / [Immunology & inflammation](../../README.md) / [Dermatology](../README.md) / [Psoriasis](README.md) / Plaque psoriasis
 ### Connections
+- ← covers · [AAD Annual Meeting 2025](../../../../evidence/conferences/aad-annual-meeting-2025.md)
 - ← covers · [AAD-NPF psoriasis guidelines - biologics (2019)](../../../../evidence/guidelines/aad-npf-biologics-2019.md)
 - ← covers · [AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)](../../../../evidence/guidelines/aad-npf-systemic-nonbiologic-2020.md)
 - ← covers · [ICONIC-ADVANCE (icotrokinra, phase 3)](../../../../evidence/trials/iconic-advance.md)
@@ -32,7 +33,77 @@ summary: Every drug under Mechanisms links here, so this node shows the targeted
 - ← indicated for · [Etanercept](../../../../mechanisms/tnf-inhibitors/etanercept.md)
 - ← indicated for · [Infliximab](../../../../mechanisms/tnf-inhibitors/infliximab.md)
 - ← indicated for · [Deucravacitinib](../../../../mechanisms/tyk2-inhibitors/deucravacitinib.md)
-### Experts (65)
-[April W. Armstrong](../../../../../people/april-w-armstrong.md) (4), [Bruce E. Strober](../../../../../people/bruce-e-strober.md) (3), [Mark Lebwohl](../../../../../people/mark-lebwohl.md) (3), [R. Bissonnette](../../../../../people/r-bissonnette.md) (3), [Alan Menter](../../../../../people/alan-menter.md) (2), [Alice B. Gottlieb](../../../../../people/alice-b-gottlieb.md) (2), [Amy S. Paller](../../../../../people/amy-s-paller.md) (2), [Arthur Kavanaugh](../../../../../people/arthur-kavanaugh.md) (2), [Arun L. Pathy](../../../../../people/arun-l-pathy.md) (2), [Benjamin Stoff](../../../../../people/benjamin-stoff.md) (2), [Boni E. Elewski](../../../../../people/boni-e-elewski.md) (2), [Cody Connor](../../../../../people/cody-connor.md) (2), [Craig A. Elmets](../../../../../people/craig-a-elmets.md) (2), [Craig L. Leonardi](../../../../../people/craig-l-leonardi.md) (2), [Daniel H. Kaplan](../../../../../people/daniel-h-kaplan.md) (2), [Daniela Kroshinsky](../../../../../people/daniela-kroshinsky.md) (2), [Dario Kivelevitch](../../../../../people/dario-kivelevitch.md) (2), [Dawn MR Davis](../../../../../people/dawn-mr-davis.md) (2), [Elizabeth F. Prater](../../../../../people/elizabeth-f-prater.md) (2), [Emily B. Wong](../../../../../people/emily-b-wong.md) (2)
+- ← indicated for · [Envudeucitinib](../../../../mechanisms/tyk2-inhibitors/envudeucitinib.md)
+- ← indicated for · [Zasocitinib](../../../../mechanisms/tyk2-inhibitors/zasocitinib.md)
+### Experts on Plaque psoriasis (69)
+Why each person is listed:
 
-…and 45 more in [all experts](../../../../../EXPERTS.md). Numbers are linked evidence items under this node.
+- **[April W. Armstrong](../../../../../people/april-w-armstrong.md)** — guideline co-author, author 7 · AAD-NPF psoriasis guidelines - biologics (2019); guideline co-author, author 4 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020); trial publication author, author 1 · POETYK PSO-1 (deucravacitinib, phase 3); trial publication author, author 2 · ICONIC-ADVANCE (icotrokinra, phase 3)
+- **[Bruce E. Strober](../../../../../people/bruce-e-strober.md)** — guideline co-author, author 2 · AAD-NPF psoriasis guidelines - biologics (2019); guideline co-author, author 29 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020); trial publication author, author 5 · POETYK PSO-1 (deucravacitinib, phase 3); presenter, Psoriasis: Modern Therapeutic Approaches (panel) · AAD Annual Meeting 2026
+- **[Robert Bissonnette](../../../../../people/r-bissonnette.md)** — trial publication author, author 1 · ICONIC-LEAD (icotrokinra, phase 3); trial publication author, author 3 · ICONIC-TOTAL (icotrokinra, phase 3); trial publication author, author 3 · ICONIC-ADVANCE (icotrokinra, phase 3); presenter, late-breaking research: ICONIC-LEAD · AAD Annual Meeting 2025
+- **[Jennifer Soung](../../../../../people/j-soung.md)** — trial publication author, author 2 · ICONIC-LEAD (icotrokinra, phase 3); presenter, ICONIC-LEAD (icotrokinra) · AAD Annual Meeting 2026; presenter, Psoriasis: Modern Therapeutic Approaches (panel) · AAD Annual Meeting 2026
+- **[Joel M. Gelfand](../../../../../people/joel-m-gelfand.md)** — guideline co-author, author 12 · AAD-NPF psoriasis guidelines - biologics (2019); guideline co-author, author 2 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020); presenter, Psoriasis: Modern Therapeutic Approaches (panel) · AAD Annual Meeting 2026
+- **[Kenneth B. Gordon](../../../../../people/kenneth-b-gordon.md)** — guideline co-author, author 13 · AAD-NPF psoriasis guidelines - biologics (2019); guideline co-author, author 8 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020); presenter, Psoriasis: Modern Therapeutic Approaches (panel) · AAD Annual Meeting 2026
+- **[Mark Lebwohl](../../../../../people/mark-lebwohl.md)** — guideline co-author, author 19 · AAD-NPF psoriasis guidelines - biologics (2019); guideline co-author, author 16 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020); trial publication author, author 16 · ICONIC-LEAD (icotrokinra, phase 3)
+- **[Melinda Gooderham](../../../../../people/melinda-gooderham.md)** — trial publication author, author 2 · POETYK PSO-1 (deucravacitinib, phase 3); trial publication author, author 1 · ICONIC-TOTAL (icotrokinra, phase 3); presenter, late-breaking research: LATITUDE PsO 3001 and 3002 (zasocitinib) · AAD Annual Meeting 2026
+- **[Alan Menter](../../../../../people/alan-menter.md)** — guideline co-author, author 1 · AAD-NPF psoriasis guidelines - biologics (2019); guideline co-author, author 1 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+- **[Alice B. Gottlieb](../../../../../people/alice-b-gottlieb.md)** — guideline co-author, author 14 · AAD-NPF psoriasis guidelines - biologics (2019); guideline co-author, author 9 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+- **[Amy S. Paller](../../../../../people/amy-s-paller.md)** — guideline co-author, author 24 · AAD-NPF psoriasis guidelines - biologics (2019); guideline co-author, author 21 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+- **[Andrew Blauvelt](../../../../../people/andrew-blauvelt.md)** — trial publication author, author 16 · POETYK PSO-1 (deucravacitinib, phase 3); presenter, late-breaking research: ONWARD 1 and 2 (envudeucitinib) · AAD Annual Meeting 2026
+- **[Arthur Kavanaugh](../../../../../people/arthur-kavanaugh.md)** — guideline co-author, author 15 · AAD-NPF psoriasis guidelines - biologics (2019); guideline co-author, author 11 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+- **[Arun L. Pathy](../../../../../people/arun-l-pathy.md)** — guideline co-author, author 26 · AAD-NPF psoriasis guidelines - biologics (2019); guideline co-author, author 23 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+- **[Benjamin Stoff](../../../../../people/benjamin-stoff.md)** — guideline co-author, author 6 · AAD-NPF psoriasis guidelines - biologics (2019); guideline co-author, author 28 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+- **[Boni E. Elewski](../../../../../people/boni-e-elewski.md)** — guideline co-author, author 11 · AAD-NPF psoriasis guidelines - biologics (2019); guideline co-author, author 7 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+- **[Cody Connor](../../../../../people/cody-connor.md)** — guideline co-author, author 8 · AAD-NPF psoriasis guidelines - biologics (2019); guideline co-author, author 3 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+- **[Craig A. Elmets](../../../../../people/craig-a-elmets.md)** — guideline co-author, author 32 · AAD-NPF psoriasis guidelines - biologics (2019); guideline co-author, author 34 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+- **[Craig L. Leonardi](../../../../../people/craig-l-leonardi.md)** — guideline co-author, author 20 · AAD-NPF psoriasis guidelines - biologics (2019); guideline co-author, author 17 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+- **[Daniel H. Kaplan](../../../../../people/daniel-h-kaplan.md)** — guideline co-author, author 3 · AAD-NPF psoriasis guidelines - biologics (2019); guideline co-author, author 10 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+- **[Daniela Kroshinsky](../../../../../people/daniela-kroshinsky.md)** — guideline co-author, author 18 · AAD-NPF psoriasis guidelines - biologics (2019); guideline co-author, author 15 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+- **[Dario Kivelevitch](../../../../../people/dario-kivelevitch.md)** — guideline co-author, author 4 · AAD-NPF psoriasis guidelines - biologics (2019); guideline co-author, author 13 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+- **[Dawn MR Davis](../../../../../people/dawn-mr-davis.md)** — guideline co-author, author 10 · AAD-NPF psoriasis guidelines - biologics (2019); guideline co-author, author 6 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+- **[Elizabeth F. Prater](../../../../../people/elizabeth-f-prater.md)** — guideline co-author, author 5 · AAD-NPF psoriasis guidelines - biologics (2019); guideline co-author, author 24 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+- **[Emily B. Wong](../../../../../people/emily-b-wong.md)** — guideline co-author, author 29 · AAD-NPF psoriasis guidelines - biologics (2019); guideline co-author, author 31 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+- **[Henry W. Lim](../../../../../people/henry-w-lim.md)** — guideline co-author, author 22 · AAD-NPF psoriasis guidelines - biologics (2019); guideline co-author, author 19 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+- **[Jashin J. Wu](../../../../../people/jashin-j-wu.md)** — guideline co-author, author 30 · AAD-NPF psoriasis guidelines - biologics (2019); guideline co-author, author 32 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+- **[Jason Lichten](../../../../../people/jason-lichten.md)** — guideline co-author, author 21 · AAD-NPF psoriasis guidelines - biologics (2019); guideline co-author, author 18 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+- **[Kelly M. Cordoro](../../../../../people/kelly-m-cordoro.md)** — guideline co-author, author 9 · AAD-NPF psoriasis guidelines - biologics (2019); guideline co-author, author 5 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+- **[Matthew Kiselica](../../../../../people/matthew-kiselica.md)** — guideline co-author, author 16 · AAD-NPF psoriasis guidelines - biologics (2019); guideline co-author, author 12 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+- **[Michael Siegel](../../../../../people/michael-siegel.md)** — guideline co-author, author 28 · AAD-NPF psoriasis guidelines - biologics (2019); guideline co-author, author 27 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+- **[Nehal N. Mehta](../../../../../people/nehal-n-mehta.md)** — guideline co-author, author 23 · AAD-NPF psoriasis guidelines - biologics (2019); guideline co-author, author 20 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+- **[Neil J. Korman](../../../../../people/neil-j-korman.md)** — guideline co-author, author 17 · AAD-NPF psoriasis guidelines - biologics (2019); guideline co-author, author 14 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+- **[Reena N. Rupani](../../../../../people/reena-n-rupani.md)** — guideline co-author, author 27 · AAD-NPF psoriasis guidelines - biologics (2019); guideline co-author, author 26 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+- **[Sylvia L. Parra](../../../../../people/sylvia-l-parra.md)** — guideline co-author, author 25 · AAD-NPF psoriasis guidelines - biologics (2019); guideline co-author, author 22 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+- **[Vidhya Hariharan](../../../../../people/vidhya-hariharan.md)** — guideline co-author, author 31 · AAD-NPF psoriasis guidelines - biologics (2019); guideline co-author, author 33 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+- **[A. Pinter](../../../../../people/a-pinter.md)** — trial publication author, author 5 · ICONIC-LEAD (icotrokinra, phase 3)
+- **[A.A. Hebert](../../../../../people/a-a-hebert.md)** — trial publication author, author 3 · ICONIC-LEAD (icotrokinra, phase 3)
+- **[A.E. Pink](../../../../../people/a-e-pink.md)** — trial publication author, author 4 · ICONIC-LEAD (icotrokinra, phase 3)
+- **[A.Y. Moore](../../../../../people/a-y-moore.md)** — trial publication author, author 6 · ICONIC-LEAD (icotrokinra, phase 3)
+- **[Akimichi Morita](../../../../../people/akimichi-morita.md)** — trial publication author, author 7 · POETYK PSO-1 (deucravacitinib, phase 3)
+- **[C.M. DeKlotz](../../../../../people/c-m-deklotz.md)** — trial publication author, author 14 · ICONIC-LEAD (icotrokinra, phase 3)
+- **[D.P. Toth](../../../../../people/d-p-toth.md)** — trial publication author, author 9 · ICONIC-LEAD (icotrokinra, phase 3)
+- **[Diamant Thaçi](../../../../../people/diamant-thaci.md)** — trial publication author, author 6 · POETYK PSO-1 (deucravacitinib, phase 3)
+- **[E. Lain](../../../../../people/e-lain.md)** — trial publication author, author 2 · ICONIC-TOTAL (icotrokinra, phase 3)
+- **[Elizabeth Colston](../../../../../people/elizabeth-colston.md)** — trial publication author, author 10 · POETYK PSO-1 (deucravacitinib, phase 3)
+- **[Elliot B. Tapper](../../../../../people/elliot-b-tapper.md)** — guideline co-author, author 30 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+- **[F. Nunes](../../../../../people/f-nunes.md)** — trial publication author, author 15 · ICONIC-LEAD (icotrokinra, phase 3)
+- **[J. Cafone](../../../../../people/j-cafone.md)** — trial publication author, author 11 · ICONIC-LEAD (icotrokinra, phase 3)
+- **[J. Jiang](../../../../../people/j-jiang.md)** — trial publication author, author 12 · ICONIC-LEAD (icotrokinra, phase 3)
+- **[Jacek C. Szepietowski](../../../../../people/jacek-c-szepietowski.md)** — trial publication author, author 8 · POETYK PSO-1 (deucravacitinib, phase 3)
+- **[Jeffrey Cohen](../../../../../people/jeffrey-cohen.md)** — presenter, Psoriasis: Modern Therapeutic Approaches (panel) · AAD Annual Meeting 2026
+- **[John Throup](../../../../../people/john-throup.md)** — trial publication author, author 11 · POETYK PSO-1 (deucravacitinib, phase 3)
+- **[Joseph Merola](../../../../../people/joseph-merola.md)** — presenter, Therapeutic Hotline: what's new in psoriasis biologics (icotrokinra; ixekizumab with tirzepatide) · AAD Annual Meeting 2026
+- **[Kim A. Papp](../../../../../people/kim-a-papp.md)** — trial publication author, author 4 · POETYK PSO-1 (deucravacitinib, phase 3)
+- **[L. Gold](../../../../../people/l-gold.md)** — trial publication author, author 1 · ICONIC-ADVANCE (icotrokinra, phase 3)
+- **[M. Miller-Kassamali](../../../../../people/m-miller-kassamali.md)** — trial publication author, author 10 · ICONIC-LEAD (icotrokinra, phase 3)
+- **[Misti Linaberry](../../../../../people/misti-linaberry.md)** — trial publication author, author 14 · POETYK PSO-1 (deucravacitinib, phase 3)
+- **[Mona Shahriari](../../../../../people/mona-shahriari.md)** — presenter, Psoriasis: Modern Therapeutic Approaches (panel) · AAD Annual Meeting 2026
+- **[Richard B. Warren](../../../../../people/richard-b-warren.md)** — trial publication author, author 3 · POETYK PSO-1 (deucravacitinib, phase 3)
+- **[Richard Langley](../../../../../people/richard-langley.md)** — presenter, Psoriasis: Modern Therapeutic Approaches (panel) · AAD Annual Meeting 2026
+- **[Robert S. Rahimi](../../../../../people/robert-s-rahimi.md)** — guideline co-author, author 25 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+- **[S. Li](../../../../../people/s-li.md)** — trial publication author, author 13 · ICONIC-LEAD (icotrokinra, phase 3)
+- **[Shinichi Imafuku](../../../../../people/shinichi-imafuku.md)** — trial publication author, author 9 · POETYK PSO-1 (deucravacitinib, phase 3)
+- **[Steve Schoenfeld](../../../../../people/steve-schoenfeld.md)** — trial publication author, author 13 · POETYK PSO-1 (deucravacitinib, phase 3)
+- **[Subhashis Banerjee](../../../../../people/subhashis-banerjee.md)** — trial publication author, author 15 · POETYK PSO-1 (deucravacitinib, phase 3)
+- **[Sudeep Kundu](../../../../../people/sudeep-kundu.md)** — trial publication author, author 12 · POETYK PSO-1 (deucravacitinib, phase 3)
+- **[W. Wang](../../../../../people/w-wang.md)** — trial publication author, author 8 · ICONIC-LEAD (icotrokinra, phase 3)
+- **[Y. Shi](../../../../../people/y-shi.md)** — trial publication author, author 7 · ICONIC-LEAD (icotrokinra, phase 3)

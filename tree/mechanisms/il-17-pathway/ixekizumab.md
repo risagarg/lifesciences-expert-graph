@@ -18,6 +18,10 @@ sources:
 ### Connections
 - indicated for → [Plaque psoriasis](../../therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md)
 - ← markets · [Eli Lilly](../../organizations/pharma-biotech/eli-lilly.md)
+### Experts on Ixekizumab (1)
+Why each person is listed:
+
+- **[Joseph Merola](../../../people/joseph-merola.md)** — presenter, Therapeutic Hotline: what's new in psoriasis biologics (icotrokinra; ixekizumab with tirzepatide) · AAD Annual Meeting 2026
 ### Sources
 - [Drugs.com: new drugs for plaque psoriasis](https://drugs.com/medical-answers/new-drugs-treatment-plaque-psoriasis-3511670)
 - [Wride et al., Dermatol Clin 2024 (targets)](https://pubmed.ncbi.nlm.nih.gov/38796266/)

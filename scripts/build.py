@@ -55,7 +55,7 @@ def load(errors):
         nodes[nid] = {"id": nid, "file": md, "meta": meta, "body": body,
                       "parent": None if not parts else "/".join(parts[:-1]),
                       "title": meta.get("title", nid), "type": meta.get("type", "category"),
-                      "children": [], "out": [], "back": [], "people": collections.Counter()}
+                      "children": [], "out": [], "back": [], "people": collections.Counter(), "direct": {}}
     people = {}
     for md in sorted(PEOPLE.glob("*.md")):
         meta, body = split(md.read_text())
@@ -75,6 +75,23 @@ def link(frm: pathlib.Path, to: pathlib.Path, text: str) -> str:
     rel = os.path.relpath(to, frm.parent).replace(os.sep, "/")
     text = text.replace("|", "\\|").replace("[", "(").replace("]", ")")
     return f"[{text}]({rel.replace(' ', '%20')})"
+
+
+RECORD_LABEL = {"clinicaltrials": "ClinicalTrials.gov", "pubmed": "PubMed", "partd": "Medicare Part D"}
+
+
+def reason_text(e, ev):
+    bits = [e.get("role") or "linked"]
+    if e.get("detail"):
+        bits.append(str(e["detail"]))
+    if e.get("author_position"):
+        bits.append(f"author {e['author_position']}")
+    return f"{', '.join(bits)} · {ev['title']}"
+
+
+def record_text(r):
+    what = r.get("role") or (f"{r['papers']} papers" if r.get("papers") else "") or (f"{r['claims']} claims" if r.get("claims") else "")
+    return f"{RECORD_LABEL.get(r['source'], r['source'])} {r['id']}" + (f" · {what}" if what else "")
 
 
 def ancestors(nodes, nid):
@@ -107,15 +124,22 @@ def resolve(nodes, people, errors):
             if ev not in nodes:
                 errors.append(f"people/{p['file'].name}: evidence node '{ev}' not found")
                 continue
-            # the evidence node itself, plus every topic it covers, plus their ancestors
-            targets = {ev} | {to for rel, to in nodes[ev]["out"] if rel == "covers"}
+            covers = e.get("covers") or [to for rel, to in nodes[ev]["out"] if rel == "covers"]
+            for c in covers:
+                if c not in nodes:
+                    errors.append(f"people/{p['file'].name}: evidence covers unknown node '{c}'")
+            covers = [c for c in covers if c in nodes]
+            reason = reason_text(e, nodes[ev])
+            # direct: the evidence node and each topic it covers. rolled up: their ancestors.
+            for t in {ev, *covers}:
+                nodes[t]["direct"].setdefault(p["id"], []).append(reason)
+            targets = {ev, *covers}
             for t in list(targets):
                 targets.update(ancestors(nodes, t))
             for t in targets:
                 nodes[t]["people"][p["id"]] += 1
-            for rel, to in nodes[ev]["out"]:
-                if rel == "covers":
-                    p["topics"][to] += 1
+            for c in covers:
+                p["topics"][c] += 1
         for r in p["records"]:
             cov = r.get("covers")
             if cov not in nodes:
@@ -123,6 +147,7 @@ def resolve(nodes, people, errors):
                 continue
             for t in [cov] + ancestors(nodes, cov):
                 nodes[t]["people"][p["id"]] += 1
+            nodes[cov]["direct"].setdefault(p["id"], []).append(record_text(r))
             p["topics"][cov] += 1
         for a in p["affiliations"]:
             org = a.get("org")
@@ -153,15 +178,20 @@ def render_node(n, nodes, people):
             out.append(f"- {rel.replace('_', ' ')} → {link(f, nodes[to]['file'], nodes[to]['title'])}")
         for rel, frm in n["back"]:
             out.append(f"- ← {rel.replace('_', ' ')} · {link(f, nodes[frm]['file'], nodes[frm]['title'])}")
-    if n["people"]:
-        ranked = sorted(n["people"].items(), key=lambda kv: (-kv[1], people[kv[0]]["name"].lower()))
-        out.append(f"### Experts ({len(ranked)})")
-        top = ranked[:20]
+    if n["direct"]:
+        direct = sorted(n["direct"].items(), key=lambda kv: (-len(kv[1]), people[kv[0]]["name"].lower()))
+        out.append(f"### Experts on {n['title']} ({len(direct)})")
+        out.append("Why each person is listed:\n")
+        for pid, reasons in direct:
+            out.append(f"- **{link(f, people[pid]['file'], people[pid]['name'])}** — " + "; ".join(reasons))
+    below = {pid: c for pid, c in n["people"].items() if pid not in n["direct"]}
+    if below:
+        ranked = sorted(below.items(), key=lambda kv: (-kv[1], people[kv[0]]["name"].lower()))
+        out.append(f"### Experts in sub-branches ({len(ranked)})")
+        top = ranked[:15]
         out.append(", ".join(f"{link(f, people[pid]['file'], people[pid]['name'])} ({cnt})" for pid, cnt in top))
-        if len(ranked) > len(top):
-            out.append(f"\n…and {len(ranked) - len(top)} more in {link(f, ROOT / 'EXPERTS.md', 'all experts')}. Numbers are linked evidence items under this node.")
-        else:
-            out.append("\nNumbers are linked evidence items under this node.")
+        more = f" …and {len(ranked) - len(top)} more." if len(ranked) > len(top) else ""
+        out.append(f"\nNumbers are evidence items in this branch.{more} Open a sub-branch to see why each person is listed, or see {link(f, ROOT / 'EXPERTS.md', 'all experts')}.")
     srcs = n["meta"].get("sources") or []
     if srcs:
         out.append("### Sources")
@@ -181,7 +211,8 @@ def render_person(p, nodes):
             ev = nodes.get(e.get("node"))
             if ev:
                 pos = f", author {e['author_position']}" if e.get("author_position") else ""
-                out.append(f"- {link(f, ev['file'], ev['title'])} — {e.get('role', '')}{pos}")
+                det = f", {e['detail']}" if e.get("detail") else ""
+                out.append(f"- {link(f, ev['file'], ev['title'])} — {e.get('role', '')}{det}{pos}")
     if p["records"]:
         out.append(f"### Data records ({len(p['records'])})")
         labels = {"clinicaltrials": "ClinicalTrials.gov", "pubmed": "PubMed", "partd": "Medicare Part D"}
@@ -233,23 +264,17 @@ def build_site(nodes, people):
                      "links": [{"rel": r, "to": t} for r, t in n["out"]], "sources": m.get("sources") or [],
                      "body": n["body"], "path": str(n["file"].relative_to(ROOT)),
                      "children": list(n["children"]), "backlinks": [{"rel": r, "from": f} for r, f in n["back"]]})
-    pids = sorted(people, key=lambda k: people[k]["name"].lower())
-    data.append({"id": "people", "parent": "", "title": "People", "type": "category", "summary": "Named experts linked to evidence.",
-                 "status": "", "order": 0, "fields": {}, "links": [], "sources": [], "body": "", "path": "people/",
-                 "children": pids, "backlinks": []})
-    data[[d["id"] for d in data].index("")]["children"].insert(0, "people")
-    for pid in pids:
-        p = people[pid]
-        links = [{"rel": "authored", "to": e["node"]} for e in p["evidence"] if e.get("node") in nodes]
-        data.append({"id": pid, "parent": "people", "title": p["name"], "type": "person", "summary": "", "status": "",
-                     "order": 999, "fields": {"affiliation": p["affiliations"][-1]["text"]} if p["affiliations"] else {},
-                     "links": links, "sources": [], "body": p["body"], "path": str(p["file"].relative_to(ROOT)),
-                     "children": [], "backlinks": []})
     byid = {d["id"]: d for d in data}
-    for d in data:
-        for l in d["links"]:
-            if d["type"] == "person":
-                byid[l["to"]]["backlinks"].append({"rel": "authored", "from": d["id"]})
+    for n in nodes.values():
+        for pid, reasons in sorted(n["direct"].items(), key=lambda kv: (-len(kv[1]), people[kv[0]]["name"].lower())):
+            p, leaf = people[pid], f"{n['id']}::{pid}"
+            others = sorted(t for t, nn in nodes.items() if pid in nn["direct"] and t != n["id"])
+            data.append({"id": leaf, "parent": n["id"], "title": p["name"], "type": "person", "summary": "", "status": "",
+                         "order": 10000, "fields": {"affiliation": p["affiliations"][-1]["text"]} if p["affiliations"] else {},
+                         "links": [{"rel": "also expert in", "to": t} for t in others], "sources": [],
+                         "body": "### Why listed here\n" + "\n".join(f"- {r}" for r in reasons),
+                         "path": str(p["file"].relative_to(ROOT)), "children": [], "backlinks": []})
+            byid[n["id"]]["children"].append(leaf)
     blob = json.dumps({"nodes": data}, ensure_ascii=False)
     (ROOT / "site").mkdir(exist_ok=True)
     (ROOT / "site" / "index.html").write_text(tmpl.read_text().replace("/*__TREE_DATA__*/null", blob.replace("</", "<\\/")))
