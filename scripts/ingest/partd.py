@@ -5,6 +5,7 @@ Finds the newest year in the data.cms.gov catalog, pulls rows for each generic
 name in indications.yml, and sums claims per prescriber NPI.
 Writes data/partd/<slug>.csv.
     python3 scripts/ingest/partd.py [slug ...]
+Only prescribers whose CMS specialty matches the indication's `specialty` are counted.
 CMS suppresses small counts, so low-volume prescribers are missing. See the CMS methodology for the threshold.
 """
 import collections
@@ -50,9 +51,14 @@ def main(only):
     year, url = latest_dataset()
     print(f"Part D data year {year}: {url}", file=sys.stderr)
     for ind in indications(only):
+        if not ind.get("partd_generics"):
+            continue
+        spec = (ind.get("specialty") or "").lower()
         agg = {}
-        for g in ind.get("partd_generics", []):
+        for g in ind["partd_generics"]:
             for r in rows_for(url, g):
+                if spec and spec not in (r.get("Prscrbr_Type") or "").lower():
+                    continue  # e.g. a rheumatologist's adalimumab claims are not psoriasis evidence
                 npi = r["Prscrbr_NPI"]
                 a = agg.setdefault(npi, {"npi": npi, "last_name": r.get("Prscrbr_Last_Org_Name"),
                                          "first_name": r.get("Prscrbr_First_Name"), "credential": r.get("Prscrbr_Crdntls", ""),

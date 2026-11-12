@@ -1,19 +1,25 @@
-# Copy this file to .github/workflows/ingest.yml (GitHub: Add file > Create new file).
-# It pulls experts for every indication in ingest/indications.yml, adds the top
-# candidates to people/, rebuilds the indexes and commits the result.
+# Pulls experts for every indication in ingest/indications.yml from public data
+# (ClinicalTrials.gov, PubMed, Medicare Part D, NPI Registry, Open Payments),
+# adds the top candidates to people/, rebuilds the pages and commits the result.
+# Runs every Monday, whenever the indications or ingest scripts change, and on demand
+# (Actions tab > ingest > Run workflow).
 name: ingest
 on:
   workflow_dispatch:
   schedule:
     - cron: "17 9 * * 1"   # Mondays 09:17 UTC
   push:
-    paths: ["ingest/indications.yml"]
+    branches: [main]
+    paths: ["ingest/indications.yml", "scripts/ingest/**", ".github/workflows/ingest.yml"]
 permissions:
   contents: write
+concurrency:
+  group: ingest
+  cancel-in-progress: false
 jobs:
   ingest:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 180
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -30,16 +36,21 @@ jobs:
         run: python3 scripts/ingest/partd.py
         continue-on-error: true
       - name: Add top candidates to people/
-        run: python3 scripts/ingest/promote.py --top 25
-      - name: NPI lookups
+        run: python3 scripts/ingest/promote.py --top 20
+      - name: NPI Registry lookups
         run: python3 scripts/ingest/nppes.py
         continue-on-error: true
-      - name: Rebuild indexes
+      - name: Open Payments
+        run: python3 scripts/ingest/openpayments.py
+        continue-on-error: true
+      - name: Rebuild pages
         run: python3 scripts/build.py
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
           git add -A data people tree EXPERTS.md
-          git diff --cached --quiet || git commit -m "Ingest: refresh experts"
+          git diff --cached --quiet && exit 0
+          git commit -m "Ingest: refresh experts from public data"
+          git pull --rebase origin main
           git push

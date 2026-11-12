@@ -1,21 +1,75 @@
 # One entry per indication to pull experts for. `node` must be a tree node ID.
-# Add an indication here, then run the ingest scripts (see ingest/README.md).
+# Add an indication here and push: the GitHub Action runs the pulls (see ingest/README.md).
+#
+#   clinicaltrials_condition  ClinicalTrials.gov condition search (named trial officials)
+#   pubmed_query              PubMed search (most-published authors, newest 5,000 papers)
+#   specialty                 CMS / NPI specialty text. Part D prescribers and NPI matches must have it
+#   partd_generics            drugs whose Medicare Part D prescribers count as evidence (prefix match)
+#
+# Leave partd_generics out when the drugs are shared with another disease of the same
+# specialty (HS uses psoriasis drugs; Crohn's and UC use the same drugs), so prescribers
+# aren't credited to the wrong disease. Those go in a combined entry instead.
+
 - node: therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis
   slug: plaque-psoriasis
   clinicaltrials_condition: plaque psoriasis
   pubmed_query: '"Psoriasis"[Majr] AND ("2021/01/01"[dp] : "3000"[dp])'
-  specialty: Dermatology          # NPI taxonomy text used to confirm a match
-  partd_generics:                 # matched against Gnrc_Name, case-insensitive prefix
-    - apremilast
-    - deucravacitinib
-    - adalimumab
-    - etanercept
-    - secukinumab
-    - ixekizumab
-    - brodalumab
-    - bimekizumab
-    - ustekinumab
-    - guselkumab
-    - tildrakizumab
-    - risankizumab
-    - certolizumab
+  specialty: Dermatology
+  partd_generics: [apremilast, deucravacitinib, adalimumab, etanercept, secukinumab, ixekizumab,
+                   brodalumab, bimekizumab, ustekinumab, guselkumab, tildrakizumab, risankizumab,
+                   certolizumab]
+
+- node: therapeutic-areas/immunology/dermatology/atopic-dermatitis
+  slug: atopic-dermatitis
+  clinicaltrials_condition: atopic dermatitis
+  pubmed_query: '"Dermatitis, Atopic"[Majr] AND ("2021/01/01"[dp] : "3000"[dp])'
+  specialty: Dermatology
+  partd_generics: [dupilumab, tralokinumab, lebrikizumab, nemolizumab, abrocitinib, upadacitinib]
+
+- node: therapeutic-areas/immunology/dermatology/hidradenitis-suppurativa
+  slug: hidradenitis-suppurativa
+  clinicaltrials_condition: hidradenitis suppurativa
+  pubmed_query: '"Hidradenitis Suppurativa"[Majr] AND ("2021/01/01"[dp] : "3000"[dp])'
+  specialty: Dermatology
+
+- node: therapeutic-areas/immunology/rheumatology/psoriatic-arthritis
+  slug: psoriatic-arthritis
+  clinicaltrials_condition: psoriatic arthritis
+  pubmed_query: '"Arthritis, Psoriatic"[Majr] AND ("2021/01/01"[dp] : "3000"[dp])'
+  specialty: Rheumatology
+  # IL-17 and IL-23 drugs and apremilast: in rheumatology mostly PsA (IL-17s also axial SpA)
+  partd_generics: [secukinumab, ixekizumab, bimekizumab, guselkumab, risankizumab, ustekinumab, apremilast]
+
+- node: therapeutic-areas/immunology/rheumatology/rheumatoid-arthritis
+  slug: rheumatoid-arthritis
+  clinicaltrials_condition: rheumatoid arthritis
+  pubmed_query: '"Arthritis, Rheumatoid"[Majr] AND ("2021/01/01"[dp] : "3000"[dp])'
+  specialty: Rheumatology
+  partd_generics: [abatacept, tocilizumab, sarilumab, baricitinib, tofacitinib]
+
+- node: therapeutic-areas/immunology/gastroenterology/crohns-disease
+  slug: crohns-disease
+  clinicaltrials_condition: crohn disease
+  pubmed_query: '"Crohn Disease"[Majr] AND ("2021/01/01"[dp] : "3000"[dp])'
+  specialty: Gastroenterology
+
+- node: therapeutic-areas/immunology/gastroenterology/ulcerative-colitis
+  slug: ulcerative-colitis
+  clinicaltrials_condition: ulcerative colitis
+  pubmed_query: '"Colitis, Ulcerative"[Majr] AND ("2021/01/01"[dp] : "3000"[dp])'
+  specialty: Gastroenterology
+
+# Crohn's and UC share drugs, so prescribers are credited to IBD as a whole.
+- node: therapeutic-areas/immunology/gastroenterology
+  slug: ibd-prescribers
+  specialty: Gastroenterology
+  partd_generics: [vedolizumab, ustekinumab, risankizumab, guselkumab, mirikizumab, ozanimod,
+                   etrasimod, upadacitinib, tofacitinib, adalimumab]
+
+# Obesity: no prescriber pull. Semaglutide and tirzepatide are also diabetes drugs, and Part D
+# data can't tell which disease a prescription was for.
+- node: therapeutic-areas/cardiometabolic/obesity
+  slug: obesity
+  clinicaltrials_condition: obesity
+  pubmed_query: '"Obesity"[Majr] AND ("Anti-Obesity Agents"[Mesh] OR "Glucagon-Like Peptide-1 Receptor Agonists"[Mesh]) AND ("2021/01/01"[dp] : "3000"[dp])'
+  specialty: Endocrinology

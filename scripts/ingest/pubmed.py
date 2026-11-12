@@ -23,6 +23,8 @@ FIELDS = ["author_key", "name", "last_name", "fore_name", "orcid", "papers", "fi
 
 def main(only):
     for ind in indications(only):
+        if not ind.get("pubmed_query"):
+            continue
         res = get(EUTILS + "esearch.fcgi", {"db": "pubmed", "term": ind["pubmed_query"], "retmax": 0,
                                             "usehistory": "y", "retmode": "json", **KEY}, pause=PAUSE)["esearchresult"]
         total = min(int(res["count"]), MAX_PAPERS)

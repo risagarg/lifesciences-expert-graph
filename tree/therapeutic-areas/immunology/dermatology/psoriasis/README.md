@@ -9,14 +9,14 @@ summary: Immune-mediated skin disease. The most built-out area of the tree so fa
 
 **Path:** [Healthcare & Life Sciences](../../../../README.md) / [Therapeutic areas](../../../README.md) / [Immunology & inflammation](../../README.md) / [Dermatology](../README.md) / Psoriasis
 ### Contents (2)
-- [Plaque psoriasis](plaque-psoriasis.md) · 69 experts — The most common form of psoriasis. All the approved drugs in the tree are linked here. Older systemic drugs and phototherapy are not added yet.
+- [Plaque psoriasis](plaque-psoriasis.md) · 78 experts — The most common form of psoriasis. All the approved drugs in the tree are linked here. Older systemic drugs and phototherapy are not added yet.
 - [Generalized pustular psoriasis](generalized-pustular-psoriasis.md) *(stub)* — Rare, severe subtype. Drugs.com lists Spevigo (spesolimab) as approved for this indication rather than plaque psoriasis. Not yet built out.
 ### Connections
 - ← covers · [AAD Annual Meeting 2026](../../../../evidence/conferences/aad-annual-meeting-2026.md)
 - ← covers · [Fall Clinical Dermatology Conference 2025](../../../../evidence/conferences/fall-clinical-dermatology-2025.md)
 - ← covers · [Maui Derm Hawaii 2026](../../../../evidence/conferences/maui-derm-2026.md)
 - ← covers · [Winter Clinical Dermatology Conference Hawaii 2026](../../../../evidence/conferences/winter-clinical-hawaii-2026.md)
-### Experts on Psoriasis (22)
+### Experts on Psoriasis (23)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
 - **[April W. Armstrong](../../../../../people/april-w-armstrong.md)** (6 sources · last seen 2026)
@@ -43,6 +43,8 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - panelist, Psoriasis Update 2026 (psoriasis and psoriatic arthritis) · Maui Derm Hawaii 2026
 - **[James Del Rosso](../../../../../people/james-del-rosso.md)** (2 sources · last seen 2026)
   - panelist, top advances of 2025: AD, HS, psoriasis, CSU · Fall Clinical Dermatology Conference 2025
+- **[Leah McCormick Howard](../../../../../people/leah-mccormick-howard.md)** (2 sources · last seen 2026)
+  - President and CEO, named as President and CEO, April 2026 · Patient organization leaders
 - **[Mark Nestor](../../../../../people/mark-nestor.md)** (2 sources · last seen 2026)
   - panelist, top advances of 2025: AD, HS, psoriasis, CSU · Fall Clinical Dermatology Conference 2025
 - **[Adam S. Faye](../../../../../people/adam-s-faye.md)** (1 source · last seen 2026)
@@ -69,7 +71,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - speaker, NPF remission criteria and biologic strategies in psoriasis · Winter Clinical Dermatology Conference Hawaii 2026
 - **[Yael Anne Leshem](../../../../../people/yael-anne-leshem.md)** (1 source · last seen 2026)
   - presenter, IEC-IPC symposium: psoriasiform reactions to atopic dermatitis and prurigo nodularis treatments, clinical approach · AAD Annual Meeting 2026
-### Experts in sub-branches (64)
+### Experts in sub-branches (72)
 [Jennifer Soung](../../../../../people/j-soung.md) (4), [Robert Bissonnette](../../../../../people/r-bissonnette.md) (4), [Joel M. Gelfand](../../../../../people/joel-m-gelfand.md) (3), [Melinda Gooderham](../../../../../people/melinda-gooderham.md) (3), [Alan Menter](../../../../../people/alan-menter.md) (2), [Alice B. Gottlieb](../../../../../people/alice-b-gottlieb.md) (2), [Amy S. Paller](../../../../../people/amy-s-paller.md) (2), [Andrew Blauvelt](../../../../../people/andrew-blauvelt.md) (2), [Arthur Kavanaugh](../../../../../people/arthur-kavanaugh.md) (2), [Arun L. Pathy](../../../../../people/arun-l-pathy.md) (2), [Benjamin Stoff](../../../../../people/benjamin-stoff.md) (2), [Boni E. Elewski](../../../../../people/boni-e-elewski.md) (2), [Cody Connor](../../../../../people/cody-connor.md) (2), [Craig A. Elmets](../../../../../people/craig-a-elmets.md) (2), [Craig L. Leonardi](../../../../../people/craig-l-leonardi.md) (2)
 
-Numbers are evidence items in this branch. …and 49 more. Open a sub-branch to see why each person is listed, or see [all experts](../../../../../EXPERTS.md).
+Numbers are evidence items in this branch. …and 57 more. Open a sub-branch to see why each person is listed, or see [all experts](../../../../../EXPERTS.md).

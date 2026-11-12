@@ -28,7 +28,8 @@ A node's ID is its path under `tree/` without the extension, for example `therap
 
 | Link | From → to |
 |---|---|
-| `indicated_for` | drug → disease |
+| `indicated_for` | drug → disease (approved) |
+| `in_development_for` | drug → disease (in trials, not approved) |
 | `markets` | company → drug |
 | `covers` | evidence → disease, drug or mechanism |
 | `issued_by` | guideline → society |
@@ -53,6 +54,9 @@ You only write a link once. The other end shows it automatically.
 | `orcid`, `npi` | no | Identifiers. Used to merge records safely |
 | `affiliations` | no | `- {text, as_of, source, org}`. `org` is an optional organization node ID |
 | `evidence` | one of these | `- {node: <evidence node id>, role, author_position}` |
+| `npi_record` | no | Added by `nppes.py`: credential, taxonomy, practice city and state, NPI Registry link, date checked |
+| `payments` | no | Added by `openpayments.py`: year, total, number of companies, top companies with amounts and payment types |
+| `status` | no | `auto` for people added by the data pulls and not yet reviewed. Delete the line once checked |
 | `records` | one of these | `- {source, id, covers: <node id>, url, ...}` from the ingest scripts |
 
 A person appears on every node their evidence or records cover, and on each of those nodes' ancestors.

@@ -13,7 +13,7 @@ import re
 
 import yaml
 
-from common import DATA, ROOT, indications, read_csv, slugify
+from common import DATA, ROOT, clean_name, indications, is_person_name, read_csv, slugify, write_person
 
 PEOPLE = ROOT / "people"
 FM = re.compile(r"^---\n(.*?)\n---\n(.*)$", re.S)
@@ -46,7 +46,9 @@ def find(people, name, orcid="", npi=""):
 
 
 def upsert(people, name, record, orcid="", npi="", affiliation=""):
-    name = re.sub(r"\s+", " ", DEGREES.sub("", name)).strip(" ,")
+    name = clean_name(name)
+    if not is_person_name(name):
+        return
     slug = find(people, name, orcid, npi)
     if not slug:
         slug = slugify(name)
@@ -65,6 +67,7 @@ def upsert(people, name, record, orcid="", npi="", affiliation=""):
     recs = m.setdefault("records", [])
     if not any(r["source"] == record["source"] and r["id"] == record["id"] for r in recs):
         recs.append(record)
+    people[slug]["dirty"] = True
 
 
 def main():
@@ -78,7 +81,12 @@ def main():
         # ClinicalTrials.gov: officials ranked by number of trials
         trials = collections.defaultdict(list)
         for r in read_csv(DATA / "clinicaltrials" / f"{s}.csv"):
-            trials[r["official_name"]].append(r)
+            # company study directors are employees running the trial, not outside experts
+            if r["sponsor_class"] == "INDUSTRY" and r["official_role"] == "STUDY_DIRECTOR":
+                continue
+            name = clean_name(r["official_name"])
+            if is_person_name(name):
+                trials[name].append(r)
         for name, rs in sorted(trials.items(), key=lambda kv: -len(kv[1]))[: args.top]:
             if len(rs) < 2:
                 break
@@ -100,10 +108,10 @@ def main():
                    {"source": "partd", "id": f"{r['data_year']}:{r['npi']}:{s}", "covers": node,
                     "claims": int(r["total_claims"]), "drugs": r["drugs"], "year": r["data_year"],
                     "practice": f"{r['city']}, {r['state']}"}, npi=r["npi"])
-    for slug, p in people.items():
-        head = yaml.safe_dump(p["meta"], sort_keys=False, allow_unicode=True, width=1000)
-        p["path"].write_text(f"---\n{head}---\n{p['rest']}")
-    print(f"{len(people)} people on disk")
+    changed = [p for p in people.values() if p.get("dirty")]
+    for p in changed:  # only rewrite files that actually gained something
+        write_person(p["path"], p["meta"], p["rest"])
+    print(f"{len(changed)} people added or updated, {len(people)} on disk")
 
 
 if __name__ == "__main__":

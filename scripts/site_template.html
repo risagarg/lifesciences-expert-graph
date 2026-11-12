@@ -189,7 +189,7 @@ function md(text) {
 
 function nodeButton(id, rel) {
   const n = byId.get(id);
-  return `<li><button type="button" data-go="${esc(id)}"><span class="dot" style="background:${color(n.type)}"></span>${esc(n.title)}${rel ? `<span class="rel">${esc(rel)}</span>` : ""}</button></li>`;
+  return `<li><button type="button" data-go="${esc(id)}"><span class="dot" style="background:${color(n.type)}"></span>${esc(n.title)}${rel ? `<span class="rel">${esc(String(rel).replace(/_/g, " "))}</span>` : ""}</button></li>`;
 }
 
 function renderDetail() {

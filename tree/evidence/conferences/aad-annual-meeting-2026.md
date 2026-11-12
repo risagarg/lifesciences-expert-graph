@@ -37,12 +37,12 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - presenter, IEC-IPC symposium: anti-TNF skin eruptions in inflammatory bowel disease, children · AAD Annual Meeting 2026
 - **[Joel M. Gelfand](../../../people/joel-m-gelfand.md)** (3 sources · last seen 2026)
   - presenter, Psoriasis: Modern Therapeutic Approaches (panel) · AAD Annual Meeting 2026
+- **[Joseph Merola](../../../people/joseph-merola.md)** (3 sources · last seen 2026)
+  - presenter, Therapeutic Hotline: what's new in psoriasis biologics (icotrokinra; ixekizumab with tirzepatide) · AAD Annual Meeting 2026
 - **[Melinda Gooderham](../../../people/melinda-gooderham.md)** (3 sources · last seen 2026)
   - presenter, late-breaking research: LATITUDE PsO 3001 and 3002 (zasocitinib) · AAD Annual Meeting 2026
 - **[Andrew Blauvelt](../../../people/andrew-blauvelt.md)** (2 sources · last seen 2026)
   - presenter, late-breaking research: ONWARD 1 and 2 (envudeucitinib) · AAD Annual Meeting 2026
-- **[Joseph Merola](../../../people/joseph-merola.md)** (2 sources · last seen 2026)
-  - presenter, Therapeutic Hotline: what's new in psoriasis biologics (icotrokinra; ixekizumab with tirzepatide) · AAD Annual Meeting 2026
 - **[Andrew Pink](../../../people/andrew-pink.md)** (1 source · last seen 2026)
   - presenter, IEC-IPC symposium: diagnostic challenges between atopic dermatitis and psoriasis · AAD Annual Meeting 2026
 - **[Gowri Kabbur](../../../people/gowri-kabbur.md)** (1 source · last seen 2026)

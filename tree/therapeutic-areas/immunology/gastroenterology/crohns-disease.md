@@ -12,7 +12,7 @@ summary: Not built out yet.
 ### Connections
 - ← covers · [Digestive Disease Week (DDW) 2025](../../../evidence/conferences/ddw-2025.md)
 - ← covers · [ECCO Congress 2026](../../../evidence/conferences/ecco-2026.md)
-### Experts on Crohn's disease (16)
+### Experts on Crohn's disease (18)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
 - **[Elisabeth de Greef](../../../../people/elisabeth-de-greef.md)** (2 sources · last seen 2026)
@@ -31,6 +31,8 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - first author, UNITI Jr, PCDAI eligibility criteria in pediatric Crohn's · ECCO Congress 2026
 - **[Adam S. Faye](../../../../people/adam-s-faye.md)** (1 source · last seen 2026)
   - first author, guselkumab safety at age 60+ across UC, Crohn's, PsA and psoriasis · ECCO Congress 2026
+- **[Alan Moss](../../../../people/alan-moss.md)** (1 source · last seen 2026)
+  - Chief Scientific Officer, appointed 2023; also directs the Crohn's & Colitis Program at Boston Medical Center · Patient organization leaders
 - **[Anne M. Griffiths](../../../../people/anne-m-griffiths.md)** (1 source · last seen 2026)
   - first author, quality of life with ustekinumab in pediatric Crohn's · ECCO Congress 2026
 - **[Bruce E. Sands](../../../../people/bruce-e-sands.md)** (1 source · last seen 2025)
@@ -43,6 +45,8 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - first author, GALAXI 2/3, guselkumab steroid-sparing through week 48 · Digestive Disease Week (DDW) 2025
 - **[Marc Ferrante](../../../../people/marc-ferrante.md)** (1 source · last seen 2026)
   - first author, GALAXI 2 & 3, disease duration and guselkumab response in Crohn's · ECCO Congress 2026
+- **[Michael Osso](../../../../people/michael-osso.md)** (1 source · last seen 2026)
+  - President and CEO, named 2026 National Health Council board chair · Patient organization leaders
 - **[Parakkal Deepak](../../../../people/parakkal-deepak.md)** (1 source · last seen 2026)
   - first author, GALAXI and GRAVITI, guselkumab induction by weight and BMI in Crohn's · ECCO Congress 2026
 - **[Remo Panaccione](../../../../people/remo-panaccione.md)** (1 source · last seen 2026)

@@ -42,10 +42,10 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - trial publication author, author 2 · ICONIC-LEAD (icotrokinra, phase 3)
   - presenter, ICONIC-LEAD (icotrokinra) · AAD Annual Meeting 2026
   - presenter, late-breaker: ICONIC-LEAD 52-week data (icotrokinra) · EADV Congress 2025
+- **[Joseph Merola](../../../../../people/joseph-merola.md)** (3 sources · last seen 2026)
+  - presenter, Therapeutic Hotline: what's new in psoriasis biologics (icotrokinra; ixekizumab with tirzepatide) · AAD Annual Meeting 2026
 - **[Melinda Gooderham](../../../../../people/melinda-gooderham.md)** (3 sources · last seen 2026)
   - trial publication author, author 1 · ICONIC-TOTAL (icotrokinra, phase 3)
-- **[Joseph Merola](../../../../../people/joseph-merola.md)** (2 sources · last seen 2026)
-  - presenter, Therapeutic Hotline: what's new in psoriasis biologics (icotrokinra; ixekizumab with tirzepatide) · AAD Annual Meeting 2026
 - **[A. Pinter](../../../../../people/a-pinter.md)** (1 source · last seen 2025 · name unconfirmed)
   - trial publication author, author 5 · ICONIC-LEAD (icotrokinra, phase 3)
 - **[A.A. Hebert](../../../../../people/a-a-hebert.md)** (1 source · last seen 2025 · name unconfirmed)

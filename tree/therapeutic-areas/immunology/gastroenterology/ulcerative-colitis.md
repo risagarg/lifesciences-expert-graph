@@ -12,7 +12,7 @@ summary: Not built out yet.
 ### Connections
 - ← covers · [Digestive Disease Week (DDW) 2025](../../../evidence/conferences/ddw-2025.md)
 - ← covers · [ECCO Congress 2026](../../../evidence/conferences/ecco-2026.md)
-### Experts on Ulcerative colitis (15)
+### Experts on Ulcerative colitis (17)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
 - **[Dan Turner](../../../../people/dan-turner.md)** (2 sources · last seen 2026)
@@ -24,6 +24,8 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - first author, guselkumab IV or SC induction pharmacokinetics in UC · ECCO Congress 2026
 - **[Adam S. Faye](../../../../people/adam-s-faye.md)** (1 source · last seen 2026)
   - first author, guselkumab safety at age 60+ across UC, Crohn's, PsA and psoriasis · ECCO Congress 2026
+- **[Alan Moss](../../../../people/alan-moss.md)** (1 source · last seen 2026)
+  - Chief Scientific Officer, appointed 2023; also directs the Crohn's & Colitis Program at Boston Medical Center · Patient organization leaders
 - **[Andres J. Yarur](../../../../people/andres-j-yarur.md)** (1 source · last seen 2026)
   - first author, QUASAR and ASTRO, guselkumab induction by weight and BMI in UC · ECCO Congress 2026
 - **[Axel Dignass](../../../../people/axel-dignass.md)** (1 source · last seen 2026)
@@ -38,6 +40,8 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - first author, QUASAR long-term extension, guselkumab in UC, 2-year outcomes · ECCO Congress 2026
 - **[Gary R. Lichtenstein](../../../../people/gary-r-lichtenstein.md)** (1 source · last seen 2025)
   - first author, QUASAR long-term extension, guselkumab in UC through week 92 · Digestive Disease Week (DDW) 2025
+- **[Michael Osso](../../../../people/michael-osso.md)** (1 source · last seen 2026)
+  - President and CEO, named 2026 National Health Council board chair · Patient organization leaders
 - **[Millie D. Long](../../../../people/millie-d-long.md)** (1 source · last seen 2025)
   - first author, ASTRO, subcutaneous guselkumab induction in UC · Digestive Disease Week (DDW) 2025
 - **[Silvio Danese](../../../../people/silvio-danese.md)** (1 source · last seen 2026)

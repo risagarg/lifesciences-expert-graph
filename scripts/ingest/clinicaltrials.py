@@ -28,6 +28,8 @@ def studies(condition):
 
 def main(only):
     for ind in indications(only):
+        if not ind.get("clinicaltrials_condition"):
+            continue
         rows = []
         for s in studies(ind["clinicaltrials_condition"]):
             p = s.get("protocolSection", {})

@@ -21,10 +21,10 @@ sources:
 ### Experts on Bimekizumab (2)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
+- **[Joseph Merola](../../../../../people/joseph-merola.md)** (3 sources · last seen 2026)
+  - presenter, late-breaker: BE BOLD, bimekizumab vs risankizumab in PsA, week 16 · EULAR Congress 2026
 - **[Philip Mease](../../../../../people/philip-mease.md)** (3 sources · last seen 2026)
   - presenter, late-breaker: 'state zero' with IL-17 inhibitors incl. bimekizumab in PsA · ACR Convergence 2025
-- **[Joseph Merola](../../../../../people/joseph-merola.md)** (2 sources · last seen 2026)
-  - presenter, late-breaker: BE BOLD, bimekizumab vs risankizumab in PsA, week 16 · EULAR Congress 2026
 ### Sources
 - [Drugs.com: new drugs for plaque psoriasis](https://drugs.com/medical-answers/new-drugs-treatment-plaque-psoriasis-3511670)
 - [Wride et al., Dermatol Clin 2024 (targets)](https://pubmed.ncbi.nlm.nih.gov/38796266/)

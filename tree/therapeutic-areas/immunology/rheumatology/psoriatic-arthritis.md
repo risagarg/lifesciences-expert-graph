@@ -24,10 +24,10 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - presenter, late-breaker: 'state zero' with IL-17 inhibitors incl. bimekizumab in PsA · ACR Convergence 2025
   - panelist, Psoriasis Update 2026 (psoriasis and psoriatic arthritis) · Maui Derm Hawaii 2026
   - interviewed on new data, izokibep week 52 in PsA; real-world risankizumab vs TNF and IL-17 inhibitors · EULAR Congress 2026
+- **[Joseph Merola](../../../../people/joseph-merola.md)** (3 sources · last seen 2026)
+  - presenter, late-breaker: BE BOLD, bimekizumab vs risankizumab in PsA, week 16 · EULAR Congress 2026
 - **[E. James Song](../../../../people/e-james-song.md)** (2 sources · last seen 2026)
   - panelist, Psoriasis Update 2026 (psoriasis and psoriatic arthritis) · Maui Derm Hawaii 2026
-- **[Joseph Merola](../../../../people/joseph-merola.md)** (2 sources · last seen 2026)
-  - presenter, late-breaker: BE BOLD, bimekizumab vs risankizumab in PsA, week 16 · EULAR Congress 2026
 - **[Adam S. Faye](../../../../people/adam-s-faye.md)** (1 source · last seen 2026)
   - first author, guselkumab safety at age 60+ across UC, Crohn's, PsA and psoriasis · ECCO Congress 2026
 - **[Frank Behrens](../../../../people/frank-behrens.md)** (1 source · last seen 2025)

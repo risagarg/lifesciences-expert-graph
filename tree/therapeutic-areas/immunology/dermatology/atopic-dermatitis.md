@@ -13,7 +13,7 @@ summary: Not built out yet.
 - ← covers · [Fall Clinical Dermatology Conference 2025](../../../evidence/conferences/fall-clinical-dermatology-2025.md)
 - ← covers · [Maui Derm Hawaii 2026](../../../evidence/conferences/maui-derm-2026.md)
 - ← covers · [Winter Clinical Dermatology Conference Hawaii 2026](../../../evidence/conferences/winter-clinical-hawaii-2026.md)
-### Experts on Atopic dermatitis (20)
+### Experts on Atopic dermatitis (21)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
 - **[April W. Armstrong](../../../../people/april-w-armstrong.md)** (6 sources · last seen 2026)
@@ -49,6 +49,8 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - speaker, CME symposium: IL-13 in atopic dermatitis · Winter Clinical Dermatology Conference Hawaii 2026
 - **[Kilian Eyerich](../../../../people/kilian-eyerich.md)** (1 source · last seen 2026)
   - presenter, IEC-IPC symposium: psoriasiform spongiotic dermatitis and advanced diagnostics · AAD Annual Meeting 2026
+- **[Kristin Belleson](../../../../people/kristin-belleson.md)** (1 source · last seen 2026)
+  - President and CEO, joined July 15, 2024 · Patient organization leaders
 - **[Lawrence Eichenfield](../../../../people/lawrence-eichenfield.md)** (1 source · last seen 2026)
   - panelist, Atopic Dermatitis and Pruritus 2026 · Maui Derm Hawaii 2026
 - **[Raj Chovatiya](../../../../people/raj-chovatiya.md)** (1 source · last seen 2026)
