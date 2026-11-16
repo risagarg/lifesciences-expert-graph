@@ -62,13 +62,49 @@ npi_record:
   practice: Chicago, IL
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1699838102
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 299672.08
+  companies: 13
+  top:
+  - company: ABBVIE INC.
+    usd: 84719.33
+    types:
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+    - Consulting Fee
+    - Travel and Lodging
+  - company: Janssen Biotech, Inc.
+    usd: 57989.71
+    types:
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+    - Consulting Fee
+    - Travel and Lodging
+  - company: PFIZER INC.
+    usd: 47632.37
+    types:
+    - Consulting Fee
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+    - Travel and Lodging
+  - company: Eli Lilly and Company
+    usd: 29982.85
+    types:
+    - Consulting Fee
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+    - Travel and Lodging
+  - company: Takeda Pharmaceuticals U.S.A., Inc.
+    usd: 24790.09
+    types:
+    - Consulting Fee
+    - Travel and Lodging
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
 
 **Path:** [All experts](../EXPERTS.md) / David T. Rubin
 
-**7 sources · last seen 2026**
+**7 sources · last seen 2026 · industry-paid $299,672 (2025)**
 ### Expertise
 - [Ulcerative colitis](../tree/therapeutic-areas/immunology/gastroenterology/ulcerative-colitis.md) (6)
 - [Crohn's disease](../tree/therapeutic-areas/immunology/gastroenterology/crohns-disease.md) (1)
@@ -84,6 +120,7 @@ npi_record:
 - PubMed ulcerative-colitis:name:rubin|david t — 27 papers · [Ulcerative colitis](../tree/therapeutic-areas/immunology/gastroenterology/ulcerative-colitis.md)
 ### Practice and industry ties
 - **NPI 1699838102** (Internal Medicine, Gastroenterology, Chicago, IL). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1699838102), checked 2026-11-16
+- **Industry payments 2025:** $299,672 from 13 companies. Top: ABBVIE INC. $84,719 (Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program, Consulting Fee); Janssen Biotech, Inc. $57,990 (Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program, Consulting Fee); PFIZER INC. $47,632 (Consulting Fee, Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program). Source: [CMS Open Payments](https://openpaymentsdata.cms.gov/), general payments only
 ### Affiliations
 - Inflammatory Bowel Disease Center, University of Chicago Medicine, Chicago, Illinois. (2026)
 - University of Chicago (2025)

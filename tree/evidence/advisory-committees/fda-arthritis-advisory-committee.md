@@ -23,11 +23,11 @@ FDA abolished this committee in 2025 (final rule effective Aug 29, 2025). It las
 ### Experts on FDA Arthritis Advisory Committee (terminated 2025) (3)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
-- **[Allan Gibofsky](../../../people/allan-gibofsky.md)** (1 source · last seen 2025)
+- **[Allan Gibofsky](../../../people/allan-gibofsky.md)** (1 source · last seen 2025 · industry-paid $180,110 (2025))
   - former committee chair, quoted on the committee's termination · FDA Arthritis Advisory Committee (terminated 2025)
-- **[Kenneth G. Saag](../../../people/kenneth-g-saag.md)** (1 source · last seen 2025)
+- **[Kenneth G. Saag](../../../people/kenneth-g-saag.md)** (1 source · last seen 2025 · industry-paid $20,249 (2025))
   - former committee member, quoted on the committee's termination · FDA Arthritis Advisory Committee (terminated 2025)
-- **[Lee Simon](../../../people/lee-simon.md)** (1 source · last seen 2025)
+- **[Lee Simon](../../../people/lee-simon.md)** (1 source · last seen 2025 · industry-paid $19,532 (2025))
   - former FDA division director and committee member, directed FDA's Division of Analgesic, Anti-inflammatory and Ophthalmologic Drug Products 2001-2003; committee member 1993-2001 · FDA Arthritis Advisory Committee (terminated 2025)
 ### Sources
 - [Healio: 'Shortsighted': FDA terminates Arthritis Advisory Committee (Oct 3, 2025)](https://www.healio.com/news/rheumatology/20251111/shortsighted-fda-terminates-arthritis-advisory-committee)

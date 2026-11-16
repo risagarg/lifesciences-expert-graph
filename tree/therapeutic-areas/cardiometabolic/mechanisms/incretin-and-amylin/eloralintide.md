@@ -22,11 +22,11 @@ sources:
 ### Experts on Eloralintide (3)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
-- **[Harold Bays](../../../../../people/harold-bays.md)** (1 source · last seen 2025)
+- **[Harold Bays](../../../../../people/harold-bays.md)** (1 source · last seen 2025 · industry-paid $38,254 (2025))
   - speaker, Lilly corporate session: eloralintide phase 2 in obesity · ObesityWeek 2025
-- **[Liana Billings](../../../../../people/liana-billings.md)** (1 source · last seen 2025)
+- **[Liana Billings](../../../../../people/liana-billings.md)** (1 source · last seen 2025 · industry-paid $45,071 (2025))
   - speaker, Lilly corporate session: eloralintide phase 2 in obesity · ObesityWeek 2025
-- **[Stanley Hsia](../../../../../people/stanley-hsia.md)** (1 source · last seen 2025)
+- **[Stanley Hsia](../../../../../people/stanley-hsia.md)** (1 source · last seen 2025 · industry-paid $4,091 (2025))
   - speaker, Lilly corporate session: eloralintide phase 2 in obesity · ObesityWeek 2025
 ### Sources
 - [Lilly Medical: ObesityWeek 2025 presentations](https://medical.lilly.com/us/science/conferences/obesity/ow2025)

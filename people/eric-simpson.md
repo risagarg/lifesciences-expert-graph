@@ -81,13 +81,47 @@ npi_record:
   practice: Portland, OR
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1972511426
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 200051.7
+  companies: 13
+  top:
+  - company: GENZYME CORPORATION
+    usd: 121151.63
+    types:
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+    - Travel and Lodging
+    - Food and Beverage
+  - company: PFIZER INC.
+    usd: 33407.15
+    types:
+    - Consulting Fee
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+    - Honoraria
+  - company: Amgen Inc.
+    usd: 10520.79
+    types:
+    - Consulting Fee
+    - Travel and Lodging
+    - Food and Beverage
+  - company: Regeneron Pharmaceuticals, Inc.
+    usd: 9405.75
+    types:
+    - Consulting Fee
+  - company: Galderma Laboratories, L.P.
+    usd: 7273.6
+    types:
+    - Travel and Lodging
+    - Consulting Fee
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
 
 **Path:** [All experts](../EXPERTS.md) / Eric Simpson
 
-**10 sources · last seen 2026 · auto, not reviewed**
+**10 sources · last seen 2026 · auto, not reviewed · industry-paid $200,052 (2025)**
 ### Expertise
 - [Atopic dermatitis](../tree/therapeutic-areas/immunology/dermatology/atopic-dermatitis.md) (10)
 ### Data records (10)
@@ -103,6 +137,7 @@ npi_record:
 - PubMed atopic-dermatitis:orcid:0000-0003-0853-0252 — 27 papers · [Atopic dermatitis](../tree/therapeutic-areas/immunology/dermatology/atopic-dermatitis.md)
 ### Practice and industry ties
 - **NPI 1972511426** (MD, Dermatology, Portland, OR). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1972511426), checked 2026-11-16
+- **Industry payments 2025:** $200,052 from 13 companies. Top: GENZYME CORPORATION $121,152 (Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program, Travel and Lodging); PFIZER INC. $33,407 (Consulting Fee, Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program); Amgen Inc. $10,521 (Consulting Fee, Travel and Lodging). Source: [CMS Open Payments](https://openpaymentsdata.cms.gov/), general payments only
 ### Affiliations
 - Oregon Health & Science University, Department of Dermatology (2011)
 - From the, Oregon Health & Science University, Portland, OR, USA. (2026)

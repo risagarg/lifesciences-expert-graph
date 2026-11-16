@@ -39,6 +39,42 @@ npi_record:
   practice: Wauwatosa, WI
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1790865806
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 84072.1
+  companies: 13
+  top:
+  - company: Takeda Pharmaceuticals U.S.A., Inc.
+    usd: 26730.05
+    types:
+    - Consulting Fee
+    - Travel and Lodging
+    - Food and Beverage
+  - company: Janssen Biotech, Inc.
+    usd: 14915.67
+    types:
+    - Consulting Fee
+    - Travel and Lodging
+    - Food and Beverage
+  - company: Amgen Inc.
+    usd: 9363.76
+    types:
+    - Consulting Fee
+    - Travel and Lodging
+    - Food and Beverage
+  - company: E.R. Squibb & Sons, L.L.C.
+    usd: 7177.55
+    types:
+    - Consulting Fee
+    - Travel and Lodging
+    - Food and Beverage
+  - company: Eli Lilly and Company
+    usd: 5632.55
+    types:
+    - Consulting Fee
+    - Food and Beverage
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 The same surname and first initial appear across these sources, so they are merged here. Confirm with an identifier such as ORCID or NPI.
@@ -47,7 +83,7 @@ The same surname and first initial appear across these sources, so they are merg
 
 **Path:** [All experts](../EXPERTS.md) / Kenneth B. Gordon
 
-**4 sources · last seen 2026**
+**4 sources · last seen 2026 · industry-paid $84,072 (2025)**
 ### Expertise
 - [Plaque psoriasis](../tree/therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md) (3)
 - [Psoriasis](../tree/therapeutic-areas/immunology/dermatology/psoriasis/README.md) (2)
@@ -65,5 +101,6 @@ The same surname and first initial appear across these sources, so they are merg
 - [Maui Derm Hawaii 2026](../tree/evidence/conferences/maui-derm-2026.md) — panelist, Psoriasis Update 2026 (psoriasis and psoriatic arthritis)
 ### Practice and industry ties
 - **NPI 1790865806** (M.D., Dermatology, Wauwatosa, WI). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1790865806), checked 2026-11-16
+- **Industry payments 2025:** $84,072 from 13 companies. Top: Takeda Pharmaceuticals U.S.A., Inc. $26,730 (Consulting Fee, Travel and Lodging); Janssen Biotech, Inc. $14,916 (Consulting Fee, Travel and Lodging); Amgen Inc. $9,364 (Consulting Fee, Travel and Lodging). Source: [CMS Open Payments](https://openpaymentsdata.cms.gov/), general payments only
 ### Affiliations
 - International Psoriasis Council, Councilor (2026) → [International Psoriasis Council (IPC)](../tree/organizations/professional-societies/international-psoriasis-council.md)

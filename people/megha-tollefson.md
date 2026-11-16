@@ -19,6 +19,13 @@ npi_record:
   practice: Rochester, MN
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1689646093
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 0
+  companies: 0
+  top: []
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
@@ -33,5 +40,6 @@ npi_record:
 - [FDA Dermatologic and Ophthalmic Drugs Advisory Committee (roster)](../tree/evidence/advisory-committees/fda-dodac-roster.md) — advisory committee member, dermatology; term to 2027-08-31
 ### Practice and industry ties
 - **NPI 1689646093** (M.D., Dermatology, Rochester, MN). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1689646093), checked 2026-11-16
+- **Industry payments 2025:** none reported in [CMS Open Payments](https://openpaymentsdata.cms.gov/)
 ### Affiliations
 - Professor of Dermatology and Pediatric and Adolescent Medicine, Mayo Clinic, Rochester, MN (2024)

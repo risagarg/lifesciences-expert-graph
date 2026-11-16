@@ -52,7 +52,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - ClinicalTrials.gov NCT03168113 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT01518478 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT02910791 · PRINCIPAL_INVESTIGATOR
-- **[Amy S. Paller](../../../../people/amy-s-paller.md)** (11 sources · last seen 2026)
+- **[Amy S. Paller](../../../../people/amy-s-paller.md)** (11 sources · last seen 2026 · industry-paid $126,121 (2025))
   - ClinicalTrials.gov NCT04486742 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT07050810 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT03051347 · PRINCIPAL_INVESTIGATOR
@@ -61,9 +61,9 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - ClinicalTrials.gov NCT05042258 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT01782703 · PRINCIPAL_INVESTIGATOR
   - PubMed atopic-dermatitis:name:paller|amy s · 63 papers
-- **[Mark Lebwohl](../../../../people/mark-lebwohl.md)** (11 sources · last seen 2026)
+- **[Mark Lebwohl](../../../../people/mark-lebwohl.md)** (11 sources · last seen 2026 · industry-paid $127,834 (2025))
   - panelist, top advances of 2025: AD, HS, psoriasis, CSU · Fall Clinical Dermatology Conference 2025
-- **[Eric Simpson](../../../../people/eric-simpson.md)** (10 sources · last seen 2026 · auto, not reviewed)
+- **[Eric Simpson](../../../../people/eric-simpson.md)** (10 sources · last seen 2026 · auto, not reviewed · industry-paid $200,052 (2025))
   - ClinicalTrials.gov NCT01291940 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT03409367 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT02525094 · PRINCIPAL_INVESTIGATOR
@@ -74,7 +74,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - ClinicalTrials.gov NCT01375205 · PRINCIPAL_INVESTIGATOR
   - PubMed atopic-dermatitis:name:simpson|eric l · 57 papers
   - PubMed atopic-dermatitis:orcid:0000-0003-0853-0252 · 27 papers
-- **[Richard Gallo](../../../../people/richard-gallo.md)** (9 sources · last seen 2025 · auto, not reviewed)
+- **[Richard Gallo](../../../../people/richard-gallo.md)** (9 sources · last seen 2025 · auto, not reviewed · industry-paid $5,631 (2025))
   - ClinicalTrials.gov NCT00822276 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT03151148 · STUDY_CHAIR
   - ClinicalTrials.gov NCT00407979 · PRINCIPAL_INVESTIGATOR
@@ -98,9 +98,9 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - ClinicalTrials.gov NCT03361215 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT03376243 · PRINCIPAL_INVESTIGATOR
   - PubMed atopic-dermatitis:name:weidinger|stephan · 34 papers
-- **[April W. Armstrong](../../../../people/april-w-armstrong.md)** (7 sources · last seen 2026)
+- **[April W. Armstrong](../../../../people/april-w-armstrong.md)** (7 sources · last seen 2026 · industry-paid $520,639 (2025))
   - panelist, top advances of 2025: AD, HS, psoriasis, CSU · Fall Clinical Dermatology Conference 2025
-- **[Emma Guttman](../../../../people/emma-guttman.md)** (5 sources · last seen 2026 · auto, not reviewed)
+- **[Emma Guttman](../../../../people/emma-guttman.md)** (5 sources · last seen 2026 · auto, not reviewed · industry-paid $188,459 (2025))
   - ClinicalTrials.gov NCT02594098 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT04605094 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT07242638 · PRINCIPAL_INVESTIGATOR
@@ -131,12 +131,12 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - ClinicalTrials.gov NCT03758716 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT01995747 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT00173498 · PRINCIPAL_INVESTIGATOR
-- **[Fu-Tong Liu](../../../../people/fu-tong-liu.md)** (4 sources · last seen 2008 · auto, not reviewed)
+- **[Fu-Tong Liu](../../../../people/fu-tong-liu.md)** (4 sources · last seen 2008 · auto, not reviewed · industry-paid $60 (2025))
   - ClinicalTrials.gov NCT00367016 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT00371163 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT00368719 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT00710489 · PRINCIPAL_INVESTIGATOR
-- **[Katrina Abuabara](../../../../people/katrina-abuabara.md)** (4 sources · last seen 2026 · auto, not reviewed)
+- **[Katrina Abuabara](../../../../people/katrina-abuabara.md)** (4 sources · last seen 2026 · auto, not reviewed · industry-paid $7,618 (2025))
   - ClinicalTrials.gov NCT07447063 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT07487831 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT06998446 · PRINCIPAL_INVESTIGATOR
@@ -146,12 +146,12 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - ClinicalTrials.gov NCT06570889 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT00856947 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT06560255 · PRINCIPAL_INVESTIGATOR
-- **[Lisa Beck](../../../../people/lisa-beck.md)** (4 sources · last seen 2014 · auto, not reviewed)
+- **[Lisa Beck](../../../../people/lisa-beck.md)** (4 sources · last seen 2014 · auto, not reviewed · industry-paid $46,525 (2025))
   - ClinicalTrials.gov NCT00515047 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT01996150 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT02115399 · STUDY_CHAIR
   - ClinicalTrials.gov NCT01494142 · STUDY_CHAIR
-- **[Kenneth B. Gordon](../../../../people/kenneth-b-gordon.md)** (4 sources · last seen 2026)
+- **[Kenneth B. Gordon](../../../../people/kenneth-b-gordon.md)** (4 sources · last seen 2026 · industry-paid $84,072 (2025))
   - presenter, IEC-IPC symposium: eczematous reactions to psoriasis treatments, clinical approach · AAD Annual Meeting 2026
 - **[Jochen M Schmitt](../../../../people/jochen-m-schmitt.md)** (3 sources · last seen 2021 · auto, not reviewed)
   - ClinicalTrials.gov NCT00445081 · PRINCIPAL_INVESTIGATOR
@@ -168,17 +168,17 @@ Ranked by number of independent sources. Under each name is why they are listed 
 - **[Emma Guttman-Yassky](../../../../people/emma-guttman-yassky.md)** (2 sources · last seen 2026 · auto, not reviewed)
   - PubMed atopic-dermatitis:name:guttman-yassky|emma · 65 papers
   - PubMed atopic-dermatitis:orcid:0000-0002-9363-324X · 33 papers
-- **[Jonathan I Silverberg](../../../../people/jonathan-i-silverberg.md)** (2 sources · last seen 2026 · auto, not reviewed)
+- **[Jonathan I Silverberg](../../../../people/jonathan-i-silverberg.md)** (2 sources · last seen 2026 · auto, not reviewed · industry-paid $759,091 (2025))
   - PubMed atopic-dermatitis:name:silverberg|jonathan i · 85 papers
   - PubMed atopic-dermatitis:orcid:0000-0003-3686-7805 · 51 papers
-- **[Lawrence Eichenfield](../../../../people/lawrence-eichenfield.md)** (2 sources · last seen 2026)
+- **[Lawrence Eichenfield](../../../../people/lawrence-eichenfield.md)** (2 sources · last seen 2026 · industry-paid $428,714 (2025))
   - panelist, Atopic Dermatitis and Pruritus 2026 · Maui Derm Hawaii 2026
   - PubMed atopic-dermatitis:name:eichenfield|lawrence f · 55 papers
-- **[Darrell Rigel](../../../../people/darrell-rigel.md)** (2 sources · last seen 2026)
+- **[Darrell Rigel](../../../../people/darrell-rigel.md)** (2 sources · last seen 2026 · industry-paid $29,273 (2025))
   - panelist, top advances of 2025: AD, HS, psoriasis, CSU · Fall Clinical Dermatology Conference 2025
 - **[James Del Rosso](../../../../people/james-del-rosso.md)** (2 sources · last seen 2026)
   - panelist, top advances of 2025: AD, HS, psoriasis, CSU · Fall Clinical Dermatology Conference 2025
-- **[Mark Nestor](../../../../people/mark-nestor.md)** (2 sources · last seen 2026)
+- **[Mark Nestor](../../../../people/mark-nestor.md)** (2 sources · last seen 2026 · industry-paid $95,475 (2025))
   - panelist, top advances of 2025: AD, HS, psoriasis, CSU · Fall Clinical Dermatology Conference 2025
 - **[Alan D Irvine](../../../../people/alan-d-irvine.md)** (1 source · last seen 2026 · auto, not reviewed)
   - PubMed atopic-dermatitis:name:irvine|alan d · 30 papers
@@ -190,23 +190,23 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - PubMed atopic-dermatitis:orcid:0000-0003-4884-6286 · 31 papers
 - **[Cataldo Patruno](../../../../people/cataldo-patruno.md)** (1 source · last seen 2026 · auto, not reviewed)
   - PubMed atopic-dermatitis:name:patruno|cataldo · 35 papers
-- **[Christopher G. Bunick](../../../../people/christopher-g-bunick.md)** (1 source · last seen 2026)
+- **[Christopher G. Bunick](../../../../people/christopher-g-bunick.md)** (1 source · last seen 2026 · industry-paid $238,787 (2025))
   - speaker, atopic dermatitis in children and stature · Winter Clinical Dermatology Conference Hawaii 2026
-- **[Edward (Ted) Lain](../../../../people/edward-lain.md)** (1 source · last seen 2026)
+- **[Edward (Ted) Lain](../../../../people/edward-lain.md)** (1 source · last seen 2026 · industry-paid $629,999 (2025))
   - speaker, EBGLYSS (lebrikizumab) in atopic dermatitis (non-CME) · Winter Clinical Dermatology Conference Hawaii 2026
-- **[Elizabeth (Lisa) A. Swanson](../../../../people/lisa-swanson.md)** (1 source · last seen 2026)
+- **[Elizabeth (Lisa) A. Swanson](../../../../people/lisa-swanson.md)** (1 source · last seen 2026 · industry-paid $651,889 (2025))
   - speaker, atopic dermatitis in children and stature · Winter Clinical Dermatology Conference Hawaii 2026
-- **[Gowri Kabbur](../../../../people/gowri-kabbur.md)** (1 source · last seen 2026)
+- **[Gowri Kabbur](../../../../people/gowri-kabbur.md)** (1 source · last seen 2026 · industry-paid $402 (2025))
   - presenter, Managing psoriasis and atopic dermatitis in patients with cancer · AAD Annual Meeting 2026
 - **[J P Thyssen](../../../../people/j-p-thyssen.md)** (1 source · last seen 2025 · auto, not reviewed)
   - PubMed atopic-dermatitis:orcid:0000-0003-3770-1743 · 37 papers
 - **[Jacob P Thyssen](../../../../people/jacob-p-thyssen.md)** (1 source · last seen 2026 · auto, not reviewed)
   - PubMed atopic-dermatitis:name:thyssen|jacob p · 48 papers
-- **[Jason Hawkes](../../../../people/jason-hawkes.md)** (1 source · last seen 2026)
+- **[Jason Hawkes](../../../../people/jason-hawkes.md)** (1 source · last seen 2026 · industry-paid $603,245 (2025))
   - presenter, IEC-IPC symposium: eczematous reactions to psoriasis treatments, clinical presentation · AAD Annual Meeting 2026
-- **[Johann Gudjonsson](../../../../people/johann-gudjonsson.md)** (1 source · last seen 2026)
+- **[Johann Gudjonsson](../../../../people/johann-gudjonsson.md)** (1 source · last seen 2026 · industry-paid $177,023 (2025))
   - presenter, IEC-IPC symposium: mechanisms of paradoxical reactions and iatrogenic switches · AAD Annual Meeting 2026
-- **[Karan Lal](../../../../people/karan-lal.md)** (1 source · last seen 2026)
+- **[Karan Lal](../../../../people/karan-lal.md)** (1 source · last seen 2026 · industry-paid $256,238 (2025))
   - speaker, CME symposium: IL-13 in atopic dermatitis · Winter Clinical Dermatology Conference Hawaii 2026
 - **[Kenji Kabashima](../../../../people/kenji-kabashima.md)** (1 source · last seen 2026 · auto, not reviewed)
   - PubMed atopic-dermatitis:name:kabashima|kenji · 30 papers
@@ -214,9 +214,9 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - presenter, IEC-IPC symposium: psoriasiform spongiotic dermatitis and advanced diagnostics · AAD Annual Meeting 2026
 - **[Kristin Belleson](../../../../people/kristin-belleson.md)** (1 source · last seen 2026)
   - President and CEO, joined July 15, 2024 · Patient organization leaders
-- **[Raj Chovatiya](../../../../people/raj-chovatiya.md)** (1 source · last seen 2026)
+- **[Raj Chovatiya](../../../../people/raj-chovatiya.md)** (1 source · last seen 2026 · industry-paid $1,158,997 (2025))
   - panelist, Atopic Dermatitis and Pruritus 2026 · Maui Derm Hawaii 2026
-- **[Shawn G. Kwatra](../../../../people/shawn-g-kwatra.md)** (1 source · last seen 2026)
+- **[Shawn G. Kwatra](../../../../people/shawn-g-kwatra.md)** (1 source · last seen 2026 · industry-paid $105,485 (2025))
   - presenter, IEC-IPC symposium: psoriasiform reactions to atopic dermatitis and prurigo nodularis treatments, clinical presentation · AAD Annual Meeting 2026
 - **[Thomas Bieber](../../../../people/thomas-bieber.md)** (1 source · last seen 2026 · auto, not reviewed)
   - PubMed atopic-dermatitis:name:bieber|thomas · 29 papers

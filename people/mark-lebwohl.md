@@ -82,6 +82,41 @@ npi_record:
   practice: New York, NY
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1013902444
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 127834.06
+  companies: 23
+  top:
+  - company: SUN PHARMACEUTICAL INDUSTRIES INC.
+    usd: 37430.11
+    types:
+    - Consulting Fee
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+    - Travel and Lodging
+  - company: PFIZER INC.
+    usd: 15433.27
+    types:
+    - Consulting Fee
+    - Food and Beverage
+  - company: Boehringer Ingelheim Pharmaceuticals, Inc.
+    usd: 13807.99
+    types:
+    - Consulting Fee
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+    - Food and Beverage
+  - company: LEO Pharma Inc.
+    usd: 9711.01
+    types:
+    - Consulting Fee
+    - Food and Beverage
+  - company: Takeda Pharmaceuticals U.S.A., Inc.
+    usd: 8811.68
+    types:
+    - Consulting Fee
+    - Food and Beverage
+    - Education
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 The same surname and first initial appear across these sources, so they are merged here. Confirm with an identifier such as ORCID or NPI.
@@ -90,7 +125,7 @@ The same surname and first initial appear across these sources, so they are merg
 
 **Path:** [All experts](../EXPERTS.md) / Mark Lebwohl
 
-**11 sources · last seen 2026**
+**11 sources · last seen 2026 · industry-paid $127,834 (2025)**
 ### Expertise
 - [Plaque psoriasis](../tree/therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md) (9)
 - [Psoriasis](../tree/therapeutic-areas/immunology/dermatology/psoriasis/README.md) (2)
@@ -118,6 +153,7 @@ The same surname and first initial appear across these sources, so they are merg
 - PubMed plaque-psoriasis:name:lebwohl|mark — 34 papers · [Plaque psoriasis](../tree/therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md)
 ### Practice and industry ties
 - **NPI 1013902444** (Dermatology, New York, NY). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1013902444), checked 2026-11-16
+- **Industry payments 2025:** $127,834 from 23 companies. Top: SUN PHARMACEUTICAL INDUSTRIES INC. $37,430 (Consulting Fee, Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program); PFIZER INC. $15,433 (Consulting Fee, Food and Beverage); Boehringer Ingelheim Pharmaceuticals, Inc. $13,808 (Consulting Fee, Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program). Source: [CMS Open Payments](https://openpaymentsdata.cms.gov/), general payments only
 ### Affiliations
 - Ichan School of Medicine (2024)
 - Department of Dermatology, Icahn School of Medicine at Mount Sinai, New York, New York. (2026)

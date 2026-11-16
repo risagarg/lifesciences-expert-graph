@@ -74,13 +74,41 @@ npi_record:
   practice: Louisville, KY
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1235138009
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 1031.98
+  companies: 10
+  top:
+  - company: UCB, Inc.
+    usd: 488.56
+    types:
+    - Food and Beverage
+  - company: Janssen Biotech, Inc.
+    usd: 194.73
+    types:
+    - Food and Beverage
+    - Education
+  - company: Arcutis Biotherapeutics, Inc.
+    usd: 127.09
+    types:
+    - Food and Beverage
+  - company: ABBVIE INC.
+    usd: 66.54
+    types:
+    - Food and Beverage
+  - company: Organon LLC
+    usd: 62.73
+    types:
+    - Food and Beverage
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
 
 **Path:** [All experts](../EXPERTS.md) / Steven R Smith
 
-**10 sources · last seen 2017 · auto, not reviewed**
+**10 sources · last seen 2017 · auto, not reviewed · industry-paid $1,032 (2025)**
 ### Expertise
 - [Obesity](../tree/therapeutic-areas/cardiometabolic/obesity.md) (10)
 ### Data records (10)
@@ -96,5 +124,6 @@ npi_record:
 - ClinicalTrials.gov [NCT02728635](https://clinicaltrials.gov/study/NCT02728635) — PRINCIPAL_INVESTIGATOR · [Obesity](../tree/therapeutic-areas/cardiometabolic/obesity.md)
 ### Practice and industry ties
 - **NPI 1235138009** (M.D., Dermatology, Louisville, KY). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1235138009), checked 2026-11-16
+- **Industry payments 2025:** $1,032 from 10 companies. Top: UCB, Inc. $489 (Food and Beverage); Janssen Biotech, Inc. $195 (Food and Beverage, Education); Arcutis Biotherapeutics, Inc. $127 (Food and Beverage). Source: [CMS Open Payments](https://openpaymentsdata.cms.gov/), general payments only
 ### Affiliations
 - Pennington Biomedical Research Center (2005)

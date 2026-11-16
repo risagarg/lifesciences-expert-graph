@@ -29,13 +29,45 @@ npi_record:
   practice: Dallas, TX
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1831133529
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 141269.23
+  companies: 9
+  top:
+  - company: SANOFI-AVENTIS U.S. LLC
+    usd: 34567.0
+    types:
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+  - company: Novo Nordisk AS
+    usd: 34208.64
+    types:
+    - Consulting Fee
+    - Travel and Lodging
+    - Food and Beverage
+  - company: SANOFI US SERVICES INC.
+    usd: 25311.72
+    types:
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+    - Travel and Lodging
+  - company: Eli Lilly and Company
+    usd: 13687.5
+    types:
+    - Consulting Fee
+  - company: F. Hoffmann-La Roche AG
+    usd: 10890.22
+    types:
+    - Consulting Fee
+    - Travel and Lodging
+    - Food and Beverage
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
 
 **Path:** [All experts](../EXPERTS.md) / Julio Rosenstock
 
-**2 sources · last seen 2026**
+**2 sources · last seen 2026 · industry-paid $141,269 (2025)**
 ### Expertise
 - [CagriSema (cagrilintide + semaglutide)](../tree/therapeutic-areas/cardiometabolic/mechanisms/incretin-and-amylin/cagrisema.md) (1)
 - [Obesity](../tree/therapeutic-areas/cardiometabolic/obesity.md) (1)
@@ -46,6 +78,7 @@ npi_record:
 - PubMed obesity:name:rosenstock|julio — 8 papers · [Obesity](../tree/therapeutic-areas/cardiometabolic/obesity.md)
 ### Practice and industry ties
 - **NPI 1831133529** (M.D., Internal Medicine, Endocrinology, Diabetes & Metabolism, Dallas, TX). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1831133529), checked 2026-11-16
+- **Industry payments 2025:** $141,269 from 9 companies. Top: SANOFI-AVENTIS U.S. LLC $34,567 (Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program); Novo Nordisk AS $34,209 (Consulting Fee, Travel and Lodging); SANOFI US SERVICES INC. $25,312 (Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program, Travel and Lodging). Source: [CMS Open Payments](https://openpaymentsdata.cms.gov/), general payments only
 ### Affiliations
 - Clinical Professor of Medicine, UT Southwestern Medical Center (2026)
 - Southwestern Medical Center, University of Texas, Dallas, TX, USA. (2026)

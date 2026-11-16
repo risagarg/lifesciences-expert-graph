@@ -11,7 +11,7 @@ summary: Not built out yet.
 **Path:** [Healthcare & Life Sciences](../../../README.md) / [Therapeutic areas](../../README.md) / [Immunology & inflammation](../README.md) / [Rheumatology](README.md) / Rheumatoid arthritis
 ### Connections
 - ← covers · [ACR Convergence 2025](../../../evidence/conferences/acr-convergence-2025.md)
-### Experts on Rheumatoid arthritis (41)
+### Experts on Rheumatoid arthritis (62)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
 - **[Boehringer Ingelheim](../../../../people/boehringer-ingelheim.md)** (17 sources · last seen 2016 · auto, not reviewed)
@@ -45,7 +45,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - ClinicalTrials.gov NCT02665910 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT04312815 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT03254966 · PRINCIPAL_INVESTIGATOR
-- **[Christopher Ritchlin](../../../../people/christopher-ritchlin.md)** (8 sources · last seen 2021 · auto, not reviewed)
+- **[Christopher Ritchlin](../../../../people/christopher-ritchlin.md)** (8 sources · last seen 2021 · auto, not reviewed · industry-paid $34,881 (2025))
   - ClinicalTrials.gov NCT01098201 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT01083563 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT05197530 · PRINCIPAL_INVESTIGATOR
@@ -99,7 +99,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - ClinicalTrials.gov NCT03011281 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT04449224 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT03099525 · PRINCIPAL_INVESTIGATOR
-- **[Alan Kivitz](../../../../people/alan-kivitz.md)** (4 sources · last seen 2020 · auto, not reviewed)
+- **[Alan Kivitz](../../../../people/alan-kivitz.md)** (4 sources · last seen 2020 · auto, not reviewed · industry-paid $105,010 (2025))
   - ClinicalTrials.gov NCT00281294 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT00637793 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT04306744 · PRINCIPAL_INVESTIGATOR
@@ -119,7 +119,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - ClinicalTrials.gov NCT04655612 · STUDY_DIRECTOR
   - ClinicalTrials.gov NCT02547493 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT01722617 · PRINCIPAL_INVESTIGATOR
-- **[Norman B Gaylis](../../../../people/norman-b-gaylis.md)** (4 sources · last seen 2013 · auto, not reviewed)
+- **[Norman B Gaylis](../../../../people/norman-b-gaylis.md)** (4 sources · last seen 2013 · auto, not reviewed · industry-paid $237 (2025))
   - ClinicalTrials.gov NCT00425932 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT01351480 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT01213017 · PRINCIPAL_INVESTIGATOR
@@ -141,37 +141,79 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - ClinicalTrials.gov NCT04170504 · PRINCIPAL_INVESTIGATOR
 - **[Georg Schett](../../../../people/georg-schett.md)** (2 sources · last seen 2026 · auto, not reviewed)
   - PubMed rheumatoid-arthritis:name:schett|georg · 18 papers
+- **[Ara Dikranian](../../../../people/ara-dikranian.md)** (1 source · last seen 2013 · auto, not reviewed · industry-paid $365,575 (2025))
+  - Medicare Part D 2013:1609962026:rheumatoid-arthritis · 350 claims
+- **[Brent Flickinger](../../../../people/brent-flickinger.md)** (1 source · last seen 2013 · auto, not reviewed · industry-paid $3,607 (2025))
+  - Medicare Part D 2013:1902914872:rheumatoid-arthritis · 126 claims
 - **[Bryant R England](../../../../people/bryant-r-england.md)** (1 source · last seen 2026 · auto, not reviewed)
   - PubMed rheumatoid-arthritis:name:england|bryant r · 14 papers
 - **[Claire Daien](../../../../people/claire-daien.md)** (1 source · last seen 2025)
   - presenter, late-breaker: SUPERFIBRE, fiber supplementation in RA · ACR Convergence 2025
-- **[Jeffrey A Sparks](../../../../people/jeffrey-a-sparks.md)** (1 source · last seen 2026 · auto, not reviewed)
+- **[David Mandel](../../../../people/david-mandel.md)** (1 source · last seen 2013 · auto, not reviewed · industry-paid $50,064 (2025))
+  - Medicare Part D 2013:1558369553:rheumatoid-arthritis · 174 claims
+- **[Edmund Lacour](../../../../people/edmund-lacour.md)** (1 source · last seen 2013 · auto, not reviewed · industry-paid $1,201 (2025))
+  - Medicare Part D 2013:1285689463:rheumatoid-arthritis · 97 claims
+- **[Elvin Garcia](../../../../people/elvin-garcia.md)** (1 source · last seen 2013 · auto, not reviewed · industry-paid $7,470 (2025))
+  - Medicare Part D 2013:1871547596:rheumatoid-arthritis · 483 claims
+- **[Javeed Ahmed](../../../../people/javeed-ahmed.md)** (1 source · last seen 2013 · auto, not reviewed · industry-paid $73 (2025))
+  - Medicare Part D 2013:1689627051:rheumatoid-arthritis · 182 claims
+- **[Jeffrey A Sparks](../../../../people/jeffrey-a-sparks.md)** (1 source · last seen 2026 · auto, not reviewed · industry-paid $59,503 (2025))
   - PubMed rheumatoid-arthritis:name:sparks|jeffrey a · 14 papers
 - **[Jian Liu](../../../../people/jian-liu.md)** (1 source · last seen 2026 · auto, not reviewed)
   - PubMed rheumatoid-arthritis:name:liu|jian · 18 papers
 - **[Jing Zhang](../../../../people/jing-zhang.md)** (1 source · last seen 2026 · auto, not reviewed)
   - PubMed rheumatoid-arthritis:name:zhang|jing · 16 papers
-- **[Jonathan Graf](../../../../people/jonathan-graf.md)** (1 source · last seen 2025)
+- **[Jonathan Graf](../../../../people/jonathan-graf.md)** (1 source · last seen 2025 · industry-paid $153 (2025))
   - presenter, late-breaker: rosnilimab phase 2b in RA · ACR Convergence 2025
+- **[Jorge Zamora-Quezada](../../../../people/jorge-zamora-quezada.md)** (1 source · last seen 2013 · auto, not reviewed)
+  - Medicare Part D 2013:1326042003:rheumatoid-arthritis · 1000 claims
+- **[Jose Aldrich](../../../../people/jose-aldrich.md)** (1 source · last seen 2013 · auto, not reviewed · industry-paid $3,425 (2025))
+  - Medicare Part D 2013:1710173794:rheumatoid-arthritis · 97 claims
 - **[Joshua F Baker](../../../../people/joshua-f-baker.md)** (1 source · last seen 2026 · auto, not reviewed)
   - PubMed rheumatoid-arthritis:name:baker|joshua f · 20 papers
+- **[Karen Smith](../../../../people/karen-smith.md)** (1 source · last seen 2013 · auto, not reviewed · industry-paid $25 (2025))
+  - Medicare Part D 2013:1154317378:rheumatoid-arthritis · 98 claims
+- **[Kristin Gowin](../../../../people/kristin-gowin.md)** (1 source · last seen 2013 · auto, not reviewed · industry-paid $28,269 (2025))
+  - Medicare Part D 2013:1033172895:rheumatoid-arthritis · 96 claims
+- **[Lama Hashish](../../../../people/lama-hashish.md)** (1 source · last seen 2013 · auto, not reviewed · industry-paid $1,462 (2025))
+  - Medicare Part D 2013:1356432389:rheumatoid-arthritis · 299 claims
+- **[Lei Wan](../../../../people/lei-wan.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed rheumatoid-arthritis:name:wan|lei · 14 papers
 - **[Liyun Zhang](../../../../people/liyun-zhang.md)** (1 source · last seen 2026 · auto, not reviewed)
   - PubMed rheumatoid-arthritis:name:zhang|liyun · 14 papers
+- **[Michael Keller](../../../../people/michael-keller.md)** (1 source · last seen 2013 · auto, not reviewed)
+  - Medicare Part D 2013:1669541827:rheumatoid-arthritis · 135 claims
+- **[Philip Meadow](../../../../people/philip-meadow.md)** (1 source · last seen 2013 · auto, not reviewed)
+  - Medicare Part D 2013:1902911878:rheumatoid-arthritis · 95 claims
+- **[Purnell Kirkland](../../../../people/purnell-kirkland.md)** (1 source · last seen 2013 · auto, not reviewed · industry-paid $126 (2025))
+  - Medicare Part D 2013:1629133368:rheumatoid-arthritis · 177 claims
 - **[Qian Wang](../../../../people/qian-wang.md)** (1 source · last seen 2026 · auto, not reviewed)
   - PubMed rheumatoid-arthritis:name:wang|qian · 17 papers
+- **[Ralph Rothenberg](../../../../people/ralph-rothenberg.md)** (1 source · last seen 2013 · auto, not reviewed)
+  - Medicare Part D 2013:1548266190:rheumatoid-arthritis · 111 claims
+- **[Robert Perhala](../../../../people/robert-perhala.md)** (1 source · last seen 2013 · auto, not reviewed · industry-paid $79 (2025))
+  - Medicare Part D 2013:1700881224:rheumatoid-arthritis · 121 claims
 - **[Roberto Giacomelli](../../../../people/roberto-giacomelli.md)** (1 source · last seen 2026 · auto, not reviewed)
   - PubMed rheumatoid-arthritis:name:giacomelli|roberto · 17 papers
-- **[Ted R Mikuls](../../../../people/ted-r-mikuls.md)** (1 source · last seen 2026 · auto, not reviewed)
+- **[Shabana Karim](../../../../people/shabana-karim.md)** (1 source · last seen 2013 · auto, not reviewed · industry-paid $1,619 (2025))
+  - Medicare Part D 2013:1992903355:rheumatoid-arthritis · 142 claims
+- **[Sumeet Bhinder](../../../../people/sumeet-bhinder.md)** (1 source · last seen 2013 · auto, not reviewed · industry-paid $269 (2025))
+  - Medicare Part D 2013:1881776094:rheumatoid-arthritis · 161 claims
+- **[Ted R Mikuls](../../../../people/ted-r-mikuls.md)** (1 source · last seen 2026 · auto, not reviewed · industry-paid $7,155 (2025))
   - PubMed rheumatoid-arthritis:name:mikuls|ted r · 16 papers
+- **[Thomas Romano](../../../../people/thomas-romano.md)** (1 source · last seen 2013 · auto, not reviewed · industry-paid $450 (2025))
+  - Medicare Part D 2013:1023031184:rheumatoid-arthritis · 180 claims
 - **[Tsutomu Takeuchi](../../../../people/tsutomu-takeuchi.md)** (1 source · last seen 2026 · auto, not reviewed)
   - PubMed rheumatoid-arthritis:name:takeuchi|tsutomu · 18 papers
 - **[Wei Liu](../../../../people/wei-liu.md)** (1 source · last seen 2026 · auto, not reviewed)
   - PubMed rheumatoid-arthritis:name:liu|wei · 15 papers
 - **[Xin Li](../../../../people/xin-li.md)** (1 source · last seen 2026 · auto, not reviewed)
   - PubMed rheumatoid-arthritis:name:li|xin · 14 papers
-- **[Yan Liu](../../../../people/yan-liu.md)** (1 source · last seen 2026 · auto, not reviewed)
+- **[Ya Ju Chang](../../../../people/ya-ju-chang.md)** (1 source · last seen 2013 · auto, not reviewed · industry-paid $4,456 (2025))
+  - Medicare Part D 2013:1801879119:rheumatoid-arthritis · 123 claims
+- **[Yan Liu](../../../../people/yan-liu.md)** (1 source · last seen 2026 · auto, not reviewed · industry-paid $1,897 (2025))
   - PubMed rheumatoid-arthritis:name:liu|yan · 18 papers
-- **[Yan Wang](../../../../people/yan-wang.md)** (1 source · last seen 2026 · auto, not reviewed)
+- **[Yan Wang](../../../../people/yan-wang.md)** (1 source · last seen 2026 · auto, not reviewed · industry-paid $2,770 (2025))
   - PubMed rheumatoid-arthritis:name:wang|yan · 18 papers
 - **[Yan Zhang](../../../../people/yan-zhang.md)** (1 source · last seen 2026 · auto, not reviewed)
   - PubMed rheumatoid-arthritis:name:zhang|yan · 23 papers

@@ -13,12 +13,12 @@ summary: Shares many drugs with psoriasis, so the same experts often overlap. No
 - ← covers · [ACR Convergence 2025](../../../evidence/conferences/acr-convergence-2025.md)
 - ← covers · [EULAR Congress 2026](../../../evidence/conferences/eular-2026.md)
 - ← covers · [Maui Derm Hawaii 2026](../../../evidence/conferences/maui-derm-2026.md)
-### Experts on Psoriatic arthritis (39)
+### Experts on Psoriatic arthritis (40)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
 - **[Robert Bissonnette](../../../../people/r-bissonnette.md)** (26 sources · last seen 2025)
   - ClinicalTrials.gov NCT01139918 · PRINCIPAL_INVESTIGATOR
-- **[Christopher Ritchlin](../../../../people/christopher-ritchlin.md)** (8 sources · last seen 2021 · auto, not reviewed)
+- **[Christopher Ritchlin](../../../../people/christopher-ritchlin.md)** (8 sources · last seen 2021 · auto, not reviewed · industry-paid $34,881 (2025))
   - ClinicalTrials.gov NCT01123265 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT03011242 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT02413749 · PRINCIPAL_INVESTIGATOR
@@ -33,7 +33,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - ClinicalTrials.gov NCT05954364 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT04587362 · PRINCIPAL_INVESTIGATOR
   - PubMed psoriatic-arthritis:orcid:0000-0002-1473-1715 · 51 papers
-- **[Philip Mease](../../../../people/philip-mease.md)** (6 sources · last seen 2026)
+- **[Philip Mease](../../../../people/philip-mease.md)** (6 sources · last seen 2026 · industry-paid $297,224 (2025))
   - presenter, late-breaker: 'state zero' with IL-17 inhibitors incl. bimekizumab in PsA · ACR Convergence 2025
   - panelist, Psoriasis Update 2026 (psoriasis and psoriatic arthritis) · Maui Derm Hawaii 2026
   - interviewed on new data, izokibep week 52 in PsA; real-world risankizumab vs TNF and IL-17 inhibitors · EULAR Congress 2026
@@ -48,7 +48,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - ClinicalTrials.gov NCT03737045 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT05631223 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT02912221 · PRINCIPAL_INVESTIGATOR
-- **[Joseph Merola](../../../../people/joseph-merola.md)** (5 sources · last seen 2026)
+- **[Joseph Merola](../../../../people/joseph-merola.md)** (5 sources · last seen 2026 · industry-paid $157,372 (2025))
   - presenter, late-breaker: BE BOLD, bimekizumab vs risankizumab in PsA, week 16 · EULAR Congress 2026
   - PubMed psoriatic-arthritis:name:merola|joseph f · 52 papers
 - **[Vibeke Andersen](../../../../people/vibeke-andersen.md)** (5 sources · last seen 2024 · auto, not reviewed)
@@ -68,7 +68,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
 - **[Dafna D Gladman](../../../../people/dafna-d-gladman.md)** (4 sources · last seen 2026 · auto, not reviewed)
   - PubMed psoriatic-arthritis:orcid:0000-0002-9074-0592 · 78 papers
   - PubMed psoriatic-arthritis:name:gladman|dafna d · 38 papers
-- **[Kenneth B. Gordon](../../../../people/kenneth-b-gordon.md)** (4 sources · last seen 2026)
+- **[Kenneth B. Gordon](../../../../people/kenneth-b-gordon.md)** (4 sources · last seen 2026 · industry-paid $84,072 (2025))
   - panelist, Psoriasis Update 2026 (psoriasis and psoriatic arthritis) · Maui Derm Hawaii 2026
 - **[Christina Chambers](../../../../people/christina-chambers.md)** (3 sources · last seen 2014 · auto, not reviewed)
   - ClinicalTrials.gov NCT02775500 · PRINCIPAL_INVESTIGATOR
@@ -91,7 +91,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
 - **[Adrien NZEUSSEU TOUKAP](../../../../people/adrien-nzeusseu-toukap.md)** (2 sources · last seen 2020 · auto, not reviewed)
   - ClinicalTrials.gov NCT04645420 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT04261010 · PRINCIPAL_INVESTIGATOR
-- **[Alexis Ogdie](../../../../people/alexis-ogdie.md)** (2 sources · last seen 2026 · auto, not reviewed)
+- **[Alexis Ogdie](../../../../people/alexis-ogdie.md)** (2 sources · last seen 2026 · auto, not reviewed · industry-paid $60,837 (2025))
   - PubMed psoriatic-arthritis:orcid:0000-0002-4639-0775 · 52 papers
   - PubMed psoriatic-arthritis:name:ogdie|alexis · 41 papers
 - **[Anna Abou-Raya](../../../../people/anna-abou-raya.md)** (2 sources · last seen 2013 · auto, not reviewed)
@@ -125,6 +125,8 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - PubMed psoriatic-arthritis:orcid:0000-0002-4155-9105 · 51 papers
 - **[Adam S. Faye](../../../../people/adam-s-faye.md)** (1 source · last seen 2026)
   - first author, guselkumab safety at age 60+ across UC, Crohn's, PsA and psoriasis · ECCO Congress 2026
+- **[David Sikes](../../../../people/david-sikes.md)** (1 source · last seen 2013 · auto, not reviewed · industry-paid $825 (2025))
+  - Medicare Part D 2013:1710098215:psoriatic-arthritis · 14 claims
 - **[Frank Behrens](../../../../people/frank-behrens.md)** (1 source · last seen 2025)
   - presenter, late-breaker: AgAIN, secukinumab vs ustekinumab in TNF-experienced PsA · ACR Convergence 2025
 - **[Oliver FitzGerald](../../../../people/oliver-fitzgerald.md)** (1 source · last seen 2025 · auto, not reviewed)

@@ -83,6 +83,40 @@ npi_record:
   practice: Chicago, IL
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1861452815
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 126121.47
+  companies: 16
+  top:
+  - company: GENZYME CORPORATION
+    usd: 37108.49
+    types:
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+    - Travel and Lodging
+    - Consulting Fee
+  - company: Eli Lilly and Company
+    usd: 32303.42
+    types:
+    - Consulting Fee
+    - Travel and Lodging
+    - Food and Beverage
+  - company: BioCryst Pharmaceuticals, Inc.
+    usd: 11122.83
+    types:
+    - Consulting Fee
+    - Food and Beverage
+  - company: Chiesi USA, Inc.
+    usd: 10847.24
+    types:
+    - Consulting Fee
+    - Travel and Lodging
+    - Food and Beverage
+  - company: Boehringer Ingelheim International GmbH
+    usd: 8287.5
+    types:
+    - Consulting Fee
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 The same surname and first initial appear across these sources, so they are merged here. Confirm with an identifier such as ORCID or NPI.
@@ -91,7 +125,7 @@ The same surname and first initial appear across these sources, so they are merg
 
 **Path:** [All experts](../EXPERTS.md) / Amy S. Paller
 
-**11 sources · last seen 2026**
+**11 sources · last seen 2026 · industry-paid $126,121 (2025)**
 ### Expertise
 - [Atopic dermatitis](../tree/therapeutic-areas/immunology/dermatology/atopic-dermatitis.md) (8)
 - [Plaque psoriasis](../tree/therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md) (2)
@@ -115,6 +149,7 @@ The same surname and first initial appear across these sources, so they are merg
 - PubMed atopic-dermatitis:name:paller|amy s — 63 papers · [Atopic dermatitis](../tree/therapeutic-areas/immunology/dermatology/atopic-dermatitis.md)
 ### Practice and industry ties
 - **NPI 1861452815** (MD, Dermatology, Pediatric Dermatology, Chicago, IL). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1861452815), checked 2026-11-16
+- **Industry payments 2025:** $126,121 from 16 companies. Top: GENZYME CORPORATION $37,108 (Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program, Travel and Lodging); Eli Lilly and Company $32,303 (Consulting Fee, Travel and Lodging); BioCryst Pharmaceuticals, Inc. $11,123 (Consulting Fee, Food and Beverage). Source: [CMS Open Payments](https://openpaymentsdata.cms.gov/), general payments only
 ### Affiliations
 - International Psoriasis Council, Board Member (2026) → [International Psoriasis Council (IPC)](../tree/organizations/professional-societies/international-psoriasis-council.md)
 - Northwestern University (2020)

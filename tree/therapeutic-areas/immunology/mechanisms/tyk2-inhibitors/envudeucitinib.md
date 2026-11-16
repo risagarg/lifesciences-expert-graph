@@ -23,7 +23,7 @@ Not yet approved. Practical Dermatology reports both ONWARD studies met all prim
 ### Experts on Envudeucitinib (1)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
-- **[Andrew Blauvelt](../../../../../people/andrew-blauvelt.md)** (2 sources · last seen 2026)
+- **[Andrew Blauvelt](../../../../../people/andrew-blauvelt.md)** (2 sources · last seen 2026 · industry-paid $250,246 (2025))
   - presenter, late-breaking research: ONWARD 1 and 2 (envudeucitinib) · AAD Annual Meeting 2026
 ### Sources
 - [Practical Dermatology: next-generation TYK2 inhibitors](https://practicaldermatology.com/topics/psoriasis/next-generation-tyk2-inhibitors-in-psoriasis/60985/)

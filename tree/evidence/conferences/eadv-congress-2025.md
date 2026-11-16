@@ -28,7 +28,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
 
 - **[Linda Stein Gold](../../../people/l-gold.md)** (5 sources · last seen 2026)
   - presenter, oral presentation: ICONIC-ADVANCE 1 & 2, icotrokinra vs deucravacitinib · EADV Congress 2025
-- **[Jennifer Soung](../../../people/j-soung.md)** (3 sources · last seen 2026)
+- **[Jennifer Soung](../../../people/j-soung.md)** (3 sources · last seen 2026 · industry-paid $490,896 (2025))
   - presenter, late-breaker: ICONIC-LEAD 52-week data (icotrokinra) · EADV Congress 2025
 ### Sources
 - [Johnson & Johnson: icotrokinra head-to-head data at EADV 2025](https://www.jnj.com/innovativemedicine/us/news-center/immunology/icotrokinra-shows-superiority-to-deucravacitinib-in-first-reported-head-to-head-trials-reinforcing-promise-of-novel-targeted-oral-peptide-for-treatment-of-plaque-psoriasis)

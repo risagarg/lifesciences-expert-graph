@@ -29,13 +29,46 @@ npi_record:
   practice: Boston, MA
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1073503603
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 260643.31
+  companies: 10
+  top:
+  - company: Almirall LLC
+    usd: 211112.47
+    types:
+    - Consulting Fee
+    - Travel and Lodging
+    - Food and Beverage
+  - company: Eli Lilly and Company
+    usd: 16867.64
+    types:
+    - Consulting Fee
+    - Travel and Lodging
+  - company: GENZYME CORPORATION
+    usd: 9623.14
+    types:
+    - Consulting Fee
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+  - company: PFIZER INC.
+    usd: 6636.51
+    types:
+    - Consulting Fee
+    - Honoraria
+    - Travel and Lodging
+  - company: UCB SA
+    usd: 6543.14
+    types:
+    - Consulting Fee
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
 
 **Path:** [All experts](../EXPERTS.md) / Alexa B. Kimball
 
-**2 sources · last seen 2026**
+**2 sources · last seen 2026 · industry-paid $260,643 (2025)**
 ### Expertise
 - [Hidradenitis suppurativa](../tree/therapeutic-areas/immunology/dermatology/hidradenitis-suppurativa.md) (1)
 - [Payers and market access](../tree/stakeholders/payers.md) (1)
@@ -46,6 +79,7 @@ npi_record:
 - PubMed hidradenitis-suppurativa:name:kimball|alexa b — 27 papers · [Hidradenitis suppurativa](../tree/therapeutic-areas/immunology/dermatology/hidradenitis-suppurativa.md)
 ### Practice and industry ties
 - **NPI 1073503603** (MD MPH, Dermatology, Boston, MA). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1073503603), checked 2026-11-16
+- **Industry payments 2025:** $260,643 from 10 companies. Top: Almirall LLC $211,112 (Consulting Fee, Travel and Lodging); Eli Lilly and Company $16,868 (Consulting Fee, Travel and Lodging); GENZYME CORPORATION $9,623 (Consulting Fee, Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program). Source: [CMS Open Payments](https://openpaymentsdata.cms.gov/), general payments only
 ### Affiliations
 - Harvard Medical Faculty Physicians, Beth Israel Deaconess Medical Center (2018)
 - Harvard Medical School and Clinical Laboratory for Epidemiology and Applied Research in Skin (CLEARS), Department of Dermatology, Beth Israel Deaconess Medical Center, Boston, Massachusetts, USA. (2026)

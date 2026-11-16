@@ -39,7 +39,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - ClinicalTrials.gov NCT01960439 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT01960426 · PRINCIPAL_INVESTIGATOR
   - PubMed ulcerative-colitis:name:feagan|brian g · 19 papers
-- **[David T. Rubin](../../../../people/david-t-rubin.md)** (7 sources · last seen 2026)
+- **[David T. Rubin](../../../../people/david-t-rubin.md)** (7 sources · last seen 2026 · industry-paid $299,672 (2025))
   - first author, QUASAR, predictors of endoscopic remission with guselkumab in UC · ECCO Congress 2026
   - ClinicalTrials.gov NCT06693310 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT01095432 · PRINCIPAL_INVESTIGATOR
@@ -50,7 +50,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - ClinicalTrials.gov NCT02721719 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT02684734 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT00729872 · PRINCIPAL_INVESTIGATOR
-- **[James D Lewis](../../../../people/james-d-lewis.md)** (7 sources · last seen 2025 · auto, not reviewed)
+- **[James D Lewis](../../../../people/james-d-lewis.md)** (7 sources · last seen 2025 · auto, not reviewed · industry-paid $16,546 (2025))
   - ClinicalTrials.gov NCT00065065 · STUDY_DIRECTOR
   - ClinicalTrials.gov NCT00652145 · PRINCIPAL_INVESTIGATOR
 - **[Axel Dignass](../../../../people/axel-dignass.md)** (6 sources · last seen 2026)
@@ -117,7 +117,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - ClinicalTrials.gov NCT03131414 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT04926103 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT02606032 · PRINCIPAL_INVESTIGATOR
-- **[Raymond K Cross](../../../../people/raymond-k-cross.md)** (4 sources · last seen 2025 · auto, not reviewed)
+- **[Raymond K Cross](../../../../people/raymond-k-cross.md)** (4 sources · last seen 2025 · auto, not reviewed · industry-paid $101,768 (2025))
   - ClinicalTrials.gov NCT00805285 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT06750731 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT01692743 · PRINCIPAL_INVESTIGATOR
@@ -127,7 +127,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - ClinicalTrials.gov NCT04030676 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT02367326 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT03724929 · PRINCIPAL_INVESTIGATOR
-- **[Bruce E. Sands](../../../../people/bruce-e-sands.md)** (3 sources · last seen 2026)
+- **[Bruce E. Sands](../../../../people/bruce-e-sands.md)** (3 sources · last seen 2026 · industry-paid $138,187 (2025))
   - first author, integrated 1-year safety of guselkumab in Crohn's and UC · Digestive Disease Week (DDW) 2025
   - PubMed ulcerative-colitis:name:sands|bruce e · 32 papers
 - **[Remo Panaccione](../../../../people/remo-panaccione.md)** (3 sources · last seen 2026)
@@ -144,9 +144,9 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - PubMed ulcerative-colitis:name:schreiber|stefan · 27 papers
 - **[Adam S. Faye](../../../../people/adam-s-faye.md)** (1 source · last seen 2026)
   - first author, guselkumab safety at age 60+ across UC, Crohn's, PsA and psoriasis · ECCO Congress 2026
-- **[Alan Moss](../../../../people/alan-moss.md)** (1 source · last seen 2026)
+- **[Alan Moss](../../../../people/alan-moss.md)** (1 source · last seen 2026 · industry-paid $125 (2025))
   - Chief Scientific Officer, appointed 2023; also directs the Crohn's & Colitis Program at Boston Medical Center · Patient organization leaders
-- **[Andres J. Yarur](../../../../people/andres-j-yarur.md)** (1 source · last seen 2026)
+- **[Andres J. Yarur](../../../../people/andres-j-yarur.md)** (1 source · last seen 2026 · industry-paid $63,247 (2025))
   - first author, QUASAR and ASTRO, guselkumab induction by weight and BMI in UC · ECCO Congress 2026
 - **[Bram Verstockt](../../../../people/bram-verstockt.md)** (1 source · last seen 2026 · auto, not reviewed)
   - PubMed ulcerative-colitis:orcid:0000-0003-3898-7093 · 20 papers
@@ -154,7 +154,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - PubMed ulcerative-colitis:name:d'amico|ferdinando · 21 papers
 - **[Fernando Magro](../../../../people/fernando-magro.md)** (1 source · last seen 2026)
   - first author, QUASAR long-term extension, guselkumab in UC, 2-year outcomes · ECCO Congress 2026
-- **[Gary R. Lichtenstein](../../../../people/gary-r-lichtenstein.md)** (1 source · last seen 2025)
+- **[Gary R. Lichtenstein](../../../../people/gary-r-lichtenstein.md)** (1 source · last seen 2025 · industry-paid $48,364 (2025))
   - first author, QUASAR long-term extension, guselkumab in UC through week 92 · Digestive Disease Week (DDW) 2025
 - **[Michael Osso](../../../../people/michael-osso.md)** (1 source · last seen 2026)
   - President and CEO, named 2026 National Health Council board chair · Patient organization leaders

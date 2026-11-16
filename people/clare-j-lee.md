@@ -20,6 +20,13 @@ npi_record:
   practice: Indianapolis, IN
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1861650236
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 0
+  companies: 0
+  top: []
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
@@ -33,5 +40,6 @@ npi_record:
 - PubMed obesity:name:lee|clare j — 9 papers · [Obesity](../tree/therapeutic-areas/cardiometabolic/obesity.md)
 ### Practice and industry ties
 - **NPI 1861650236** (MD, Internal Medicine, Endocrinology, Diabetes & Metabolism, Indianapolis, IN). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1861650236), checked 2026-11-16
+- **Industry payments 2025:** none reported in [CMS Open Payments](https://openpaymentsdata.cms.gov/)
 ### Affiliations
 - Eli Lilly and Company, Indianapolis, Indiana. (2026)

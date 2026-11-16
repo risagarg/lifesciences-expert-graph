@@ -32,6 +32,13 @@ npi_record:
   practice: Aurora, CO
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1073778056
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 0
+  companies: 0
+  top: []
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
@@ -47,5 +54,6 @@ npi_record:
 - ClinicalTrials.gov [NCT01797224](https://clinicaltrials.gov/study/NCT01797224) — PRINCIPAL_INVESTIGATOR · [Psoriatic arthritis](../tree/therapeutic-areas/immunology/rheumatology/psoriatic-arthritis.md)
 ### Practice and industry ties
 - **NPI 1073778056** (MD, Pediatrics, Pediatric Endocrinology, Aurora, CO). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1073778056), checked 2026-11-16
+- **Industry payments 2025:** none reported in [CMS Open Payments](https://openpaymentsdata.cms.gov/)
 ### Affiliations
 - UCSD (2014)

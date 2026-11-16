@@ -30,13 +30,50 @@ npi_record:
   practice: Washington, DC
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1831325521
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 759091.44
+  companies: 23
+  top:
+  - company: Galderma Laboratories, L.P.
+    usd: 160289.64
+    types:
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+    - Consulting Fee
+    - Travel and Lodging
+  - company: Regeneron Healthcare Solutions, Inc.
+    usd: 103200.35
+    types:
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+    - Travel and Lodging
+    - Food and Beverage
+  - company: GENZYME CORPORATION
+    usd: 89248.77
+    types:
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+    - Travel and Lodging
+    - Food and Beverage
+  - company: Lilly USA, LLC
+    usd: 78711.03
+    types:
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+    - Consulting Fee
+    - Travel and Lodging
+  - company: ABBVIE INC.
+    usd: 78214.4
+    types:
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+    - Consulting Fee
+    - Travel and Lodging
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
 
 **Path:** [All experts](../EXPERTS.md) / Jonathan I Silverberg
 
-**2 sources · last seen 2026 · auto, not reviewed**
+**2 sources · last seen 2026 · auto, not reviewed · industry-paid $759,091 (2025)**
 ### Expertise
 - [Atopic dermatitis](../tree/therapeutic-areas/immunology/dermatology/atopic-dermatitis.md) (2)
 ### Data records (2)
@@ -44,6 +81,7 @@ npi_record:
 - PubMed atopic-dermatitis:orcid:0000-0003-3686-7805 — 51 papers · [Atopic dermatitis](../tree/therapeutic-areas/immunology/dermatology/atopic-dermatitis.md)
 ### Practice and industry ties
 - **NPI 1831325521** (MD, PhD, MPH, Dermatology, Washington, DC). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1831325521), checked 2026-11-16
+- **Industry payments 2025:** $759,091 from 23 companies. Top: Galderma Laboratories, L.P. $160,290 (Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program, Consulting Fee); Regeneron Healthcare Solutions, Inc. $103,200 (Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program, Travel and Lodging); GENZYME CORPORATION $89,249 (Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program, Travel and Lodging). Source: [CMS Open Payments](https://openpaymentsdata.cms.gov/), general payments only
 ### Affiliations
 - Department of Dermatology, The George Washington University School of Medicine and Health Sciences, Washington, District of Columbia, USA. (2026)
 - Department of Dermatology, The George Washington University School of Medicine and Health Sciences, Washington, DC, USA. (2026)

@@ -242,7 +242,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - ClinicalTrials.gov NCT00932750 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT05880758 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT02347020 · PRINCIPAL_INVESTIGATOR
-- **[Sonia Caprio](../../../people/sonia-caprio.md)** (13 sources · last seen 2023 · auto, not reviewed)
+- **[Sonia Caprio](../../../people/sonia-caprio.md)** (13 sources · last seen 2023 · auto, not reviewed · industry-paid $35,625 (2025))
   - ClinicalTrials.gov NCT01725035 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT01966627 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT00585299 · PRINCIPAL_INVESTIGATOR
@@ -294,7 +294,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - ClinicalTrials.gov NCT02052076 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT02398253 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT01201590 · PRINCIPAL_INVESTIGATOR
-- **[Lawrence J Cheskin](../../../people/lawrence-j-cheskin.md)** (11 sources · last seen 2009 · auto, not reviewed)
+- **[Lawrence J Cheskin](../../../people/lawrence-j-cheskin.md)** (11 sources · last seen 2009 · auto, not reviewed · industry-paid $280 (2025))
   - ClinicalTrials.gov NCT01177085 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT00198965 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT00198913 · PRINCIPAL_INVESTIGATOR
@@ -341,7 +341,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - ClinicalTrials.gov NCT06335771 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT00805207 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT07083557 · PRINCIPAL_INVESTIGATOR
-- **[Steven R Smith](../../../people/steven-r-smith.md)** (10 sources · last seen 2017 · auto, not reviewed)
+- **[Steven R Smith](../../../people/steven-r-smith.md)** (10 sources · last seen 2017 · auto, not reviewed · industry-paid $1,032 (2025))
   - ClinicalTrials.gov NCT00565149 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT02211651 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT01745471 · PRINCIPAL_INVESTIGATOR
@@ -359,25 +359,25 @@ Ranked by number of independent sources. Under each name is why they are listed 
 - **[Carel W Le Roux](../../../people/carel-w-le-roux.md)** (2 sources · last seen 2026 · auto, not reviewed)
   - PubMed obesity:orcid:0000-0001-5521-5445 · 17 papers
   - PubMed obesity:name:le roux|carel w · 15 papers
-- **[Ildiko Lingvay](../../../people/ildiko-lingvay.md)** (2 sources · last seen 2026 · auto, not reviewed)
+- **[Ildiko Lingvay](../../../people/ildiko-lingvay.md)** (2 sources · last seen 2026 · auto, not reviewed · industry-paid $170,873 (2025))
   - PubMed obesity:name:lingvay|ildiko · 9 papers
   - PubMed obesity:orcid:0000-0001-7006-7401 · 8 papers
 - **[Sean Wharton](../../../people/sean-wharton.md)** (2 sources · last seen 2026)
   - speaker, Lilly corporate session: orforglipron phase 3 (ATTAIN-2) · ObesityWeek 2025
   - PubMed obesity:name:wharton|sean · 15 papers
-- **[Julio Rosenstock](../../../people/julio-rosenstock.md)** (2 sources · last seen 2026)
+- **[Julio Rosenstock](../../../people/julio-rosenstock.md)** (2 sources · last seen 2026 · industry-paid $141,269 (2025))
   - PubMed obesity:name:rosenstock|julio · 8 papers
-- **[Alpana Shukla](../../../people/alpana-shukla.md)** (1 source · last seen 2025)
+- **[Alpana Shukla](../../../people/alpana-shukla.md)** (1 source · last seen 2025 · industry-paid $3,958 (2025))
   - presenter, SURMOUNT-5, quality of life with tirzepatide vs semaglutide · ObesityWeek 2025
   - speaker, Lilly corporate session: orforglipron phase 3 (ATTAIN-2) · ObesityWeek 2025
-- **[Stanley Hsia](../../../people/stanley-hsia.md)** (1 source · last seen 2025)
+- **[Stanley Hsia](../../../people/stanley-hsia.md)** (1 source · last seen 2025 · industry-paid $4,091 (2025))
   - speaker, Lilly corporate session: eloralintide phase 2 in obesity · ObesityWeek 2025
   - presenter, mazdutide phase 2 dose-finding study in obesity · ObesityWeek 2025
 - **[Aaron S Kelly](../../../people/aaron-s-kelly.md)** (1 source · last seen 2025 · auto, not reviewed)
   - PubMed obesity:name:kelly|aaron s · 13 papers
 - **[Adam Stefanski](../../../people/adam-stefanski.md)** (1 source · last seen 2026 · auto, not reviewed)
   - PubMed obesity:name:stefanski|adam · 13 papers
-- **[Ania Jastreboff](../../../people/ania-jastreboff.md)** (1 source · last seen 2026)
+- **[Ania Jastreboff](../../../people/ania-jastreboff.md)** (1 source · last seen 2026 · industry-paid $146,537 (2025))
   - presenter, TRIUMPH-1, retatrutide in obesity (lead investigator) · ADA Scientific Sessions 2026
 - **[Ariana Chao](../../../people/ariana-chao.md)** (1 source · last seen 2025)
   - poster presenter, SURMOUNT-2, physical function and inflammatory biomarkers with tirzepatide · ObesityWeek 2025
@@ -385,13 +385,13 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - PubMed obesity:name:lee|clare j · 9 papers
 - **[Donna Ryan](../../../people/donna-ryan.md)** (1 source · last seen 2025)
   - speaker, Lilly corporate session: orforglipron phase 3 (ATTAIN-2) · ObesityWeek 2025
-- **[Harold Bays](../../../people/harold-bays.md)** (1 source · last seen 2025)
+- **[Harold Bays](../../../people/harold-bays.md)** (1 source · last seen 2025 · industry-paid $38,254 (2025))
   - speaker, Lilly corporate session: eloralintide phase 2 in obesity · ObesityWeek 2025
 - **[Joe Nadglowski](../../../people/joe-nadglowski.md)** (1 source · last seen 2026)
   - President and CEO, Obesity Action Coalition, quoted on orforglipron's approval, April 2026 · Patient organization leaders
 - **[Julia P Dunn](../../../people/julia-p-dunn.md)** (1 source · last seen 2026 · auto, not reviewed)
   - PubMed obesity:name:dunn|julia p · 9 papers
-- **[Liana Billings](../../../people/liana-billings.md)** (1 source · last seen 2025)
+- **[Liana Billings](../../../people/liana-billings.md)** (1 source · last seen 2025 · industry-paid $45,071 (2025))
   - speaker, Lilly corporate session: eloralintide phase 2 in obesity · ObesityWeek 2025
 - **[Linong Ji](../../../people/linong-ji.md)** (1 source · last seen 2026 · auto, not reviewed)
   - PubMed obesity:name:ji|linong · 10 papers
@@ -403,13 +403,13 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - PubMed obesity:name:davies|melanie j · 11 papers
 - **[Nadia N Ahmad](../../../people/nadia-n-ahmad.md)** (1 source · last seen 2026 · auto, not reviewed)
   - PubMed obesity:name:ahmad|nadia n · 9 papers
-- **[Nasreen Alfaris](../../../people/nasreen-alfaris.md)** (1 source · last seen 2025)
+- **[Nasreen Alfaris](../../../people/nasreen-alfaris.md)** (1 source · last seen 2025 · industry-paid $10,786 (2025))
   - speaker, Lilly corporate session: orforglipron phase 3 (ATTAIN-2) · ObesityWeek 2025
 - **[Paolo Sbraccia](../../../people/paolo-sbraccia.md)** (1 source · last seen 2026 · auto, not reviewed)
   - PubMed obesity:name:sbraccia|paolo · 8 papers
 - **[Robert F Kushner](../../../people/robert-f-kushner.md)** (1 source · last seen 2026 · auto, not reviewed)
   - PubMed obesity:name:kushner|robert f · 9 papers
-- **[Rodolfo Galindo](../../../people/rodolfo-galindo.md)** (1 source · last seen 2025)
+- **[Rodolfo Galindo](../../../people/rodolfo-galindo.md)** (1 source · last seen 2025 · industry-paid $37,616 (2025))
   - poster presenter, SURMOUNT-5 post hoc, tirzepatide vs semaglutide in prediabetes · ObesityWeek 2025
 - **[Theresa Hunter Gibble](../../../people/theresa-hunter-gibble.md)** (1 source · last seen 2026 · auto, not reviewed)
   - PubMed obesity:orcid:0000-0001-8412-9175 · 8 papers

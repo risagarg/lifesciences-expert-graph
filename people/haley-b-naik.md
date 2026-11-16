@@ -35,6 +35,13 @@ npi_record:
   practice: San Francisco, CA
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1750561056
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 0
+  companies: 0
+  top: []
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
@@ -50,6 +57,7 @@ npi_record:
 - PubMed hidradenitis-suppurativa:name:naik|haley b — 37 papers · [Hidradenitis suppurativa](../tree/therapeutic-areas/immunology/dermatology/hidradenitis-suppurativa.md)
 ### Practice and industry ties
 - **NPI 1750561056** (MD, Dermatology, San Francisco, CA). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1750561056), checked 2026-11-16
+- **Industry payments 2025:** none reported in [CMS Open Payments](https://openpaymentsdata.cms.gov/)
 ### Affiliations
 - University of California, San Francisco (2020)
 - Department of Dermatology, University of California, San Francisco, California. (2026)

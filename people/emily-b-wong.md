@@ -17,6 +17,34 @@ npi_record:
   practice: Aiea, HI
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1518057009
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 2082.27
+  companies: 14
+  top:
+  - company: LEO Pharma Inc.
+    usd: 375.3
+    types:
+    - Food and Beverage
+  - company: ABBVIE INC.
+    usd: 354.73
+    types:
+    - Food and Beverage
+  - company: Regeneron Healthcare Solutions, Inc.
+    usd: 290.91
+    types:
+    - Food and Beverage
+  - company: Galderma Laboratories, L.P.
+    usd: 190.88
+    types:
+    - Food and Beverage
+  - company: Janssen Biotech, Inc.
+    usd: 178.75
+    types:
+    - Education
+    - Food and Beverage
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 The same surname and first initial appear across these sources, so they are merged here. Confirm with an identifier such as ORCID or NPI.
@@ -25,7 +53,7 @@ The same surname and first initial appear across these sources, so they are merg
 
 **Path:** [All experts](../EXPERTS.md) / Emily B. Wong
 
-**2 sources · last seen 2020**
+**2 sources · last seen 2020 · industry-paid $2,082 (2025)**
 ### Expertise
 - [Plaque psoriasis](../tree/therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md) (2)
 - [IL-17 pathway](../tree/therapeutic-areas/immunology/mechanisms/il-17-pathway/README.md) (1)
@@ -37,3 +65,4 @@ The same surname and first initial appear across these sources, so they are merg
 - [AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)](../tree/evidence/guidelines/aad-npf-systemic-nonbiologic-2020.md) — guideline co-author, author 31
 ### Practice and industry ties
 - **NPI 1518057009** (M.D., Dermatology, Aiea, HI). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1518057009), checked 2026-11-16
+- **Industry payments 2025:** $2,082 from 14 companies. Top: LEO Pharma Inc. $375 (Food and Beverage); ABBVIE INC. $355 (Food and Beverage); Regeneron Healthcare Solutions, Inc. $291 (Food and Beverage). Source: [CMS Open Payments](https://openpaymentsdata.cms.gov/), general payments only

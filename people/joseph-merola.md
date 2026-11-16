@@ -56,13 +56,49 @@ npi_record:
   practice: Dallas, TX
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1881807469
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 157372.26
+  companies: 21
+  top:
+  - company: Eli Lilly and Company
+    usd: 24583.15
+    types:
+    - Consulting Fee
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+    - Food and Beverage
+  - company: E.R. Squibb & Sons, L.L.C.
+    usd: 20930.97
+    types:
+    - Consulting Fee
+    - Travel and Lodging
+    - Food and Beverage
+  - company: PFIZER INC.
+    usd: 11954.0
+    types:
+    - Consulting Fee
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+  - company: Janssen Biotech, Inc.
+    usd: 10939.51
+    types:
+    - Consulting Fee
+    - Travel and Lodging
+    - Food and Beverage
+  - company: Boehringer Ingelheim Pharmaceuticals, Inc.
+    usd: 9788.28
+    types:
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+    - Consulting Fee
+    - Travel and Lodging
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
 
 **Path:** [All experts](../EXPERTS.md) / Joseph Merola
 
-**5 sources · last seen 2026**
+**5 sources · last seen 2026 · industry-paid $157,372 (2025)**
 ### Expertise
 - [Plaque psoriasis](../tree/therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md) (3)
 - [Psoriatic arthritis](../tree/therapeutic-areas/immunology/rheumatology/psoriatic-arthritis.md) (2)
@@ -80,6 +116,7 @@ npi_record:
 - PubMed psoriatic-arthritis:name:merola|joseph f — 52 papers · [Psoriatic arthritis](../tree/therapeutic-areas/immunology/rheumatology/psoriatic-arthritis.md)
 ### Practice and industry ties
 - **NPI 1881807469** (M.D., M.M.Sc., Dermatology, Dallas, TX). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1881807469), checked 2026-11-16
+- **Industry payments 2025:** $157,372 from 21 companies. Top: Eli Lilly and Company $24,583 (Consulting Fee, Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program); E.R. Squibb & Sons, L.L.C. $20,931 (Consulting Fee, Travel and Lodging); PFIZER INC. $11,954 (Consulting Fee, Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program). Source: [CMS Open Payments](https://openpaymentsdata.cms.gov/), general payments only
 ### Affiliations
 - International Psoriasis Council, Councilor (2026) → [International Psoriasis Council (IPC)](../tree/organizations/professional-societies/international-psoriasis-council.md)
 - Director, Center for Skin and Related Musculoskeletal Disease, Brigham and Women's Hospital, Harvard Medical School (2018)

@@ -44,13 +44,50 @@ npi_record:
   practice: New York, NY
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1053556852
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 188459.0
+  companies: 19
+  top:
+  - company: Eli Lilly and Company
+    usd: 46200.35
+    types:
+    - Consulting Fee
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+    - Travel and Lodging
+  - company: Amgen Inc.
+    usd: 32162.42
+    types:
+    - Consulting Fee
+    - Travel and Lodging
+    - Food and Beverage
+  - company: PFIZER INC.
+    usd: 27295.47
+    types:
+    - Consulting Fee
+    - Honoraria
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+  - company: GENZYME CORPORATION
+    usd: 21932.93
+    types:
+    - Consulting Fee
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+    - Travel and Lodging
+  - company: ABBVIE INC.
+    usd: 15023.7
+    types:
+    - Consulting Fee
+    - Travel and Lodging
+    - Food and Beverage
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
 
 **Path:** [All experts](../EXPERTS.md) / Emma Guttman
 
-**5 sources · last seen 2026 · auto, not reviewed**
+**5 sources · last seen 2026 · auto, not reviewed · industry-paid $188,459 (2025)**
 ### Expertise
 - [Atopic dermatitis](../tree/therapeutic-areas/immunology/dermatology/atopic-dermatitis.md) (5)
 ### Data records (5)
@@ -61,5 +98,6 @@ npi_record:
 - ClinicalTrials.gov [NCT03359356](https://clinicaltrials.gov/study/NCT03359356) — PRINCIPAL_INVESTIGATOR · [Atopic dermatitis](../tree/therapeutic-areas/immunology/dermatology/atopic-dermatitis.md)
 ### Practice and industry ties
 - **NPI 1053556852** (MD, Dermatology, New York, NY). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1053556852), checked 2026-11-16
+- **Industry payments 2025:** $188,459 from 19 companies. Top: Eli Lilly and Company $46,200 (Consulting Fee, Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program); Amgen Inc. $32,162 (Consulting Fee, Travel and Lodging); PFIZER INC. $27,295 (Consulting Fee, Honoraria). Source: [CMS Open Payments](https://openpaymentsdata.cms.gov/), general payments only
 ### Affiliations
 - Icahn School of Medicine at Mount Sinai (2015)

@@ -17,6 +17,33 @@ npi_record:
   practice: Columbia, SC
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1447631619
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 3449.79
+  companies: 16
+  top:
+  - company: ABBVIE INC.
+    usd: 551.23
+    types:
+    - Food and Beverage
+  - company: Janssen Biotech, Inc.
+    usd: 411.61
+    types:
+    - Food and Beverage
+  - company: UCB, Inc.
+    usd: 311.67
+    types:
+    - Food and Beverage
+  - company: Regeneron Healthcare Solutions, Inc.
+    usd: 302.64
+    types:
+    - Food and Beverage
+  - company: Arcutis Biotherapeutics, Inc.
+    usd: 277.72
+    types:
+    - Food and Beverage
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 The same surname and first initial appear across these sources, so they are merged here. Confirm with an identifier such as ORCID or NPI.
@@ -25,7 +52,7 @@ The same surname and first initial appear across these sources, so they are merg
 
 **Path:** [All experts](../EXPERTS.md) / Cody Connor
 
-**2 sources · last seen 2020**
+**2 sources · last seen 2020 · industry-paid $3,450 (2025)**
 ### Expertise
 - [Plaque psoriasis](../tree/therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md) (2)
 - [IL-17 pathway](../tree/therapeutic-areas/immunology/mechanisms/il-17-pathway/README.md) (1)
@@ -37,3 +64,4 @@ The same surname and first initial appear across these sources, so they are merg
 - [AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)](../tree/evidence/guidelines/aad-npf-systemic-nonbiologic-2020.md) — guideline co-author, author 3
 ### Practice and industry ties
 - **NPI 1447631619** (M.D., Dermatology, Columbia, SC). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1447631619), checked 2026-11-16
+- **Industry payments 2025:** $3,450 from 16 companies. Top: ABBVIE INC. $551 (Food and Beverage); Janssen Biotech, Inc. $412 (Food and Beverage); UCB, Inc. $312 (Food and Beverage). Source: [CMS Open Payments](https://openpaymentsdata.cms.gov/), general payments only

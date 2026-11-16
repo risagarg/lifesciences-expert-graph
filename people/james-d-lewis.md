@@ -56,13 +56,35 @@ npi_record:
   practice: Philadelphia, PA
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1841204872
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 16545.65
+  companies: 3
+  top:
+  - company: Janssen Biotech, Inc.
+    usd: 8607.87
+    types:
+    - Consulting Fee
+    - Travel and Lodging
+    - Food and Beverage
+  - company: Chugai Pharmaceutical Co., Ltd.
+    usd: 3977.78
+    types:
+    - Consulting Fee
+    - Food and Beverage
+  - company: PFIZER INC.
+    usd: 3960.0
+    types:
+    - Consulting Fee
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
 
 **Path:** [All experts](../EXPERTS.md) / James D Lewis
 
-**7 sources · last seen 2025 · auto, not reviewed**
+**7 sources · last seen 2025 · auto, not reviewed · industry-paid $16,546 (2025)**
 ### Expertise
 - [Crohn's disease](../tree/therapeutic-areas/immunology/gastroenterology/crohns-disease.md) (5)
 - [Ulcerative colitis](../tree/therapeutic-areas/immunology/gastroenterology/ulcerative-colitis.md) (2)
@@ -76,5 +98,6 @@ npi_record:
 - ClinicalTrials.gov [NCT00652145](https://clinicaltrials.gov/study/NCT00652145) — PRINCIPAL_INVESTIGATOR · [Ulcerative colitis](../tree/therapeutic-areas/immunology/gastroenterology/ulcerative-colitis.md)
 ### Practice and industry ties
 - **NPI 1841204872** (MD, Internal Medicine, Gastroenterology, Philadelphia, PA). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1841204872), checked 2026-11-16
+- **Industry payments 2025:** $16,546 from 3 companies. Top: Janssen Biotech, Inc. $8,608 (Consulting Fee, Travel and Lodging); Chugai Pharmaceutical Co., Ltd. $3,978 (Consulting Fee, Food and Beverage); PFIZER INC. $3,960 (Consulting Fee). Source: [CMS Open Payments](https://openpaymentsdata.cms.gov/), general payments only
 ### Affiliations
 - University of Pennsylvania (2014)

@@ -20,6 +20,13 @@ npi_record:
   practice: Boston, MA
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1073001707
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 0
+  companies: 0
+  top: []
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
@@ -33,5 +40,6 @@ npi_record:
 - PubMed rheumatoid-arthritis:name:li|xin — 14 papers · [Rheumatoid arthritis](../tree/therapeutic-areas/immunology/rheumatology/rheumatoid-arthritis.md)
 ### Practice and industry ties
 - **NPI 1073001707** (MD, Internal Medicine, Gastroenterology, Boston, MA). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1073001707), checked 2026-11-16
+- **Industry payments 2025:** none reported in [CMS Open Payments](https://openpaymentsdata.cms.gov/)
 ### Affiliations
 - Department of Laboratory Medicine, West China Hospital of Sichuan University, No. 37 Guoxue Road Wuhou District, Chengdu, 640041, China. (2026)

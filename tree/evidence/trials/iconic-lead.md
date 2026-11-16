@@ -27,9 +27,9 @@ Ranked by number of independent sources. Under each name is why they are listed 
 
 - **[Robert Bissonnette](../../../people/r-bissonnette.md)** (26 sources · last seen 2025)
   - trial publication author, author 1 · ICONIC-LEAD (icotrokinra, phase 3)
-- **[Mark Lebwohl](../../../people/mark-lebwohl.md)** (11 sources · last seen 2026)
+- **[Mark Lebwohl](../../../people/mark-lebwohl.md)** (11 sources · last seen 2026 · industry-paid $127,834 (2025))
   - trial publication author, author 16 · ICONIC-LEAD (icotrokinra, phase 3)
-- **[Jennifer Soung](../../../people/j-soung.md)** (3 sources · last seen 2026)
+- **[Jennifer Soung](../../../people/j-soung.md)** (3 sources · last seen 2026 · industry-paid $490,896 (2025))
   - trial publication author, author 2 · ICONIC-LEAD (icotrokinra, phase 3)
 - **[A. Pinter](../../../people/a-pinter.md)** (1 source · last seen 2025 · name unconfirmed)
   - trial publication author, author 5 · ICONIC-LEAD (icotrokinra, phase 3)

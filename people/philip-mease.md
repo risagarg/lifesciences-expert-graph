@@ -54,13 +54,50 @@ npi_record:
   practice: Seattle, WA
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1336218171
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 297223.79
+  companies: 26
+  top:
+  - company: UCB, Inc.
+    usd: 52808.43
+    types:
+    - Consulting Fee
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+    - Travel and Lodging
+  - company: Lilly USA, LLC
+    usd: 50412.8
+    types:
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+    - Consulting Fee
+    - Travel and Lodging
+  - company: ABBVIE INC.
+    usd: 37304.06
+    types:
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+    - Consulting Fee
+    - Food and Beverage
+  - company: Janssen Biotech, Inc.
+    usd: 31336.14
+    types:
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+    - Consulting Fee
+    - Travel and Lodging
+  - company: Janssen Scientific Affairs, LLC
+    usd: 24675.03
+    types:
+    - Consulting Fee
+    - Travel and Lodging
+    - Food and Beverage
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
 
 **Path:** [All experts](../EXPERTS.md) / Philip Mease
 
-**6 sources · last seen 2026**
+**6 sources · last seen 2026 · industry-paid $297,224 (2025)**
 ### Expertise
 - [Psoriatic arthritis](../tree/therapeutic-areas/immunology/rheumatology/psoriatic-arthritis.md) (5)
 - [Bimekizumab](../tree/therapeutic-areas/immunology/mechanisms/il-17-pathway/bimekizumab.md) (1)
@@ -77,6 +114,7 @@ npi_record:
 - PubMed psoriatic-arthritis:name:mease|philip j — 40 papers · [Psoriatic arthritis](../tree/therapeutic-areas/immunology/rheumatology/psoriatic-arthritis.md)
 ### Practice and industry ties
 - **NPI 1336218171** (MD, Internal Medicine, Rheumatology, Seattle, WA). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1336218171), checked 2026-11-16
+- **Industry payments 2025:** $297,224 from 26 companies. Top: UCB, Inc. $52,808 (Consulting Fee, Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program); Lilly USA, LLC $50,413 (Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program, Consulting Fee); ABBVIE INC. $37,304 (Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program, Consulting Fee). Source: [CMS Open Payments](https://openpaymentsdata.cms.gov/), general payments only
 ### Affiliations
 - Providence Swedish Medical Center, Seattle (2026)
 - Swedish Medical Center/Providence St. Joseph Health and University of Washington, Seattle, WA, USA. (2026)

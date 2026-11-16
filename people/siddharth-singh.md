@@ -20,6 +20,13 @@ npi_record:
   practice: Scottsdale, AZ
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1508023227
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 0
+  companies: 0
+  top: []
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
@@ -33,5 +40,6 @@ npi_record:
 - PubMed crohns-disease:name:singh|siddharth — 36 papers · [Crohn's disease](../tree/therapeutic-areas/immunology/gastroenterology/crohns-disease.md)
 ### Practice and industry ties
 - **NPI 1508023227** (M.B., B.S., Internal Medicine, Gastroenterology, Scottsdale, AZ). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1508023227), checked 2026-11-16
+- **Industry payments 2025:** none reported in [CMS Open Payments](https://openpaymentsdata.cms.gov/)
 ### Affiliations
 - Division of Gastroenterology, Department of Medicine, University of California San Diego, La Jolla, California; Division of Biomedical Informatics, Department of Medicine, University of California San Diego, La Jolla, California. Electronic address: sis040@ucsd.edu. (2026)

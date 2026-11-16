@@ -23,7 +23,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
 
 - **[Frank Behrens](../../../../../people/frank-behrens.md)** (1 source · last seen 2025)
   - presenter, late-breaker: AgAIN, secukinumab vs ustekinumab in TNF-experienced PsA · ACR Convergence 2025
-- **[Harrison Nguyen](../../../../../people/harrison-nguyen.md)** (1 source · last seen 2026)
+- **[Harrison Nguyen](../../../../../people/harrison-nguyen.md)** (1 source · last seen 2026 · industry-paid $575,247 (2025))
   - speaker, COSENTYX (secukinumab) (non-CME) · Winter Clinical Dermatology Conference Hawaii 2026
 ### Sources
 - [Drugs.com: new drugs for plaque psoriasis](https://drugs.com/medical-answers/new-drugs-treatment-plaque-psoriasis-3511670)

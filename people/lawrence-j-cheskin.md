@@ -80,13 +80,40 @@ npi_record:
   practice: Baltimore, MD
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1841240199
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 279.83
+  companies: 5
+  top:
+  - company: Dexcom, Inc.
+    usd: 144.86
+    types:
+    - Food and Beverage
+  - company: Takeda Pharmaceuticals U.S.A., Inc.
+    usd: 67.83
+    types:
+    - Food and Beverage
+  - company: Janssen Biotech, Inc.
+    usd: 28.21
+    types:
+    - Food and Beverage
+  - company: GENZYME CORPORATION
+    usd: 23.82
+    types:
+    - Food and Beverage
+  - company: Lilly USA, LLC
+    usd: 15.11
+    types:
+    - Food and Beverage
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
 
 **Path:** [All experts](../EXPERTS.md) / Lawrence J Cheskin
 
-**11 sources · last seen 2009 · auto, not reviewed**
+**11 sources · last seen 2009 · auto, not reviewed · industry-paid $280 (2025)**
 ### Expertise
 - [Obesity](../tree/therapeutic-areas/cardiometabolic/obesity.md) (11)
 ### Data records (11)
@@ -103,5 +130,6 @@ npi_record:
 - ClinicalTrials.gov [NCT00198744](https://clinicaltrials.gov/study/NCT00198744) — PRINCIPAL_INVESTIGATOR · [Obesity](../tree/therapeutic-areas/cardiometabolic/obesity.md)
 ### Practice and industry ties
 - **NPI 1841240199** (M.D., Internal Medicine, Baltimore, MD). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1841240199), checked 2026-11-16
+- **Industry payments 2025:** $280 from 5 companies. Top: Dexcom, Inc. $145 (Food and Beverage); Takeda Pharmaceuticals U.S.A., Inc. $68 (Food and Beverage); Janssen Biotech, Inc. $28 (Food and Beverage). Source: [CMS Open Payments](https://openpaymentsdata.cms.gov/), general payments only
 ### Affiliations
 - Johns Hopkins Bloomberg School of Public Health (2009)

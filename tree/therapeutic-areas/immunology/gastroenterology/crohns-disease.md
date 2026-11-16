@@ -79,7 +79,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - ClinicalTrials.gov NCT02231814 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT02858557 · PRINCIPAL_INVESTIGATOR
   - PubMed crohns-disease:name:dotan|iris · 36 papers
-- **[James D Lewis](../../../../people/james-d-lewis.md)** (7 sources · last seen 2025 · auto, not reviewed)
+- **[James D Lewis](../../../../people/james-d-lewis.md)** (7 sources · last seen 2025 · auto, not reviewed · industry-paid $16,546 (2025))
   - ClinicalTrials.gov NCT02316678 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT06560021 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT03058679 · PRINCIPAL_INVESTIGATOR
@@ -92,7 +92,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - ClinicalTrials.gov NCT02193750 · PRINCIPAL_INVESTIGATOR
 - **[Brian G Feagan](../../../../people/brian-g-feagan.md)** (7 sources · last seen 2026 · auto, not reviewed)
   - PubMed crohns-disease:name:feagan|brian g · 35 papers
-- **[David T. Rubin](../../../../people/david-t-rubin.md)** (7 sources · last seen 2026)
+- **[David T. Rubin](../../../../people/david-t-rubin.md)** (7 sources · last seen 2026 · industry-paid $299,672 (2025))
   - PubMed crohns-disease:name:rubin|david t · 33 papers
 - **[Huangan Wu](../../../../people/huangan-wu.md)** (6 sources · last seen 2019 · auto, not reviewed)
   - ClinicalTrials.gov NCT04211129 · STUDY_CHAIR
@@ -162,7 +162,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - ClinicalTrials.gov NCT03220841 · PRINCIPAL_INVESTIGATOR
 - **[Laurent Peyrin-Biroulet](../../../../people/laurent-peyrin-biroulet.md)** (4 sources · last seen 2026)
   - PubMed crohns-disease:name:peyrin-biroulet|laurent · 69 papers
-- **[Bruce E. Sands](../../../../people/bruce-e-sands.md)** (3 sources · last seen 2026)
+- **[Bruce E. Sands](../../../../people/bruce-e-sands.md)** (3 sources · last seen 2026 · industry-paid $138,187 (2025))
   - first author, integrated 1-year safety of guselkumab in Crohn's and UC · Digestive Disease Week (DDW) 2025
   - PubMed crohns-disease:name:sands|bruce e · 39 papers
 - **[Remo Panaccione](../../../../people/remo-panaccione.md)** (3 sources · last seen 2026)
@@ -182,7 +182,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
 - **[Ailsa Hart](../../../../people/ailsa-hart.md)** (1 source · last seen 2025)
   - first author, GRAVITI, subcutaneous guselkumab through week 48 · Digestive Disease Week (DDW) 2025
   - first author, GRAVITI, guselkumab induction by baseline demographics · Digestive Disease Week (DDW) 2025
-- **[Anita Afzali](../../../../people/anita-afzali.md)** (1 source · last seen 2025)
+- **[Anita Afzali](../../../../people/anita-afzali.md)** (1 source · last seen 2025 · industry-paid $66,646 (2025))
   - first author, GALAXI 2 & 3, early-disease efficacy of guselkumab · Digestive Disease Week (DDW) 2025
   - first author, GALAXI and GRAVITI, symptoms and quality of life with guselkumab · Digestive Disease Week (DDW) 2025
 - **[Richard K. Russell](../../../../people/richard-k-russell.md)** (1 source · last seen 2026)
@@ -190,7 +190,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - first author, UNITI Jr, PCDAI eligibility criteria in pediatric Crohn's · ECCO Congress 2026
 - **[Adam S. Faye](../../../../people/adam-s-faye.md)** (1 source · last seen 2026)
   - first author, guselkumab safety at age 60+ across UC, Crohn's, PsA and psoriasis · ECCO Congress 2026
-- **[Alan Moss](../../../../people/alan-moss.md)** (1 source · last seen 2026)
+- **[Alan Moss](../../../../people/alan-moss.md)** (1 source · last seen 2026 · industry-paid $125 (2025))
   - Chief Scientific Officer, appointed 2023; also directs the Crohn's & Colitis Program at Boston Medical Center · Patient organization leaders
 - **[Anne M. Griffiths](../../../../people/anne-m-griffiths.md)** (1 source · last seen 2026)
   - first author, quality of life with ustekinumab in pediatric Crohn's · ECCO Congress 2026
@@ -198,7 +198,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - presenter, EASE-CD, a new endoscopic activity score for Crohn's · Digestive Disease Week (DDW) 2025
 - **[Florian Rieder](../../../../people/florian-rieder.md)** (1 source · last seen 2026 · auto, not reviewed)
   - PubMed crohns-disease:name:rieder|florian · 27 papers
-- **[Jean-Frederic Colombel](../../../../people/jean-frederic-colombel.md)** (1 source · last seen 2026 · auto, not reviewed)
+- **[Jean-Frederic Colombel](../../../../people/jean-frederic-colombel.md)** (1 source · last seen 2026 · auto, not reviewed · industry-paid $103,239 (2025))
   - PubMed crohns-disease:name:colombel|jean-frederic · 30 papers
 - **[Julián Panés](../../../../people/julian-panes.md)** (1 source · last seen 2025)
   - first author, GALAXI 2/3, guselkumab steroid-sparing through week 48 · Digestive Disease Week (DDW) 2025
@@ -208,7 +208,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - PubMed crohns-disease:name:fumery|mathurin · 27 papers
 - **[Michael Osso](../../../../people/michael-osso.md)** (1 source · last seen 2026)
   - President and CEO, named 2026 National Health Council board chair · Patient organization leaders
-- **[Parakkal Deepak](../../../../people/parakkal-deepak.md)** (1 source · last seen 2026)
+- **[Parakkal Deepak](../../../../people/parakkal-deepak.md)** (1 source · last seen 2026 · industry-paid $121,668 (2025))
   - first author, GALAXI and GRAVITI, guselkumab induction by weight and BMI in Crohn's · ECCO Congress 2026
 - **[Siddharth Singh](../../../../people/siddharth-singh.md)** (1 source · last seen 2026 · auto, not reviewed)
   - PubMed crohns-disease:name:singh|siddharth · 36 papers

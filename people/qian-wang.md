@@ -20,6 +20,13 @@ npi_record:
   practice: Jinan, SHANDONG
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1588801765
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 0
+  companies: 0
+  top: []
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
@@ -33,5 +40,6 @@ npi_record:
 - PubMed rheumatoid-arthritis:name:wang|qian — 17 papers · [Rheumatoid arthritis](../tree/therapeutic-areas/immunology/rheumatology/rheumatoid-arthritis.md)
 ### Practice and industry ties
 - **NPI 1588801765** (Internal Medicine, Rheumatology, Jinan, SHANDONG). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1588801765), checked 2026-11-16
+- **Industry payments 2025:** none reported in [CMS Open Payments](https://openpaymentsdata.cms.gov/)
 ### Affiliations
 - State Key Laboratory for Quality Ensurance and Sustainable Use of Dao-di Herbs, Institute of Chinese Materia Medica, China Academy of Chinese Medical Sciences, Beijing, 100700, China. (2026)

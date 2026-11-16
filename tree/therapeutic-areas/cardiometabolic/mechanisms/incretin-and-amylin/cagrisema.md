@@ -23,13 +23,13 @@ sources:
 ### Experts on CagriSema (cagrilintide + semaglutide) (4)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
-- **[Julio Rosenstock](../../../../../people/julio-rosenstock.md)** (2 sources · last seen 2026)
+- **[Julio Rosenstock](../../../../../people/julio-rosenstock.md)** (2 sources · last seen 2026 · industry-paid $141,269 (2025))
   - named in session preview, REIMAGINE 3, CagriSema added to basal insulin · ADA Scientific Sessions 2026
 - **[Akshay Jain](../../../../../people/akshay-jain.md)** (1 source · last seen 2026)
   - named in session preview, REIMAGINE 2, CagriSema with metformin with or without an SGLT2 inhibitor · ADA Scientific Sessions 2026
-- **[John B. Buse](../../../../../people/john-b-buse.md)** (1 source · last seen 2026)
+- **[John B. Buse](../../../../../people/john-b-buse.md)** (1 source · last seen 2026 · industry-paid $87,608 (2025))
   - symposium chair, REIMAGINE 1-3, CagriSema in type 2 diabetes · ADA Scientific Sessions 2026
-- **[Vanita R. Aroda](../../../../../people/vanita-r-aroda.md)** (1 source · last seen 2026)
+- **[Vanita R. Aroda](../../../../../people/vanita-r-aroda.md)** (1 source · last seen 2026 · industry-paid $63,984 (2025))
   - named in session preview, REIMAGINE 1, CagriSema monotherapy in type 2 diabetes · ADA Scientific Sessions 2026
 ### Sources
 - [Chain Drug Review: Novo Nordisk files FDA application for CagriSema (Dec 18, 2025)](https://chaindrugreview.com/novo-nordisk-files-fda-application-for-once-weekly-obesity-treatment)

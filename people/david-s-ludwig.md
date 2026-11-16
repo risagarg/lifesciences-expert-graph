@@ -98,6 +98,13 @@ npi_record:
   practice: Boston, MA
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1386684827
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 0
+  companies: 0
+  top: []
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
@@ -124,5 +131,6 @@ npi_record:
 - ClinicalTrials.gov [NCT00315354](https://clinicaltrials.gov/study/NCT00315354) — PRINCIPAL_INVESTIGATOR · [Obesity](../tree/therapeutic-areas/cardiometabolic/obesity.md)
 ### Practice and industry ties
 - **NPI 1386684827** (M.D., Pediatrics, Pediatric Endocrinology, Boston, MA). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1386684827), checked 2026-11-16
+- **Industry payments 2025:** none reported in [CMS Open Payments](https://openpaymentsdata.cms.gov/)
 ### Affiliations
 - Boston Children's Hospital (2007)

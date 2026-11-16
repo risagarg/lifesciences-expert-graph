@@ -39,6 +39,43 @@ npi_record:
   practice: Cromwell, CT
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1619966652
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 364848.14
+  companies: 27
+  top:
+  - company: ABBVIE INC.
+    usd: 84093.97
+    types:
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+    - Consulting Fee
+    - Travel and Lodging
+  - company: UCB, Inc.
+    usd: 65105.26
+    types:
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+    - Consulting Fee
+    - Travel and Lodging
+  - company: GENZYME CORPORATION
+    usd: 34657.43
+    types:
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+    - Consulting Fee
+    - Travel and Lodging
+  - company: Janssen Biotech, Inc.
+    usd: 31572.5
+    types:
+    - Consulting Fee
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+    - Travel and Lodging
+  - company: Lilly USA, LLC
+    usd: 24819.62
+    types:
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+    - Consulting Fee
+    - Travel and Lodging
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 The same surname and first initial appear across these sources, so they are merged here. Confirm with an identifier such as ORCID or NPI.
@@ -47,7 +84,7 @@ The same surname and first initial appear across these sources, so they are merg
 
 **Path:** [All experts](../EXPERTS.md) / Bruce E. Strober
 
-**4 sources · last seen 2026**
+**4 sources · last seen 2026 · industry-paid $364,848 (2025)**
 ### Expertise
 - [Plaque psoriasis](../tree/therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md) (4)
 - [Apremilast](../tree/therapeutic-areas/immunology/mechanisms/pde4-inhibitors/apremilast.md) (1)
@@ -65,6 +102,7 @@ The same surname and first initial appear across these sources, so they are merg
 - [AAD Annual Meeting 2026](../tree/evidence/conferences/aad-annual-meeting-2026.md) — presenter, Treatment of hand and foot psoriasis
 ### Practice and industry ties
 - **NPI 1619966652** (M.D., Dermatology, Cromwell, CT). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1619966652), checked 2026-11-16
+- **Industry payments 2025:** $364,848 from 27 companies. Top: ABBVIE INC. $84,094 (Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program, Consulting Fee); UCB, Inc. $65,105 (Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program, Consulting Fee); GENZYME CORPORATION $34,657 (Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program, Consulting Fee). Source: [CMS Open Payments](https://openpaymentsdata.cms.gov/), general payments only
 ### Affiliations
 - International Psoriasis Council, President (2026) → [International Psoriasis Council (IPC)](../tree/organizations/professional-societies/international-psoriasis-council.md)
 - Department of Dermatology, Yale University School of Medicine, New Haven, and Central Connecticut Dermatology Research, Cromwell, Connecticut (2023)

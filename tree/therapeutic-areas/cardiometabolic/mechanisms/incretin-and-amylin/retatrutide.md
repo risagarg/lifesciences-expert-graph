@@ -25,7 +25,7 @@ Not yet approved. In TRIUMPH-1, mean weight loss at 80 weeks was 28.3% on the 12
 ### Experts on Retatrutide (1)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
-- **[Ania Jastreboff](../../../../../people/ania-jastreboff.md)** (1 source · last seen 2026)
+- **[Ania Jastreboff](../../../../../people/ania-jastreboff.md)** (1 source · last seen 2026 · industry-paid $146,537 (2025))
   - presenter, TRIUMPH-1, retatrutide in obesity (lead investigator) · ADA Scientific Sessions 2026
 ### Sources
 - [HCPLive: TRIUMPH-1 at ADA 2026 (Jun 6, 2026)](https://hcplive.com/view/triumph-1-retatrutide-substantially-lowers-weight-bmi-in-patients-with-obesity-or-overweight)

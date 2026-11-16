@@ -17,6 +17,13 @@ npi_record:
   practice: Centennial, CO
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1871620815
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 0
+  companies: 0
+  top: []
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 The same surname and first initial appear across these sources, so they are merged here. Confirm with an identifier such as ORCID or NPI.
@@ -37,3 +44,4 @@ The same surname and first initial appear across these sources, so they are merg
 - [AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)](../tree/evidence/guidelines/aad-npf-systemic-nonbiologic-2020.md) — guideline co-author, author 23
 ### Practice and industry ties
 - **NPI 1871620815** (MD, Dermatology, Centennial, CO). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1871620815), checked 2026-11-16
+- **Industry payments 2025:** none reported in [CMS Open Payments](https://openpaymentsdata.cms.gov/)

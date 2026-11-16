@@ -26,7 +26,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
 
 - **[Robert Bissonnette](../../../people/r-bissonnette.md)** (26 sources · last seen 2025)
   - trial publication author, author 3 · ICONIC-ADVANCE (icotrokinra, phase 3)
-- **[April W. Armstrong](../../../people/april-w-armstrong.md)** (7 sources · last seen 2026)
+- **[April W. Armstrong](../../../people/april-w-armstrong.md)** (7 sources · last seen 2026 · industry-paid $520,639 (2025))
   - trial publication author, author 2 · ICONIC-ADVANCE (icotrokinra, phase 3)
 - **[Linda Stein Gold](../../../people/l-gold.md)** (5 sources · last seen 2026)
   - trial publication author, author 1 · ICONIC-ADVANCE (icotrokinra, phase 3)

@@ -31,16 +31,16 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - trial publication author, author 3 · ICONIC-TOTAL (icotrokinra, phase 3)
   - trial publication author, author 3 · ICONIC-ADVANCE (icotrokinra, phase 3)
   - presenter, late-breaking research: ICONIC-LEAD · AAD Annual Meeting 2025
-- **[Mark Lebwohl](../../../../../people/mark-lebwohl.md)** (11 sources · last seen 2026)
+- **[Mark Lebwohl](../../../../../people/mark-lebwohl.md)** (11 sources · last seen 2026 · industry-paid $127,834 (2025))
   - trial publication author, author 16 · ICONIC-LEAD (icotrokinra, phase 3)
-- **[April W. Armstrong](../../../../../people/april-w-armstrong.md)** (7 sources · last seen 2026)
+- **[April W. Armstrong](../../../../../people/april-w-armstrong.md)** (7 sources · last seen 2026 · industry-paid $520,639 (2025))
   - trial publication author, author 2 · ICONIC-ADVANCE (icotrokinra, phase 3)
 - **[Linda Stein Gold](../../../../../people/l-gold.md)** (5 sources · last seen 2026)
   - trial publication author, author 1 · ICONIC-ADVANCE (icotrokinra, phase 3)
   - presenter, oral presentation: ICONIC-ADVANCE 1 & 2, icotrokinra vs deucravacitinib · EADV Congress 2025
-- **[Joseph Merola](../../../../../people/joseph-merola.md)** (5 sources · last seen 2026)
+- **[Joseph Merola](../../../../../people/joseph-merola.md)** (5 sources · last seen 2026 · industry-paid $157,372 (2025))
   - presenter, Therapeutic Hotline: what's new in psoriasis biologics (icotrokinra; ixekizumab with tirzepatide) · AAD Annual Meeting 2026
-- **[Jennifer Soung](../../../../../people/j-soung.md)** (3 sources · last seen 2026)
+- **[Jennifer Soung](../../../../../people/j-soung.md)** (3 sources · last seen 2026 · industry-paid $490,896 (2025))
   - trial publication author, author 2 · ICONIC-LEAD (icotrokinra, phase 3)
   - presenter, ICONIC-LEAD (icotrokinra) · AAD Annual Meeting 2026
   - presenter, late-breaker: ICONIC-LEAD 52-week data (icotrokinra) · EADV Congress 2025

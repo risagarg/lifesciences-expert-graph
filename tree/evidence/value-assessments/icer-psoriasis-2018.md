@@ -23,9 +23,9 @@ The full title is "Targeted Immunomodulators for the Treatment of Moderate-to-Se
 ### Experts on ICER: Targeted Immunomodulators for Plaque Psoriasis (2018 update) (10)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
-- **[Joseph Merola](../../../people/joseph-merola.md)** (5 sources · last seen 2026)
+- **[Joseph Merola](../../../people/joseph-merola.md)** (5 sources · last seen 2026 · industry-paid $157,372 (2025))
   - outside reviewer, clinical expert reviewer · ICER: Targeted Immunomodulators for Plaque Psoriasis (2018 update)
-- **[Alexa B. Kimball](../../../people/alexa-b-kimball.md)** (2 sources · last seen 2026)
+- **[Alexa B. Kimball](../../../people/alexa-b-kimball.md)** (2 sources · last seen 2026 · industry-paid $260,643 (2025))
   - outside reviewer, clinical expert reviewer · ICER: Targeted Immunomodulators for Plaque Psoriasis (2018 update)
 - **[Leah McCormick Howard](../../../people/leah-mccormick-howard.md)** (2 sources · last seen 2026)
   - outside reviewer, then NPF Chief Operating Officer · ICER: Targeted Immunomodulators for Plaque Psoriasis (2018 update)

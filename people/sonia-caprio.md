@@ -92,13 +92,24 @@ npi_record:
   practice: New Haven, CT
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1972586196
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 35625.0
+  companies: 1
+  top:
+  - company: Eli Lilly and Company
+    usd: 35625.0
+    types:
+    - Consulting Fee
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
 
 **Path:** [All experts](../EXPERTS.md) / Sonia Caprio
 
-**13 sources · last seen 2023 · auto, not reviewed**
+**13 sources · last seen 2023 · auto, not reviewed · industry-paid $35,625 (2025)**
 ### Expertise
 - [Obesity](../tree/therapeutic-areas/cardiometabolic/obesity.md) (13)
 ### Data records (13)
@@ -117,5 +128,6 @@ npi_record:
 - ClinicalTrials.gov [NCT01808846](https://clinicaltrials.gov/study/NCT01808846) — PRINCIPAL_INVESTIGATOR · [Obesity](../tree/therapeutic-areas/cardiometabolic/obesity.md)
 ### Practice and industry ties
 - **NPI 1972586196** (MD, Pediatrics, Pediatric Endocrinology, New Haven, CT). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1972586196), checked 2026-11-16
+- **Industry payments 2025:** $35,625 from 1 company. Top: Eli Lilly and Company $35,625 (Consulting Fee). Source: [CMS Open Payments](https://openpaymentsdata.cms.gov/), general payments only
 ### Affiliations
 - Yale University (2010)

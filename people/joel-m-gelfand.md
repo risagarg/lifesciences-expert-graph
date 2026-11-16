@@ -27,6 +27,41 @@ npi_record:
   practice: Philadelphia, PA
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1710902382
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 65986.59
+  companies: 9
+  top:
+  - company: Eli Lilly and Company
+    usd: 23695.44
+    types:
+    - Consulting Fee
+    - Travel and Lodging
+  - company: LEO Pharma Inc.
+    usd: 12594.62
+    types:
+    - Consulting Fee
+    - Travel and Lodging
+    - Food and Beverage
+  - company: Janssen Scientific Affairs, LLC
+    usd: 12211.26
+    types:
+    - Consulting Fee
+    - Travel and Lodging
+  - company: Amgen Inc.
+    usd: 5672.26
+    types:
+    - Consulting Fee
+    - Travel and Lodging
+    - Food and Beverage
+  - company: Boehringer Ingelheim International GmbH
+    usd: 4014.35
+    types:
+    - Consulting Fee
+    - Travel and Lodging
+    - Food and Beverage
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 The same surname and first initial appear across these sources, so they are merged here. Confirm with an identifier such as ORCID or NPI.
@@ -35,7 +70,7 @@ The same surname and first initial appear across these sources, so they are merg
 
 **Path:** [All experts](../EXPERTS.md) / Joel M. Gelfand
 
-**3 sources · last seen 2026**
+**3 sources · last seen 2026 · industry-paid $65,987 (2025)**
 ### Expertise
 - [Plaque psoriasis](../tree/therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md) (3)
 - [IL-17 pathway](../tree/therapeutic-areas/immunology/mechanisms/il-17-pathway/README.md) (1)
@@ -48,5 +83,6 @@ The same surname and first initial appear across these sources, so they are merg
 - [AAD Annual Meeting 2026](../tree/evidence/conferences/aad-annual-meeting-2026.md) — presenter, Psoriasis: Modern Therapeutic Approaches (panel)
 ### Practice and industry ties
 - **NPI 1710902382** (MD, Dermatology, Philadelphia, PA). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1710902382), checked 2026-11-16
+- **Industry payments 2025:** $65,987 from 9 companies. Top: Eli Lilly and Company $23,695 (Consulting Fee, Travel and Lodging); LEO Pharma Inc. $12,595 (Consulting Fee, Travel and Lodging); Janssen Scientific Affairs, LLC $12,211 (Consulting Fee, Travel and Lodging). Source: [CMS Open Payments](https://openpaymentsdata.cms.gov/), general payments only
 ### Affiliations
 - International Psoriasis Council, Board Member (2026) → [International Psoriasis Council (IPC)](../tree/organizations/professional-societies/international-psoriasis-council.md)

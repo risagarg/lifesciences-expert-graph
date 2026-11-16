@@ -41,13 +41,28 @@ npi_record:
   practice: Philadelphia, PA
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1558689216
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 7618.34
+  companies: 2
+  top:
+  - company: GENZYME CORPORATION
+    usd: 4998.34
+    types:
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+  - company: Amgen Inc.
+    usd: 2620.0
+    types:
+    - Consulting Fee
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
 
 **Path:** [All experts](../EXPERTS.md) / Katrina Abuabara
 
-**4 sources · last seen 2026 · auto, not reviewed**
+**4 sources · last seen 2026 · auto, not reviewed · industry-paid $7,618 (2025)**
 ### Expertise
 - [Atopic dermatitis](../tree/therapeutic-areas/immunology/dermatology/atopic-dermatitis.md) (4)
 ### Data records (4)
@@ -57,6 +72,7 @@ npi_record:
 - PubMed atopic-dermatitis:name:abuabara|katrina — 29 papers · [Atopic dermatitis](../tree/therapeutic-areas/immunology/dermatology/atopic-dermatitis.md)
 ### Practice and industry ties
 - **NPI 1558689216** (MD, Dermatology, Philadelphia, PA). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1558689216), checked 2026-11-16
+- **Industry payments 2025:** $7,618 from 2 companies. Top: GENZYME CORPORATION $4,998 (Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program); Amgen Inc. $2,620 (Consulting Fee). Source: [CMS Open Payments](https://openpaymentsdata.cms.gov/), general payments only
 ### Affiliations
 - University of California, San Francisco (2026)
 - Department of Dermatology, University of California San Francisco, San Francisco, California, USA. (2026)

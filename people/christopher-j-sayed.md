@@ -41,13 +41,44 @@ npi_record:
   practice: Chapel Hill, NC
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1225265903
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 155311.9
+  companies: 8
+  top:
+  - company: ABBVIE INC.
+    usd: 111976.67
+    types:
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+    - Travel and Lodging
+    - Consulting Fee
+  - company: UCB, Inc.
+    usd: 17596.3
+    types:
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+    - Consulting Fee
+    - Travel and Lodging
+  - company: UCB SA
+    usd: 13355.0
+    types:
+    - Consulting Fee
+  - company: SANOFI-AVENTIS U.S. LLC
+    usd: 5322.0
+    types:
+    - Consulting Fee
+  - company: Incyte Corporation
+    usd: 4875.0
+    types:
+    - Consulting Fee
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
 
 **Path:** [All experts](../EXPERTS.md) / Christopher J Sayed
 
-**4 sources · last seen 2026 · auto, not reviewed**
+**4 sources · last seen 2026 · auto, not reviewed · industry-paid $155,312 (2025)**
 ### Expertise
 - [Hidradenitis suppurativa](../tree/therapeutic-areas/immunology/dermatology/hidradenitis-suppurativa.md) (4)
 ### Data records (4)
@@ -57,6 +88,7 @@ npi_record:
 - PubMed hidradenitis-suppurativa:name:sayed|christopher j — 27 papers · [Hidradenitis suppurativa](../tree/therapeutic-areas/immunology/dermatology/hidradenitis-suppurativa.md)
 ### Practice and industry ties
 - **NPI 1225265903** (MD, Dermatology, Chapel Hill, NC). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1225265903), checked 2026-11-16
+- **Industry payments 2025:** $155,312 from 8 companies. Top: ABBVIE INC. $111,977 (Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program, Travel and Lodging); UCB, Inc. $17,596 (Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program, Consulting Fee); UCB SA $13,355 (Consulting Fee). Source: [CMS Open Payments](https://openpaymentsdata.cms.gov/), general payments only
 ### Affiliations
 - University of North Carolina, Chapel Hill (2026)
 - Department of Dermatology, University of North Carolina School of Medicine, Chapel Hill, North Carolina; European Hidradenitis Suppurativa Foundation (EHSF) e.V., Dessau, Germany. Electronic address: christopher_sayed@med.unc.edu. (2026)

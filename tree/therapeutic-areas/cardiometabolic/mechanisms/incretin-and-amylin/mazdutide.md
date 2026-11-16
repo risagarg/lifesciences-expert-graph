@@ -22,7 +22,7 @@ sources:
 ### Experts on Mazdutide (1)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
-- **[Stanley Hsia](../../../../../people/stanley-hsia.md)** (1 source · last seen 2025)
+- **[Stanley Hsia](../../../../../people/stanley-hsia.md)** (1 source · last seen 2025 · industry-paid $4,091 (2025))
   - presenter, mazdutide phase 2 dose-finding study in obesity · ObesityWeek 2025
 ### Sources
 - [Lilly Medical: ObesityWeek 2025 presentations](https://medical.lilly.com/us/science/conferences/obesity/ow2025)

@@ -140,6 +140,13 @@ npi_record:
   practice: Bethesda, MD
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1720107931
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 0
+  companies: 0
+  top: []
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
@@ -173,5 +180,6 @@ npi_record:
 - ClinicalTrials.gov [NCT00631644](https://clinicaltrials.gov/study/NCT00631644) — PRINCIPAL_INVESTIGATOR · [Obesity](../tree/therapeutic-areas/cardiometabolic/obesity.md)
 ### Practice and industry ties
 - **NPI 1720107931** (MD, PhD, Pediatrics, Pediatric Endocrinology, Bethesda, MD). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1720107931), checked 2026-11-16
+- **Industry payments 2025:** none reported in [CMS Open Payments](https://openpaymentsdata.cms.gov/)
 ### Affiliations
 - Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD) (2012)

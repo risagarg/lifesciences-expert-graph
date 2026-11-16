@@ -66,6 +66,43 @@ npi_record:
   practice: Los Angeles, CA
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1356477087
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 520638.63
+  companies: 29
+  top:
+  - company: Janssen Biotech, Inc.
+    usd: 77716.84
+    types:
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+    - Consulting Fee
+    - Travel and Lodging
+  - company: Lilly USA, LLC
+    usd: 71005.6
+    types:
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+    - Consulting Fee
+    - Travel and Lodging
+  - company: E.R. Squibb & Sons, L.L.C.
+    usd: 44911.7
+    types:
+    - Consulting Fee
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+    - Travel and Lodging
+  - company: ABBVIE INC.
+    usd: 39725.6
+    types:
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+    - Consulting Fee
+    - Travel and Lodging
+  - company: Eli Lilly and Company
+    usd: 38050.18
+    types:
+    - Consulting Fee
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+    - Travel and Lodging
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 The same surname and first initial appear across these sources, so they are merged here. Confirm with an identifier such as ORCID or NPI.
@@ -74,7 +111,7 @@ The same surname and first initial appear across these sources, so they are merg
 
 **Path:** [All experts](../EXPERTS.md) / April W. Armstrong
 
-**7 sources · last seen 2026**
+**7 sources · last seen 2026 · industry-paid $520,639 (2025)**
 ### Expertise
 - [Plaque psoriasis](../tree/therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md) (5)
 - [Psoriasis](../tree/therapeutic-areas/immunology/dermatology/psoriasis/README.md) (4)
@@ -102,6 +139,7 @@ The same surname and first initial appear across these sources, so they are merg
 - PubMed plaque-psoriasis:name:armstrong|april w — 28 papers · [Plaque psoriasis](../tree/therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis.md)
 ### Practice and industry ties
 - **NPI 1356477087** (MD, Dermatology, Los Angeles, CA). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1356477087), checked 2026-11-16
+- **Industry payments 2025:** $520,639 from 29 companies. Top: Janssen Biotech, Inc. $77,717 (Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program, Consulting Fee); Lilly USA, LLC $71,006 (Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program, Consulting Fee); E.R. Squibb & Sons, L.L.C. $44,912 (Consulting Fee, Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program). Source: [CMS Open Payments](https://openpaymentsdata.cms.gov/), general payments only
 ### Affiliations
 - Department of Dermatology, Keck School of Medicine, University of Southern California, Los Angeles, California (2023)
 - Division of Dermatology, University of California, Los Angeles, Los Angeles, California, USA. (2026)

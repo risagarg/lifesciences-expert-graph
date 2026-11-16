@@ -41,13 +41,25 @@ npi_record:
   practice: New York, NY
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1164988804
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 24050.61
+  companies: 1
+  top:
+  - company: Almirall LLC
+    usd: 24050.61
+    types:
+    - Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program
+    - Travel and Lodging
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
 
 **Path:** [All experts](../EXPERTS.md) / John W Frew
 
-**4 sources · last seen 2026 · auto, not reviewed**
+**4 sources · last seen 2026 · auto, not reviewed · industry-paid $24,051 (2025)**
 ### Expertise
 - [Hidradenitis suppurativa](../tree/therapeutic-areas/immunology/dermatology/hidradenitis-suppurativa.md) (4)
 ### Data records (4)
@@ -57,6 +69,7 @@ npi_record:
 - PubMed hidradenitis-suppurativa:name:frew|john w — 34 papers · [Hidradenitis suppurativa](../tree/therapeutic-areas/immunology/dermatology/hidradenitis-suppurativa.md)
 ### Practice and industry ties
 - **NPI 1164988804** (MD, Dermatology, New York, NY). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1164988804), checked 2026-11-16
+- **Industry payments 2025:** $24,051 from 1 company. Top: Almirall LLC $24,051 (Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program, Travel and Lodging). Source: [CMS Open Payments](https://openpaymentsdata.cms.gov/), general payments only
 ### Affiliations
 - Rockefeller University (2019)
 - University of New South Wales, Sydney, Australia. (2026)

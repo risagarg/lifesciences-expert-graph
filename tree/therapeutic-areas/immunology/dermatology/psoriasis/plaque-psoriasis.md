@@ -37,7 +37,7 @@ summary: The most common form of psoriasis. All the approved drugs in the tree a
 - ← indicated for · [Deucravacitinib](../../mechanisms/tyk2-inhibitors/deucravacitinib.md)
 - ← in development for · [Envudeucitinib](../../mechanisms/tyk2-inhibitors/envudeucitinib.md)
 - ← in development for · [Zasocitinib](../../mechanisms/tyk2-inhibitors/zasocitinib.md)
-### Experts on Plaque psoriasis (107)
+### Experts on Plaque psoriasis (124)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
 - **[Robert Bissonnette](../../../../../people/r-bissonnette.md)** (26 sources · last seen 2025)
@@ -74,7 +74,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - ClinicalTrials.gov NCT03316781 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT06477237 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT06278350 · PRINCIPAL_INVESTIGATOR
-- **[Mark Lebwohl](../../../../../people/mark-lebwohl.md)** (11 sources · last seen 2026)
+- **[Mark Lebwohl](../../../../../people/mark-lebwohl.md)** (11 sources · last seen 2026 · industry-paid $127,834 (2025))
   - guideline co-author, author 19 · AAD-NPF psoriasis guidelines - biologics (2019)
   - guideline co-author, author 16 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
   - trial publication author, author 16 · ICONIC-LEAD (icotrokinra, phase 3)
@@ -84,7 +84,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - ClinicalTrials.gov NCT02223039 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT01836939 · PRINCIPAL_INVESTIGATOR
   - PubMed plaque-psoriasis:name:lebwohl|mark · 34 papers
-- **[Amy S. Paller](../../../../../people/amy-s-paller.md)** (11 sources · last seen 2026)
+- **[Amy S. Paller](../../../../../people/amy-s-paller.md)** (11 sources · last seen 2026 · industry-paid $126,121 (2025))
   - guideline co-author, author 24 · AAD-NPF psoriasis guidelines - biologics (2019)
   - guideline co-author, author 21 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
 - **[Steven Feldman](../../../../../people/steven-feldman.md)** (9 sources · last seen 2026 · auto, not reviewed)
@@ -92,7 +92,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - ClinicalTrials.gov NCT00655564 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT04453137 · PRINCIPAL_INVESTIGATOR
   - PubMed plaque-psoriasis:name:feldman|steven r · 29 papers
-- **[April W. Armstrong](../../../../../people/april-w-armstrong.md)** (7 sources · last seen 2026)
+- **[April W. Armstrong](../../../../../people/april-w-armstrong.md)** (7 sources · last seen 2026 · industry-paid $520,639 (2025))
   - guideline co-author, author 7 · AAD-NPF psoriasis guidelines - biologics (2019)
   - guideline co-author, author 4 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
   - trial publication author, author 1 · POETYK PSO-1 (deucravacitinib, phase 3)
@@ -107,9 +107,9 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - ClinicalTrials.gov NCT01837576 · PRINCIPAL_INVESTIGATOR
 - **[Lihi Eder](../../../../../people/lihi-eder.md)** (6 sources · last seen 2026 · auto, not reviewed)
   - PubMed plaque-psoriasis:orcid:0000-0002-1473-1715 · 22 papers
-- **[Philip Mease](../../../../../people/philip-mease.md)** (6 sources · last seen 2026)
+- **[Philip Mease](../../../../../people/philip-mease.md)** (6 sources · last seen 2026 · industry-paid $297,224 (2025))
   - PubMed plaque-psoriasis:orcid:0000-0002-6620-0457 · 42 papers
-- **[Jerry Bagel](../../../../../people/jerry-bagel.md)** (5 sources · last seen 2018 · auto, not reviewed)
+- **[Jerry Bagel](../../../../../people/jerry-bagel.md)** (5 sources · last seen 2018 · auto, not reviewed · industry-paid $218,714 (2025))
   - ClinicalTrials.gov NCT01982552 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT03587194 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT02412644 · PRINCIPAL_INVESTIGATOR
@@ -121,14 +121,14 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - ClinicalTrials.gov NCT03384745 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT00244842 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT00258713 · PRINCIPAL_INVESTIGATOR
-- **[Joseph Merola](../../../../../people/joseph-merola.md)** (5 sources · last seen 2026)
+- **[Joseph Merola](../../../../../people/joseph-merola.md)** (5 sources · last seen 2026 · industry-paid $157,372 (2025))
   - presenter, Therapeutic Hotline: what's new in psoriasis biologics (icotrokinra; ixekizumab with tirzepatide) · AAD Annual Meeting 2026
   - outside reviewer, clinical expert reviewer · ICER: Targeted Immunomodulators for Plaque Psoriasis (2018 update)
   - PubMed plaque-psoriasis:name:merola|joseph f · 46 papers
 - **[Linda Stein Gold](../../../../../people/l-gold.md)** (5 sources · last seen 2026)
   - trial publication author, author 1 · ICONIC-ADVANCE (icotrokinra, phase 3)
   - presenter, oral presentation: ICONIC-ADVANCE 1 & 2, icotrokinra vs deucravacitinib · EADV Congress 2025
-- **[Bruce E. Strober](../../../../../people/bruce-e-strober.md)** (4 sources · last seen 2026)
+- **[Bruce E. Strober](../../../../../people/bruce-e-strober.md)** (4 sources · last seen 2026 · industry-paid $364,848 (2025))
   - guideline co-author, author 2 · AAD-NPF psoriasis guidelines - biologics (2019)
   - guideline co-author, author 29 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
   - trial publication author, author 5 · POETYK PSO-1 (deucravacitinib, phase 3)
@@ -138,12 +138,12 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - ClinicalTrials.gov NCT03941431 · STUDY_CHAIR
   - ClinicalTrials.gov NCT03942198 · STUDY_CHAIR
   - ClinicalTrials.gov NCT03953885 · STUDY_CHAIR
-- **[John Koo](../../../../../people/john-koo.md)** (4 sources · last seen 2010 · auto, not reviewed)
+- **[John Koo](../../../../../people/john-koo.md)** (4 sources · last seen 2010 · auto, not reviewed · industry-paid $420,914 (2025))
   - ClinicalTrials.gov NCT00924950 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT00800982 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT00678470 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT01012713 · PRINCIPAL_INVESTIGATOR
-- **[Leon H Kircik](../../../../../people/leon-h-kircik.md)** (4 sources · last seen 2021 · auto, not reviewed)
+- **[Leon H Kircik](../../../../../people/leon-h-kircik.md)** (4 sources · last seen 2021 · auto, not reviewed · industry-paid $655,022 (2025))
   - ClinicalTrials.gov NCT00302445 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT04571151 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT01745133 · PRINCIPAL_INVESTIGATOR
@@ -153,7 +153,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - ClinicalTrials.gov NCT00626002 · STUDY_CHAIR
   - ClinicalTrials.gov NCT00570986 · STUDY_CHAIR
   - ClinicalTrials.gov NCT00292396 · STUDY_CHAIR
-- **[Kenneth B. Gordon](../../../../../people/kenneth-b-gordon.md)** (4 sources · last seen 2026)
+- **[Kenneth B. Gordon](../../../../../people/kenneth-b-gordon.md)** (4 sources · last seen 2026 · industry-paid $84,072 (2025))
   - guideline co-author, author 13 · AAD-NPF psoriasis guidelines - biologics (2019)
   - guideline co-author, author 8 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
   - presenter, Psoriasis: Modern Therapeutic Approaches (panel) · AAD Annual Meeting 2026
@@ -162,15 +162,19 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - PubMed plaque-psoriasis:name:gladman|dafna d · 22 papers
 - **[Laura C. Coates](../../../../../people/laura-c-coates.md)** (4 sources · last seen 2026)
   - PubMed plaque-psoriasis:orcid:0000-0002-4756-663X · 42 papers
-- **[Jennifer Soung](../../../../../people/j-soung.md)** (3 sources · last seen 2026)
+- **[Jennifer Soung](../../../../../people/j-soung.md)** (3 sources · last seen 2026 · industry-paid $490,896 (2025))
   - trial publication author, author 2 · ICONIC-LEAD (icotrokinra, phase 3)
   - presenter, ICONIC-LEAD (icotrokinra) · AAD Annual Meeting 2026
   - presenter, Psoriasis: Modern Therapeutic Approaches (panel) · AAD Annual Meeting 2026
   - presenter, late-breaker: ICONIC-LEAD 52-week data (icotrokinra) · EADV Congress 2025
-- **[Alice B. Gottlieb](../../../../../people/alice-b-gottlieb.md)** (3 sources · last seen 2026)
+- **[Alice B. Gottlieb](../../../../../people/alice-b-gottlieb.md)** (3 sources · last seen 2026 · industry-paid $79,925 (2025))
   - guideline co-author, author 14 · AAD-NPF psoriasis guidelines - biologics (2019)
   - guideline co-author, author 9 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
   - PubMed plaque-psoriasis:name:gottlieb|alice b · 23 papers
+- **[Craig L. Leonardi](../../../../../people/craig-l-leonardi.md)** (3 sources · last seen 2020)
+  - guideline co-author, author 20 · AAD-NPF psoriasis guidelines - biologics (2019)
+  - guideline co-author, author 17 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+  - Medicare Part D 2013:1477626869:plaque-psoriasis · 183 claims
 - **[Hongzhong Jin](../../../../../people/hongzhong-jin.md)** (3 sources · last seen 2019 · auto, not reviewed)
   - ClinicalTrials.gov NCT04172233 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT04173637 · PRINCIPAL_INVESTIGATOR
@@ -179,7 +183,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - ClinicalTrials.gov NCT05536726 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT06077331 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT05604898 · PRINCIPAL_INVESTIGATOR
-- **[Joel M. Gelfand](../../../../../people/joel-m-gelfand.md)** (3 sources · last seen 2026)
+- **[Joel M. Gelfand](../../../../../people/joel-m-gelfand.md)** (3 sources · last seen 2026 · industry-paid $65,987 (2025))
   - guideline co-author, author 12 · AAD-NPF psoriasis guidelines - biologics (2019)
   - guideline co-author, author 2 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
   - presenter, Psoriasis: Modern Therapeutic Approaches (panel) · AAD Annual Meeting 2026
@@ -187,10 +191,18 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - trial publication author, author 2 · POETYK PSO-1 (deucravacitinib, phase 3)
   - trial publication author, author 1 · ICONIC-TOTAL (icotrokinra, phase 3)
   - presenter, late-breaking research: LATITUDE PsO 3001 and 3002 (zasocitinib) · AAD Annual Meeting 2026
+- **[Michael Siegel](../../../../../people/michael-siegel.md)** (3 sources · last seen 2020 · industry-paid $132,011 (2025))
+  - guideline co-author, author 28 · AAD-NPF psoriasis guidelines - biologics (2019)
+  - guideline co-author, author 27 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+  - Medicare Part D 2013:1104915875:plaque-psoriasis · 194 claims
 - **[Min Zheng](../../../../../people/min-zheng.md)** (3 sources · last seen 2022 · auto, not reviewed)
   - ClinicalTrials.gov NCT05377944 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT04102241 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT04728360 · PRINCIPAL_INVESTIGATOR
+- **[Neil J. Korman](../../../../../people/neil-j-korman.md)** (3 sources · last seen 2020 · industry-paid $90,822 (2025))
+  - guideline co-author, author 17 · AAD-NPF psoriasis guidelines - biologics (2019)
+  - guideline co-author, author 14 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+  - Medicare Part D 2013:1326067778:plaque-psoriasis · 184 claims
 - **[Roman Ivanov](../../../../../people/roman-ivanov.md)** (3 sources · last seen 2017 · auto, not reviewed)
   - ClinicalTrials.gov NCT02762955 · STUDY_CHAIR
   - ClinicalTrials.gov NCT02762994 · STUDY_CHAIR
@@ -207,6 +219,8 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - ClinicalTrials.gov NCT04612699 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT06077331 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT05863273 · STUDY_DIRECTOR
+- **[Francisco A Kerdel](../../../../../people/francisco-a-kerdel.md)** (3 sources · last seen 2013 · auto, not reviewed · industry-paid $336,884 (2025))
+  - Medicare Part D 2013:1144258724:plaque-psoriasis · 386 claims
 - **[Vinod Chandran](../../../../../people/vinod-chandran.md)** (3 sources · last seen 2026 · auto, not reviewed)
   - PubMed plaque-psoriasis:name:chandran|vinod · 35 papers
 - **[Akimichi Morita](../../../../../people/akimichi-morita.md)** (2 sources · last seen 2026)
@@ -215,10 +229,10 @@ Ranked by number of independent sources. Under each name is why they are listed 
 - **[Alan Menter](../../../../../people/alan-menter.md)** (2 sources · last seen 2020)
   - guideline co-author, author 1 · AAD-NPF psoriasis guidelines - biologics (2019)
   - guideline co-author, author 1 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
-- **[Andrew Blauvelt](../../../../../people/andrew-blauvelt.md)** (2 sources · last seen 2026)
+- **[Andrew Blauvelt](../../../../../people/andrew-blauvelt.md)** (2 sources · last seen 2026 · industry-paid $250,246 (2025))
   - trial publication author, author 16 · POETYK PSO-1 (deucravacitinib, phase 3)
   - presenter, late-breaking research: ONWARD 1 and 2 (envudeucitinib) · AAD Annual Meeting 2026
-- **[Arthur Kavanaugh](../../../../../people/arthur-kavanaugh.md)** (2 sources · last seen 2020)
+- **[Arthur Kavanaugh](../../../../../people/arthur-kavanaugh.md)** (2 sources · last seen 2020 · industry-paid $113,486 (2025))
   - guideline co-author, author 15 · AAD-NPF psoriasis guidelines - biologics (2019)
   - guideline co-author, author 11 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
 - **[Arun L. Pathy](../../../../../people/arun-l-pathy.md)** (2 sources · last seen 2020)
@@ -227,43 +241,40 @@ Ranked by number of independent sources. Under each name is why they are listed 
 - **[Benjamin Stoff](../../../../../people/benjamin-stoff.md)** (2 sources · last seen 2020)
   - guideline co-author, author 6 · AAD-NPF psoriasis guidelines - biologics (2019)
   - guideline co-author, author 28 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
-- **[Boni E. Elewski](../../../../../people/boni-e-elewski.md)** (2 sources · last seen 2020)
+- **[Boni E. Elewski](../../../../../people/boni-e-elewski.md)** (2 sources · last seen 2020 · industry-paid $28,715 (2025))
   - guideline co-author, author 11 · AAD-NPF psoriasis guidelines - biologics (2019)
   - guideline co-author, author 7 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
-- **[Cody Connor](../../../../../people/cody-connor.md)** (2 sources · last seen 2020)
+- **[Cody Connor](../../../../../people/cody-connor.md)** (2 sources · last seen 2020 · industry-paid $3,450 (2025))
   - guideline co-author, author 8 · AAD-NPF psoriasis guidelines - biologics (2019)
   - guideline co-author, author 3 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
 - **[Craig A. Elmets](../../../../../people/craig-a-elmets.md)** (2 sources · last seen 2020)
   - guideline co-author, author 32 · AAD-NPF psoriasis guidelines - biologics (2019)
   - guideline co-author, author 34 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
-- **[Craig L. Leonardi](../../../../../people/craig-l-leonardi.md)** (2 sources · last seen 2020)
-  - guideline co-author, author 20 · AAD-NPF psoriasis guidelines - biologics (2019)
-  - guideline co-author, author 17 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
 - **[Daniel H. Kaplan](../../../../../people/daniel-h-kaplan.md)** (2 sources · last seen 2020)
   - guideline co-author, author 3 · AAD-NPF psoriasis guidelines - biologics (2019)
   - guideline co-author, author 10 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
 - **[Daniela Kroshinsky](../../../../../people/daniela-kroshinsky.md)** (2 sources · last seen 2020)
   - guideline co-author, author 18 · AAD-NPF psoriasis guidelines - biologics (2019)
   - guideline co-author, author 15 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
-- **[Dario Kivelevitch](../../../../../people/dario-kivelevitch.md)** (2 sources · last seen 2020)
+- **[Dario Kivelevitch](../../../../../people/dario-kivelevitch.md)** (2 sources · last seen 2020 · industry-paid $44,044 (2025))
   - guideline co-author, author 4 · AAD-NPF psoriasis guidelines - biologics (2019)
   - guideline co-author, author 13 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
 - **[Dawn MR Davis](../../../../../people/dawn-mr-davis.md)** (2 sources · last seen 2020)
   - guideline co-author, author 10 · AAD-NPF psoriasis guidelines - biologics (2019)
   - guideline co-author, author 6 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
-- **[Elizabeth F. Prater](../../../../../people/elizabeth-f-prater.md)** (2 sources · last seen 2020)
+- **[Elizabeth F. Prater](../../../../../people/elizabeth-f-prater.md)** (2 sources · last seen 2020 · industry-paid $89 (2025))
   - guideline co-author, author 5 · AAD-NPF psoriasis guidelines - biologics (2019)
   - guideline co-author, author 24 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
-- **[Emily B. Wong](../../../../../people/emily-b-wong.md)** (2 sources · last seen 2020)
+- **[Emily B. Wong](../../../../../people/emily-b-wong.md)** (2 sources · last seen 2020 · industry-paid $2,082 (2025))
   - guideline co-author, author 29 · AAD-NPF psoriasis guidelines - biologics (2019)
   - guideline co-author, author 31 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
 - **[Haroon Nabi](../../../../../people/haroon-nabi.md)** (2 sources · last seen 2022 · auto, not reviewed)
   - ClinicalTrials.gov NCT06043752 · STUDY_DIRECTOR
   - ClinicalTrials.gov NCT06032858 · STUDY_DIRECTOR
-- **[Henry W. Lim](../../../../../people/henry-w-lim.md)** (2 sources · last seen 2020)
+- **[Henry W. Lim](../../../../../people/henry-w-lim.md)** (2 sources · last seen 2020 · industry-paid $20,033 (2025))
   - guideline co-author, author 22 · AAD-NPF psoriasis guidelines - biologics (2019)
   - guideline co-author, author 19 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
-- **[Jashin J. Wu](../../../../../people/jashin-j-wu.md)** (2 sources · last seen 2020)
+- **[Jashin J. Wu](../../../../../people/jashin-j-wu.md)** (2 sources · last seen 2020 · industry-paid $138,681 (2025))
   - guideline co-author, author 30 · AAD-NPF psoriasis guidelines - biologics (2019)
   - guideline co-author, author 32 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
 - **[Jason Lichten](../../../../../people/jason-lichten.md)** (2 sources · last seen 2020)
@@ -275,16 +286,10 @@ Ranked by number of independent sources. Under each name is why they are listed 
 - **[Matthew Kiselica](../../../../../people/matthew-kiselica.md)** (2 sources · last seen 2020)
   - guideline co-author, author 16 · AAD-NPF psoriasis guidelines - biologics (2019)
   - guideline co-author, author 12 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
-- **[Michael Siegel](../../../../../people/michael-siegel.md)** (2 sources · last seen 2020)
-  - guideline co-author, author 28 · AAD-NPF psoriasis guidelines - biologics (2019)
-  - guideline co-author, author 27 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
 - **[Nehal N. Mehta](../../../../../people/nehal-n-mehta.md)** (2 sources · last seen 2020)
   - guideline co-author, author 23 · AAD-NPF psoriasis guidelines - biologics (2019)
   - guideline co-author, author 20 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
-- **[Neil J. Korman](../../../../../people/neil-j-korman.md)** (2 sources · last seen 2020)
-  - guideline co-author, author 17 · AAD-NPF psoriasis guidelines - biologics (2019)
-  - guideline co-author, author 14 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
-- **[Reena N. Rupani](../../../../../people/reena-n-rupani.md)** (2 sources · last seen 2020)
+- **[Reena N. Rupani](../../../../../people/reena-n-rupani.md)** (2 sources · last seen 2020 · industry-paid $24 (2025))
   - guideline co-author, author 27 · AAD-NPF psoriasis guidelines - biologics (2019)
   - guideline co-author, author 26 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
 - **[Richard B. Warren](../../../../../people/richard-b-warren.md)** (2 sources · last seen 2026)
@@ -296,7 +301,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
 - **[Vidhya Hariharan](../../../../../people/vidhya-hariharan.md)** (2 sources · last seen 2020)
   - guideline co-author, author 31 · AAD-NPF psoriasis guidelines - biologics (2019)
   - guideline co-author, author 33 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
-- **[Alexa B. Kimball](../../../../../people/alexa-b-kimball.md)** (2 sources · last seen 2026)
+- **[Alexa B. Kimball](../../../../../people/alexa-b-kimball.md)** (2 sources · last seen 2026 · industry-paid $260,643 (2025))
   - outside reviewer, clinical expert reviewer · ICER: Targeted Immunomodulators for Plaque Psoriasis (2018 update)
 - **[Laure Gossec](../../../../../people/laure-gossec.md)** (2 sources · last seen 2026 · auto, not reviewed)
   - PubMed plaque-psoriasis:orcid:0000-0002-4528-310X · 29 papers
@@ -316,6 +321,8 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - PubMed plaque-psoriasis:name:costanzo|antonio · 22 papers
 - **[Bram Ramaekers](../../../../../people/bram-ramaekers.md)** (1 source · last seen 2018)
   - outside reviewer, health economics reviewer · ICER: Targeted Immunomodulators for Plaque Psoriasis (2018 update)
+- **[Brent Boyce](../../../../../people/brent-boyce.md)** (1 source · last seen 2013 · auto, not reviewed · industry-paid $10,853 (2025))
+  - Medicare Part D 2013:1417944786:plaque-psoriasis · 186 claims
 - **[C.M. DeKlotz](../../../../../people/c-m-deklotz.md)** (1 source · last seen 2025 · name unconfirmed)
   - trial publication author, author 14 · ICONIC-LEAD (icotrokinra, phase 3)
 - **[Chuanjian Lu](../../../../../people/chuanjian-lu.md)** (1 source · last seen 2026 · auto, not reviewed)
@@ -332,8 +339,10 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - trial publication author, author 2 · ICONIC-TOTAL (icotrokinra, phase 3)
 - **[Elizabeth Colston](../../../../../people/elizabeth-colston.md)** (1 source · last seen 2023 · industry)
   - trial publication author, author 10 · POETYK PSO-1 (deucravacitinib, phase 3)
-- **[Elliot B. Tapper](../../../../../people/elliot-b-tapper.md)** (1 source · last seen 2020)
+- **[Elliot B. Tapper](../../../../../people/elliot-b-tapper.md)** (1 source · last seen 2020 · industry-paid $18,437 (2025))
   - guideline co-author, author 30 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+- **[Erin Boh](../../../../../people/erin-boh.md)** (1 source · last seen 2013 · auto, not reviewed · industry-paid $26,776 (2025))
+  - Medicare Part D 2013:1790797454:plaque-psoriasis · 140 claims
 - **[F. Nunes](../../../../../people/f-nunes.md)** (1 source · last seen 2025 · name unconfirmed)
   - trial publication author, author 15 · ICONIC-LEAD (icotrokinra, phase 3)
 - **[Foluso Agboola](../../../../../people/foluso-agboola.md)** (1 source · last seen 2018)
@@ -344,30 +353,54 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - trial publication author, author 12 · ICONIC-LEAD (icotrokinra, phase 3)
 - **[Jacek C. Szepietowski](../../../../../people/jacek-c-szepietowski.md)** (1 source · last seen 2023)
   - trial publication author, author 8 · POETYK PSO-1 (deucravacitinib, phase 3)
-- **[Jeffrey Cohen](../../../../../people/jeffrey-cohen.md)** (1 source · last seen 2026)
+- **[Jack Ditty](../../../../../people/jack-ditty.md)** (1 source · last seen 2013 · auto, not reviewed)
+  - Medicare Part D 2013:1740315589:plaque-psoriasis · 137 claims
+- **[Jeffrey Cohen](../../../../../people/jeffrey-cohen.md)** (1 source · last seen 2026 · industry-paid $3,984 (2025))
   - presenter, Psoriasis: Modern Therapeutic Approaches (panel) · AAD Annual Meeting 2026
 - **[John Throup](../../../../../people/john-throup.md)** (1 source · last seen 2023 · industry)
   - trial publication author, author 11 · POETYK PSO-1 (deucravacitinib, phase 3)
+- **[Jonathan Baron](../../../../../people/jonathan-baron.md)** (1 source · last seen 2013 · auto, not reviewed · industry-paid $31,236 (2025))
+  - Medicare Part D 2013:1982686333:plaque-psoriasis · 126 claims
+- **[Jose Gonzalez Chavez](../../../../../people/jose-gonzalez-chavez.md)** (1 source · last seen 2013 · auto, not reviewed · industry-paid $4,855 (2025))
+  - Medicare Part D 2013:1619930682:plaque-psoriasis · 254 claims
+- **[Kevin Gaffney](../../../../../people/kevin-gaffney.md)** (1 source · last seen 2013 · auto, not reviewed · industry-paid $263 (2025))
+  - Medicare Part D 2013:1194740449:plaque-psoriasis · 124 claims
 - **[M. Miller-Kassamali](../../../../../people/m-miller-kassamali.md)** (1 source · last seen 2025 · name unconfirmed)
   - trial publication author, author 10 · ICONIC-LEAD (icotrokinra, phase 3)
+- **[Marek Stawiski](../../../../../people/marek-stawiski.md)** (1 source · last seen 2013 · auto, not reviewed · industry-paid $1,956 (2025))
+  - Medicare Part D 2013:1679573331:plaque-psoriasis · 140 claims
+- **[Mark Herron](../../../../../people/mark-herron.md)** (1 source · last seen 2013 · auto, not reviewed · industry-paid $2,596 (2025))
+  - Medicare Part D 2013:1942271812:plaque-psoriasis · 127 claims
+- **[Martin Menter](../../../../../people/martin-menter.md)** (1 source · last seen 2013 · auto, not reviewed)
+  - Medicare Part D 2013:1043268907:plaque-psoriasis · 225 claims
 - **[Matteo Megna](../../../../../people/matteo-megna.md)** (1 source · last seen 2026 · auto, not reviewed)
   - PubMed plaque-psoriasis:name:megna|matteo · 38 papers
+- **[Melissa Knuckles](../../../../../people/melissa-knuckles.md)** (1 source · last seen 2013 · auto, not reviewed · industry-paid $245,358 (2025))
+  - Medicare Part D 2013:1821074360:plaque-psoriasis · 342 claims
 - **[Misti Linaberry](../../../../../people/misti-linaberry.md)** (1 source · last seen 2023 · industry)
   - trial publication author, author 14 · POETYK PSO-1 (deucravacitinib, phase 3)
-- **[Mona Shahriari](../../../../../people/mona-shahriari.md)** (1 source · last seen 2026)
+- **[Mona Shahriari](../../../../../people/mona-shahriari.md)** (1 source · last seen 2026 · industry-paid $427,822 (2025))
   - presenter, Psoriasis: Modern Therapeutic Approaches (panel) · AAD Annual Meeting 2026
+- **[Nancy Anderson](../../../../../people/nancy-anderson.md)** (1 source · last seen 2013 · auto, not reviewed · industry-paid $30,679 (2025))
+  - Medicare Part D 2013:1710091806:plaque-psoriasis · 128 claims
+- **[Paul Yamauchi](../../../../../people/paul-yamauchi.md)** (1 source · last seen 2013 · auto, not reviewed · industry-paid $413,717 (2025))
+  - Medicare Part D 2013:1720074537:plaque-psoriasis · 151 claims
 - **[Reiner Banken](../../../../../people/reiner-banken.md)** (1 source · last seen 2018)
   - report author, ICER Senior Fellow · ICER: Targeted Immunomodulators for Plaque Psoriasis (2018 update)
 - **[Richard Langley](../../../../../people/richard-langley.md)** (1 source · last seen 2026)
   - presenter, Psoriasis: Modern Therapeutic Approaches (panel) · AAD Annual Meeting 2026
 - **[Rick Chapman](../../../../../people/rick-chapman.md)** (1 source · last seen 2018)
   - report author, ICER Director of Health Economics · ICER: Targeted Immunomodulators for Plaque Psoriasis (2018 update)
-- **[Robert S. Rahimi](../../../../../people/robert-s-rahimi.md)** (1 source · last seen 2020)
+- **[Robert Kalb](../../../../../people/robert-kalb.md)** (1 source · last seen 2013 · auto, not reviewed · industry-paid $7,670 (2025))
+  - Medicare Part D 2013:1750348454:plaque-psoriasis · 179 claims
+- **[Robert S. Rahimi](../../../../../people/robert-s-rahimi.md)** (1 source · last seen 2020 · industry-paid $748 (2025))
   - guideline co-author, author 25 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
 - **[S. Li](../../../../../people/s-li.md)** (1 source · last seen 2025 · name unconfirmed)
   - trial publication author, author 13 · ICONIC-LEAD (icotrokinra, phase 3)
 - **[Shinichi Imafuku](../../../../../people/shinichi-imafuku.md)** (1 source · last seen 2023)
   - trial publication author, author 9 · POETYK PSO-1 (deucravacitinib, phase 3)
+- **[Sidney Smith](../../../../../people/sidney-smith.md)** (1 source · last seen 2013 · auto, not reviewed · industry-paid $1,338 (2025))
+  - Medicare Part D 2013:1104817410:plaque-psoriasis · 148 claims
 - **[Steve Schoenfeld](../../../../../people/steve-schoenfeld.md)** (1 source · last seen 2023 · industry)
   - trial publication author, author 13 · POETYK PSO-1 (deucravacitinib, phase 3)
 - **[Steven D. Pearson](../../../../../people/steven-d-pearson.md)** (1 source · last seen 2018)
@@ -376,8 +409,12 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - trial publication author, author 15 · POETYK PSO-1 (deucravacitinib, phase 3)
 - **[Sudeep Kundu](../../../../../people/sudeep-kundu.md)** (1 source · last seen 2023 · industry)
   - trial publication author, author 12 · POETYK PSO-1 (deucravacitinib, phase 3)
+- **[Tien Nguyen](../../../../../people/tien-nguyen.md)** (1 source · last seen 2013 · auto, not reviewed · industry-paid $296,700 (2025))
+  - Medicare Part D 2013:1396741351:plaque-psoriasis · 293 claims
 - **[W. Wang](../../../../../people/w-wang.md)** (1 source · last seen 2025 · name unconfirmed)
   - trial publication author, author 8 · ICONIC-LEAD (icotrokinra, phase 3)
+- **[Walter Barkey](../../../../../people/walter-barkey.md)** (1 source · last seen 2013 · auto, not reviewed)
+  - Medicare Part D 2013:1770524886:plaque-psoriasis · 242 claims
 - **[Y. Shi](../../../../../people/y-shi.md)** (1 source · last seen 2025 · name unconfirmed)
   - trial publication author, author 7 · ICONIC-LEAD (icotrokinra, phase 3)
 - **[Yehong Kuang](../../../../../people/yehong-kuang.md)** (1 source · last seen 2027 · auto, not reviewed)

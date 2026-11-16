@@ -20,6 +20,13 @@ npi_record:
   practice: Boston, MA
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1184018269
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 0
+  companies: 0
+  top: []
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
@@ -33,5 +40,6 @@ npi_record:
 - PubMed rheumatoid-arthritis:name:zhang|yan — 23 papers · [Rheumatoid arthritis](../tree/therapeutic-areas/immunology/rheumatology/rheumatoid-arthritis.md)
 ### Practice and industry ties
 - **NPI 1184018269** (Pediatrics, Pediatric Gastroenterology, Boston, MA). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1184018269), checked 2026-11-16
+- **Industry payments 2025:** none reported in [CMS Open Payments](https://openpaymentsdata.cms.gov/)
 ### Affiliations
 - Academy of Microbial Ecology, Shanxi Medical University, Taiyuan, China. (2026)

@@ -28,11 +28,11 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - speaker, Lilly corporate session: orforglipron phase 3 (ATTAIN-2) · ObesityWeek 2025
 - **[Sean Wharton](../../../../../people/sean-wharton.md)** (2 sources · last seen 2026)
   - speaker, Lilly corporate session: orforglipron phase 3 (ATTAIN-2) · ObesityWeek 2025
-- **[Alpana Shukla](../../../../../people/alpana-shukla.md)** (1 source · last seen 2025)
+- **[Alpana Shukla](../../../../../people/alpana-shukla.md)** (1 source · last seen 2025 · industry-paid $3,958 (2025))
   - speaker, Lilly corporate session: orforglipron phase 3 (ATTAIN-2) · ObesityWeek 2025
 - **[Donna Ryan](../../../../../people/donna-ryan.md)** (1 source · last seen 2025)
   - speaker, Lilly corporate session: orforglipron phase 3 (ATTAIN-2) · ObesityWeek 2025
-- **[Nasreen Alfaris](../../../../../people/nasreen-alfaris.md)** (1 source · last seen 2025)
+- **[Nasreen Alfaris](../../../../../people/nasreen-alfaris.md)** (1 source · last seen 2025 · industry-paid $10,786 (2025))
   - speaker, Lilly corporate session: orforglipron phase 3 (ATTAIN-2) · ObesityWeek 2025
 ### Sources
 - [ConsultantLive: FDA approves orforglipron (Foundayo) (Apr 1, 2026)](https://www.consultantlive.com/view/fda-approves-orforglipron-foundayo-as-first-daily-glp-1-pill-without-food-water-restrictions)

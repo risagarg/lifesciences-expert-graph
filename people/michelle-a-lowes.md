@@ -20,6 +20,13 @@ npi_record:
   practice: Bronx, NY
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1629343587
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 0
+  companies: 0
+  top: []
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
@@ -33,5 +40,6 @@ npi_record:
 - PubMed hidradenitis-suppurativa:name:lowes|michelle a — 28 papers · [Hidradenitis suppurativa](../tree/therapeutic-areas/immunology/dermatology/hidradenitis-suppurativa.md)
 ### Practice and industry ties
 - **NPI 1629343587** (MD PhD, Dermatology, Bronx, NY). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1629343587), checked 2026-11-16
+- **Industry payments 2025:** none reported in [CMS Open Payments](https://openpaymentsdata.cms.gov/)
 ### Affiliations
 - The Rockefeller University, New York, New York. (2026)

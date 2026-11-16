@@ -20,6 +20,13 @@ npi_record:
   practice: Hillsboro, OR
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1225254436
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 0
+  companies: 0
+  top: []
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
@@ -33,5 +40,6 @@ npi_record:
 - PubMed rheumatoid-arthritis:name:liu|wei — 15 papers · [Rheumatoid arthritis](../tree/therapeutic-areas/immunology/rheumatology/rheumatoid-arthritis.md)
 ### Practice and industry ties
 - **NPI 1225254436** (MD, PhD, Internal Medicine, Gastroenterology, Hillsboro, OR). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1225254436), checked 2026-11-16
+- **Industry payments 2025:** none reported in [CMS Open Payments](https://openpaymentsdata.cms.gov/)
 ### Affiliations
 - Department of Orthopaedic Surgery, Nantong First People's Hospital, Affiliated Hospital 2 of Nantong University, Nantong, Jiangsu, China. (2026)

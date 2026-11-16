@@ -15,11 +15,11 @@ summary: Not built out yet.
 ### Experts on Hidradenitis suppurativa (37)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
-- **[Mark Lebwohl](../../../../people/mark-lebwohl.md)** (11 sources · last seen 2026)
+- **[Mark Lebwohl](../../../../people/mark-lebwohl.md)** (11 sources · last seen 2026 · industry-paid $127,834 (2025))
   - panelist, top advances of 2025: AD, HS, psoriasis, CSU · Fall Clinical Dermatology Conference 2025
-- **[April W. Armstrong](../../../../people/april-w-armstrong.md)** (7 sources · last seen 2026)
+- **[April W. Armstrong](../../../../people/april-w-armstrong.md)** (7 sources · last seen 2026 · industry-paid $520,639 (2025))
   - panelist, top advances of 2025: AD, HS, psoriasis, CSU · Fall Clinical Dermatology Conference 2025
-- **[Hadar Lev-Tov](../../../../people/hadar-lev-tov.md)** (6 sources · last seen 2026)
+- **[Hadar Lev-Tov](../../../../people/hadar-lev-tov.md)** (6 sources · last seen 2026 · industry-paid $105,555 (2025))
   - speaker, Approach to Challenging Cases in HS · Winter Clinical Dermatology Conference Hawaii 2026
   - ClinicalTrials.gov NCT06015438 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT05642039 · PRINCIPAL_INVESTIGATOR
@@ -28,7 +28,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - ClinicalTrials.gov NCT05057429 · PRINCIPAL_INVESTIGATOR
 - **[Linda Stein Gold](../../../../people/l-gold.md)** (5 sources · last seen 2026)
   - panelist, top advances of 2025: AD, HS, psoriasis, CSU · Fall Clinical Dermatology Conference 2025
-- **[Christopher J Sayed](../../../../people/christopher-j-sayed.md)** (4 sources · last seen 2026 · auto, not reviewed)
+- **[Christopher J Sayed](../../../../people/christopher-j-sayed.md)** (4 sources · last seen 2026 · auto, not reviewed · industry-paid $155,312 (2025))
   - ClinicalTrials.gov NCT07800416 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT02781818 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT05194969 · STUDY_DIRECTOR
@@ -38,7 +38,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - ClinicalTrials.gov NCT02421172 · PRINCIPAL_INVESTIGATOR
   - PubMed hidradenitis-suppurativa:name:jemec|gregor b e · 66 papers
   - PubMed hidradenitis-suppurativa:orcid:0000-0002-0712-2540 · 28 papers
-- **[John W Frew](../../../../people/john-w-frew.md)** (4 sources · last seen 2026 · auto, not reviewed)
+- **[John W Frew](../../../../people/john-w-frew.md)** (4 sources · last seen 2026 · auto, not reviewed · industry-paid $24,051 (2025))
   - ClinicalTrials.gov NCT03960268 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT04084665 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT04249713 · PRINCIPAL_INVESTIGATOR
@@ -55,6 +55,9 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - ClinicalTrials.gov NCT03289585 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT04582669 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT03040804 · PRINCIPAL_INVESTIGATOR
+- **[Francisco A Kerdel](../../../../people/francisco-a-kerdel.md)** (3 sources · last seen 2013 · auto, not reviewed · industry-paid $336,884 (2025))
+  - ClinicalTrials.gov NCT00795574 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00827996 · PRINCIPAL_INVESTIGATOR
 - **[Antonio Martorell](../../../../people/antonio-martorell.md)** (2 sources · last seen 2024 · auto, not reviewed)
   - ClinicalTrials.gov NCT07428941 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT07428915 · PRINCIPAL_INVESTIGATOR
@@ -70,41 +73,38 @@ Ranked by number of independent sources. Under each name is why they are listed 
 - **[Evangelos J Giamarellos-Bourboulis](../../../../people/evangelos-j-giamarellos-bourboulis.md)** (2 sources · last seen 2012 · auto, not reviewed)
   - ClinicalTrials.gov NCT01558375 · STUDY_CHAIR
   - ClinicalTrials.gov NCT00329823 · STUDY_DIRECTOR
-- **[Francisco A Kerdel](../../../../people/francisco-a-kerdel.md)** (2 sources · last seen 2007 · auto, not reviewed)
-  - ClinicalTrials.gov NCT00795574 · PRINCIPAL_INVESTIGATOR
-  - ClinicalTrials.gov NCT00827996 · PRINCIPAL_INVESTIGATOR
-- **[Iltefat Hamzavi](../../../../people/iltefat-hamzavi.md)** (2 sources · last seen 2019 · auto, not reviewed)
+- **[Iltefat Hamzavi](../../../../people/iltefat-hamzavi.md)** (2 sources · last seen 2019 · auto, not reviewed · industry-paid $150,010 (2025))
   - ClinicalTrials.gov NCT05927948 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT01063270 · PRINCIPAL_INVESTIGATOR
 - **[James Del Rosso](../../../../people/james-del-rosso.md)** (2 sources · last seen 2026)
   - panelist, top advances of 2025: AD, HS, psoriasis, CSU · Fall Clinical Dermatology Conference 2025
   - speaker, CME symposium: managing hidradenitis suppurativa · Winter Clinical Dermatology Conference Hawaii 2026
-- **[Jennifer Hsiao](../../../../people/jennifer-hsiao.md)** (2 sources · last seen 2026)
+- **[Jennifer Hsiao](../../../../people/jennifer-hsiao.md)** (2 sources · last seen 2026 · industry-paid $356,121 (2025))
   - speaker, CME symposium: managing hidradenitis suppurativa · Winter Clinical Dermatology Conference Hawaii 2026
   - PubMed hidradenitis-suppurativa:name:hsiao|jennifer l · 41 papers
-- **[Martina Porter](../../../../people/martina-porter.md)** (2 sources · last seen 2026 · auto, not reviewed)
+- **[Martina Porter](../../../../people/martina-porter.md)** (2 sources · last seen 2026 · auto, not reviewed · industry-paid $80,987 (2025))
   - ClinicalTrials.gov NCT02805595 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT07263230 · PRINCIPAL_INVESTIGATOR
-- **[Rita O Pichardo](../../../../people/rita-o-pichardo.md)** (2 sources · last seen 2021 · auto, not reviewed)
+- **[Rita O Pichardo](../../../../people/rita-o-pichardo.md)** (2 sources · last seen 2021 · auto, not reviewed · industry-paid $2,024 (2025))
   - ClinicalTrials.gov NCT04132388 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT04354012 · PRINCIPAL_INVESTIGATOR
-- **[Sarah K Whitley](../../../../people/sarah-k-whitley.md)** (2 sources · last seen 2026 · auto, not reviewed)
+- **[Sarah K Whitley](../../../../people/sarah-k-whitley.md)** (2 sources · last seen 2026 · auto, not reviewed · industry-paid $2,453 (2025))
   - ClinicalTrials.gov NCT07756346 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT05403710 · PRINCIPAL_INVESTIGATOR
 - **[Øystein Grimstad](../../../../people/ystein-grimstad.md)** (2 sources · last seen 2021 · auto, not reviewed)
   - ClinicalTrials.gov NCT03103074 · PRINCIPAL_INVESTIGATOR
   - ClinicalTrials.gov NCT04756336 · PRINCIPAL_INVESTIGATOR
-- **[Alexa B. Kimball](../../../../people/alexa-b-kimball.md)** (2 sources · last seen 2026)
+- **[Alexa B. Kimball](../../../../people/alexa-b-kimball.md)** (2 sources · last seen 2026 · industry-paid $260,643 (2025))
   - PubMed hidradenitis-suppurativa:name:kimball|alexa b · 27 papers
-- **[Darrell Rigel](../../../../people/darrell-rigel.md)** (2 sources · last seen 2026)
+- **[Darrell Rigel](../../../../people/darrell-rigel.md)** (2 sources · last seen 2026 · industry-paid $29,273 (2025))
   - panelist, top advances of 2025: AD, HS, psoriasis, CSU · Fall Clinical Dermatology Conference 2025
-- **[Mark Nestor](../../../../people/mark-nestor.md)** (2 sources · last seen 2026)
+- **[Mark Nestor](../../../../people/mark-nestor.md)** (2 sources · last seen 2026 · industry-paid $95,475 (2025))
   - panelist, top advances of 2025: AD, HS, psoriasis, CSU · Fall Clinical Dermatology Conference 2025
-- **[Afsaneh Alavi](../../../../people/afsaneh-alavi.md)** (1 source · last seen 2026 · auto, not reviewed)
+- **[Afsaneh Alavi](../../../../people/afsaneh-alavi.md)** (1 source · last seen 2026 · auto, not reviewed · industry-paid $27,293 (2025))
   - PubMed hidradenitis-suppurativa:name:alavi|afsaneh · 48 papers
-- **[Amit Garg](../../../../people/amit-garg.md)** (1 source · last seen 2026 · auto, not reviewed)
+- **[Amit Garg](../../../../people/amit-garg.md)** (1 source · last seen 2026 · auto, not reviewed · industry-paid $175,939 (2025))
   - PubMed hidradenitis-suppurativa:name:garg|amit · 29 papers
-- **[Andrea Murina](../../../../people/andrea-murina.md)** (1 source · last seen 2026)
+- **[Andrea Murina](../../../../people/andrea-murina.md)** (1 source · last seen 2026 · industry-paid $238,143 (2025))
   - speaker, CME symposium: managing hidradenitis suppurativa · Winter Clinical Dermatology Conference Hawaii 2026
 - **[Dorra Bouazzi](../../../../people/dorra-bouazzi.md)** (1 source · last seen 2026 · auto, not reviewed)
   - PubMed hidradenitis-suppurativa:name:bouazzi|dorra · 32 papers
@@ -120,5 +120,5 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - PubMed hidradenitis-suppurativa:name:lowes|michelle a · 28 papers
 - **[Robin Christensen](../../../../people/robin-christensen.md)** (1 source · last seen 2026 · auto, not reviewed)
   - PubMed hidradenitis-suppurativa:name:christensen|robin · 27 papers
-- **[Vivian Y Shi](../../../../people/vivian-y-shi.md)** (1 source · last seen 2025 · auto, not reviewed)
+- **[Vivian Y Shi](../../../../people/vivian-y-shi.md)** (1 source · last seen 2025 · auto, not reviewed · industry-paid $139,783 (2025))
   - PubMed hidradenitis-suppurativa:orcid:0000-0002-7510-9428 · 27 papers

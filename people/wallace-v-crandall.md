@@ -20,6 +20,13 @@ npi_record:
   practice: Columbus, OH
   checked: '2026-11-16'
   url: https://npiregistry.cms.hhs.gov/provider-view/1932108123
+payments:
+  source: CMS Open Payments, general payments
+  year: 2025
+  total_usd: 0
+  companies: 0
+  top: []
+  url: https://openpaymentsdata.cms.gov/
 ---
 
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
@@ -34,5 +41,6 @@ npi_record:
 - [FDA Gastrointestinal Drugs Advisory Committee (roster)](../tree/evidence/advisory-committees/fda-gidac-roster.md) — advisory committee member, pediatric gastroenterology and late-phase drug development; term to 2027-10-31
 ### Practice and industry ties
 - **NPI 1932108123** (MD, Pediatrics, Pediatric Gastroenterology, Columbus, OH). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1932108123), checked 2026-11-16
+- **Industry payments 2025:** none reported in [CMS Open Payments](https://openpaymentsdata.cms.gov/)
 ### Affiliations
 - Associate Vice President, Medical, Immunology and GI Therapeutic Area Head, Eli Lilly and Company (2025) → [Eli Lilly](../tree/organizations/pharma-biotech/eli-lilly.md)
