@@ -1,0 +1,43 @@
+# Crawler test run: re-reads every evidence node's source pages, finds the people on them,
+# and scores the result against the people entered by hand. Adds nothing to people/.
+# Run it from the Actions tab > crawl > Run workflow.
+name: crawl
+on:
+  workflow_dispatch:
+    inputs:
+      only:
+        description: "Optional: only sources whose node or URL contains this text (e.g. maui-derm)"
+        required: false
+        default: ""
+permissions:
+  contents: write
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements-crawl.txt && python -m playwright install --with-deps chromium
+      - name: Self-test
+        run: cd scripts/crawl && python3 selftest.py
+      - name: Fetch pages
+        run: python3 scripts/crawl/fetch.py --force ${{ github.event.inputs.only }}
+      - name: Find people
+        run: python3 scripts/crawl/extract.py ${{ github.event.inputs.only }}
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      - name: Score against hand-entered people
+        run: python3 scripts/crawl/evaluate.py
+      - uses: actions/upload-artifact@v4
+        with: { name: crawled-pages, path: crawl/raw/, retention-days: 30 }
+      - name: Commit report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add crawl/report.md crawl/extracted
+          git diff --cached --quiet && exit 0
+          git commit -m "Crawler test run: report and extracted people"
+          git pull --rebase origin main
+          git push

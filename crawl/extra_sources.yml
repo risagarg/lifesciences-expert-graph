@@ -1,0 +1,8 @@
+# Pages to crawl that aren't yet a source on an evidence node.
+# Every evidence node's `sources` are crawled automatically; add anything else here.
+#
+# - url: https://example.org/2026-faculty
+#   title: Example Congress 2026 faculty list
+#   kind: conference
+#   node: evidence/conferences/example-congress-2026   # optional: the node it will become
+[]

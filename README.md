@@ -102,6 +102,8 @@ git push
 
 **Pulling experts in bulk:** a GitHub Action runs every Monday. It pulls people from ClinicalTrials.gov, PubMed and Medicare prescribing data, looks up their NPI, and adds their industry payments from Open Payments. To add a disease to it, or to run it now, see [ingest/README.md](ingest/README.md).
 
+**Crawler (test version):** reads conference pages, FDA rosters and news write-ups and finds the people on them, scored against the experts we entered by hand. See [crawl/README.md](crawl/README.md).
+
 ---
 
 ```
@@ -117,6 +119,7 @@ tree/                      the tree itself
   data-sources/            public datasets for bulk pulls
 people/                    one file per expert
 ingest/                    which diseases the weekly data pull covers
+crawl/                     the crawler's sources, report and results
 EXPERTS.md                 every expert, ranked
 scripts/build.py           rebuilds links, expert lists and the visual site
 ```
