@@ -1,10 +1,22 @@
 ---
 name: Craig L. Leonardi
 type: person
-aliases: ["Leonardi CL"]
+aliases:
+- Leonardi CL
 evidence:
-  - {node: evidence/guidelines/aad-npf-biologics-2019, role: guideline co-author, author_position: 20}
-  - {node: evidence/guidelines/aad-npf-systemic-nonbiologic-2020, role: guideline co-author, author_position: 17}
+- node: evidence/guidelines/aad-npf-biologics-2019
+  role: guideline co-author
+  author_position: 20
+- node: evidence/guidelines/aad-npf-systemic-nonbiologic-2020
+  role: guideline co-author
+  author_position: 17
+npi: '1477626869'
+npi_record:
+  credential: M.D.
+  taxonomy: Dermatology
+  practice: Saint Louis, MO
+  checked: '2026-11-16'
+  url: https://npiregistry.cms.hhs.gov/provider-view/1477626869
 ---
 
 The same surname and first initial appear across these sources, so they are merged here. Confirm with an identifier such as ORCID or NPI.
@@ -23,3 +35,5 @@ The same surname and first initial appear across these sources, so they are merg
 ### Evidence
 - [AAD-NPF psoriasis guidelines - biologics (2019)](../tree/evidence/guidelines/aad-npf-biologics-2019.md) — guideline co-author, author 20
 - [AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)](../tree/evidence/guidelines/aad-npf-systemic-nonbiologic-2020.md) — guideline co-author, author 17
+### Practice and industry ties
+- **NPI 1477626869** (M.D., Dermatology, Saint Louis, MO). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1477626869), checked 2026-11-16

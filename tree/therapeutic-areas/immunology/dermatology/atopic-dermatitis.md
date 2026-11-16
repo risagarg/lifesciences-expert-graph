@@ -13,26 +13,183 @@ summary: Not built out yet.
 - ← covers · [Fall Clinical Dermatology Conference 2025](../../../evidence/conferences/fall-clinical-dermatology-2025.md)
 - ← covers · [Maui Derm Hawaii 2026](../../../evidence/conferences/maui-derm-2026.md)
 - ← covers · [Winter Clinical Dermatology Conference Hawaii 2026](../../../evidence/conferences/winter-clinical-hawaii-2026.md)
-### Experts on Atopic dermatitis (21)
+### Experts on Atopic dermatitis (53)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
-- **[April W. Armstrong](../../../../people/april-w-armstrong.md)** (6 sources · last seen 2026)
+- **[Robert Bissonnette](../../../../people/r-bissonnette.md)** (26 sources · last seen 2025)
+  - ClinicalTrials.gov NCT01577628 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00931411 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05026554 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02270411 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05602207 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03868098 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05844618 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00837551 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06283550 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04537468 · PRINCIPAL_INVESTIGATOR
+- **[Jianzhong Zhang](../../../../people/jianzhong-zhang.md)** (17 sources · last seen 2025 · auto, not reviewed)
+  - ClinicalTrials.gov NCT05023668 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06085521 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06947980 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05667623 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06277245 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06175143 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT07230483 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT07054736 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06026891 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06477835 · PRINCIPAL_INVESTIGATOR
+- **[Donald Leung](../../../../people/donald-leung.md)** (13 sources · last seen 2025 · auto, not reviewed)
+  - ClinicalTrials.gov NCT00822276 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05436535 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT01737710 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT04445298 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03038932 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT06504160 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT02680405 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00407069 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00379678 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01429311 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03168113 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01518478 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02910791 · PRINCIPAL_INVESTIGATOR
+- **[Amy S. Paller](../../../../people/amy-s-paller.md)** (11 sources · last seen 2026)
+  - ClinicalTrials.gov NCT04486742 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT07050810 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03051347 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01216059 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00179959 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05042258 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01782703 · PRINCIPAL_INVESTIGATOR
+  - PubMed atopic-dermatitis:name:paller|amy s · 63 papers
+- **[Mark Lebwohl](../../../../people/mark-lebwohl.md)** (11 sources · last seen 2026)
   - panelist, top advances of 2025: AD, HS, psoriasis, CSU · Fall Clinical Dermatology Conference 2025
+- **[Eric Simpson](../../../../people/eric-simpson.md)** (10 sources · last seen 2026 · auto, not reviewed)
+  - ClinicalTrials.gov NCT01291940 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03409367 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02525094 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00806221 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00723489 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00460083 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03160885 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01375205 · PRINCIPAL_INVESTIGATOR
+  - PubMed atopic-dermatitis:name:simpson|eric l · 57 papers
+  - PubMed atopic-dermatitis:orcid:0000-0003-0853-0252 · 27 papers
+- **[Richard Gallo](../../../../people/richard-gallo.md)** (9 sources · last seen 2025 · auto, not reviewed)
+  - ClinicalTrials.gov NCT00822276 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03151148 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT00407979 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05177328 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT06504160 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT00946478 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00723489 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03158012 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00789880 · STUDY_CHAIR
+- **[Steven Feldman](../../../../people/steven-feldman.md)** (9 sources · last seen 2026 · auto, not reviewed)
+  - ClinicalTrials.gov NCT04341623 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01469767 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01385527 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06244212 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT07661979 · PRINCIPAL_INVESTIGATOR
+- **[Stephan Weidinger](../../../../people/stephan-weidinger.md)** (7 sources · last seen 2026 · auto, not reviewed)
+  - ClinicalTrials.gov NCT05140239 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03754309 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03358693 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01179529 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03361215 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03376243 · PRINCIPAL_INVESTIGATOR
+  - PubMed atopic-dermatitis:name:weidinger|stephan · 34 papers
+- **[April W. Armstrong](../../../../people/april-w-armstrong.md)** (7 sources · last seen 2026)
+  - panelist, top advances of 2025: AD, HS, psoriasis, CSU · Fall Clinical Dermatology Conference 2025
+- **[Emma Guttman](../../../../people/emma-guttman.md)** (5 sources · last seen 2026 · auto, not reviewed)
+  - ClinicalTrials.gov NCT02594098 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04605094 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT07242638 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01782703 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03359356 · PRINCIPAL_INVESTIGATOR
+- **[Lin Ma](../../../../people/lin-ma.md)** (5 sources · last seen 2026 · auto, not reviewed)
+  - ClinicalTrials.gov NCT07106372 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05650320 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06324812 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT07767253 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06956196 · PRINCIPAL_INVESTIGATOR
+- **[Qianjin Lu](../../../../people/qianjin-lu.md)** (5 sources · last seen 2023 · auto, not reviewed)
+  - ClinicalTrials.gov NCT04435392 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06553287 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04539639 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05997927 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06009094 · PRINCIPAL_INVESTIGATOR
 - **[Linda Stein Gold](../../../../people/l-gold.md)** (5 sources · last seen 2026)
   - panelist, top advances of 2025: AD, HS, psoriasis, CSU · Fall Clinical Dermatology Conference 2025
   - speaker, CME symposium: IL-13 in atopic dermatitis · Winter Clinical Dermatology Conference Hawaii 2026
-- **[Mark Lebwohl](../../../../people/mark-lebwohl.md)** (5 sources · last seen 2026)
-  - panelist, top advances of 2025: AD, HS, psoriasis, CSU · Fall Clinical Dermatology Conference 2025
+- **[Central Contact](../../../../people/central-contact.md)** (4 sources · last seen 2003 · auto, not reviewed)
+  - ClinicalTrials.gov NCT00534508 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT00535691 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT00560326 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT00801957 · STUDY_CHAIR
+- **[Chia-Yu Chu](../../../../people/chia-yu-chu.md)** (4 sources · last seen 2024 · auto, not reviewed)
+  - ClinicalTrials.gov NCT06397911 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03758716 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01995747 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00173498 · PRINCIPAL_INVESTIGATOR
+- **[Fu-Tong Liu](../../../../people/fu-tong-liu.md)** (4 sources · last seen 2008 · auto, not reviewed)
+  - ClinicalTrials.gov NCT00367016 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00371163 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00368719 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00710489 · PRINCIPAL_INVESTIGATOR
+- **[Katrina Abuabara](../../../../people/katrina-abuabara.md)** (4 sources · last seen 2026 · auto, not reviewed)
+  - ClinicalTrials.gov NCT07447063 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT07487831 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06998446 · PRINCIPAL_INVESTIGATOR
+  - PubMed atopic-dermatitis:name:abuabara|katrina · 29 papers
+- **[Klaus Bønnelykke](../../../../people/klaus-bnnelykke.md)** (4 sources · last seen 2024 · auto, not reviewed)
+  - ClinicalTrials.gov NCT00798226 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06570889 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00856947 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06560255 · PRINCIPAL_INVESTIGATOR
+- **[Lisa Beck](../../../../people/lisa-beck.md)** (4 sources · last seen 2014 · auto, not reviewed)
+  - ClinicalTrials.gov NCT00515047 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01996150 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02115399 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT01494142 · STUDY_CHAIR
 - **[Kenneth B. Gordon](../../../../people/kenneth-b-gordon.md)** (4 sources · last seen 2026)
   - presenter, IEC-IPC symposium: eczematous reactions to psoriasis treatments, clinical approach · AAD Annual Meeting 2026
+- **[Jochen M Schmitt](../../../../people/jochen-m-schmitt.md)** (3 sources · last seen 2021 · auto, not reviewed)
+  - ClinicalTrials.gov NCT00445081 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06937788 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00148746 · STUDY_DIRECTOR
+- **[Kevin C Thomas](../../../../people/kevin-c-thomas.md)** (3 sources · last seen 2022 · auto, not reviewed)
+  - ClinicalTrials.gov NCT03898427 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03873220 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05200403 · PRINCIPAL_INVESTIGATOR
+- **[Sanguk Son](../../../../people/sanguk-son.md)** (3 sources · last seen 2021 · auto, not reviewed)
+  - ClinicalTrials.gov NCT07582237 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04137562 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05004324 · PRINCIPAL_INVESTIGATOR
+- **[Emma Guttman-Yassky](../../../../people/emma-guttman-yassky.md)** (2 sources · last seen 2026 · auto, not reviewed)
+  - PubMed atopic-dermatitis:name:guttman-yassky|emma · 65 papers
+  - PubMed atopic-dermatitis:orcid:0000-0002-9363-324X · 33 papers
+- **[Jonathan I Silverberg](../../../../people/jonathan-i-silverberg.md)** (2 sources · last seen 2026 · auto, not reviewed)
+  - PubMed atopic-dermatitis:name:silverberg|jonathan i · 85 papers
+  - PubMed atopic-dermatitis:orcid:0000-0003-3686-7805 · 51 papers
+- **[Lawrence Eichenfield](../../../../people/lawrence-eichenfield.md)** (2 sources · last seen 2026)
+  - panelist, Atopic Dermatitis and Pruritus 2026 · Maui Derm Hawaii 2026
+  - PubMed atopic-dermatitis:name:eichenfield|lawrence f · 55 papers
 - **[Darrell Rigel](../../../../people/darrell-rigel.md)** (2 sources · last seen 2026)
   - panelist, top advances of 2025: AD, HS, psoriasis, CSU · Fall Clinical Dermatology Conference 2025
 - **[James Del Rosso](../../../../people/james-del-rosso.md)** (2 sources · last seen 2026)
   - panelist, top advances of 2025: AD, HS, psoriasis, CSU · Fall Clinical Dermatology Conference 2025
 - **[Mark Nestor](../../../../people/mark-nestor.md)** (2 sources · last seen 2026)
   - panelist, top advances of 2025: AD, HS, psoriasis, CSU · Fall Clinical Dermatology Conference 2025
+- **[Alan D Irvine](../../../../people/alan-d-irvine.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed atopic-dermatitis:name:irvine|alan d · 30 papers
+- **[Andreas Wollenberg](../../../../people/andreas-wollenberg.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed atopic-dermatitis:name:wollenberg|andreas · 35 papers
 - **[Andrew Pink](../../../../people/andrew-pink.md)** (1 source · last seen 2026)
   - presenter, IEC-IPC symposium: diagnostic challenges between atopic dermatitis and psoriasis · AAD Annual Meeting 2026
+- **[Carsten Flohr](../../../../people/carsten-flohr.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed atopic-dermatitis:orcid:0000-0003-4884-6286 · 31 papers
+- **[Cataldo Patruno](../../../../people/cataldo-patruno.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed atopic-dermatitis:name:patruno|cataldo · 35 papers
 - **[Christopher G. Bunick](../../../../people/christopher-g-bunick.md)** (1 source · last seen 2026)
   - speaker, atopic dermatitis in children and stature · Winter Clinical Dermatology Conference Hawaii 2026
 - **[Edward (Ted) Lain](../../../../people/edward-lain.md)** (1 source · last seen 2026)
@@ -41,21 +198,31 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - speaker, atopic dermatitis in children and stature · Winter Clinical Dermatology Conference Hawaii 2026
 - **[Gowri Kabbur](../../../../people/gowri-kabbur.md)** (1 source · last seen 2026)
   - presenter, Managing psoriasis and atopic dermatitis in patients with cancer · AAD Annual Meeting 2026
+- **[J P Thyssen](../../../../people/j-p-thyssen.md)** (1 source · last seen 2025 · auto, not reviewed)
+  - PubMed atopic-dermatitis:orcid:0000-0003-3770-1743 · 37 papers
+- **[Jacob P Thyssen](../../../../people/jacob-p-thyssen.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed atopic-dermatitis:name:thyssen|jacob p · 48 papers
 - **[Jason Hawkes](../../../../people/jason-hawkes.md)** (1 source · last seen 2026)
   - presenter, IEC-IPC symposium: eczematous reactions to psoriasis treatments, clinical presentation · AAD Annual Meeting 2026
 - **[Johann Gudjonsson](../../../../people/johann-gudjonsson.md)** (1 source · last seen 2026)
   - presenter, IEC-IPC symposium: mechanisms of paradoxical reactions and iatrogenic switches · AAD Annual Meeting 2026
 - **[Karan Lal](../../../../people/karan-lal.md)** (1 source · last seen 2026)
   - speaker, CME symposium: IL-13 in atopic dermatitis · Winter Clinical Dermatology Conference Hawaii 2026
+- **[Kenji Kabashima](../../../../people/kenji-kabashima.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed atopic-dermatitis:name:kabashima|kenji · 30 papers
 - **[Kilian Eyerich](../../../../people/kilian-eyerich.md)** (1 source · last seen 2026)
   - presenter, IEC-IPC symposium: psoriasiform spongiotic dermatitis and advanced diagnostics · AAD Annual Meeting 2026
 - **[Kristin Belleson](../../../../people/kristin-belleson.md)** (1 source · last seen 2026)
   - President and CEO, joined July 15, 2024 · Patient organization leaders
-- **[Lawrence Eichenfield](../../../../people/lawrence-eichenfield.md)** (1 source · last seen 2026)
-  - panelist, Atopic Dermatitis and Pruritus 2026 · Maui Derm Hawaii 2026
 - **[Raj Chovatiya](../../../../people/raj-chovatiya.md)** (1 source · last seen 2026)
   - panelist, Atopic Dermatitis and Pruritus 2026 · Maui Derm Hawaii 2026
 - **[Shawn G. Kwatra](../../../../people/shawn-g-kwatra.md)** (1 source · last seen 2026)
   - presenter, IEC-IPC symposium: psoriasiform reactions to atopic dermatitis and prurigo nodularis treatments, clinical presentation · AAD Annual Meeting 2026
+- **[Thomas Bieber](../../../../people/thomas-bieber.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed atopic-dermatitis:name:bieber|thomas · 29 papers
+- **[Thomas Werfel](../../../../people/thomas-werfel.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed atopic-dermatitis:name:werfel|thomas · 40 papers
+- **[Wei Li](../../../../people/wei-li.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed atopic-dermatitis:name:li|wei · 37 papers
 - **[Yael Anne Leshem](../../../../people/yael-anne-leshem.md)** (1 source · last seen 2026)
   - presenter, IEC-IPC symposium: psoriasiform reactions to atopic dermatitis and prurigo nodularis treatments, clinical approach · AAD Annual Meeting 2026

@@ -1,10 +1,22 @@
 ---
 name: Boni E. Elewski
 type: person
-aliases: ["Elewski BE"]
+aliases:
+- Elewski BE
 evidence:
-  - {node: evidence/guidelines/aad-npf-biologics-2019, role: guideline co-author, author_position: 11}
-  - {node: evidence/guidelines/aad-npf-systemic-nonbiologic-2020, role: guideline co-author, author_position: 7}
+- node: evidence/guidelines/aad-npf-biologics-2019
+  role: guideline co-author
+  author_position: 11
+- node: evidence/guidelines/aad-npf-systemic-nonbiologic-2020
+  role: guideline co-author
+  author_position: 7
+npi: '1437192317'
+npi_record:
+  credential: ''
+  taxonomy: Dermatology
+  practice: Birmingham, AL
+  checked: '2026-11-16'
+  url: https://npiregistry.cms.hhs.gov/provider-view/1437192317
 ---
 
 The same surname and first initial appear across these sources, so they are merged here. Confirm with an identifier such as ORCID or NPI.
@@ -23,3 +35,5 @@ The same surname and first initial appear across these sources, so they are merg
 ### Evidence
 - [AAD-NPF psoriasis guidelines - biologics (2019)](../tree/evidence/guidelines/aad-npf-biologics-2019.md) — guideline co-author, author 11
 - [AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)](../tree/evidence/guidelines/aad-npf-systemic-nonbiologic-2020.md) — guideline co-author, author 7
+### Practice and industry ties
+- **NPI 1437192317** (Dermatology, Birmingham, AL). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1437192317), checked 2026-11-16

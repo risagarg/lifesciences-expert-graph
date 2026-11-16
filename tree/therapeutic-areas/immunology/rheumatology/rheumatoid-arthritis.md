@@ -11,10 +11,173 @@ summary: Not built out yet.
 **Path:** [Healthcare & Life Sciences](../../../README.md) / [Therapeutic areas](../../README.md) / [Immunology & inflammation](../README.md) / [Rheumatology](README.md) / Rheumatoid arthritis
 ### Connections
 - ← covers · [ACR Convergence 2025](../../../evidence/conferences/acr-convergence-2025.md)
-### Experts on Rheumatoid arthritis (2)
+### Experts on Rheumatoid arthritis (41)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
+- **[Boehringer Ingelheim](../../../../people/boehringer-ingelheim.md)** (17 sources · last seen 2016 · auto, not reviewed)
+  - ClinicalTrials.gov NCT01682512 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT02640612 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT02636907 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT00619177 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT00034853 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT01751776 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT01955733 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT02137226 · STUDY_CHAIR
+- **[Zhanguo Li](../../../../people/zhanguo-li.md)** (11 sources · last seen 2024 · auto, not reviewed)
+  - ClinicalTrials.gov NCT05605665 · STUDY_DIRECTOR
+  - ClinicalTrials.gov NCT02467504 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT07335952 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05245448 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05240859 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06794008 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05576597 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01554917 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05232396 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04178850 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02370550 · PRINCIPAL_INVESTIGATOR
+- **[Xiaofeng Zeng](../../../../people/xiaofeng-zeng.md)** (9 sources · last seen 2021 · auto, not reviewed)
+  - ClinicalTrials.gov NCT03522415 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06099535 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03830203 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04188249 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04971980 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03483597 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT02665910 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04312815 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03254966 · PRINCIPAL_INVESTIGATOR
+- **[Christopher Ritchlin](../../../../people/christopher-ritchlin.md)** (8 sources · last seen 2021 · auto, not reviewed)
+  - ClinicalTrials.gov NCT01098201 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01083563 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05197530 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02680067 · PRINCIPAL_INVESTIGATOR
+- **[Patrick Durez](../../../../people/patrick-durez.md)** (7 sources · last seen 2020 · auto, not reviewed)
+  - ClinicalTrials.gov NCT02928276 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04002765 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT07000916 · STUDY_DIRECTOR
+  - ClinicalTrials.gov NCT01040715 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01245361 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT07000890 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00396747 · PRINCIPAL_INVESTIGATOR
+- **[Lai Shan Tam](../../../../people/lai-shan-tam.md)** (7 sources · last seen 2021 · auto, not reviewed)
+  - ClinicalTrials.gov NCT01762176 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03239080 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04324892 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01768923 · PRINCIPAL_INVESTIGATOR
+- **[Ching-Mao Chang](../../../../people/ching-mao-chang.md)** (6 sources · last seen 2025 · auto, not reviewed)
+  - ClinicalTrials.gov NCT06771427 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03938207 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05656196 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06475027 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03937271 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03935373 · PRINCIPAL_INVESTIGATOR
+- **[Jamil Natour](../../../../people/jamil-natour.md)** (6 sources · last seen 2020 · auto, not reviewed)
+  - ClinicalTrials.gov NCT00832910 · STUDY_DIRECTOR
+  - ClinicalTrials.gov NCT00506896 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT01476865 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT02370225 · STUDY_CHAIR
+- **[Jennifer M Hootman](../../../../people/jennifer-m-hootman.md)** (5 sources · last seen 2009 · auto, not reviewed)
+  - ClinicalTrials.gov NCT00526201 · STUDY_DIRECTOR
+  - ClinicalTrials.gov NCT00526435 · STUDY_DIRECTOR
+  - ClinicalTrials.gov NCT00153309 · STUDY_DIRECTOR
+  - ClinicalTrials.gov NCT00146393 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT00146367 · STUDY_CHAIR
+- **[Neil Basu](../../../../people/neil-basu.md)** (5 sources · last seen 2024 · auto, not reviewed)
+  - ClinicalTrials.gov NCT06240299 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03248518 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05697159 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05693532 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05112120 · PRINCIPAL_INVESTIGATOR
+- **[Xavier Mariette](../../../../people/xavier-mariette.md)** (5 sources · last seen 2026 · auto, not reviewed)
+  - ClinicalTrials.gov NCT01160666 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00224562 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00831922 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02116504 · PRINCIPAL_INVESTIGATOR
+  - PubMed rheumatoid-arthritis:name:mariette|xavier · 20 papers
+- **[Yoon-Kyoung Sung](../../../../people/yoon-kyoung-sung.md)** (5 sources · last seen 2020 · auto, not reviewed)
+  - ClinicalTrials.gov NCT02602704 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03983408 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03011281 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04449224 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03099525 · PRINCIPAL_INVESTIGATOR
+- **[Alan Kivitz](../../../../people/alan-kivitz.md)** (4 sources · last seen 2020 · auto, not reviewed)
+  - ClinicalTrials.gov NCT00281294 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00637793 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04306744 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04862117 · PRINCIPAL_INVESTIGATOR
+- **[Andreas Michalsen](../../../../people/andreas-michalsen.md)** (4 sources · last seen 2021 · auto, not reviewed)
+  - ClinicalTrials.gov NCT04847011 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04739852 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03856190 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03785197 · PRINCIPAL_INVESTIGATOR
+- **[Ellen-Margrethe Hauge](../../../../people/ellen-margrethe-hauge.md)** (4 sources · last seen 2024 · auto, not reviewed)
+  - ClinicalTrials.gov NCT03429426 · STUDY_DIRECTOR
+  - ClinicalTrials.gov NCT07363980 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT04004429 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04645381 · STUDY_DIRECTOR
+- **[Jacques Morel](../../../../people/jacques-morel.md)** (4 sources · last seen 2020 · auto, not reviewed)
+  - ClinicalTrials.gov NCT01642706 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04655612 · STUDY_DIRECTOR
+  - ClinicalTrials.gov NCT02547493 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01722617 · PRINCIPAL_INVESTIGATOR
+- **[Norman B Gaylis](../../../../people/norman-b-gaylis.md)** (4 sources · last seen 2013 · auto, not reviewed)
+  - ClinicalTrials.gov NCT00425932 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01351480 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01213017 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01948388 · PRINCIPAL_INVESTIGATOR
+- **[Patrick Verschueren](../../../../people/patrick-verschueren.md)** (4 sources · last seen 2024 · auto, not reviewed)
+  - ClinicalTrials.gov NCT03649061 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06003283 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01172639 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05888181 · PRINCIPAL_INVESTIGATOR
+- **[Paul Emery](../../../../people/paul-emery.md)** (4 sources · last seen 2019 · auto, not reviewed)
+  - ClinicalTrials.gov NCT01303874 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01308255 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02012764 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT03813771 · PRINCIPAL_INVESTIGATOR
+- **[Quan Jiang](../../../../people/quan-jiang.md)** (4 sources · last seen 2019 · auto, not reviewed)
+  - ClinicalTrials.gov NCT01961505 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04136262 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02818361 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04170504 · PRINCIPAL_INVESTIGATOR
+- **[Georg Schett](../../../../people/georg-schett.md)** (2 sources · last seen 2026 · auto, not reviewed)
+  - PubMed rheumatoid-arthritis:name:schett|georg · 18 papers
+- **[Bryant R England](../../../../people/bryant-r-england.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed rheumatoid-arthritis:name:england|bryant r · 14 papers
 - **[Claire Daien](../../../../people/claire-daien.md)** (1 source · last seen 2025)
   - presenter, late-breaker: SUPERFIBRE, fiber supplementation in RA · ACR Convergence 2025
+- **[Jeffrey A Sparks](../../../../people/jeffrey-a-sparks.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed rheumatoid-arthritis:name:sparks|jeffrey a · 14 papers
+- **[Jian Liu](../../../../people/jian-liu.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed rheumatoid-arthritis:name:liu|jian · 18 papers
+- **[Jing Zhang](../../../../people/jing-zhang.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed rheumatoid-arthritis:name:zhang|jing · 16 papers
 - **[Jonathan Graf](../../../../people/jonathan-graf.md)** (1 source · last seen 2025)
   - presenter, late-breaker: rosnilimab phase 2b in RA · ACR Convergence 2025
+- **[Joshua F Baker](../../../../people/joshua-f-baker.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed rheumatoid-arthritis:name:baker|joshua f · 20 papers
+- **[Liyun Zhang](../../../../people/liyun-zhang.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed rheumatoid-arthritis:name:zhang|liyun · 14 papers
+- **[Qian Wang](../../../../people/qian-wang.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed rheumatoid-arthritis:name:wang|qian · 17 papers
+- **[Roberto Giacomelli](../../../../people/roberto-giacomelli.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed rheumatoid-arthritis:name:giacomelli|roberto · 17 papers
+- **[Ted R Mikuls](../../../../people/ted-r-mikuls.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed rheumatoid-arthritis:name:mikuls|ted r · 16 papers
+- **[Tsutomu Takeuchi](../../../../people/tsutomu-takeuchi.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed rheumatoid-arthritis:name:takeuchi|tsutomu · 18 papers
+- **[Wei Liu](../../../../people/wei-liu.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed rheumatoid-arthritis:name:liu|wei · 15 papers
+- **[Xin Li](../../../../people/xin-li.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed rheumatoid-arthritis:name:li|xin · 14 papers
+- **[Yan Liu](../../../../people/yan-liu.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed rheumatoid-arthritis:name:liu|yan · 18 papers
+- **[Yan Wang](../../../../people/yan-wang.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed rheumatoid-arthritis:name:wang|yan · 18 papers
+- **[Yan Zhang](../../../../people/yan-zhang.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed rheumatoid-arthritis:name:zhang|yan · 23 papers
+- **[Ying Wang](../../../../people/ying-wang.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed rheumatoid-arthritis:name:wang|ying · 14 papers
+- **[Yoshiya Tanaka](../../../../people/yoshiya-tanaka.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed rheumatoid-arthritis:orcid:0000-0002-0807-7139 · 27 papers
+- **[Yuko Kaneko](../../../../people/yuko-kaneko.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed rheumatoid-arthritis:orcid:0000-0003-2646-5765 · 15 papers

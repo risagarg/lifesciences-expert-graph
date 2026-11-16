@@ -24,6 +24,10 @@ Psoriasis sessions listed in the IPC congress report, plus the ICONIC-LEAD prese
 ### Experts on AAD Annual Meeting 2026 (19)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
+- **[Amy S. Paller](../../../people/amy-s-paller.md)** (11 sources · last seen 2026)
+  - presenter, IEC-IPC symposium: anti-TNF skin eruptions in inflammatory bowel disease, children · AAD Annual Meeting 2026
+- **[Joseph Merola](../../../people/joseph-merola.md)** (5 sources · last seen 2026)
+  - presenter, Therapeutic Hotline: what's new in psoriasis biologics (icotrokinra; ixekizumab with tirzepatide) · AAD Annual Meeting 2026
 - **[Bruce E. Strober](../../../people/bruce-e-strober.md)** (4 sources · last seen 2026)
   - presenter, Psoriasis: Modern Therapeutic Approaches (panel) · AAD Annual Meeting 2026
   - presenter, Treatment of hand and foot psoriasis · AAD Annual Meeting 2026
@@ -33,12 +37,8 @@ Ranked by number of independent sources. Under each name is why they are listed 
 - **[Jennifer Soung](../../../people/j-soung.md)** (3 sources · last seen 2026)
   - presenter, ICONIC-LEAD (icotrokinra) · AAD Annual Meeting 2026
   - presenter, Psoriasis: Modern Therapeutic Approaches (panel) · AAD Annual Meeting 2026
-- **[Amy S. Paller](../../../people/amy-s-paller.md)** (3 sources · last seen 2026)
-  - presenter, IEC-IPC symposium: anti-TNF skin eruptions in inflammatory bowel disease, children · AAD Annual Meeting 2026
 - **[Joel M. Gelfand](../../../people/joel-m-gelfand.md)** (3 sources · last seen 2026)
   - presenter, Psoriasis: Modern Therapeutic Approaches (panel) · AAD Annual Meeting 2026
-- **[Joseph Merola](../../../people/joseph-merola.md)** (3 sources · last seen 2026)
-  - presenter, Therapeutic Hotline: what's new in psoriasis biologics (icotrokinra; ixekizumab with tirzepatide) · AAD Annual Meeting 2026
 - **[Melinda Gooderham](../../../people/melinda-gooderham.md)** (3 sources · last seen 2026)
   - presenter, late-breaking research: LATITUDE PsO 3001 and 3002 (zasocitinib) · AAD Annual Meeting 2026
 - **[Andrew Blauvelt](../../../people/andrew-blauvelt.md)** (2 sources · last seen 2026)

@@ -2,7 +2,18 @@
 name: Wilson Liao
 type: person
 evidence:
-  - {node: evidence/conferences/winter-clinical-hawaii-2026, role: speaker, detail: "NPF remission criteria and biologic strategies in psoriasis", covers: [therapeutic-areas/immunology/dermatology/psoriasis]}
+- node: evidence/conferences/winter-clinical-hawaii-2026
+  role: speaker
+  detail: NPF remission criteria and biologic strategies in psoriasis
+  covers:
+  - therapeutic-areas/immunology/dermatology/psoriasis
+npi: '1528194255'
+npi_record:
+  credential: M.D.
+  taxonomy: Dermatology
+  practice: San Francisco, CA
+  checked: '2026-11-16'
+  url: https://npiregistry.cms.hhs.gov/provider-view/1528194255
 ---
 
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
@@ -14,3 +25,5 @@ evidence:
 - [Psoriasis](../tree/therapeutic-areas/immunology/dermatology/psoriasis/README.md) (1)
 ### Evidence
 - [Winter Clinical Dermatology Conference Hawaii 2026](../tree/evidence/conferences/winter-clinical-hawaii-2026.md) — speaker, NPF remission criteria and biologic strategies in psoriasis
+### Practice and industry ties
+- **NPI 1528194255** (M.D., Dermatology, San Francisco, CA). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1528194255), checked 2026-11-16

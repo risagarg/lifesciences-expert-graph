@@ -2,8 +2,25 @@
 name: Alpana Shukla
 type: person
 evidence:
-  - {node: evidence/conferences/obesityweek-2025, role: presenter, detail: "SURMOUNT-5, quality of life with tirzepatide vs semaglutide", covers: [therapeutic-areas/cardiometabolic/obesity, therapeutic-areas/cardiometabolic/mechanisms/incretin-and-amylin/tirzepatide]}
-  - {node: evidence/conferences/obesityweek-2025, role: speaker, detail: "Lilly corporate session: orforglipron phase 3 (ATTAIN-2)", covers: [therapeutic-areas/cardiometabolic/obesity, therapeutic-areas/cardiometabolic/mechanisms/incretin-and-amylin/orforglipron]}
+- node: evidence/conferences/obesityweek-2025
+  role: presenter
+  detail: SURMOUNT-5, quality of life with tirzepatide vs semaglutide
+  covers:
+  - therapeutic-areas/cardiometabolic/obesity
+  - therapeutic-areas/cardiometabolic/mechanisms/incretin-and-amylin/tirzepatide
+- node: evidence/conferences/obesityweek-2025
+  role: speaker
+  detail: 'Lilly corporate session: orforglipron phase 3 (ATTAIN-2)'
+  covers:
+  - therapeutic-areas/cardiometabolic/obesity
+  - therapeutic-areas/cardiometabolic/mechanisms/incretin-and-amylin/orforglipron
+npi: '1801224308'
+npi_record:
+  credential: MD
+  taxonomy: Internal Medicine
+  practice: New York, NY
+  checked: '2026-11-16'
+  url: https://npiregistry.cms.hhs.gov/provider-view/1801224308
 ---
 
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
@@ -18,3 +35,5 @@ evidence:
 ### Evidence
 - [ObesityWeek 2025](../tree/evidence/conferences/obesityweek-2025.md) — presenter, SURMOUNT-5, quality of life with tirzepatide vs semaglutide
 - [ObesityWeek 2025](../tree/evidence/conferences/obesityweek-2025.md) — speaker, Lilly corporate session: orforglipron phase 3 (ATTAIN-2)
+### Practice and industry ties
+- **NPI 1801224308** (MD, Internal Medicine, New York, NY). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1801224308), checked 2026-11-16

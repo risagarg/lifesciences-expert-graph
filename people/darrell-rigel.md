@@ -2,8 +2,25 @@
 name: Darrell Rigel
 type: person
 evidence:
-  - {node: evidence/conferences/fall-clinical-dermatology-2025, role: panelist, detail: "top advances of 2025: AD, HS, psoriasis, CSU", covers: [therapeutic-areas/immunology/dermatology/psoriasis, therapeutic-areas/immunology/dermatology/atopic-dermatitis, therapeutic-areas/immunology/dermatology/hidradenitis-suppurativa]}
-  - {node: evidence/conferences/winter-clinical-hawaii-2026, role: course co-director, detail: "Winter Clinical Hawaii 2026", covers: [therapeutic-areas/immunology/dermatology]}
+- node: evidence/conferences/fall-clinical-dermatology-2025
+  role: panelist
+  detail: 'top advances of 2025: AD, HS, psoriasis, CSU'
+  covers:
+  - therapeutic-areas/immunology/dermatology/psoriasis
+  - therapeutic-areas/immunology/dermatology/atopic-dermatitis
+  - therapeutic-areas/immunology/dermatology/hidradenitis-suppurativa
+- node: evidence/conferences/winter-clinical-hawaii-2026
+  role: course co-director
+  detail: Winter Clinical Hawaii 2026
+  covers:
+  - therapeutic-areas/immunology/dermatology
+npi: '1740217033'
+npi_record:
+  credential: MD
+  taxonomy: Dermatology
+  practice: New York, NY
+  checked: '2026-11-16'
+  url: https://npiregistry.cms.hhs.gov/provider-view/1740217033
 ---
 
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
@@ -19,3 +36,5 @@ evidence:
 ### Evidence
 - [Fall Clinical Dermatology Conference 2025](../tree/evidence/conferences/fall-clinical-dermatology-2025.md) — panelist, top advances of 2025: AD, HS, psoriasis, CSU
 - [Winter Clinical Dermatology Conference Hawaii 2026](../tree/evidence/conferences/winter-clinical-hawaii-2026.md) — course co-director, Winter Clinical Hawaii 2026
+### Practice and industry ties
+- **NPI 1740217033** (MD, Dermatology, New York, NY). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1740217033), checked 2026-11-16

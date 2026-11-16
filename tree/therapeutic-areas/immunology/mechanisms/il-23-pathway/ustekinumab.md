@@ -22,12 +22,12 @@ sources:
 ### Experts on Ustekinumab (5)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
+- **[Dan Turner](../../../../../people/dan-turner.md)** (8 sources · last seen 2026)
+  - first author, UNITI Jr, ustekinumab safety and efficacy in pediatric Crohn's · ECCO Congress 2026
 - **[Elisabeth de Greef](../../../../../people/elisabeth-de-greef.md)** (2 sources · last seen 2026)
   - first author, UNITI Jr, ustekinumab in pediatric Crohn's · Digestive Disease Week (DDW) 2025
   - first author, UNITI Jr endoscopic and histologic results, ustekinumab in pediatric Crohn's · ECCO Congress 2026
   - first author, UNIFI Jr, ustekinumab in pediatric UC (two abstracts) · ECCO Congress 2026
-- **[Dan Turner](../../../../../people/dan-turner.md)** (2 sources · last seen 2026)
-  - first author, UNITI Jr, ustekinumab safety and efficacy in pediatric Crohn's · ECCO Congress 2026
 - **[Richard K. Russell](../../../../../people/richard-k-russell.md)** (1 source · last seen 2026)
   - first author, UNITI Jr, ustekinumab dose escalation in pediatric Crohn's · ECCO Congress 2026
   - first author, UNITI Jr, PCDAI eligibility criteria in pediatric Crohn's · ECCO Congress 2026

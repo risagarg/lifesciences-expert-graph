@@ -12,14 +12,173 @@ summary: Not built out yet.
 ### Connections
 - ← covers · [Digestive Disease Week (DDW) 2025](../../../evidence/conferences/ddw-2025.md)
 - ← covers · [ECCO Congress 2026](../../../evidence/conferences/ecco-2026.md)
-### Experts on Crohn's disease (18)
+### Experts on Crohn's disease (47)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
+- **[Silvio Danese](../../../../people/silvio-danese.md)** (10 sources · last seen 2026)
+  - first author, GALAXI 2 & 3, extraintestinal manifestations in Crohn's · ECCO Congress 2026
+  - PubMed crohns-disease:name:danese|silvio · 62 papers
+  - PubMed crohns-disease:orcid:0000-0001-7341-1351 · 39 papers
+- **[Amy Lightner](../../../../people/amy-lightner.md)** (9 sources · last seen 2022 · auto, not reviewed)
+  - ClinicalTrials.gov NCT05407766 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05075811 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04519671 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04073472 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04548583 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04519697 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04791878 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04519684 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04578392 · PRINCIPAL_INVESTIGATOR
+- **[Siew Chien Ng](../../../../people/siew-chien-ng.md)** (9 sources · last seen 2022 · auto, not reviewed)
+  - ClinicalTrials.gov NCT05112497 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02135289 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02131168 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04748627 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03462875 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02128503 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03994224 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05598489 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05611866 · PRINCIPAL_INVESTIGATOR
+- **[Geert R. D'Haens](../../../../people/geert-r-dhaens.md)** (9 sources · last seen 2026)
+  - first author, GALAXI 2, GALAXI 3 and GRAVITI, guselkumab in Crohn's through week 96 · ECCO Congress 2026
+  - ClinicalTrials.gov NCT01442025 · STUDY_DIRECTOR
+  - ClinicalTrials.gov NCT02010762 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02646683 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02311660 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02951650 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00737932 · PRINCIPAL_INVESTIGATOR
+  - PubMed crohns-disease:name:d'haens|geert · 45 papers
+- **[Marc Ferrante](../../../../people/marc-ferrante.md)** (9 sources · last seen 2026)
+  - first author, GALAXI 2 & 3, disease duration and guselkumab response in Crohn's · ECCO Congress 2026
+  - ClinicalTrials.gov NCT06338930 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01541579 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05944068 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02634060 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05169593 · PRINCIPAL_INVESTIGATOR
+- **[Dan Turner](../../../../people/dan-turner.md)** (8 sources · last seen 2026)
+  - first author, UNITI Jr, ustekinumab safety and efficacy in pediatric Crohn's · ECCO Congress 2026
+  - ClinicalTrials.gov NCT02862132 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01881490 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02033408 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01802593 · STUDY_DIRECTOR
+  - ClinicalTrials.gov NCT01596894 · STUDY_DIRECTOR
+  - PubMed crohns-disease:name:turner|dan · 40 papers
+- **[Arie Levine](../../../../people/arie-levine.md)** (7 sources · last seen 2021 · auto, not reviewed)
+  - ClinicalTrials.gov NCT04186247 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT02269358 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT02930564 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT02231814 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01802593 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT01596894 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT01728870 · PRINCIPAL_INVESTIGATOR
+- **[Iris Dotan](../../../../people/iris-dotan.md)** (7 sources · last seen 2026 · auto, not reviewed)
+  - ClinicalTrials.gov NCT00731172 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00417690 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02825316 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01629628 · STUDY_DIRECTOR
+  - ClinicalTrials.gov NCT02231814 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02858557 · PRINCIPAL_INVESTIGATOR
+  - PubMed crohns-disease:name:dotan|iris · 36 papers
+- **[James D Lewis](../../../../people/james-d-lewis.md)** (7 sources · last seen 2025 · auto, not reviewed)
+  - ClinicalTrials.gov NCT02316678 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06560021 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03058679 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02765256 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01926730 · PRINCIPAL_INVESTIGATOR
+- **[Brian Bressler](../../../../people/brian-bressler.md)** (7 sources · last seen 2016 · auto, not reviewed)
+  - ClinicalTrials.gov NCT01736046 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01676324 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01635543 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02193750 · PRINCIPAL_INVESTIGATOR
+- **[Brian G Feagan](../../../../people/brian-g-feagan.md)** (7 sources · last seen 2026 · auto, not reviewed)
+  - PubMed crohns-disease:name:feagan|brian g · 35 papers
+- **[David T. Rubin](../../../../people/david-t-rubin.md)** (7 sources · last seen 2026)
+  - PubMed crohns-disease:name:rubin|david t · 33 papers
+- **[Huangan Wu](../../../../people/huangan-wu.md)** (6 sources · last seen 2019 · auto, not reviewed)
+  - ClinicalTrials.gov NCT04211129 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT04198831 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT02559037 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT06375382 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT06364722 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT04187820 · STUDY_CHAIR
+- **[Nitsan Maharshak](../../../../people/nitsan-maharshak.md)** (6 sources · last seen 2025 · auto, not reviewed)
+  - ClinicalTrials.gov NCT06515171 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04398836 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04303260 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06146816 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06917443 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05554445 · PRINCIPAL_INVESTIGATOR
+- **[Yan Chen](../../../../people/yan-chen.md)** (6 sources · last seen 2026 · auto, not reviewed)
+  - ClinicalTrials.gov NCT05387031 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT05777616 · STUDY_DIRECTOR
+  - ClinicalTrials.gov NCT06203782 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT04933214 · STUDY_DIRECTOR
+  - ClinicalTrials.gov NCT07409376 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05705856 · PRINCIPAL_INVESTIGATOR
+- **[Harry SOKOL](../../../../people/harry-sokol.md)** (6 sources · last seen 2026 · auto, not reviewed)
+  - ClinicalTrials.gov NCT07300553 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04997733 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT07172945 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02726243 · PRINCIPAL_INVESTIGATOR
+- **[Yaron Ilan](../../../../people/yaron-ilan.md)** (5 sources · last seen 2011 · auto, not reviewed)
+  - ClinicalTrials.gov NCT02185183 · STUDY_DIRECTOR
+  - ClinicalTrials.gov NCT01094613 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00774982 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01433432 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00287170 · PRINCIPAL_INVESTIGATOR
+- **[Yoram Bouhnik](../../../../people/yoram-bouhnik.md)** (5 sources · last seen 2024 · auto, not reviewed)
+  - ClinicalTrials.gov NCT02856763 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01541579 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03498625 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03306446 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06274294 · PRINCIPAL_INVESTIGATOR
+- **[Markus F. Neurath](../../../../people/markus-f-neurath.md)** (5 sources · last seen 2014 · auto, not reviewed)
+  - ClinicalTrials.gov NCT01102855 · STUDY_DIRECTOR
+  - ClinicalTrials.gov NCT01417702 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01524120 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01417715 · PRINCIPAL_INVESTIGATOR
+- **[Vipul Jairath](../../../../people/vipul-jairath.md)** (5 sources · last seen 2026)
+  - PubMed crohns-disease:name:jairath|vipul · 63 papers
+  - PubMed crohns-disease:orcid:0000-0002-1092-0033 · 38 papers
+- **[Abraham Eliakim](../../../../people/abraham-eliakim.md)** (4 sources · last seen 2018 · auto, not reviewed)
+  - ClinicalTrials.gov NCT02707289 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01233310 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02742714 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03555058 · PRINCIPAL_INVESTIGATOR
+- **[Emily Wright](../../../../people/emily-wright.md)** (4 sources · last seen 2018 · auto, not reviewed)
+  - ClinicalTrials.gov NCT03222011 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03218202 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03477032 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03220841 · PRINCIPAL_INVESTIGATOR
+- **[Jonathan Dillman](../../../../people/jonathan-dillman.md)** (4 sources · last seen 2024 · auto, not reviewed)
+  - ClinicalTrials.gov NCT03492944 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01593462 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04088773 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06533228 · PRINCIPAL_INVESTIGATOR
+- **[Michael Kamm](../../../../people/michael-kamm.md)** (4 sources · last seen 2018 · auto, not reviewed)
+  - ClinicalTrials.gov NCT03222011 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03218202 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03477032 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03220841 · PRINCIPAL_INVESTIGATOR
+- **[Laurent Peyrin-Biroulet](../../../../people/laurent-peyrin-biroulet.md)** (4 sources · last seen 2026)
+  - PubMed crohns-disease:name:peyrin-biroulet|laurent · 69 papers
+- **[Bruce E. Sands](../../../../people/bruce-e-sands.md)** (3 sources · last seen 2026)
+  - first author, integrated 1-year safety of guselkumab in Crohn's and UC · Digestive Disease Week (DDW) 2025
+  - PubMed crohns-disease:name:sands|bruce e · 39 papers
+- **[Remo Panaccione](../../../../people/remo-panaccione.md)** (3 sources · last seen 2026)
+  - first author, GALAXI 2 & 3 long-term extension, guselkumab dose adjustment in Crohn's · ECCO Congress 2026
+  - PubMed crohns-disease:name:panaccione|remo · 36 papers
 - **[Elisabeth de Greef](../../../../people/elisabeth-de-greef.md)** (2 sources · last seen 2026)
   - first author, UNITI Jr, ustekinumab in pediatric Crohn's · Digestive Disease Week (DDW) 2025
   - first author, UNITI Jr endoscopic and histologic results, ustekinumab in pediatric Crohn's · ECCO Congress 2026
-- **[Dan Turner](../../../../people/dan-turner.md)** (2 sources · last seen 2026)
-  - first author, UNITI Jr, ustekinumab safety and efficacy in pediatric Crohn's · ECCO Congress 2026
+- **[Alessandro Armuzzi](../../../../people/alessandro-armuzzi.md)** (2 sources · last seen 2026 · auto, not reviewed)
+  - PubMed crohns-disease:name:armuzzi|alessandro · 29 papers
+- **[Edouard Louis](../../../../people/edouard-louis.md)** (2 sources · last seen 2026)
+  - PubMed crohns-disease:name:louis|edouard · 31 papers
+- **[Johan Burisch](../../../../people/johan-burisch.md)** (2 sources · last seen 2026 · auto, not reviewed)
+  - PubMed crohns-disease:orcid:0000-0002-3312-5139 · 31 papers
+- **[Stefan Schreiber](../../../../people/stefan-schreiber.md)** (2 sources · last seen 2026)
+  - first author, GRAVITI and GALAXI 2/3, machine learning response patterns to guselkumab in Crohn's · ECCO Congress 2026
 - **[Ailsa Hart](../../../../people/ailsa-hart.md)** (1 source · last seen 2025)
   - first author, GRAVITI, subcutaneous guselkumab through week 48 · Digestive Disease Week (DDW) 2025
   - first author, GRAVITI, guselkumab induction by baseline demographics · Digestive Disease Week (DDW) 2025
@@ -35,23 +194,21 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - Chief Scientific Officer, appointed 2023; also directs the Crohn's & Colitis Program at Boston Medical Center · Patient organization leaders
 - **[Anne M. Griffiths](../../../../people/anne-m-griffiths.md)** (1 source · last seen 2026)
   - first author, quality of life with ustekinumab in pediatric Crohn's · ECCO Congress 2026
-- **[Bruce E. Sands](../../../../people/bruce-e-sands.md)** (1 source · last seen 2025)
-  - first author, integrated 1-year safety of guselkumab in Crohn's and UC · Digestive Disease Week (DDW) 2025
 - **[Christopher Ma](../../../../people/christopher-ma.md)** (1 source · last seen 2025)
   - presenter, EASE-CD, a new endoscopic activity score for Crohn's · Digestive Disease Week (DDW) 2025
-- **[Geert R. D'Haens](../../../../people/geert-r-dhaens.md)** (1 source · last seen 2026)
-  - first author, GALAXI 2, GALAXI 3 and GRAVITI, guselkumab in Crohn's through week 96 · ECCO Congress 2026
+- **[Florian Rieder](../../../../people/florian-rieder.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed crohns-disease:name:rieder|florian · 27 papers
+- **[Jean-Frederic Colombel](../../../../people/jean-frederic-colombel.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed crohns-disease:name:colombel|jean-frederic · 30 papers
 - **[Julián Panés](../../../../people/julian-panes.md)** (1 source · last seen 2025)
   - first author, GALAXI 2/3, guselkumab steroid-sparing through week 48 · Digestive Disease Week (DDW) 2025
-- **[Marc Ferrante](../../../../people/marc-ferrante.md)** (1 source · last seen 2026)
-  - first author, GALAXI 2 & 3, disease duration and guselkumab response in Crohn's · ECCO Congress 2026
+- **[Mariangela Allocca](../../../../people/mariangela-allocca.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed crohns-disease:name:allocca|mariangela · 28 papers
+- **[Mathurin Fumery](../../../../people/mathurin-fumery.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed crohns-disease:name:fumery|mathurin · 27 papers
 - **[Michael Osso](../../../../people/michael-osso.md)** (1 source · last seen 2026)
   - President and CEO, named 2026 National Health Council board chair · Patient organization leaders
 - **[Parakkal Deepak](../../../../people/parakkal-deepak.md)** (1 source · last seen 2026)
   - first author, GALAXI and GRAVITI, guselkumab induction by weight and BMI in Crohn's · ECCO Congress 2026
-- **[Remo Panaccione](../../../../people/remo-panaccione.md)** (1 source · last seen 2026)
-  - first author, GALAXI 2 & 3 long-term extension, guselkumab dose adjustment in Crohn's · ECCO Congress 2026
-- **[Silvio Danese](../../../../people/silvio-danese.md)** (1 source · last seen 2026)
-  - first author, GALAXI 2 & 3, extraintestinal manifestations in Crohn's · ECCO Congress 2026
-- **[Stefan Schreiber](../../../../people/stefan-schreiber.md)** (1 source · last seen 2026)
-  - first author, GRAVITI and GALAXI 2/3, machine learning response patterns to guselkumab in Crohn's · ECCO Congress 2026
+- **[Siddharth Singh](../../../../people/siddharth-singh.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed crohns-disease:name:singh|siddharth · 36 papers

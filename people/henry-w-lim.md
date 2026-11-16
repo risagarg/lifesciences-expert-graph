@@ -1,10 +1,22 @@
 ---
 name: Henry W. Lim
 type: person
-aliases: ["Lim HW"]
+aliases:
+- Lim HW
 evidence:
-  - {node: evidence/guidelines/aad-npf-biologics-2019, role: guideline co-author, author_position: 22}
-  - {node: evidence/guidelines/aad-npf-systemic-nonbiologic-2020, role: guideline co-author, author_position: 19}
+- node: evidence/guidelines/aad-npf-biologics-2019
+  role: guideline co-author
+  author_position: 22
+- node: evidence/guidelines/aad-npf-systemic-nonbiologic-2020
+  role: guideline co-author
+  author_position: 19
+npi: '1710065842'
+npi_record:
+  credential: M.D.
+  taxonomy: Dermatology, Clinical & Laboratory Dermatological Immunology
+  practice: Detroit, MI
+  checked: '2026-11-16'
+  url: https://npiregistry.cms.hhs.gov/provider-view/1710065842
 ---
 
 The same surname and first initial appear across these sources, so they are merged here. Confirm with an identifier such as ORCID or NPI.
@@ -23,3 +35,5 @@ The same surname and first initial appear across these sources, so they are merg
 ### Evidence
 - [AAD-NPF psoriasis guidelines - biologics (2019)](../tree/evidence/guidelines/aad-npf-biologics-2019.md) — guideline co-author, author 22
 - [AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)](../tree/evidence/guidelines/aad-npf-systemic-nonbiologic-2020.md) — guideline co-author, author 19
+### Practice and industry ties
+- **NPI 1710065842** (M.D., Dermatology, Clinical & Laboratory Dermatological Immunology, Detroit, MI). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1710065842), checked 2026-11-16

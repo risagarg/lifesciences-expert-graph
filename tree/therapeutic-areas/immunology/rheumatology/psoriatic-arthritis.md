@@ -13,24 +13,127 @@ summary: Shares many drugs with psoriasis, so the same experts often overlap. No
 - ← covers · [ACR Convergence 2025](../../../evidence/conferences/acr-convergence-2025.md)
 - ← covers · [EULAR Congress 2026](../../../evidence/conferences/eular-2026.md)
 - ← covers · [Maui Derm Hawaii 2026](../../../evidence/conferences/maui-derm-2026.md)
-### Experts on Psoriatic arthritis (8)
+### Experts on Psoriatic arthritis (39)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
-- **[Linda Stein Gold](../../../../people/l-gold.md)** (5 sources · last seen 2026)
-  - panelist, Psoriasis Update 2026 (psoriasis and psoriatic arthritis) · Maui Derm Hawaii 2026
-- **[Kenneth B. Gordon](../../../../people/kenneth-b-gordon.md)** (4 sources · last seen 2026)
-  - panelist, Psoriasis Update 2026 (psoriasis and psoriatic arthritis) · Maui Derm Hawaii 2026
-- **[Philip Mease](../../../../people/philip-mease.md)** (3 sources · last seen 2026)
+- **[Robert Bissonnette](../../../../people/r-bissonnette.md)** (26 sources · last seen 2025)
+  - ClinicalTrials.gov NCT01139918 · PRINCIPAL_INVESTIGATOR
+- **[Christopher Ritchlin](../../../../people/christopher-ritchlin.md)** (8 sources · last seen 2021 · auto, not reviewed)
+  - ClinicalTrials.gov NCT01123265 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03011242 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02413749 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00462072 · PRINCIPAL_INVESTIGATOR
+- **[Lai Shan Tam](../../../../people/lai-shan-tam.md)** (7 sources · last seen 2021 · auto, not reviewed)
+  - ClinicalTrials.gov NCT03623867 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03625089 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04176978 · PRINCIPAL_INVESTIGATOR
+- **[Lihi Eder](../../../../people/lihi-eder.md)** (6 sources · last seen 2026 · auto, not reviewed)
+  - ClinicalTrials.gov NCT04180904 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06580886 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05954364 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04587362 · PRINCIPAL_INVESTIGATOR
+  - PubMed psoriatic-arthritis:orcid:0000-0002-1473-1715 · 51 papers
+- **[Philip Mease](../../../../people/philip-mease.md)** (6 sources · last seen 2026)
   - presenter, late-breaker: 'state zero' with IL-17 inhibitors incl. bimekizumab in PsA · ACR Convergence 2025
   - panelist, Psoriasis Update 2026 (psoriasis and psoriatic arthritis) · Maui Derm Hawaii 2026
   - interviewed on new data, izokibep week 52 in PsA; real-world risankizumab vs TNF and IL-17 inhibitors · EULAR Congress 2026
-- **[Joseph Merola](../../../../people/joseph-merola.md)** (3 sources · last seen 2026)
+  - PubMed psoriatic-arthritis:orcid:0000-0002-6620-0457 · 98 papers
+  - PubMed psoriatic-arthritis:name:mease|philip j · 40 papers
+- **[Jamil Natour](../../../../people/jamil-natour.md)** (6 sources · last seen 2020 · auto, not reviewed)
+  - ClinicalTrials.gov NCT02598739 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT04304326 · STUDY_CHAIR
+- **[Alexis Ogdie-Beatty](../../../../people/alexis-ogdie-beatty.md)** (5 sources · last seen 2023 · auto, not reviewed)
+  - ClinicalTrials.gov NCT04180904 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05669833 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03737045 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05631223 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02912221 · PRINCIPAL_INVESTIGATOR
+- **[Joseph Merola](../../../../people/joseph-merola.md)** (5 sources · last seen 2026)
   - presenter, late-breaker: BE BOLD, bimekizumab vs risankizumab in PsA, week 16 · EULAR Congress 2026
+  - PubMed psoriatic-arthritis:name:merola|joseph f · 52 papers
+- **[Vibeke Andersen](../../../../people/vibeke-andersen.md)** (5 sources · last seen 2024 · auto, not reviewed)
+  - ClinicalTrials.gov NCT03173144 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03456206 · PRINCIPAL_INVESTIGATOR
+- **[Linda Stein Gold](../../../../people/l-gold.md)** (5 sources · last seen 2026)
+  - panelist, Psoriasis Update 2026 (psoriasis and psoriatic arthritis) · Maui Derm Hawaii 2026
+- **[Eisa Mohammed Hegazy](../../../../people/eisa-mohammed-hegazy.md)** (4 sources · last seen 2025 · auto, not reviewed)
+  - ClinicalTrials.gov NCT06729463 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT07128472 · STUDY_DIRECTOR
+  - ClinicalTrials.gov NCT06870500 · STUDY_DIRECTOR
+  - ClinicalTrials.gov NCT07086924 · STUDY_CHAIR
+- **[Laura C. Coates](../../../../people/laura-c-coates.md)** (4 sources · last seen 2026)
+  - interviewed on new data, TOGETHER-PsA, ixekizumab with tirzepatide in PsA with obesity or overweight · EULAR Congress 2026
+  - PubMed psoriatic-arthritis:orcid:0000-0002-4756-663X · 97 papers
+  - PubMed psoriatic-arthritis:name:coates|laura c · 38 papers
+- **[Dafna D Gladman](../../../../people/dafna-d-gladman.md)** (4 sources · last seen 2026 · auto, not reviewed)
+  - PubMed psoriatic-arthritis:orcid:0000-0002-9074-0592 · 78 papers
+  - PubMed psoriatic-arthritis:name:gladman|dafna d · 38 papers
+- **[Kenneth B. Gordon](../../../../people/kenneth-b-gordon.md)** (4 sources · last seen 2026)
+  - panelist, Psoriasis Update 2026 (psoriasis and psoriatic arthritis) · Maui Derm Hawaii 2026
+- **[Christina Chambers](../../../../people/christina-chambers.md)** (3 sources · last seen 2014 · auto, not reviewed)
+  - ClinicalTrials.gov NCT02775500 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02103361 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01797224 · PRINCIPAL_INVESTIGATOR
+- **[Denis Poddubnyy](../../../../people/denis-poddubnyy.md)** (3 sources · last seen 2021 · auto, not reviewed)
+  - ClinicalTrials.gov NCT04434885 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT04062695 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01277419 · STUDY_CHAIR
+- **[Salome Kristensen](../../../../people/salome-kristensen.md)** (3 sources · last seen 2020 · auto, not reviewed)
+  - ClinicalTrials.gov NCT04335747 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01818804 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03486613 · PRINCIPAL_INVESTIGATOR
+- **[Vinod Chandran](../../../../people/vinod-chandran.md)** (3 sources · last seen 2026 · auto, not reviewed)
+  - PubMed psoriatic-arthritis:name:chandran|vinod · 50 papers
+  - PubMed psoriatic-arthritis:orcid:0000-0002-8297-0275 · 39 papers
+- **[Abhishek Abhishek](../../../../people/abhishek-abhishek.md)** (2 sources · last seen 2022 · auto, not reviewed)
+  - ClinicalTrials.gov NCT05458531 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05115370 · PRINCIPAL_INVESTIGATOR
+- **[Adrien NZEUSSEU TOUKAP](../../../../people/adrien-nzeusseu-toukap.md)** (2 sources · last seen 2020 · auto, not reviewed)
+  - ClinicalTrials.gov NCT04645420 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04261010 · PRINCIPAL_INVESTIGATOR
+- **[Alexis Ogdie](../../../../people/alexis-ogdie.md)** (2 sources · last seen 2026 · auto, not reviewed)
+  - PubMed psoriatic-arthritis:orcid:0000-0002-4639-0775 · 52 papers
+  - PubMed psoriatic-arthritis:name:ogdie|alexis · 41 papers
+- **[Anna Abou-Raya](../../../../people/anna-abou-raya.md)** (2 sources · last seen 2013 · auto, not reviewed)
+  - ClinicalTrials.gov NCT02188654 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02188641 · PRINCIPAL_INVESTIGATOR
+- **[Dominique LP Baeten](../../../../people/dominique-lp-baeten.md)** (2 sources · last seen 2015 · auto, not reviewed)
+  - ClinicalTrials.gov NCT01871649 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03565042 · PRINCIPAL_INVESTIGATOR
+- **[Jette Primdahl](../../../../people/jette-primdahl.md)** (2 sources · last seen 2024 · auto, not reviewed)
+  - ClinicalTrials.gov NCT06583980 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06666452 · STUDY_DIRECTOR
+- **[Jose Scher](../../../../people/jose-scher.md)** (2 sources · last seen 2022 · auto, not reviewed)
+  - ClinicalTrials.gov NCT03409211 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05621369 · PRINCIPAL_INVESTIGATOR
+- **[Merete L Hetland](../../../../people/merete-l-hetland.md)** (2 sources · last seen 2015 · auto, not reviewed)
+  - ClinicalTrials.gov NCT03214263 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03496831 · STUDY_CHAIR
+- **[Sibel Z Aydin](../../../../people/sibel-z-aydin.md)** (2 sources · last seen 2023 · auto, not reviewed)
+  - ClinicalTrials.gov NCT06580886 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04587362 · PRINCIPAL_INVESTIGATOR
+- **[Tore K Kvien](../../../../people/tore-k-kvien.md)** (2 sources · last seen 2017 · auto, not reviewed)
+  - ClinicalTrials.gov NCT03074656 · STUDY_DIRECTOR
+  - ClinicalTrials.gov NCT01581294 · PRINCIPAL_INVESTIGATOR
 - **[E. James Song](../../../../people/e-james-song.md)** (2 sources · last seen 2026)
   - panelist, Psoriasis Update 2026 (psoriasis and psoriatic arthritis) · Maui Derm Hawaii 2026
+- **[Georg Schett](../../../../people/georg-schett.md)** (2 sources · last seen 2026 · auto, not reviewed)
+  - PubMed psoriatic-arthritis:name:schett|georg · 31 papers
+- **[Laure Gossec](../../../../people/laure-gossec.md)** (2 sources · last seen 2026 · auto, not reviewed)
+  - PubMed psoriatic-arthritis:orcid:0000-0002-4528-310X · 54 papers
+- **[Philip S Helliwell](../../../../people/philip-s-helliwell.md)** (2 sources · last seen 2026 · auto, not reviewed)
+  - PubMed psoriatic-arthritis:orcid:0000-0002-4155-9105 · 51 papers
 - **[Adam S. Faye](../../../../people/adam-s-faye.md)** (1 source · last seen 2026)
   - first author, guselkumab safety at age 60+ across UC, Crohn's, PsA and psoriasis · ECCO Congress 2026
 - **[Frank Behrens](../../../../people/frank-behrens.md)** (1 source · last seen 2025)
   - presenter, late-breaker: AgAIN, secukinumab vs ustekinumab in TNF-experienced PsA · ACR Convergence 2025
-- **[Laura C. Coates](../../../../people/laura-c-coates.md)** (1 source · last seen 2026)
-  - interviewed on new data, TOGETHER-PsA, ixekizumab with tirzepatide in PsA with obesity or overweight · EULAR Congress 2026
+- **[Oliver FitzGerald](../../../../people/oliver-fitzgerald.md)** (1 source · last seen 2025 · auto, not reviewed)
+  - PubMed psoriatic-arthritis:orcid:0000-0002-6607-6070 · 31 papers
+- **[Rubén Queiro](../../../../people/ruben-queiro.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed psoriatic-arthritis:orcid:0000-0002-8418-7145 · 31 papers
+- **[Stefan Siebert](../../../../people/stefan-siebert.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed psoriatic-arthritis:orcid:0000-0002-1802-7311 · 30 papers
+- **[William Tillett](../../../../people/william-tillett.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed psoriatic-arthritis:orcid:0000-0001-7531-4125 · 38 papers
+- **[Xenofon Baraliakos](../../../../people/xenofon-baraliakos.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed psoriatic-arthritis:orcid:0000-0002-9475-9362 · 31 papers

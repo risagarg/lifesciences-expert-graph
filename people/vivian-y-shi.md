@@ -1,0 +1,38 @@
+---
+name: Vivian Y Shi
+type: person
+status: auto
+orcid: 0000-0002-7510-9428
+affiliations:
+- text: Department of Dermatology, University of Washington, Seattle, WA, USA. vivian.shi.publications@gmail.com.
+  as_of: '2025'
+  source: pubmed
+records:
+- source: pubmed
+  id: hidradenitis-suppurativa:orcid:0000-0002-7510-9428
+  covers: therapeutic-areas/immunology/dermatology/hidradenitis-suppurativa
+  papers: 27
+  pmids: 40180764 39141908 38861156 38409741 37691008 37525978 37092729 35933652 35790062 35737883 35470744 34796606 34658018 34579620 34468981 34463372 34057384 33844314 33665807 33547869
+  year: '2025'
+npi: '1720333990'
+npi_record:
+  credential: M.D.
+  taxonomy: Dermatology
+  practice: Seattle, WA
+  checked: '2026-11-16'
+  url: https://npiregistry.cms.hhs.gov/provider-view/1720333990
+---
+
+<!-- GENERATED: edit above this line; run python3 scripts/build.py -->
+
+**Path:** [All experts](../EXPERTS.md) / Vivian Y Shi
+
+**1 source · last seen 2025 · auto, not reviewed**
+### Expertise
+- [Hidradenitis suppurativa](../tree/therapeutic-areas/immunology/dermatology/hidradenitis-suppurativa.md) (1)
+### Data records (1)
+- PubMed hidradenitis-suppurativa:orcid:0000-0002-7510-9428 — 27 papers · [Hidradenitis suppurativa](../tree/therapeutic-areas/immunology/dermatology/hidradenitis-suppurativa.md)
+### Practice and industry ties
+- **NPI 1720333990** (M.D., Dermatology, Seattle, WA). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1720333990), checked 2026-11-16
+### Affiliations
+- Department of Dermatology, University of Washington, Seattle, WA, USA. vivian.shi.publications@gmail.com. (2025)

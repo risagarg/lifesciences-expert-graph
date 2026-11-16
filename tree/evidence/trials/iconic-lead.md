@@ -25,10 +25,10 @@ sources:
 ### Experts on ICONIC-LEAD (icotrokinra, phase 3) (16)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
-- **[Mark Lebwohl](../../../people/mark-lebwohl.md)** (5 sources · last seen 2026)
-  - trial publication author, author 16 · ICONIC-LEAD (icotrokinra, phase 3)
-- **[Robert Bissonnette](../../../people/r-bissonnette.md)** (4 sources · last seen 2025)
+- **[Robert Bissonnette](../../../people/r-bissonnette.md)** (26 sources · last seen 2025)
   - trial publication author, author 1 · ICONIC-LEAD (icotrokinra, phase 3)
+- **[Mark Lebwohl](../../../people/mark-lebwohl.md)** (11 sources · last seen 2026)
+  - trial publication author, author 16 · ICONIC-LEAD (icotrokinra, phase 3)
 - **[Jennifer Soung](../../../people/j-soung.md)** (3 sources · last seen 2026)
   - trial publication author, author 2 · ICONIC-LEAD (icotrokinra, phase 3)
 - **[A. Pinter](../../../people/a-pinter.md)** (1 source · last seen 2025 · name unconfirmed)

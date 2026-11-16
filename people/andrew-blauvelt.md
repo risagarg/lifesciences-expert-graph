@@ -2,19 +2,33 @@
 name: Andrew Blauvelt
 type: person
 affiliations:
-  - text: "Blauvelt Consulting, LLC (owner)"
-    as_of: 2026
-    source: evidence/conferences/aad-annual-meeting-2026
-  - text: "International Psoriasis Council, Board Member"
-    as_of: 2026
-    source: evidence/conferences/aad-annual-meeting-2026
-    org: organizations/professional-societies/international-psoriasis-council
-  - text: "Oregon Medical Research Center, Portland, Oregon"
-    as_of: 2023
-    source: evidence/trials/poetyk-pso-1
+- text: Blauvelt Consulting, LLC (owner)
+  as_of: 2026
+  source: evidence/conferences/aad-annual-meeting-2026
+- text: International Psoriasis Council, Board Member
+  as_of: 2026
+  source: evidence/conferences/aad-annual-meeting-2026
+  org: organizations/professional-societies/international-psoriasis-council
+- text: Oregon Medical Research Center, Portland, Oregon
+  as_of: 2023
+  source: evidence/trials/poetyk-pso-1
 evidence:
-  - {node: evidence/trials/poetyk-pso-1, role: trial publication author, author_position: 16}
-  - {node: evidence/conferences/aad-annual-meeting-2026, role: presenter, detail: "late-breaking research: ONWARD 1 and 2 (envudeucitinib)", covers: [therapeutic-areas/immunology/mechanisms/tyk2-inhibitors/envudeucitinib, therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis]}
+- node: evidence/trials/poetyk-pso-1
+  role: trial publication author
+  author_position: 16
+- node: evidence/conferences/aad-annual-meeting-2026
+  role: presenter
+  detail: 'late-breaking research: ONWARD 1 and 2 (envudeucitinib)'
+  covers:
+  - therapeutic-areas/immunology/mechanisms/tyk2-inhibitors/envudeucitinib
+  - therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis
+npi: '1932115425'
+npi_record:
+  credential: MD
+  taxonomy: Dermatology
+  practice: Portland, OR
+  checked: '2026-11-16'
+  url: https://npiregistry.cms.hhs.gov/provider-view/1932115425
 ---
 
 <!-- GENERATED: edit above this line; run python3 scripts/build.py -->
@@ -30,6 +44,8 @@ evidence:
 ### Evidence
 - [POETYK PSO-1 (deucravacitinib, phase 3)](../tree/evidence/trials/poetyk-pso-1.md) — trial publication author, author 16
 - [AAD Annual Meeting 2026](../tree/evidence/conferences/aad-annual-meeting-2026.md) — presenter, late-breaking research: ONWARD 1 and 2 (envudeucitinib)
+### Practice and industry ties
+- **NPI 1932115425** (MD, Dermatology, Portland, OR). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1932115425), checked 2026-11-16
 ### Affiliations
 - Blauvelt Consulting, LLC (owner) (2026)
 - International Psoriasis Council, Board Member (2026) → [International Psoriasis Council (IPC)](../tree/organizations/professional-societies/international-psoriasis-council.md)

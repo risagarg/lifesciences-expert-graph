@@ -25,17 +25,19 @@ A major US meeting for practicing dermatologists. Listed here: the course co-dir
 ### Experts on Winter Clinical Dermatology Conference Hawaii 2026 (19)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
-- **[April W. Armstrong](../../../people/april-w-armstrong.md)** (6 sources · last seen 2026)
+- **[Mark Lebwohl](../../../people/mark-lebwohl.md)** (11 sources · last seen 2026)
+  - course co-director, Winter Clinical Hawaii 2026 · Winter Clinical Dermatology Conference Hawaii 2026
+  - speaker, The Latest Psoriasis Tips · Winter Clinical Dermatology Conference Hawaii 2026
+- **[April W. Armstrong](../../../people/april-w-armstrong.md)** (7 sources · last seen 2026)
   - course co-director, Winter Clinical Hawaii 2026 · Winter Clinical Dermatology Conference Hawaii 2026
   - speaker, New and Noteworthy in Psoriasis · Winter Clinical Dermatology Conference Hawaii 2026
   - speaker, NPF remission criteria and biologic strategies in psoriasis · Winter Clinical Dermatology Conference Hawaii 2026
   - speaker, persistent skin clearance in psoriasis (non-CME) · Winter Clinical Dermatology Conference Hawaii 2026
+- **[Hadar Lev-Tov](../../../people/hadar-lev-tov.md)** (6 sources · last seen 2026)
+  - speaker, Approach to Challenging Cases in HS · Winter Clinical Dermatology Conference Hawaii 2026
 - **[Linda Stein Gold](../../../people/l-gold.md)** (5 sources · last seen 2026)
   - course co-director, Winter Clinical Hawaii 2026 · Winter Clinical Dermatology Conference Hawaii 2026
   - speaker, CME symposium: IL-13 in atopic dermatitis · Winter Clinical Dermatology Conference Hawaii 2026
-- **[Mark Lebwohl](../../../people/mark-lebwohl.md)** (5 sources · last seen 2026)
-  - course co-director, Winter Clinical Hawaii 2026 · Winter Clinical Dermatology Conference Hawaii 2026
-  - speaker, The Latest Psoriasis Tips · Winter Clinical Dermatology Conference Hawaii 2026
 - **[James Del Rosso](../../../people/james-del-rosso.md)** (2 sources · last seen 2026)
   - course co-director, Winter Clinical Hawaii 2026 · Winter Clinical Dermatology Conference Hawaii 2026
   - speaker, CME symposium: managing hidradenitis suppurativa · Winter Clinical Dermatology Conference Hawaii 2026
@@ -43,6 +45,8 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - course co-director, Winter Clinical Hawaii 2026 · Winter Clinical Dermatology Conference Hawaii 2026
 - **[E. James Song](../../../people/e-james-song.md)** (2 sources · last seen 2026)
   - speaker, chronic hand eczema treatments · Winter Clinical Dermatology Conference Hawaii 2026
+- **[Jennifer Hsiao](../../../people/jennifer-hsiao.md)** (2 sources · last seen 2026)
+  - speaker, CME symposium: managing hidradenitis suppurativa · Winter Clinical Dermatology Conference Hawaii 2026
 - **[Mark Nestor](../../../people/mark-nestor.md)** (2 sources · last seen 2026)
   - course co-director, Winter Clinical Hawaii 2026 · Winter Clinical Dermatology Conference Hawaii 2026
 - **[Seemal R. Desai](../../../people/seemal-r-desai.md)** (1 source · last seen 2026)
@@ -58,12 +62,8 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - speaker, atopic dermatitis in children and stature · Winter Clinical Dermatology Conference Hawaii 2026
 - **[Gary Goldenberg](../../../people/gary-goldenberg.md)** (1 source · last seen 2026)
   - course co-director, Winter Clinical Hawaii 2026 · Winter Clinical Dermatology Conference Hawaii 2026
-- **[Hadar Lev-Tov](../../../people/hadar-lev-tov.md)** (1 source · last seen 2026)
-  - speaker, Approach to Challenging Cases in HS · Winter Clinical Dermatology Conference Hawaii 2026
 - **[Harrison Nguyen](../../../people/harrison-nguyen.md)** (1 source · last seen 2026)
   - speaker, COSENTYX (secukinumab) (non-CME) · Winter Clinical Dermatology Conference Hawaii 2026
-- **[Jennifer Hsiao](../../../people/jennifer-hsiao.md)** (1 source · last seen 2026)
-  - speaker, CME symposium: managing hidradenitis suppurativa · Winter Clinical Dermatology Conference Hawaii 2026
 - **[Karan Lal](../../../people/karan-lal.md)** (1 source · last seen 2026)
   - speaker, CME symposium: IL-13 in atopic dermatitis · Winter Clinical Dermatology Conference Hawaii 2026
 - **[Naiem Issa](../../../people/naiem-issa.md)** (1 source · last seen 2026)

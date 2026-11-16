@@ -1,16 +1,32 @@
 ---
 name: Joel M. Gelfand
 type: person
-aliases: ["Gelfand JM"]
+aliases:
+- Gelfand JM
 affiliations:
-  - text: "International Psoriasis Council, Board Member"
-    as_of: 2026
-    source: evidence/conferences/aad-annual-meeting-2026
-    org: organizations/professional-societies/international-psoriasis-council
+- text: International Psoriasis Council, Board Member
+  as_of: 2026
+  source: evidence/conferences/aad-annual-meeting-2026
+  org: organizations/professional-societies/international-psoriasis-council
 evidence:
-  - {node: evidence/guidelines/aad-npf-biologics-2019, role: guideline co-author, author_position: 12}
-  - {node: evidence/guidelines/aad-npf-systemic-nonbiologic-2020, role: guideline co-author, author_position: 2}
-  - {node: evidence/conferences/aad-annual-meeting-2026, role: presenter, detail: "Psoriasis: Modern Therapeutic Approaches (panel)", covers: [therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis]}
+- node: evidence/guidelines/aad-npf-biologics-2019
+  role: guideline co-author
+  author_position: 12
+- node: evidence/guidelines/aad-npf-systemic-nonbiologic-2020
+  role: guideline co-author
+  author_position: 2
+- node: evidence/conferences/aad-annual-meeting-2026
+  role: presenter
+  detail: 'Psoriasis: Modern Therapeutic Approaches (panel)'
+  covers:
+  - therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis
+npi: '1710902382'
+npi_record:
+  credential: MD
+  taxonomy: Dermatology
+  practice: Philadelphia, PA
+  checked: '2026-11-16'
+  url: https://npiregistry.cms.hhs.gov/provider-view/1710902382
 ---
 
 The same surname and first initial appear across these sources, so they are merged here. Confirm with an identifier such as ORCID or NPI.
@@ -30,5 +46,7 @@ The same surname and first initial appear across these sources, so they are merg
 - [AAD-NPF psoriasis guidelines - biologics (2019)](../tree/evidence/guidelines/aad-npf-biologics-2019.md) — guideline co-author, author 12
 - [AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)](../tree/evidence/guidelines/aad-npf-systemic-nonbiologic-2020.md) — guideline co-author, author 2
 - [AAD Annual Meeting 2026](../tree/evidence/conferences/aad-annual-meeting-2026.md) — presenter, Psoriasis: Modern Therapeutic Approaches (panel)
+### Practice and industry ties
+- **NPI 1710902382** (MD, Dermatology, Philadelphia, PA). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1710902382), checked 2026-11-16
 ### Affiliations
 - International Psoriasis Council, Board Member (2026) → [International Psoriasis Council (IPC)](../tree/organizations/professional-societies/international-psoriasis-council.md)

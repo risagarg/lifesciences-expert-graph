@@ -12,30 +12,146 @@ summary: Not built out yet.
 ### Connections
 - ← covers · [Digestive Disease Week (DDW) 2025](../../../evidence/conferences/ddw-2025.md)
 - ← covers · [ECCO Congress 2026](../../../evidence/conferences/ecco-2026.md)
-### Experts on Ulcerative colitis (17)
+### Experts on Ulcerative colitis (43)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
-- **[Dan Turner](../../../../people/dan-turner.md)** (2 sources · last seen 2026)
+- **[Silvio Danese](../../../../people/silvio-danese.md)** (10 sources · last seen 2026)
+  - first author, ASTRO, subcutaneous guselkumab in UC, week 48 · ECCO Congress 2026
+  - ClinicalTrials.gov NCT01520324 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01482884 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02412085 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT07824726 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02493712 · PRINCIPAL_INVESTIGATOR
+  - PubMed ulcerative-colitis:name:danese|silvio · 43 papers
+  - PubMed ulcerative-colitis:orcid:0000-0001-7341-1351 · 36 papers
+- **[Marc Ferrante](../../../../people/marc-ferrante.md)** (9 sources · last seen 2026)
+  - ClinicalTrials.gov NCT02914717 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03142113 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02910375 · PRINCIPAL_INVESTIGATOR
+- **[Geert R. D'Haens](../../../../people/geert-r-dhaens.md)** (9 sources · last seen 2026)
+  - PubMed ulcerative-colitis:name:d'haens|geert · 20 papers
+- **[Dan Turner](../../../../people/dan-turner.md)** (8 sources · last seen 2026)
   - first author, PURSUIT 2, golimumab in pediatric UC · Digestive Disease Week (DDW) 2025
-- **[Elisabeth de Greef](../../../../people/elisabeth-de-greef.md)** (2 sources · last seen 2026)
-  - first author, UNIFI Jr, ustekinumab in pediatric UC (two abstracts) · ECCO Congress 2026
-- **[Laurent Peyrin-Biroulet](../../../../people/laurent-peyrin-biroulet.md)** (1 source · last seen 2026)
+- **[Brian G Feagan](../../../../people/brian-g-feagan.md)** (7 sources · last seen 2026 · auto, not reviewed)
+  - ClinicalTrials.gov NCT01059344 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT01716039 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01787786 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01960439 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01960426 · PRINCIPAL_INVESTIGATOR
+  - PubMed ulcerative-colitis:name:feagan|brian g · 19 papers
+- **[David T. Rubin](../../../../people/david-t-rubin.md)** (7 sources · last seen 2026)
+  - first author, QUASAR, predictors of endoscopic remission with guselkumab in UC · ECCO Congress 2026
+  - ClinicalTrials.gov NCT06693310 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01095432 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06575660 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03298022 · PRINCIPAL_INVESTIGATOR
+  - PubMed ulcerative-colitis:name:rubin|david t · 27 papers
+- **[Brian Bressler](../../../../people/brian-bressler.md)** (7 sources · last seen 2016 · auto, not reviewed)
+  - ClinicalTrials.gov NCT02721719 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02684734 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00729872 · PRINCIPAL_INVESTIGATOR
+- **[James D Lewis](../../../../people/james-d-lewis.md)** (7 sources · last seen 2025 · auto, not reviewed)
+  - ClinicalTrials.gov NCT00065065 · STUDY_DIRECTOR
+  - ClinicalTrials.gov NCT00652145 · PRINCIPAL_INVESTIGATOR
+- **[Axel Dignass](../../../../people/axel-dignass.md)** (6 sources · last seen 2026)
+  - first author, QUASAR, early symptom improvement with IV guselkumab in UC · ECCO Congress 2026
+  - ClinicalTrials.gov NCT02142725 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02280629 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01481142 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00366925 · PRINCIPAL_INVESTIGATOR
+  - PubMed ulcerative-colitis:name:dignass|axel · 22 papers
+- **[Kaichun Wu](../../../../people/kaichun-wu.md)** (6 sources · last seen 2025 · auto, not reviewed)
+  - ClinicalTrials.gov NCT06995170 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06231264 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02365480 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05895981 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT06359808 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04176588 · PRINCIPAL_INVESTIGATOR
+- **[Harry SOKOL](../../../../people/harry-sokol.md)** (6 sources · last seen 2026 · auto, not reviewed)
+  - ClinicalTrials.gov NCT05202990 · STUDY_DIRECTOR
+  - ClinicalTrials.gov NCT03483246 · PRINCIPAL_INVESTIGATOR
+- **[Pia Munkholm](../../../../people/pia-munkholm.md)** (5 sources · last seen 2019 · auto, not reviewed)
+  - ClinicalTrials.gov NCT01860651 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT03604536 · STUDY_DIRECTOR
+  - ClinicalTrials.gov NCT01861288 · STUDY_DIRECTOR
+  - ClinicalTrials.gov NCT04165265 · STUDY_DIRECTOR
+  - ClinicalTrials.gov NCT01468090 · STUDY_CHAIR
+- **[Severine Vermeire](../../../../people/severine-vermeire.md)** (5 sources · last seen 2023 · auto, not reviewed)
+  - ClinicalTrials.gov NCT04883840 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05507216 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05535946 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00729872 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05507203 · PRINCIPAL_INVESTIGATOR
+- **[Vibeke Andersen](../../../../people/vibeke-andersen.md)** (5 sources · last seen 2024 · auto, not reviewed)
+  - ClinicalTrials.gov NCT05350644 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06249763 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05414578 · PRINCIPAL_INVESTIGATOR
+- **[Vipul Jairath](../../../../people/vipul-jairath.md)** (5 sources · last seen 2026)
+  - presenter, VERDICT, vedolizumab in UC (two presentations) · Digestive Disease Week (DDW) 2025
+  - PubMed ulcerative-colitis:name:jairath|vipul · 43 papers
+  - PubMed ulcerative-colitis:orcid:0000-0002-1092-0033 · 30 papers
+- **[Markus F. Neurath](../../../../people/markus-f-neurath.md)** (5 sources · last seen 2014 · auto, not reviewed)
+  - ClinicalTrials.gov NCT02129439 · PRINCIPAL_INVESTIGATOR
+- **[Flemming Bendtsen](../../../../people/flemming-bendtsen.md)** (4 sources · last seen 2019 · auto, not reviewed)
+  - ClinicalTrials.gov NCT00268164 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT01193894 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT01468090 · STUDY_DIRECTOR
+  - ClinicalTrials.gov NCT04133194 · PRINCIPAL_INVESTIGATOR
+- **[Jens Kjeldsen](../../../../people/jens-kjeldsen.md)** (4 sources · last seen 2022 · auto, not reviewed)
+  - ClinicalTrials.gov NCT05414578 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02445365 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT00374725 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01670240 · PRINCIPAL_INVESTIGATOR
+- **[Jost Langhorst](../../../../people/jost-langhorst.md)** (4 sources · last seen 2024 · auto, not reviewed)
+  - ClinicalTrials.gov NCT04927403 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06698601 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02721823 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02043600 · STUDY_DIRECTOR
+- **[Laurent Peyrin-Biroulet](../../../../people/laurent-peyrin-biroulet.md)** (4 sources · last seen 2026)
   - first author, QUASAR long-term extension, guselkumab in UC through week 140 · ECCO Congress 2026
   - first author, guselkumab IV or SC induction pharmacokinetics in UC · ECCO Congress 2026
+  - PubMed ulcerative-colitis:name:peyrin-biroulet|laurent · 61 papers
+  - PubMed ulcerative-colitis:orcid:0000-0003-2536-6618 · 22 papers
+- **[Paul Moayyedi](../../../../people/paul-moayyedi.md)** (4 sources · last seen 2022 · auto, not reviewed)
+  - ClinicalTrials.gov NCT01545908 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03131414 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04926103 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02606032 · PRINCIPAL_INVESTIGATOR
+- **[Raymond K Cross](../../../../people/raymond-k-cross.md)** (4 sources · last seen 2025 · auto, not reviewed)
+  - ClinicalTrials.gov NCT00805285 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06750731 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01692743 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00620126 · PRINCIPAL_INVESTIGATOR
+- **[Xavier ROBLIN](../../../../people/xavier-roblin.md)** (4 sources · last seen 2019 · auto, not reviewed)
+  - ClinicalTrials.gov NCT03182166 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04030676 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02367326 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03724929 · PRINCIPAL_INVESTIGATOR
+- **[Bruce E. Sands](../../../../people/bruce-e-sands.md)** (3 sources · last seen 2026)
+  - first author, integrated 1-year safety of guselkumab in Crohn's and UC · Digestive Disease Week (DDW) 2025
+  - PubMed ulcerative-colitis:name:sands|bruce e · 32 papers
+- **[Remo Panaccione](../../../../people/remo-panaccione.md)** (3 sources · last seen 2026)
+  - PubMed ulcerative-colitis:name:panaccione|remo · 23 papers
+- **[Alessandro Armuzzi](../../../../people/alessandro-armuzzi.md)** (2 sources · last seen 2026 · auto, not reviewed)
+  - PubMed ulcerative-colitis:name:armuzzi|alessandro · 21 papers
+- **[Edouard Louis](../../../../people/edouard-louis.md)** (2 sources · last seen 2026)
+  - first author, ANTHEM-UC, icotrokinra reduces inflammation in UC · ECCO Congress 2026
+- **[Elisabeth de Greef](../../../../people/elisabeth-de-greef.md)** (2 sources · last seen 2026)
+  - first author, UNIFI Jr, ustekinumab in pediatric UC (two abstracts) · ECCO Congress 2026
+- **[Johan Burisch](../../../../people/johan-burisch.md)** (2 sources · last seen 2026 · auto, not reviewed)
+  - PubMed ulcerative-colitis:orcid:0000-0002-3312-5139 · 19 papers
+- **[Stefan Schreiber](../../../../people/stefan-schreiber.md)** (2 sources · last seen 2026)
+  - PubMed ulcerative-colitis:name:schreiber|stefan · 27 papers
 - **[Adam S. Faye](../../../../people/adam-s-faye.md)** (1 source · last seen 2026)
   - first author, guselkumab safety at age 60+ across UC, Crohn's, PsA and psoriasis · ECCO Congress 2026
 - **[Alan Moss](../../../../people/alan-moss.md)** (1 source · last seen 2026)
   - Chief Scientific Officer, appointed 2023; also directs the Crohn's & Colitis Program at Boston Medical Center · Patient organization leaders
 - **[Andres J. Yarur](../../../../people/andres-j-yarur.md)** (1 source · last seen 2026)
   - first author, QUASAR and ASTRO, guselkumab induction by weight and BMI in UC · ECCO Congress 2026
-- **[Axel Dignass](../../../../people/axel-dignass.md)** (1 source · last seen 2026)
-  - first author, QUASAR, early symptom improvement with IV guselkumab in UC · ECCO Congress 2026
-- **[Bruce E. Sands](../../../../people/bruce-e-sands.md)** (1 source · last seen 2025)
-  - first author, integrated 1-year safety of guselkumab in Crohn's and UC · Digestive Disease Week (DDW) 2025
-- **[David T. Rubin](../../../../people/david-t-rubin.md)** (1 source · last seen 2026)
-  - first author, QUASAR, predictors of endoscopic remission with guselkumab in UC · ECCO Congress 2026
-- **[Edouard Louis](../../../../people/edouard-louis.md)** (1 source · last seen 2026)
-  - first author, ANTHEM-UC, icotrokinra reduces inflammation in UC · ECCO Congress 2026
+- **[Bram Verstockt](../../../../people/bram-verstockt.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed ulcerative-colitis:orcid:0000-0003-3898-7093 · 20 papers
+- **[Ferdinando D'Amico](../../../../people/ferdinando-d-amico.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed ulcerative-colitis:name:d'amico|ferdinando · 21 papers
 - **[Fernando Magro](../../../../people/fernando-magro.md)** (1 source · last seen 2026)
   - first author, QUASAR long-term extension, guselkumab in UC, 2-year outcomes · ECCO Congress 2026
 - **[Gary R. Lichtenstein](../../../../people/gary-r-lichtenstein.md)** (1 source · last seen 2025)
@@ -44,9 +160,11 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - President and CEO, named 2026 National Health Council board chair · Patient organization leaders
 - **[Millie D. Long](../../../../people/millie-d-long.md)** (1 source · last seen 2025)
   - first author, ASTRO, subcutaneous guselkumab induction in UC · Digestive Disease Week (DDW) 2025
-- **[Silvio Danese](../../../../people/silvio-danese.md)** (1 source · last seen 2026)
-  - first author, ASTRO, subcutaneous guselkumab in UC, week 48 · ECCO Congress 2026
-- **[Vipul Jairath](../../../../people/vipul-jairath.md)** (1 source · last seen 2025)
-  - presenter, VERDICT, vedolizumab in UC (two presentations) · Digestive Disease Week (DDW) 2025
+- **[Neeraj Narula](../../../../people/neeraj-narula.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed ulcerative-colitis:orcid:0000-0002-1536-8436 · 21 papers
+- **[Séverine Vermeire](../../../../people/severine-vermeire-2.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed ulcerative-colitis:orcid:0000-0001-9942-3019 · 29 papers
+- **[Taku Kobayashi](../../../../people/taku-kobayashi.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed ulcerative-colitis:orcid:0000-0002-2073-4234 · 22 papers
 - **[Virginia Solitano](../../../../people/virginia-solitano.md)** (1 source · last seen 2025)
   - presenter, placebo rates in UC trials, patient-level meta-analysis · Digestive Disease Week (DDW) 2025

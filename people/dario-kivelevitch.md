@@ -1,10 +1,22 @@
 ---
 name: Dario Kivelevitch
 type: person
-aliases: ["Kivelevitch D"]
+aliases:
+- Kivelevitch D
 evidence:
-  - {node: evidence/guidelines/aad-npf-biologics-2019, role: guideline co-author, author_position: 4}
-  - {node: evidence/guidelines/aad-npf-systemic-nonbiologic-2020, role: guideline co-author, author_position: 13}
+- node: evidence/guidelines/aad-npf-biologics-2019
+  role: guideline co-author
+  author_position: 4
+- node: evidence/guidelines/aad-npf-systemic-nonbiologic-2020
+  role: guideline co-author
+  author_position: 13
+npi: '1922485838'
+npi_record:
+  credential: M.D.
+  taxonomy: Dermatology
+  practice: Lancaster, TX
+  checked: '2026-11-16'
+  url: https://npiregistry.cms.hhs.gov/provider-view/1922485838
 ---
 
 The same surname and first initial appear across these sources, so they are merged here. Confirm with an identifier such as ORCID or NPI.
@@ -23,3 +35,5 @@ The same surname and first initial appear across these sources, so they are merg
 ### Evidence
 - [AAD-NPF psoriasis guidelines - biologics (2019)](../tree/evidence/guidelines/aad-npf-biologics-2019.md) — guideline co-author, author 4
 - [AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)](../tree/evidence/guidelines/aad-npf-systemic-nonbiologic-2020.md) — guideline co-author, author 13
+### Practice and industry ties
+- **NPI 1922485838** (M.D., Dermatology, Lancaster, TX). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1922485838), checked 2026-11-16

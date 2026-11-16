@@ -1,10 +1,22 @@
 ---
 name: Arthur Kavanaugh
 type: person
-aliases: ["Kavanaugh A"]
+aliases:
+- Kavanaugh A
 evidence:
-  - {node: evidence/guidelines/aad-npf-biologics-2019, role: guideline co-author, author_position: 15}
-  - {node: evidence/guidelines/aad-npf-systemic-nonbiologic-2020, role: guideline co-author, author_position: 11}
+- node: evidence/guidelines/aad-npf-biologics-2019
+  role: guideline co-author
+  author_position: 15
+- node: evidence/guidelines/aad-npf-systemic-nonbiologic-2020
+  role: guideline co-author
+  author_position: 11
+npi: '1679584486'
+npi_record:
+  credential: M.D.
+  taxonomy: Internal Medicine, Rheumatology
+  practice: La Jolla, CA
+  checked: '2026-11-16'
+  url: https://npiregistry.cms.hhs.gov/provider-view/1679584486
 ---
 
 The same surname and first initial appear across these sources, so they are merged here. Confirm with an identifier such as ORCID or NPI.
@@ -23,3 +35,5 @@ The same surname and first initial appear across these sources, so they are merg
 ### Evidence
 - [AAD-NPF psoriasis guidelines - biologics (2019)](../tree/evidence/guidelines/aad-npf-biologics-2019.md) — guideline co-author, author 15
 - [AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)](../tree/evidence/guidelines/aad-npf-systemic-nonbiologic-2020.md) — guideline co-author, author 11
+### Practice and industry ties
+- **NPI 1679584486** (M.D., Internal Medicine, Rheumatology, La Jolla, CA). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1679584486), checked 2026-11-16

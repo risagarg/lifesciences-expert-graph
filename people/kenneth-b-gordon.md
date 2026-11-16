@@ -1,18 +1,44 @@
 ---
 name: Kenneth B. Gordon
 type: person
-aliases: ["Gordon KB"]
+aliases:
+- Gordon KB
 affiliations:
-  - text: "International Psoriasis Council, Councilor"
-    as_of: 2026
-    source: evidence/conferences/aad-annual-meeting-2026
-    org: organizations/professional-societies/international-psoriasis-council
+- text: International Psoriasis Council, Councilor
+  as_of: 2026
+  source: evidence/conferences/aad-annual-meeting-2026
+  org: organizations/professional-societies/international-psoriasis-council
 evidence:
-  - {node: evidence/guidelines/aad-npf-biologics-2019, role: guideline co-author, author_position: 13}
-  - {node: evidence/guidelines/aad-npf-systemic-nonbiologic-2020, role: guideline co-author, author_position: 8}
-  - {node: evidence/conferences/aad-annual-meeting-2026, role: presenter, detail: "IEC-IPC symposium: eczematous reactions to psoriasis treatments, clinical approach", covers: [therapeutic-areas/immunology/dermatology/psoriasis, therapeutic-areas/immunology/dermatology/atopic-dermatitis]}
-  - {node: evidence/conferences/aad-annual-meeting-2026, role: presenter, detail: "Psoriasis: Modern Therapeutic Approaches (panel)", covers: [therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis]}
-  - {node: evidence/conferences/maui-derm-2026, role: panelist, detail: "Psoriasis Update 2026 (psoriasis and psoriatic arthritis)", covers: [therapeutic-areas/immunology/dermatology/psoriasis, therapeutic-areas/immunology/rheumatology/psoriatic-arthritis]}
+- node: evidence/guidelines/aad-npf-biologics-2019
+  role: guideline co-author
+  author_position: 13
+- node: evidence/guidelines/aad-npf-systemic-nonbiologic-2020
+  role: guideline co-author
+  author_position: 8
+- node: evidence/conferences/aad-annual-meeting-2026
+  role: presenter
+  detail: 'IEC-IPC symposium: eczematous reactions to psoriasis treatments, clinical approach'
+  covers:
+  - therapeutic-areas/immunology/dermatology/psoriasis
+  - therapeutic-areas/immunology/dermatology/atopic-dermatitis
+- node: evidence/conferences/aad-annual-meeting-2026
+  role: presenter
+  detail: 'Psoriasis: Modern Therapeutic Approaches (panel)'
+  covers:
+  - therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis
+- node: evidence/conferences/maui-derm-2026
+  role: panelist
+  detail: Psoriasis Update 2026 (psoriasis and psoriatic arthritis)
+  covers:
+  - therapeutic-areas/immunology/dermatology/psoriasis
+  - therapeutic-areas/immunology/rheumatology/psoriatic-arthritis
+npi: '1790865806'
+npi_record:
+  credential: M.D.
+  taxonomy: Dermatology
+  practice: Wauwatosa, WI
+  checked: '2026-11-16'
+  url: https://npiregistry.cms.hhs.gov/provider-view/1790865806
 ---
 
 The same surname and first initial appear across these sources, so they are merged here. Confirm with an identifier such as ORCID or NPI.
@@ -37,5 +63,7 @@ The same surname and first initial appear across these sources, so they are merg
 - [AAD Annual Meeting 2026](../tree/evidence/conferences/aad-annual-meeting-2026.md) — presenter, IEC-IPC symposium: eczematous reactions to psoriasis treatments, clinical approach
 - [AAD Annual Meeting 2026](../tree/evidence/conferences/aad-annual-meeting-2026.md) — presenter, Psoriasis: Modern Therapeutic Approaches (panel)
 - [Maui Derm Hawaii 2026](../tree/evidence/conferences/maui-derm-2026.md) — panelist, Psoriasis Update 2026 (psoriasis and psoriatic arthritis)
+### Practice and industry ties
+- **NPI 1790865806** (M.D., Dermatology, Wauwatosa, WI). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1790865806), checked 2026-11-16
 ### Affiliations
 - International Psoriasis Council, Councilor (2026) → [International Psoriasis Council (IPC)](../tree/organizations/professional-societies/international-psoriasis-council.md)

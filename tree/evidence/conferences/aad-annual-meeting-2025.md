@@ -23,7 +23,7 @@ Late-breaking research: Robert Bissonnette presented ICONIC-LEAD (icotrokinra).
 ### Experts on AAD Annual Meeting 2025 (1)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
-- **[Robert Bissonnette](../../../people/r-bissonnette.md)** (4 sources · last seen 2025)
+- **[Robert Bissonnette](../../../people/r-bissonnette.md)** (26 sources · last seen 2025)
   - presenter, late-breaking research: ICONIC-LEAD · AAD Annual Meeting 2025
 ### Sources
 - [Dermatology Times: Bissonnette on late-breaking icotrokinra data](https://www.dermatologytimes.com/view/robert-bissonnette-late-breaking-data-on-icotrokinra-shows-promising-efficacy-and-safety-in-psoriasis)

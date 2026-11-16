@@ -37,18 +37,94 @@ summary: The most common form of psoriasis. All the approved drugs in the tree a
 - ← indicated for · [Deucravacitinib](../../mechanisms/tyk2-inhibitors/deucravacitinib.md)
 - ← in development for · [Envudeucitinib](../../mechanisms/tyk2-inhibitors/envudeucitinib.md)
 - ← in development for · [Zasocitinib](../../mechanisms/tyk2-inhibitors/zasocitinib.md)
-### Experts on Plaque psoriasis (78)
+### Experts on Plaque psoriasis (107)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
-- **[April W. Armstrong](../../../../../people/april-w-armstrong.md)** (6 sources · last seen 2026)
+- **[Robert Bissonnette](../../../../../people/r-bissonnette.md)** (26 sources · last seen 2025)
+  - trial publication author, author 1 · ICONIC-LEAD (icotrokinra, phase 3)
+  - trial publication author, author 3 · ICONIC-TOTAL (icotrokinra, phase 3)
+  - trial publication author, author 3 · ICONIC-ADVANCE (icotrokinra, phase 3)
+  - presenter, late-breaking research: ICONIC-LEAD · AAD Annual Meeting 2025
+  - ClinicalTrials.gov NCT05994976 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00927069 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00940862 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02400749 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01556672 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01098721 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05835843 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00967538 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05499416 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00244842 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00258713 · PRINCIPAL_INVESTIGATOR
+- **[Boehringer Ingelheim](../../../../../people/boehringer-ingelheim.md)** (17 sources · last seen 2016 · auto, not reviewed)
+  - ClinicalTrials.gov NCT02684357 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT02054481 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT02694523 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT02203851 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT00848055 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT02672852 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT03000075 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT02850965 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT02684370 · STUDY_CHAIR
+- **[Jianzhong Zhang](../../../../../people/jianzhong-zhang.md)** (17 sources · last seen 2025 · auto, not reviewed)
+  - ClinicalTrials.gov NCT04173637 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT07712731 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT07712705 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT07130604 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03316781 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06477237 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06278350 · PRINCIPAL_INVESTIGATOR
+- **[Mark Lebwohl](../../../../../people/mark-lebwohl.md)** (11 sources · last seen 2026)
+  - guideline co-author, author 19 · AAD-NPF psoriasis guidelines - biologics (2019)
+  - guideline co-author, author 16 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+  - trial publication author, author 16 · ICONIC-LEAD (icotrokinra, phase 3)
+  - ClinicalTrials.gov NCT06336343 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01855880 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03403036 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02223039 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01836939 · PRINCIPAL_INVESTIGATOR
+  - PubMed plaque-psoriasis:name:lebwohl|mark · 34 papers
+- **[Amy S. Paller](../../../../../people/amy-s-paller.md)** (11 sources · last seen 2026)
+  - guideline co-author, author 24 · AAD-NPF psoriasis guidelines - biologics (2019)
+  - guideline co-author, author 21 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+- **[Steven Feldman](../../../../../people/steven-feldman.md)** (9 sources · last seen 2026 · auto, not reviewed)
+  - ClinicalTrials.gov NCT03849404 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00655564 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04453137 · PRINCIPAL_INVESTIGATOR
+  - PubMed plaque-psoriasis:name:feldman|steven r · 29 papers
+- **[April W. Armstrong](../../../../../people/april-w-armstrong.md)** (7 sources · last seen 2026)
   - guideline co-author, author 7 · AAD-NPF psoriasis guidelines - biologics (2019)
   - guideline co-author, author 4 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
   - trial publication author, author 1 · POETYK PSO-1 (deucravacitinib, phase 3)
   - trial publication author, author 2 · ICONIC-ADVANCE (icotrokinra, phase 3)
-- **[Mark Lebwohl](../../../../../people/mark-lebwohl.md)** (5 sources · last seen 2026)
-  - guideline co-author, author 19 · AAD-NPF psoriasis guidelines - biologics (2019)
-  - guideline co-author, author 16 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
-  - trial publication author, author 16 · ICONIC-LEAD (icotrokinra, phase 3)
+  - PubMed plaque-psoriasis:name:armstrong|april w · 28 papers
+- **[Catherine Queille-Roussel](../../../../../people/catherine-queille-roussel.md)** (6 sources · last seen 2013 · auto, not reviewed)
+  - ClinicalTrials.gov NCT01580488 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01347255 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01466478 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01607853 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01297166 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01837576 · PRINCIPAL_INVESTIGATOR
+- **[Lihi Eder](../../../../../people/lihi-eder.md)** (6 sources · last seen 2026 · auto, not reviewed)
+  - PubMed plaque-psoriasis:orcid:0000-0002-1473-1715 · 22 papers
+- **[Philip Mease](../../../../../people/philip-mease.md)** (6 sources · last seen 2026)
+  - PubMed plaque-psoriasis:orcid:0000-0002-6620-0457 · 42 papers
+- **[Jerry Bagel](../../../../../people/jerry-bagel.md)** (5 sources · last seen 2018 · auto, not reviewed)
+  - ClinicalTrials.gov NCT01982552 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03587194 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02412644 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00769184 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00708851 · PRINCIPAL_INVESTIGATOR
+- **[Kim A. Papp](../../../../../people/kim-a-papp.md)** (5 sources · last seen 2023)
+  - trial publication author, author 4 · POETYK PSO-1 (deucravacitinib, phase 3)
+  - ClinicalTrials.gov NCT00510536 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03384745 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00244842 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00258713 · PRINCIPAL_INVESTIGATOR
+- **[Joseph Merola](../../../../../people/joseph-merola.md)** (5 sources · last seen 2026)
+  - presenter, Therapeutic Hotline: what's new in psoriasis biologics (icotrokinra; ixekizumab with tirzepatide) · AAD Annual Meeting 2026
+  - outside reviewer, clinical expert reviewer · ICER: Targeted Immunomodulators for Plaque Psoriasis (2018 update)
+  - PubMed plaque-psoriasis:name:merola|joseph f · 46 papers
 - **[Linda Stein Gold](../../../../../people/l-gold.md)** (5 sources · last seen 2026)
   - trial publication author, author 1 · ICONIC-ADVANCE (icotrokinra, phase 3)
   - presenter, oral presentation: ICONIC-ADVANCE 1 & 2, icotrokinra vs deucravacitinib · EADV Congress 2025
@@ -57,20 +133,52 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - guideline co-author, author 29 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
   - trial publication author, author 5 · POETYK PSO-1 (deucravacitinib, phase 3)
   - presenter, Psoriasis: Modern Therapeutic Approaches (panel) · AAD Annual Meeting 2026
-- **[Robert Bissonnette](../../../../../people/r-bissonnette.md)** (4 sources · last seen 2025)
-  - trial publication author, author 1 · ICONIC-LEAD (icotrokinra, phase 3)
-  - trial publication author, author 3 · ICONIC-TOTAL (icotrokinra, phase 3)
-  - trial publication author, author 3 · ICONIC-ADVANCE (icotrokinra, phase 3)
-  - presenter, late-breaking research: ICONIC-LEAD · AAD Annual Meeting 2025
+- **[Jia Zhou](../../../../../people/jia-zhou.md)** (4 sources · last seen 2019 · auto, not reviewed)
+  - ClinicalTrials.gov NCT03952676 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT03941431 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT03942198 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT03953885 · STUDY_CHAIR
+- **[John Koo](../../../../../people/john-koo.md)** (4 sources · last seen 2010 · auto, not reviewed)
+  - ClinicalTrials.gov NCT00924950 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00800982 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00678470 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01012713 · PRINCIPAL_INVESTIGATOR
+- **[Leon H Kircik](../../../../../people/leon-h-kircik.md)** (4 sources · last seen 2021 · auto, not reviewed)
+  - ClinicalTrials.gov NCT00302445 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04571151 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01745133 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00608777 · PRINCIPAL_INVESTIGATOR
+- **[Martin Kaul](../../../../../people/martin-kaul.md)** (4 sources · last seen 2008 · auto, not reviewed)
+  - ClinicalTrials.gov NCT00679731 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT00626002 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT00570986 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT00292396 · STUDY_CHAIR
 - **[Kenneth B. Gordon](../../../../../people/kenneth-b-gordon.md)** (4 sources · last seen 2026)
   - guideline co-author, author 13 · AAD-NPF psoriasis guidelines - biologics (2019)
   - guideline co-author, author 8 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
   - presenter, Psoriasis: Modern Therapeutic Approaches (panel) · AAD Annual Meeting 2026
+- **[Dafna D Gladman](../../../../../people/dafna-d-gladman.md)** (4 sources · last seen 2026 · auto, not reviewed)
+  - PubMed plaque-psoriasis:orcid:0000-0002-9074-0592 · 38 papers
+  - PubMed plaque-psoriasis:name:gladman|dafna d · 22 papers
+- **[Laura C. Coates](../../../../../people/laura-c-coates.md)** (4 sources · last seen 2026)
+  - PubMed plaque-psoriasis:orcid:0000-0002-4756-663X · 42 papers
 - **[Jennifer Soung](../../../../../people/j-soung.md)** (3 sources · last seen 2026)
   - trial publication author, author 2 · ICONIC-LEAD (icotrokinra, phase 3)
   - presenter, ICONIC-LEAD (icotrokinra) · AAD Annual Meeting 2026
   - presenter, Psoriasis: Modern Therapeutic Approaches (panel) · AAD Annual Meeting 2026
   - presenter, late-breaker: ICONIC-LEAD 52-week data (icotrokinra) · EADV Congress 2025
+- **[Alice B. Gottlieb](../../../../../people/alice-b-gottlieb.md)** (3 sources · last seen 2026)
+  - guideline co-author, author 14 · AAD-NPF psoriasis guidelines - biologics (2019)
+  - guideline co-author, author 9 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+  - PubMed plaque-psoriasis:name:gottlieb|alice b · 23 papers
+- **[Hongzhong Jin](../../../../../people/hongzhong-jin.md)** (3 sources · last seen 2019 · auto, not reviewed)
+  - ClinicalTrials.gov NCT04172233 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04173637 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02701205 · PRINCIPAL_INVESTIGATOR
+- **[Jinhua Xu](../../../../../people/jinhua-xu.md)** (3 sources · last seen 2023 · auto, not reviewed)
+  - ClinicalTrials.gov NCT05536726 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06077331 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05604898 · PRINCIPAL_INVESTIGATOR
 - **[Joel M. Gelfand](../../../../../people/joel-m-gelfand.md)** (3 sources · last seen 2026)
   - guideline co-author, author 12 · AAD-NPF psoriasis guidelines - biologics (2019)
   - guideline co-author, author 2 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
@@ -79,18 +187,34 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - trial publication author, author 2 · POETYK PSO-1 (deucravacitinib, phase 3)
   - trial publication author, author 1 · ICONIC-TOTAL (icotrokinra, phase 3)
   - presenter, late-breaking research: LATITUDE PsO 3001 and 3002 (zasocitinib) · AAD Annual Meeting 2026
-- **[Amy S. Paller](../../../../../people/amy-s-paller.md)** (3 sources · last seen 2026)
-  - guideline co-author, author 24 · AAD-NPF psoriasis guidelines - biologics (2019)
-  - guideline co-author, author 21 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
-- **[Joseph Merola](../../../../../people/joseph-merola.md)** (3 sources · last seen 2026)
-  - presenter, Therapeutic Hotline: what's new in psoriasis biologics (icotrokinra; ixekizumab with tirzepatide) · AAD Annual Meeting 2026
-  - outside reviewer, clinical expert reviewer · ICER: Targeted Immunomodulators for Plaque Psoriasis (2018 update)
+- **[Min Zheng](../../../../../people/min-zheng.md)** (3 sources · last seen 2022 · auto, not reviewed)
+  - ClinicalTrials.gov NCT05377944 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04102241 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04728360 · PRINCIPAL_INVESTIGATOR
+- **[Roman Ivanov](../../../../../people/roman-ivanov.md)** (3 sources · last seen 2017 · auto, not reviewed)
+  - ClinicalTrials.gov NCT02762955 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT02762994 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT03390101 · STUDY_CHAIR
+- **[Sascha Gerdes](../../../../../people/sascha-gerdes.md)** (3 sources · last seen 2018 · auto, not reviewed)
+  - ClinicalTrials.gov NCT02881346 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01891864 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03591887 · PRINCIPAL_INVESTIGATOR
+- **[Tina Bhutani](../../../../../people/tina-bhutani.md)** (3 sources · last seen 2016 · auto, not reviewed)
+  - ClinicalTrials.gov NCT00990561 · STUDY_DIRECTOR
+  - ClinicalTrials.gov NCT02294981 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01012713 · STUDY_DIRECTOR
+- **[Xinghua Gao](../../../../../people/xinghua-gao.md)** (3 sources · last seen 2023 · auto, not reviewed)
+  - ClinicalTrials.gov NCT04612699 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06077331 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05863273 · STUDY_DIRECTOR
+- **[Vinod Chandran](../../../../../people/vinod-chandran.md)** (3 sources · last seen 2026 · auto, not reviewed)
+  - PubMed plaque-psoriasis:name:chandran|vinod · 35 papers
+- **[Akimichi Morita](../../../../../people/akimichi-morita.md)** (2 sources · last seen 2026)
+  - trial publication author, author 7 · POETYK PSO-1 (deucravacitinib, phase 3)
+  - PubMed plaque-psoriasis:orcid:0000-0001-8372-3754 · 24 papers
 - **[Alan Menter](../../../../../people/alan-menter.md)** (2 sources · last seen 2020)
   - guideline co-author, author 1 · AAD-NPF psoriasis guidelines - biologics (2019)
   - guideline co-author, author 1 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
-- **[Alice B. Gottlieb](../../../../../people/alice-b-gottlieb.md)** (2 sources · last seen 2020)
-  - guideline co-author, author 14 · AAD-NPF psoriasis guidelines - biologics (2019)
-  - guideline co-author, author 9 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
 - **[Andrew Blauvelt](../../../../../people/andrew-blauvelt.md)** (2 sources · last seen 2026)
   - trial publication author, author 16 · POETYK PSO-1 (deucravacitinib, phase 3)
   - presenter, late-breaking research: ONWARD 1 and 2 (envudeucitinib) · AAD Annual Meeting 2026
@@ -133,6 +257,9 @@ Ranked by number of independent sources. Under each name is why they are listed 
 - **[Emily B. Wong](../../../../../people/emily-b-wong.md)** (2 sources · last seen 2020)
   - guideline co-author, author 29 · AAD-NPF psoriasis guidelines - biologics (2019)
   - guideline co-author, author 31 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+- **[Haroon Nabi](../../../../../people/haroon-nabi.md)** (2 sources · last seen 2022 · auto, not reviewed)
+  - ClinicalTrials.gov NCT06043752 · STUDY_DIRECTOR
+  - ClinicalTrials.gov NCT06032858 · STUDY_DIRECTOR
 - **[Henry W. Lim](../../../../../people/henry-w-lim.md)** (2 sources · last seen 2020)
   - guideline co-author, author 22 · AAD-NPF psoriasis guidelines - biologics (2019)
   - guideline co-author, author 19 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
@@ -160,14 +287,23 @@ Ranked by number of independent sources. Under each name is why they are listed 
 - **[Reena N. Rupani](../../../../../people/reena-n-rupani.md)** (2 sources · last seen 2020)
   - guideline co-author, author 27 · AAD-NPF psoriasis guidelines - biologics (2019)
   - guideline co-author, author 26 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+- **[Richard B. Warren](../../../../../people/richard-b-warren.md)** (2 sources · last seen 2026)
+  - trial publication author, author 3 · POETYK PSO-1 (deucravacitinib, phase 3)
+  - PubMed plaque-psoriasis:name:warren|richard b · 24 papers
 - **[Sylvia L. Parra](../../../../../people/sylvia-l-parra.md)** (2 sources · last seen 2020)
   - guideline co-author, author 25 · AAD-NPF psoriasis guidelines - biologics (2019)
   - guideline co-author, author 22 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
 - **[Vidhya Hariharan](../../../../../people/vidhya-hariharan.md)** (2 sources · last seen 2020)
   - guideline co-author, author 31 · AAD-NPF psoriasis guidelines - biologics (2019)
   - guideline co-author, author 33 · AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)
+- **[Alexa B. Kimball](../../../../../people/alexa-b-kimball.md)** (2 sources · last seen 2026)
+  - outside reviewer, clinical expert reviewer · ICER: Targeted Immunomodulators for Plaque Psoriasis (2018 update)
+- **[Laure Gossec](../../../../../people/laure-gossec.md)** (2 sources · last seen 2026 · auto, not reviewed)
+  - PubMed plaque-psoriasis:orcid:0000-0002-4528-310X · 29 papers
 - **[Leah McCormick Howard](../../../../../people/leah-mccormick-howard.md)** (2 sources · last seen 2026)
   - outside reviewer, then NPF Chief Operating Officer · ICER: Targeted Immunomodulators for Plaque Psoriasis (2018 update)
+- **[Philip S Helliwell](../../../../../people/philip-s-helliwell.md)** (2 sources · last seen 2026 · auto, not reviewed)
+  - PubMed plaque-psoriasis:orcid:0000-0002-4155-9105 · 25 papers
 - **[A. Pinter](../../../../../people/a-pinter.md)** (1 source · last seen 2025 · name unconfirmed)
   - trial publication author, author 5 · ICONIC-LEAD (icotrokinra, phase 3)
 - **[A.A. Hebert](../../../../../people/a-a-hebert.md)** (1 source · last seen 2025 · name unconfirmed)
@@ -176,14 +312,14 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - trial publication author, author 4 · ICONIC-LEAD (icotrokinra, phase 3)
 - **[A.Y. Moore](../../../../../people/a-y-moore.md)** (1 source · last seen 2025 · name unconfirmed)
   - trial publication author, author 6 · ICONIC-LEAD (icotrokinra, phase 3)
-- **[Akimichi Morita](../../../../../people/akimichi-morita.md)** (1 source · last seen 2023)
-  - trial publication author, author 7 · POETYK PSO-1 (deucravacitinib, phase 3)
-- **[Alexa B. Kimball](../../../../../people/alexa-b-kimball.md)** (1 source · last seen 2018)
-  - outside reviewer, clinical expert reviewer · ICER: Targeted Immunomodulators for Plaque Psoriasis (2018 update)
+- **[Antonio Costanzo](../../../../../people/antonio-costanzo.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed plaque-psoriasis:name:costanzo|antonio · 22 papers
 - **[Bram Ramaekers](../../../../../people/bram-ramaekers.md)** (1 source · last seen 2018)
   - outside reviewer, health economics reviewer · ICER: Targeted Immunomodulators for Plaque Psoriasis (2018 update)
 - **[C.M. DeKlotz](../../../../../people/c-m-deklotz.md)** (1 source · last seen 2025 · name unconfirmed)
   - trial publication author, author 14 · ICONIC-LEAD (icotrokinra, phase 3)
+- **[Chuanjian Lu](../../../../../people/chuanjian-lu.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed plaque-psoriasis:name:lu|chuanjian · 26 papers
 - **[D.P. Toth](../../../../../people/d-p-toth.md)** (1 source · last seen 2025 · name unconfirmed)
   - trial publication author, author 9 · ICONIC-LEAD (icotrokinra, phase 3)
 - **[Daniel A. Ollendorf](../../../../../people/daniel-a-ollendorf.md)** (1 source · last seen 2018)
@@ -212,18 +348,16 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - presenter, Psoriasis: Modern Therapeutic Approaches (panel) · AAD Annual Meeting 2026
 - **[John Throup](../../../../../people/john-throup.md)** (1 source · last seen 2023 · industry)
   - trial publication author, author 11 · POETYK PSO-1 (deucravacitinib, phase 3)
-- **[Kim A. Papp](../../../../../people/kim-a-papp.md)** (1 source · last seen 2023)
-  - trial publication author, author 4 · POETYK PSO-1 (deucravacitinib, phase 3)
 - **[M. Miller-Kassamali](../../../../../people/m-miller-kassamali.md)** (1 source · last seen 2025 · name unconfirmed)
   - trial publication author, author 10 · ICONIC-LEAD (icotrokinra, phase 3)
+- **[Matteo Megna](../../../../../people/matteo-megna.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed plaque-psoriasis:name:megna|matteo · 38 papers
 - **[Misti Linaberry](../../../../../people/misti-linaberry.md)** (1 source · last seen 2023 · industry)
   - trial publication author, author 14 · POETYK PSO-1 (deucravacitinib, phase 3)
 - **[Mona Shahriari](../../../../../people/mona-shahriari.md)** (1 source · last seen 2026)
   - presenter, Psoriasis: Modern Therapeutic Approaches (panel) · AAD Annual Meeting 2026
 - **[Reiner Banken](../../../../../people/reiner-banken.md)** (1 source · last seen 2018)
   - report author, ICER Senior Fellow · ICER: Targeted Immunomodulators for Plaque Psoriasis (2018 update)
-- **[Richard B. Warren](../../../../../people/richard-b-warren.md)** (1 source · last seen 2023)
-  - trial publication author, author 3 · POETYK PSO-1 (deucravacitinib, phase 3)
 - **[Richard Langley](../../../../../people/richard-langley.md)** (1 source · last seen 2026)
   - presenter, Psoriasis: Modern Therapeutic Approaches (panel) · AAD Annual Meeting 2026
 - **[Rick Chapman](../../../../../people/rick-chapman.md)** (1 source · last seen 2018)
@@ -246,3 +380,7 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - trial publication author, author 8 · ICONIC-LEAD (icotrokinra, phase 3)
 - **[Y. Shi](../../../../../people/y-shi.md)** (1 source · last seen 2025 · name unconfirmed)
   - trial publication author, author 7 · ICONIC-LEAD (icotrokinra, phase 3)
+- **[Yehong Kuang](../../../../../people/yehong-kuang.md)** (1 source · last seen 2027 · auto, not reviewed)
+  - PubMed plaque-psoriasis:name:kuang|yehong · 24 papers
+- **[Yuling Shi](../../../../../people/yuling-shi.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed plaque-psoriasis:name:shi|yuling · 33 papers

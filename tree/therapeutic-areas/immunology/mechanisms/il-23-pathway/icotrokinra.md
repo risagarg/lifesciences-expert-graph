@@ -26,26 +26,28 @@ Approval date is the date Johnson & Johnson announced it. Approved for adults an
 ### Experts on Icotrokinra (22)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
-- **[April W. Armstrong](../../../../../people/april-w-armstrong.md)** (6 sources · last seen 2026)
-  - trial publication author, author 2 · ICONIC-ADVANCE (icotrokinra, phase 3)
-- **[Linda Stein Gold](../../../../../people/l-gold.md)** (5 sources · last seen 2026)
-  - trial publication author, author 1 · ICONIC-ADVANCE (icotrokinra, phase 3)
-  - presenter, oral presentation: ICONIC-ADVANCE 1 & 2, icotrokinra vs deucravacitinib · EADV Congress 2025
-- **[Mark Lebwohl](../../../../../people/mark-lebwohl.md)** (5 sources · last seen 2026)
-  - trial publication author, author 16 · ICONIC-LEAD (icotrokinra, phase 3)
-- **[Robert Bissonnette](../../../../../people/r-bissonnette.md)** (4 sources · last seen 2025)
+- **[Robert Bissonnette](../../../../../people/r-bissonnette.md)** (26 sources · last seen 2025)
   - trial publication author, author 1 · ICONIC-LEAD (icotrokinra, phase 3)
   - trial publication author, author 3 · ICONIC-TOTAL (icotrokinra, phase 3)
   - trial publication author, author 3 · ICONIC-ADVANCE (icotrokinra, phase 3)
   - presenter, late-breaking research: ICONIC-LEAD · AAD Annual Meeting 2025
+- **[Mark Lebwohl](../../../../../people/mark-lebwohl.md)** (11 sources · last seen 2026)
+  - trial publication author, author 16 · ICONIC-LEAD (icotrokinra, phase 3)
+- **[April W. Armstrong](../../../../../people/april-w-armstrong.md)** (7 sources · last seen 2026)
+  - trial publication author, author 2 · ICONIC-ADVANCE (icotrokinra, phase 3)
+- **[Linda Stein Gold](../../../../../people/l-gold.md)** (5 sources · last seen 2026)
+  - trial publication author, author 1 · ICONIC-ADVANCE (icotrokinra, phase 3)
+  - presenter, oral presentation: ICONIC-ADVANCE 1 & 2, icotrokinra vs deucravacitinib · EADV Congress 2025
+- **[Joseph Merola](../../../../../people/joseph-merola.md)** (5 sources · last seen 2026)
+  - presenter, Therapeutic Hotline: what's new in psoriasis biologics (icotrokinra; ixekizumab with tirzepatide) · AAD Annual Meeting 2026
 - **[Jennifer Soung](../../../../../people/j-soung.md)** (3 sources · last seen 2026)
   - trial publication author, author 2 · ICONIC-LEAD (icotrokinra, phase 3)
   - presenter, ICONIC-LEAD (icotrokinra) · AAD Annual Meeting 2026
   - presenter, late-breaker: ICONIC-LEAD 52-week data (icotrokinra) · EADV Congress 2025
-- **[Joseph Merola](../../../../../people/joseph-merola.md)** (3 sources · last seen 2026)
-  - presenter, Therapeutic Hotline: what's new in psoriasis biologics (icotrokinra; ixekizumab with tirzepatide) · AAD Annual Meeting 2026
 - **[Melinda Gooderham](../../../../../people/melinda-gooderham.md)** (3 sources · last seen 2026)
   - trial publication author, author 1 · ICONIC-TOTAL (icotrokinra, phase 3)
+- **[Edouard Louis](../../../../../people/edouard-louis.md)** (2 sources · last seen 2026)
+  - first author, ANTHEM-UC, icotrokinra reduces inflammation in UC · ECCO Congress 2026
 - **[A. Pinter](../../../../../people/a-pinter.md)** (1 source · last seen 2025 · name unconfirmed)
   - trial publication author, author 5 · ICONIC-LEAD (icotrokinra, phase 3)
 - **[A.A. Hebert](../../../../../people/a-a-hebert.md)** (1 source · last seen 2025 · name unconfirmed)
@@ -60,8 +62,6 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - trial publication author, author 9 · ICONIC-LEAD (icotrokinra, phase 3)
 - **[E. Lain](../../../../../people/e-lain.md)** (1 source · last seen 2025 · name unconfirmed)
   - trial publication author, author 2 · ICONIC-TOTAL (icotrokinra, phase 3)
-- **[Edouard Louis](../../../../../people/edouard-louis.md)** (1 source · last seen 2026)
-  - first author, ANTHEM-UC, icotrokinra reduces inflammation in UC · ECCO Congress 2026
 - **[F. Nunes](../../../../../people/f-nunes.md)** (1 source · last seen 2025 · name unconfirmed)
   - trial publication author, author 15 · ICONIC-LEAD (icotrokinra, phase 3)
 - **[J. Cafone](../../../../../people/j-cafone.md)** (1 source · last seen 2025 · name unconfirmed)

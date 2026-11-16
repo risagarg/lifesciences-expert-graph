@@ -24,11 +24,11 @@ Only the first three authors are listed in the source, so only they are linked h
 ### Experts on ICONIC-ADVANCE (icotrokinra, phase 3) (3)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
-- **[April W. Armstrong](../../../people/april-w-armstrong.md)** (6 sources · last seen 2026)
+- **[Robert Bissonnette](../../../people/r-bissonnette.md)** (26 sources · last seen 2025)
+  - trial publication author, author 3 · ICONIC-ADVANCE (icotrokinra, phase 3)
+- **[April W. Armstrong](../../../people/april-w-armstrong.md)** (7 sources · last seen 2026)
   - trial publication author, author 2 · ICONIC-ADVANCE (icotrokinra, phase 3)
 - **[Linda Stein Gold](../../../people/l-gold.md)** (5 sources · last seen 2026)
   - trial publication author, author 1 · ICONIC-ADVANCE (icotrokinra, phase 3)
-- **[Robert Bissonnette](../../../people/r-bissonnette.md)** (4 sources · last seen 2025)
-  - trial publication author, author 3 · ICONIC-ADVANCE (icotrokinra, phase 3)
 ### Sources
 - [J&J Medical Connect: pivotal trial publications](https://www.jnjmedicalconnect.com/products/icotyde/pivotal-clinical-trial-publications)

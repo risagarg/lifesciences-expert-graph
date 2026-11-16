@@ -25,11 +25,11 @@ A major US meeting for practicing dermatologists. Listed here: the opening panel
 ### Experts on Fall Clinical Dermatology Conference 2025 (6)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
-- **[April W. Armstrong](../../../people/april-w-armstrong.md)** (6 sources · last seen 2026)
+- **[Mark Lebwohl](../../../people/mark-lebwohl.md)** (11 sources · last seen 2026)
+  - panelist, top advances of 2025: AD, HS, psoriasis, CSU · Fall Clinical Dermatology Conference 2025
+- **[April W. Armstrong](../../../people/april-w-armstrong.md)** (7 sources · last seen 2026)
   - panelist, top advances of 2025: AD, HS, psoriasis, CSU · Fall Clinical Dermatology Conference 2025
 - **[Linda Stein Gold](../../../people/l-gold.md)** (5 sources · last seen 2026)
-  - panelist, top advances of 2025: AD, HS, psoriasis, CSU · Fall Clinical Dermatology Conference 2025
-- **[Mark Lebwohl](../../../people/mark-lebwohl.md)** (5 sources · last seen 2026)
   - panelist, top advances of 2025: AD, HS, psoriasis, CSU · Fall Clinical Dermatology Conference 2025
 - **[Darrell Rigel](../../../people/darrell-rigel.md)** (2 sources · last seen 2026)
   - panelist, top advances of 2025: AD, HS, psoriasis, CSU · Fall Clinical Dermatology Conference 2025

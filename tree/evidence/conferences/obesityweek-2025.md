@@ -29,12 +29,14 @@ Listed here: presenters of Lilly clinical-trial data. "Corporate oral sessions" 
 ### Experts on ObesityWeek 2025 (10)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
+- **[Deborah Horn](../../../people/deborah-horn.md)** (2 sources · last seen 2026)
+  - speaker, Lilly corporate session: orforglipron phase 3 (ATTAIN-2) · ObesityWeek 2025
+  - poster presenter, SURMOUNT-5 post hoc, weight reduction and weight cycling · ObesityWeek 2025
+- **[Sean Wharton](../../../people/sean-wharton.md)** (2 sources · last seen 2026)
+  - speaker, Lilly corporate session: orforglipron phase 3 (ATTAIN-2) · ObesityWeek 2025
 - **[Alpana Shukla](../../../people/alpana-shukla.md)** (1 source · last seen 2025)
   - presenter, SURMOUNT-5, quality of life with tirzepatide vs semaglutide · ObesityWeek 2025
   - speaker, Lilly corporate session: orforglipron phase 3 (ATTAIN-2) · ObesityWeek 2025
-- **[Deborah Horn](../../../people/deborah-horn.md)** (1 source · last seen 2025)
-  - speaker, Lilly corporate session: orforglipron phase 3 (ATTAIN-2) · ObesityWeek 2025
-  - poster presenter, SURMOUNT-5 post hoc, weight reduction and weight cycling · ObesityWeek 2025
 - **[Stanley Hsia](../../../people/stanley-hsia.md)** (1 source · last seen 2025)
   - speaker, Lilly corporate session: eloralintide phase 2 in obesity · ObesityWeek 2025
   - presenter, mazdutide phase 2 dose-finding study in obesity · ObesityWeek 2025
@@ -50,7 +52,5 @@ Ranked by number of independent sources. Under each name is why they are listed 
   - speaker, Lilly corporate session: orforglipron phase 3 (ATTAIN-2) · ObesityWeek 2025
 - **[Rodolfo Galindo](../../../people/rodolfo-galindo.md)** (1 source · last seen 2025)
   - poster presenter, SURMOUNT-5 post hoc, tirzepatide vs semaglutide in prediabetes · ObesityWeek 2025
-- **[Sean Wharton](../../../people/sean-wharton.md)** (1 source · last seen 2025)
-  - speaker, Lilly corporate session: orforglipron phase 3 (ATTAIN-2) · ObesityWeek 2025
 ### Sources
 - [Lilly Medical: ObesityWeek 2025 presentations](https://medical.lilly.com/us/science/conferences/obesity/ow2025)

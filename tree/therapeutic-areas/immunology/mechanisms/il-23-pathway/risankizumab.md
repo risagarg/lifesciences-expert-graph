@@ -21,10 +21,10 @@ sources:
 ### Experts on Risankizumab (2)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
-- **[Joseph Merola](../../../../../people/joseph-merola.md)** (3 sources · last seen 2026)
-  - presenter, late-breaker: BE BOLD, bimekizumab vs risankizumab in PsA, week 16 · EULAR Congress 2026
-- **[Philip Mease](../../../../../people/philip-mease.md)** (3 sources · last seen 2026)
+- **[Philip Mease](../../../../../people/philip-mease.md)** (6 sources · last seen 2026)
   - interviewed on new data, izokibep week 52 in PsA; real-world risankizumab vs TNF and IL-17 inhibitors · EULAR Congress 2026
+- **[Joseph Merola](../../../../../people/joseph-merola.md)** (5 sources · last seen 2026)
+  - presenter, late-breaker: BE BOLD, bimekizumab vs risankizumab in PsA, week 16 · EULAR Congress 2026
 ### Sources
 - [Drugs.com: new drugs for plaque psoriasis](https://drugs.com/medical-answers/new-drugs-treatment-plaque-psoriasis-3511670)
 - [Wride et al., Dermatol Clin 2024 (targets)](https://pubmed.ncbi.nlm.nih.gov/38796266/)

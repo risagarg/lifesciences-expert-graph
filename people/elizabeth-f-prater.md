@@ -1,10 +1,22 @@
 ---
 name: Elizabeth F. Prater
 type: person
-aliases: ["Prater EF"]
+aliases:
+- Prater EF
 evidence:
-  - {node: evidence/guidelines/aad-npf-biologics-2019, role: guideline co-author, author_position: 5}
-  - {node: evidence/guidelines/aad-npf-systemic-nonbiologic-2020, role: guideline co-author, author_position: 24}
+- node: evidence/guidelines/aad-npf-biologics-2019
+  role: guideline co-author
+  author_position: 5
+- node: evidence/guidelines/aad-npf-systemic-nonbiologic-2020
+  role: guideline co-author
+  author_position: 24
+npi: '1699971911'
+npi_record:
+  credential: M.D.
+  taxonomy: Dermatology
+  practice: Oklahoma City, OK
+  checked: '2026-11-16'
+  url: https://npiregistry.cms.hhs.gov/provider-view/1699971911
 ---
 
 The same surname and first initial appear across these sources, so they are merged here. Confirm with an identifier such as ORCID or NPI.
@@ -23,3 +35,5 @@ The same surname and first initial appear across these sources, so they are merg
 ### Evidence
 - [AAD-NPF psoriasis guidelines - biologics (2019)](../tree/evidence/guidelines/aad-npf-biologics-2019.md) — guideline co-author, author 5
 - [AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)](../tree/evidence/guidelines/aad-npf-systemic-nonbiologic-2020.md) — guideline co-author, author 24
+### Practice and industry ties
+- **NPI 1699971911** (M.D., Dermatology, Oklahoma City, OK). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1699971911), checked 2026-11-16

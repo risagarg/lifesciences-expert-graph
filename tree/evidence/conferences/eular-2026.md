@@ -23,11 +23,11 @@ Listed here: the psoriatic arthritis late-breaker presenter, and experts intervi
 ### Experts on EULAR Congress 2026 (3)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
-- **[Joseph Merola](../../../people/joseph-merola.md)** (3 sources · last seen 2026)
-  - presenter, late-breaker: BE BOLD, bimekizumab vs risankizumab in PsA, week 16 · EULAR Congress 2026
-- **[Philip Mease](../../../people/philip-mease.md)** (3 sources · last seen 2026)
+- **[Philip Mease](../../../people/philip-mease.md)** (6 sources · last seen 2026)
   - interviewed on new data, izokibep week 52 in PsA; real-world risankizumab vs TNF and IL-17 inhibitors · EULAR Congress 2026
-- **[Laura C. Coates](../../../people/laura-c-coates.md)** (1 source · last seen 2026)
+- **[Joseph Merola](../../../people/joseph-merola.md)** (5 sources · last seen 2026)
+  - presenter, late-breaker: BE BOLD, bimekizumab vs risankizumab in PsA, week 16 · EULAR Congress 2026
+- **[Laura C. Coates](../../../people/laura-c-coates.md)** (4 sources · last seen 2026)
   - interviewed on new data, TOGETHER-PsA, ixekizumab with tirzepatide in PsA with obesity or overweight · EULAR Congress 2026
 ### Sources
 - [Rheum-Live: EULAR 2026 expert interviews and late-breakers to watch](https://www.rheum-live.com/view/eular-2026-expert-interviews-late-breakers-watch)

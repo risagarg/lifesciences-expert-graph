@@ -1,10 +1,22 @@
 ---
 name: Cody Connor
 type: person
-aliases: ["Connor C"]
+aliases:
+- Connor C
 evidence:
-  - {node: evidence/guidelines/aad-npf-biologics-2019, role: guideline co-author, author_position: 8}
-  - {node: evidence/guidelines/aad-npf-systemic-nonbiologic-2020, role: guideline co-author, author_position: 3}
+- node: evidence/guidelines/aad-npf-biologics-2019
+  role: guideline co-author
+  author_position: 8
+- node: evidence/guidelines/aad-npf-systemic-nonbiologic-2020
+  role: guideline co-author
+  author_position: 3
+npi: '1447631619'
+npi_record:
+  credential: M.D.
+  taxonomy: Dermatology
+  practice: Columbia, SC
+  checked: '2026-11-16'
+  url: https://npiregistry.cms.hhs.gov/provider-view/1447631619
 ---
 
 The same surname and first initial appear across these sources, so they are merged here. Confirm with an identifier such as ORCID or NPI.
@@ -23,3 +35,5 @@ The same surname and first initial appear across these sources, so they are merg
 ### Evidence
 - [AAD-NPF psoriasis guidelines - biologics (2019)](../tree/evidence/guidelines/aad-npf-biologics-2019.md) — guideline co-author, author 8
 - [AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)](../tree/evidence/guidelines/aad-npf-systemic-nonbiologic-2020.md) — guideline co-author, author 3
+### Practice and industry ties
+- **NPI 1447631619** (M.D., Dermatology, Columbia, SC). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1447631619), checked 2026-11-16

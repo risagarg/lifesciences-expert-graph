@@ -1,21 +1,44 @@
 ---
 name: Bruce E. Strober
 type: person
-aliases: ["Strober BE", "Bruce Strober"]
+aliases:
+- Strober BE
+- Bruce Strober
 affiliations:
-  - text: "International Psoriasis Council, President"
-    as_of: 2026
-    source: evidence/conferences/aad-annual-meeting-2026
-    org: organizations/professional-societies/international-psoriasis-council
-  - text: "Department of Dermatology, Yale University School of Medicine, New Haven, and Central Connecticut Dermatology Research, Cromwell, Connecticut"
-    as_of: 2023
-    source: evidence/trials/poetyk-pso-1
+- text: International Psoriasis Council, President
+  as_of: 2026
+  source: evidence/conferences/aad-annual-meeting-2026
+  org: organizations/professional-societies/international-psoriasis-council
+- text: Department of Dermatology, Yale University School of Medicine, New Haven, and Central Connecticut Dermatology Research, Cromwell, Connecticut
+  as_of: 2023
+  source: evidence/trials/poetyk-pso-1
 evidence:
-  - {node: evidence/guidelines/aad-npf-biologics-2019, role: guideline co-author, author_position: 2}
-  - {node: evidence/guidelines/aad-npf-systemic-nonbiologic-2020, role: guideline co-author, author_position: 29}
-  - {node: evidence/trials/poetyk-pso-1, role: trial publication author, author_position: 5}
-  - {node: evidence/conferences/aad-annual-meeting-2026, role: presenter, detail: "Psoriasis: Modern Therapeutic Approaches (panel)", covers: [therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis]}
-  - {node: evidence/conferences/aad-annual-meeting-2026, role: presenter, detail: "Treatment of hand and foot psoriasis", covers: [therapeutic-areas/immunology/dermatology/psoriasis]}
+- node: evidence/guidelines/aad-npf-biologics-2019
+  role: guideline co-author
+  author_position: 2
+- node: evidence/guidelines/aad-npf-systemic-nonbiologic-2020
+  role: guideline co-author
+  author_position: 29
+- node: evidence/trials/poetyk-pso-1
+  role: trial publication author
+  author_position: 5
+- node: evidence/conferences/aad-annual-meeting-2026
+  role: presenter
+  detail: 'Psoriasis: Modern Therapeutic Approaches (panel)'
+  covers:
+  - therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis
+- node: evidence/conferences/aad-annual-meeting-2026
+  role: presenter
+  detail: Treatment of hand and foot psoriasis
+  covers:
+  - therapeutic-areas/immunology/dermatology/psoriasis
+npi: '1619966652'
+npi_record:
+  credential: M.D.
+  taxonomy: Dermatology
+  practice: Cromwell, CT
+  checked: '2026-11-16'
+  url: https://npiregistry.cms.hhs.gov/provider-view/1619966652
 ---
 
 The same surname and first initial appear across these sources, so they are merged here. Confirm with an identifier such as ORCID or NPI.
@@ -40,6 +63,8 @@ The same surname and first initial appear across these sources, so they are merg
 - [POETYK PSO-1 (deucravacitinib, phase 3)](../tree/evidence/trials/poetyk-pso-1.md) — trial publication author, author 5
 - [AAD Annual Meeting 2026](../tree/evidence/conferences/aad-annual-meeting-2026.md) — presenter, Psoriasis: Modern Therapeutic Approaches (panel)
 - [AAD Annual Meeting 2026](../tree/evidence/conferences/aad-annual-meeting-2026.md) — presenter, Treatment of hand and foot psoriasis
+### Practice and industry ties
+- **NPI 1619966652** (M.D., Dermatology, Cromwell, CT). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1619966652), checked 2026-11-16
 ### Affiliations
 - International Psoriasis Council, President (2026) → [International Psoriasis Council (IPC)](../tree/organizations/professional-societies/international-psoriasis-council.md)
 - Department of Dermatology, Yale University School of Medicine, New Haven, and Central Connecticut Dermatology Research, Cromwell, Connecticut (2023)

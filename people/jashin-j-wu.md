@@ -1,10 +1,22 @@
 ---
 name: Jashin J. Wu
 type: person
-aliases: ["Wu JJ"]
+aliases:
+- Wu JJ
 evidence:
-  - {node: evidence/guidelines/aad-npf-biologics-2019, role: guideline co-author, author_position: 30}
-  - {node: evidence/guidelines/aad-npf-systemic-nonbiologic-2020, role: guideline co-author, author_position: 32}
+- node: evidence/guidelines/aad-npf-biologics-2019
+  role: guideline co-author
+  author_position: 30
+- node: evidence/guidelines/aad-npf-systemic-nonbiologic-2020
+  role: guideline co-author
+  author_position: 32
+npi: '1407953102'
+npi_record:
+  credential: M.D.
+  taxonomy: Dermatology
+  practice: Corona, CA
+  checked: '2026-11-16'
+  url: https://npiregistry.cms.hhs.gov/provider-view/1407953102
 ---
 
 The same surname and first initial appear across these sources, so they are merged here. Confirm with an identifier such as ORCID or NPI.
@@ -23,3 +35,5 @@ The same surname and first initial appear across these sources, so they are merg
 ### Evidence
 - [AAD-NPF psoriasis guidelines - biologics (2019)](../tree/evidence/guidelines/aad-npf-biologics-2019.md) — guideline co-author, author 30
 - [AAD-NPF psoriasis guidelines - systemic nonbiologic therapies (2020)](../tree/evidence/guidelines/aad-npf-systemic-nonbiologic-2020.md) — guideline co-author, author 32
+### Practice and industry ties
+- **NPI 1407953102** (M.D., Dermatology, Corona, CA). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1407953102), checked 2026-11-16

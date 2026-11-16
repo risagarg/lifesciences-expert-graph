@@ -13,12 +13,12 @@ summary: Pharmacy and medical directors, PBM staff and formulary committee membe
 ### Experts on Payers and market access (10)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
-- **[Joseph Merola](../../people/joseph-merola.md)** (3 sources · last seen 2026)
+- **[Joseph Merola](../../people/joseph-merola.md)** (5 sources · last seen 2026)
+  - outside reviewer, clinical expert reviewer · ICER: Targeted Immunomodulators for Plaque Psoriasis (2018 update)
+- **[Alexa B. Kimball](../../people/alexa-b-kimball.md)** (2 sources · last seen 2026)
   - outside reviewer, clinical expert reviewer · ICER: Targeted Immunomodulators for Plaque Psoriasis (2018 update)
 - **[Leah McCormick Howard](../../people/leah-mccormick-howard.md)** (2 sources · last seen 2026)
   - outside reviewer, then NPF Chief Operating Officer · ICER: Targeted Immunomodulators for Plaque Psoriasis (2018 update)
-- **[Alexa B. Kimball](../../people/alexa-b-kimball.md)** (1 source · last seen 2018)
-  - outside reviewer, clinical expert reviewer · ICER: Targeted Immunomodulators for Plaque Psoriasis (2018 update)
 - **[Bram Ramaekers](../../people/bram-ramaekers.md)** (1 source · last seen 2018)
   - outside reviewer, health economics reviewer · ICER: Targeted Immunomodulators for Plaque Psoriasis (2018 update)
 - **[Daniel A. Ollendorf](../../people/daniel-a-ollendorf.md)** (1 source · last seen 2018)

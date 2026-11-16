@@ -25,15 +25,15 @@ A major US dermatology meeting. Listed here: faculty of the Psoriasis Update 202
 ### Experts on Maui Derm Hawaii 2026 (6)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
+- **[Philip Mease](../../../people/philip-mease.md)** (6 sources · last seen 2026)
+  - panelist, Psoriasis Update 2026 (psoriasis and psoriatic arthritis) · Maui Derm Hawaii 2026
 - **[Linda Stein Gold](../../../people/l-gold.md)** (5 sources · last seen 2026)
   - panelist, Psoriasis Update 2026 (psoriasis and psoriatic arthritis) · Maui Derm Hawaii 2026
 - **[Kenneth B. Gordon](../../../people/kenneth-b-gordon.md)** (4 sources · last seen 2026)
   - panelist, Psoriasis Update 2026 (psoriasis and psoriatic arthritis) · Maui Derm Hawaii 2026
-- **[Philip Mease](../../../people/philip-mease.md)** (3 sources · last seen 2026)
-  - panelist, Psoriasis Update 2026 (psoriasis and psoriatic arthritis) · Maui Derm Hawaii 2026
 - **[E. James Song](../../../people/e-james-song.md)** (2 sources · last seen 2026)
   - panelist, Psoriasis Update 2026 (psoriasis and psoriatic arthritis) · Maui Derm Hawaii 2026
-- **[Lawrence Eichenfield](../../../people/lawrence-eichenfield.md)** (1 source · last seen 2026)
+- **[Lawrence Eichenfield](../../../people/lawrence-eichenfield.md)** (2 sources · last seen 2026)
   - panelist, Atopic Dermatitis and Pruritus 2026 · Maui Derm Hawaii 2026
 - **[Raj Chovatiya](../../../people/raj-chovatiya.md)** (1 source · last seen 2026)
   - panelist, Atopic Dermatitis and Pruritus 2026 · Maui Derm Hawaii 2026

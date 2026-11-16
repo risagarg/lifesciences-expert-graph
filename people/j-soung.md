@@ -1,16 +1,40 @@
 ---
 name: Jennifer Soung
 type: person
-aliases: ["J. Soung"]
+aliases:
+- J. Soung
 affiliations:
-  - text: "Director of Clinical Research, Southern California Dermatology"
-    as_of: 2025
-    source: evidence/conferences/eadv-congress-2025
+- text: Director of Clinical Research, Southern California Dermatology
+  as_of: 2025
+  source: evidence/conferences/eadv-congress-2025
 evidence:
-  - {node: evidence/trials/iconic-lead, role: trial publication author, author_position: 2}
-  - {node: evidence/conferences/aad-annual-meeting-2026, role: presenter, detail: "ICONIC-LEAD (icotrokinra)", covers: [therapeutic-areas/immunology/mechanisms/il-23-pathway/icotrokinra, therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis]}
-  - {node: evidence/conferences/aad-annual-meeting-2026, role: presenter, detail: "Psoriasis: Modern Therapeutic Approaches (panel)", covers: [therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis]}
-  - {node: evidence/conferences/eadv-congress-2025, role: presenter, detail: "late-breaker: ICONIC-LEAD 52-week data (icotrokinra)", covers: [therapeutic-areas/immunology/mechanisms/il-23-pathway/icotrokinra, therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis]}
+- node: evidence/trials/iconic-lead
+  role: trial publication author
+  author_position: 2
+- node: evidence/conferences/aad-annual-meeting-2026
+  role: presenter
+  detail: ICONIC-LEAD (icotrokinra)
+  covers:
+  - therapeutic-areas/immunology/mechanisms/il-23-pathway/icotrokinra
+  - therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis
+- node: evidence/conferences/aad-annual-meeting-2026
+  role: presenter
+  detail: 'Psoriasis: Modern Therapeutic Approaches (panel)'
+  covers:
+  - therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis
+- node: evidence/conferences/eadv-congress-2025
+  role: presenter
+  detail: 'late-breaker: ICONIC-LEAD 52-week data (icotrokinra)'
+  covers:
+  - therapeutic-areas/immunology/mechanisms/il-23-pathway/icotrokinra
+  - therapeutic-areas/immunology/dermatology/psoriasis/plaque-psoriasis
+npi: '1346408226'
+npi_record:
+  credential: M.D.
+  taxonomy: Dermatology
+  practice: Santa Ana, CA
+  checked: '2026-11-16'
+  url: https://npiregistry.cms.hhs.gov/provider-view/1346408226
 ---
 
 Full name from AAD 2026, where Jennifer Soung presented ICONIC-LEAD, the trial J. Soung is second author on.
@@ -28,5 +52,7 @@ Full name from AAD 2026, where Jennifer Soung presented ICONIC-LEAD, the trial J
 - [AAD Annual Meeting 2026](../tree/evidence/conferences/aad-annual-meeting-2026.md) — presenter, ICONIC-LEAD (icotrokinra)
 - [AAD Annual Meeting 2026](../tree/evidence/conferences/aad-annual-meeting-2026.md) — presenter, Psoriasis: Modern Therapeutic Approaches (panel)
 - [EADV Congress 2025](../tree/evidence/conferences/eadv-congress-2025.md) — presenter, late-breaker: ICONIC-LEAD 52-week data (icotrokinra)
+### Practice and industry ties
+- **NPI 1346408226** (M.D., Dermatology, Santa Ana, CA). [NPI Registry](https://npiregistry.cms.hhs.gov/provider-view/1346408226), checked 2026-11-16
 ### Affiliations
 - Director of Clinical Research, Southern California Dermatology (2025)

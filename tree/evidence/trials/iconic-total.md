@@ -24,7 +24,7 @@ Only the first three authors are listed in the source, so only they are linked h
 ### Experts on ICONIC-TOTAL (icotrokinra, phase 3) (3)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
-- **[Robert Bissonnette](../../../people/r-bissonnette.md)** (4 sources · last seen 2025)
+- **[Robert Bissonnette](../../../people/r-bissonnette.md)** (26 sources · last seen 2025)
   - trial publication author, author 3 · ICONIC-TOTAL (icotrokinra, phase 3)
 - **[Melinda Gooderham](../../../people/melinda-gooderham.md)** (3 sources · last seen 2026)
   - trial publication author, author 1 · ICONIC-TOTAL (icotrokinra, phase 3)

@@ -18,33 +18,400 @@ summary: Chronic weight management in adults with obesity, or overweight with a 
 - ← in development for · [Retatrutide](mechanisms/incretin-and-amylin/retatrutide.md)
 - ← indicated for · [Semaglutide](mechanisms/incretin-and-amylin/semaglutide.md)
 - ← indicated for · [Tirzepatide](mechanisms/incretin-and-amylin/tirzepatide.md)
-### Experts on Obesity (12)
+### Experts on Obesity (48)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
+- **[Samuel Klein](../../../people/samuel-klein.md)** (28 sources · last seen 2025 · auto, not reviewed)
+  - ClinicalTrials.gov NCT00823381 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02706288 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01104220 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02018237 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01768793 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02706262 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01536197 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00981500 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03091725 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00079547 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00262964 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00771901 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04321395 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04131166 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00143962 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00771108 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01133210 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05829239 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01299519 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01931527 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01228968 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03111953 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT07097506 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00143936 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02207777 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT07091500 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01184170 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00940537 · PRINCIPAL_INVESTIGATOR
+- **[Arne Astrup](../../../people/arne-astrup.md)** (27 sources · last seen 2023 · auto, not reviewed)
+  - ClinicalTrials.gov NCT01198431 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01433120 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01101633 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02438059 · STUDY_DIRECTOR
+  - ClinicalTrials.gov NCT01561131 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05857319 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT00464035 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00274729 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00324090 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02185638 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01913678 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01622101 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01849705 · STUDY_DIRECTOR
+  - ClinicalTrials.gov NCT00259233 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01240018 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01561235 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01622114 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01133964 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00953004 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04156165 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01231178 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00259259 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01320228 · STUDY_DIRECTOR
+  - ClinicalTrials.gov NCT01317251 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00259246 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01677273 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00611416 · STUDY_CHAIR
+- **[Magnus Strømmen](../../../people/magnus-strmmen.md)** (25 sources · last seen 2018 · auto, not reviewed)
+  - ClinicalTrials.gov NCT03460353 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03460366 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03449472 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03440177 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03476551 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03497143 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03538457 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03449485 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02904291 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03532477 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03519906 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03460314 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03519893 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03460210 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03448783 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03460379 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03476603 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03497156 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03497169 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03476538 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03535376 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03460327 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03476525 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03440190 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03476577 · PRINCIPAL_INVESTIGATOR
+- **[Jack A Yanovski](../../../people/jack-a-yanovski.md)** (21 sources · last seen 2021 · auto, not reviewed)
+  - ClinicalTrials.gov NCT01517048 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00758108 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01425905 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00005669 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01237041 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05017571 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04883346 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02153983 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02977403 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00030238 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00001522 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00001723 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00263536 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01851421 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00266500 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03223649 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00320177 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01888939 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00680979 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00459992 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00631644 · PRINCIPAL_INVESTIGATOR
+- **[David Meeker](../../../people/david-meeker.md)** (20 sources · last seen 2025 · auto, not reviewed)
+  - ClinicalTrials.gov NCT06760546 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT05774756 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT02849977 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT06239116 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT03746522 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT04725240 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT03013543 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT05093634 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT02896192 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT07156578 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT06772597 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT01749137 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT04966741 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT04963231 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT05194124 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT03651765 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT03287960 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT06046443 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT06596135 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT02041195 · STUDY_CHAIR
+- **[Christoph Beglinger](../../../people/christoph-beglinger.md)** (17 sources · last seen 2017 · auto, not reviewed)
+  - ClinicalTrials.gov NCT02563847 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02589587 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02824614 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT02956369 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT02956356 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT02881697 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT02821923 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT02682173 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02902224 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT02020395 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02563119 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02902198 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT02823249 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT01851616 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02589613 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT01456572 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01875575 · PRINCIPAL_INVESTIGATOR
+- **[Kerri Boutelle](../../../people/kerri-boutelle.md)** (16 sources · last seen 2024 · auto, not reviewed)
+  - ClinicalTrials.gov NCT03914508 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01145833 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05437406 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01442142 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03446729 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05004883 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03678766 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01197443 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01708785 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03254576 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02516839 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02467036 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03674944 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05741840 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03096132 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06207110 · PRINCIPAL_INVESTIGATOR
+- **[John L Sievenpiper](../../../people/john-l-sievenpiper.md)** (15 sources · last seen 2019 · auto, not reviewed)
+  - ClinicalTrials.gov NCT01594567 · STUDY_DIRECTOR
+  - ClinicalTrials.gov NCT01608607 · STUDY_DIRECTOR
+  - ClinicalTrials.gov NCT03543644 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02702440 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03542370 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01630980 · STUDY_DIRECTOR
+  - ClinicalTrials.gov NCT02557022 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01605422 · STUDY_DIRECTOR
+  - ClinicalTrials.gov NCT02702479 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01608620 · STUDY_DIRECTOR
+  - ClinicalTrials.gov NCT02037321 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02879500 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04245826 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01363791 · STUDY_DIRECTOR
+  - ClinicalTrials.gov NCT02654535 · PRINCIPAL_INVESTIGATOR
+- **[David S Ludwig](../../../people/david-s-ludwig.md)** (14 sources · last seen 2022 · auto, not reviewed)
+  - ClinicalTrials.gov NCT00364403 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00121706 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01044134 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00381160 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05464186 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00620152 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03394664 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00149695 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01303757 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00141076 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00130299 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01064778 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02068885 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00315354 · PRINCIPAL_INVESTIGATOR
+- **[Hollie A Raynor](../../../people/hollie-a-raynor.md)** (14 sources · last seen 2021 · auto, not reviewed)
+  - ClinicalTrials.gov NCT01096719 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00200265 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00200213 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01849627 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01399177 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00200239 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01142206 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01682317 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00259324 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00200291 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00941447 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT00944099 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT00994487 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05028205 · PRINCIPAL_INVESTIGATOR
+- **[Marie-Pierre St-Onge](../../../people/marie-pierre-st-onge.md)** (13 sources · last seen 2023 · auto, not reviewed)
+  - ClinicalTrials.gov NCT02347007 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00529919 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02346994 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01952977 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00935402 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02960776 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03663530 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02835261 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01720589 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02770118 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00932750 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05880758 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02347020 · PRINCIPAL_INVESTIGATOR
+- **[Sonia Caprio](../../../people/sonia-caprio.md)** (13 sources · last seen 2023 · auto, not reviewed)
+  - ClinicalTrials.gov NCT01725035 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01966627 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00585299 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01967849 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01901978 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02004561 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02395003 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00409422 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01364350 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05067621 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00413335 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00536250 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01808846 · PRINCIPAL_INVESTIGATOR
+- **[Harvey Anderson](../../../people/harvey-anderson.md)** (12 sources · last seen 2014 · auto, not reviewed)
+  - ClinicalTrials.gov NCT02619461 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01025557 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01272427 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00988182 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01298154 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02147496 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01996514 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00988689 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00741923 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00988377 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01025687 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00980941 · PRINCIPAL_INVESTIGATOR
+- **[Jøran Hjelmesæth](../../../people/jran-hjelmesth.md)** (12 sources · last seen 2022 · auto, not reviewed)
+  - ClinicalTrials.gov NCT00273104 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05207917 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01403558 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02311738 · STUDY_DIRECTOR
+  - ClinicalTrials.gov NCT00464984 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT00626964 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00923819 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT03776552 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01110096 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT01778738 · STUDY_CHAIR
+  - ClinicalTrials.gov NCT00779571 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02386917 · PRINCIPAL_INVESTIGATOR
+- **[Ian A Macdonald](../../../people/ian-a-macdonald.md)** (11 sources · last seen 2018 · auto, not reviewed)
+  - ClinicalTrials.gov NCT02412774 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03726762 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01927926 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02621086 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02582606 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01201603 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02399280 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01350843 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02052076 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02398253 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01201590 · PRINCIPAL_INVESTIGATOR
+- **[Lawrence J Cheskin](../../../people/lawrence-j-cheskin.md)** (11 sources · last seen 2009 · auto, not reviewed)
+  - ClinicalTrials.gov NCT01177085 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00198965 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00198913 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03321565 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00198783 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00198952 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00831194 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00198809 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00198770 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00198757 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00198744 · PRINCIPAL_INVESTIGATOR
+- **[Rena R Wing](../../../people/rena-r-wing.md)** (11 sources · last seen 2018 · auto, not reviewed)
+  - ClinicalTrials.gov NCT03488212 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01999244 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00792870 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00200304 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01760486 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01717352 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01241578 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00249340 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00488228 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00716027 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01560130 · PRINCIPAL_INVESTIGATOR
+- **[Yves BOIRIE](../../../people/yves-boirie.md)** (11 sources · last seen 2025 · auto, not reviewed)
+  - ClinicalTrials.gov NCT01249326 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01114789 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT04050930 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03394469 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06880432 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT07120685 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03466359 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03742622 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03669731 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT03197857 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT05365685 · PRINCIPAL_INVESTIGATOR
+- **[Bettina Mittendorfer](../../../people/bettina-mittendorfer.md)** (10 sources · last seen 2027 · auto, not reviewed)
+  - ClinicalTrials.gov NCT07581860 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06571487 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01538836 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06286761 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06571500 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02994459 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06571474 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT06335771 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00805207 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT07083557 · PRINCIPAL_INVESTIGATOR
+- **[Steven R Smith](../../../people/steven-r-smith.md)** (10 sources · last seen 2017 · auto, not reviewed)
+  - ClinicalTrials.gov NCT00565149 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02211651 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01745471 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02939703 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00377975 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00412269 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT01616082 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00704197 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT00453557 · PRINCIPAL_INVESTIGATOR
+  - ClinicalTrials.gov NCT02728635 · PRINCIPAL_INVESTIGATOR
+- **[Deborah Horn](../../../people/deborah-horn.md)** (2 sources · last seen 2026)
+  - speaker, Lilly corporate session: orforglipron phase 3 (ATTAIN-2) · ObesityWeek 2025
+  - poster presenter, SURMOUNT-5 post hoc, weight reduction and weight cycling · ObesityWeek 2025
+  - PubMed obesity:name:horn|deborah b · 10 papers
+- **[Carel W Le Roux](../../../people/carel-w-le-roux.md)** (2 sources · last seen 2026 · auto, not reviewed)
+  - PubMed obesity:orcid:0000-0001-5521-5445 · 17 papers
+  - PubMed obesity:name:le roux|carel w · 15 papers
+- **[Ildiko Lingvay](../../../people/ildiko-lingvay.md)** (2 sources · last seen 2026 · auto, not reviewed)
+  - PubMed obesity:name:lingvay|ildiko · 9 papers
+  - PubMed obesity:orcid:0000-0001-7006-7401 · 8 papers
+- **[Sean Wharton](../../../people/sean-wharton.md)** (2 sources · last seen 2026)
+  - speaker, Lilly corporate session: orforglipron phase 3 (ATTAIN-2) · ObesityWeek 2025
+  - PubMed obesity:name:wharton|sean · 15 papers
+- **[Julio Rosenstock](../../../people/julio-rosenstock.md)** (2 sources · last seen 2026)
+  - PubMed obesity:name:rosenstock|julio · 8 papers
 - **[Alpana Shukla](../../../people/alpana-shukla.md)** (1 source · last seen 2025)
   - presenter, SURMOUNT-5, quality of life with tirzepatide vs semaglutide · ObesityWeek 2025
   - speaker, Lilly corporate session: orforglipron phase 3 (ATTAIN-2) · ObesityWeek 2025
-- **[Deborah Horn](../../../people/deborah-horn.md)** (1 source · last seen 2025)
-  - speaker, Lilly corporate session: orforglipron phase 3 (ATTAIN-2) · ObesityWeek 2025
-  - poster presenter, SURMOUNT-5 post hoc, weight reduction and weight cycling · ObesityWeek 2025
 - **[Stanley Hsia](../../../people/stanley-hsia.md)** (1 source · last seen 2025)
   - speaker, Lilly corporate session: eloralintide phase 2 in obesity · ObesityWeek 2025
   - presenter, mazdutide phase 2 dose-finding study in obesity · ObesityWeek 2025
+- **[Aaron S Kelly](../../../people/aaron-s-kelly.md)** (1 source · last seen 2025 · auto, not reviewed)
+  - PubMed obesity:name:kelly|aaron s · 13 papers
+- **[Adam Stefanski](../../../people/adam-stefanski.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed obesity:name:stefanski|adam · 13 papers
 - **[Ania Jastreboff](../../../people/ania-jastreboff.md)** (1 source · last seen 2026)
   - presenter, TRIUMPH-1, retatrutide in obesity (lead investigator) · ADA Scientific Sessions 2026
 - **[Ariana Chao](../../../people/ariana-chao.md)** (1 source · last seen 2025)
   - poster presenter, SURMOUNT-2, physical function and inflammatory biomarkers with tirzepatide · ObesityWeek 2025
+- **[Clare J Lee](../../../people/clare-j-lee.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed obesity:name:lee|clare j · 9 papers
 - **[Donna Ryan](../../../people/donna-ryan.md)** (1 source · last seen 2025)
   - speaker, Lilly corporate session: orforglipron phase 3 (ATTAIN-2) · ObesityWeek 2025
 - **[Harold Bays](../../../people/harold-bays.md)** (1 source · last seen 2025)
   - speaker, Lilly corporate session: eloralintide phase 2 in obesity · ObesityWeek 2025
 - **[Joe Nadglowski](../../../people/joe-nadglowski.md)** (1 source · last seen 2026)
   - President and CEO, Obesity Action Coalition, quoted on orforglipron's approval, April 2026 · Patient organization leaders
+- **[Julia P Dunn](../../../people/julia-p-dunn.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed obesity:name:dunn|julia p · 9 papers
 - **[Liana Billings](../../../people/liana-billings.md)** (1 source · last seen 2025)
   - speaker, Lilly corporate session: eloralintide phase 2 in obesity · ObesityWeek 2025
+- **[Linong Ji](../../../people/linong-ji.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed obesity:name:ji|linong · 10 papers
+- **[Louis J Aronne](../../../people/louis-j-aronne.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed obesity:name:aronne|louis j · 11 papers
+- **[Luca Busetto](../../../people/luca-busetto.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed obesity:name:busetto|luca · 8 papers
+- **[Melanie J Davies](../../../people/melanie-j-davies.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed obesity:name:davies|melanie j · 11 papers
+- **[Nadia N Ahmad](../../../people/nadia-n-ahmad.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed obesity:name:ahmad|nadia n · 9 papers
 - **[Nasreen Alfaris](../../../people/nasreen-alfaris.md)** (1 source · last seen 2025)
   - speaker, Lilly corporate session: orforglipron phase 3 (ATTAIN-2) · ObesityWeek 2025
+- **[Paolo Sbraccia](../../../people/paolo-sbraccia.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed obesity:name:sbraccia|paolo · 8 papers
+- **[Robert F Kushner](../../../people/robert-f-kushner.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed obesity:name:kushner|robert f · 9 papers
 - **[Rodolfo Galindo](../../../people/rodolfo-galindo.md)** (1 source · last seen 2025)
   - poster presenter, SURMOUNT-5 post hoc, tirzepatide vs semaglutide in prediabetes · ObesityWeek 2025
-- **[Sean Wharton](../../../people/sean-wharton.md)** (1 source · last seen 2025)
-  - speaker, Lilly corporate session: orforglipron phase 3 (ATTAIN-2) · ObesityWeek 2025
+- **[Theresa Hunter Gibble](../../../people/theresa-hunter-gibble.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed obesity:orcid:0000-0001-8412-9175 · 8 papers
+- **[W Timothy Garvey](../../../people/w-timothy-garvey.md)** (1 source · last seen 2026 · auto, not reviewed)
+  - PubMed obesity:name:garvey|w timothy · 8 papers

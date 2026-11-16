@@ -21,9 +21,9 @@ sources:
 ### Experts on Ixekizumab (2)
 Ranked by number of independent sources. Under each name is why they are listed here.
 
-- **[Joseph Merola](../../../../../people/joseph-merola.md)** (3 sources · last seen 2026)
+- **[Joseph Merola](../../../../../people/joseph-merola.md)** (5 sources · last seen 2026)
   - presenter, Therapeutic Hotline: what's new in psoriasis biologics (icotrokinra; ixekizumab with tirzepatide) · AAD Annual Meeting 2026
-- **[Laura C. Coates](../../../../../people/laura-c-coates.md)** (1 source · last seen 2026)
+- **[Laura C. Coates](../../../../../people/laura-c-coates.md)** (4 sources · last seen 2026)
   - interviewed on new data, TOGETHER-PsA, ixekizumab with tirzepatide in PsA with obesity or overweight · EULAR Congress 2026
 ### Sources
 - [Drugs.com: new drugs for plaque psoriasis](https://drugs.com/medical-answers/new-drugs-treatment-plaque-psoriasis-3511670)
