@@ -1,0 +1,385 @@
+{
+  "node": "evidence/conferences/maui-derm-2026",
+  "kind": "conference",
+  "sources": [
+    {
+      "url": "https://www.consultantlive.com/view/what-to-expect-at-2026-maui-derm-conference",
+      "title": "ConsultantLive: what to expect at 2026 Maui Derm",
+      "ok": true,
+      "status": 200,
+      "method": "http",
+      "error": "",
+      "people": [
+        {
+          "name": "Hilary Baldwin",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Lawrence Eichenfield, MD; Julie Harper, MD; Hilary Baldwin, MD"
+          ]
+        },
+        {
+          "name": "Neal Bhatia",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Ted Rosen, MD; Neal Bhatia, MD"
+          ]
+        },
+        {
+          "name": "Raj Chovatiya",
+          "credentials": "MD, PhD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Lawrence Eichenfield, MD; Raj Chovatiya, MD, PhD"
+          ]
+        },
+        {
+          "name": "Dawn Eichenfield",
+          "credentials": "MD, PhD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Dawn Eichenfield, MD, PhD; Sharon Fallon Friedlander, MD; Ilona Frieden, MD; James Treat, MD; Vikash Oza, MD"
+          ]
+        },
+        {
+          "name": "Lawrence Eichenfield",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Lawrence Eichenfield, MD; Julie Harper, MD; Hilary Baldwin, MD",
+            "Lawrence Eichenfield, MD; Raj Chovatiya, MD, PhD"
+          ]
+        },
+        {
+          "name": "Ilona Frieden",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Dawn Eichenfield, MD, PhD; Sharon Fallon Friedlander, MD; Ilona Frieden, MD; James Treat, MD; Vikash Oza, MD",
+            "Elizabeth Seiverling, MD; Ilona Frieden, MD; Elena Hawryluk, MD, PhD; Ashfaq Marghoob, MD"
+          ]
+        },
+        {
+          "name": "Sheila Fallon Friedlander",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Hensin Tsao, MD, PhD; Sheila Fallon Friedlander, MD"
+          ]
+        },
+        {
+          "name": "Sharon Fallon Friedlander",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Dawn Eichenfield, MD, PhD; Sharon Fallon Friedlander, MD; Ilona Frieden, MD; James Treat, MD; Vikash Oza, MD"
+          ]
+        },
+        {
+          "name": "Linda Stein-Gold",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Linda Stein-Gold, MD; Kenneth Gordon, MD; Eingun James Song, MD; Philip Mease, MD"
+          ]
+        },
+        {
+          "name": "Kenneth Gordon",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Linda Stein-Gold, MD; Kenneth Gordon, MD; Eingun James Song, MD; Philip Mease, MD"
+          ]
+        },
+        {
+          "name": "Pearl Grimes",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Pearl Grimes, MD; John Harris, MD, PhD"
+          ]
+        },
+        {
+          "name": "Julie Harper",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Lawrence Eichenfield, MD; Julie Harper, MD; Hilary Baldwin, MD"
+          ]
+        },
+        {
+          "name": "John Harris",
+          "credentials": "MD, PhD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Pearl Grimes, MD; John Harris, MD, PhD"
+          ]
+        },
+        {
+          "name": "Elena Hawryluk",
+          "credentials": "MD, PhD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Elizabeth Seiverling, MD; Ilona Frieden, MD; Elena Hawryluk, MD, PhD; Ashfaq Marghoob, MD"
+          ]
+        },
+        {
+          "name": "Drew Kuraitis",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "presenter",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Drew Kuraitis, MD"
+          ]
+        },
+        {
+          "name": "Jay Lieberman",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Allergic Reactions Do Not Blunt Sublingual Epinephrine: Jay Lieberman, MD"
+          ]
+        },
+        {
+          "name": "Walter Liszewski",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "presenter",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Walter Liszewski, MD"
+          ]
+        },
+        {
+          "name": "Ashfaq Marghoob",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Elizabeth Seiverling, MD; Ilona Frieden, MD; Elena Hawryluk, MD, PhD; Ashfaq Marghoob, MD"
+          ]
+        },
+        {
+          "name": "George Martin",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Ted Rosen, MD; George Martin, MD; Chrysalyne Schmults, MD; Paul Nghiem, MD, PhD"
+          ]
+        },
+        {
+          "name": "Philip Mease",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Linda Stein-Gold, MD; Kenneth Gordon, MD; Eingun James Song, MD; Philip Mease, MD"
+          ]
+        },
+        {
+          "name": "Paul Nghiem",
+          "credentials": "MD, PhD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Ted Rosen, MD; George Martin, MD; Chrysalyne Schmults, MD; Paul Nghiem, MD, PhD"
+          ]
+        },
+        {
+          "name": "Vikash Oza",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Dawn Eichenfield, MD, PhD; Sharon Fallon Friedlander, MD; Ilona Frieden, MD; James Treat, MD; Vikash Oza, MD"
+          ]
+        },
+        {
+          "name": "Ted Rosen",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Ted Rosen, MD; Neal Bhatia, MD",
+            "Ted Rosen, MD; George Martin, MD; Chrysalyne Schmults, MD; Paul Nghiem, MD, PhD"
+          ]
+        },
+        {
+          "name": "Chrysalyne Schmults",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Ted Rosen, MD; George Martin, MD; Chrysalyne Schmults, MD; Paul Nghiem, MD, PhD"
+          ]
+        },
+        {
+          "name": "Elizabeth Seiverling",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Elizabeth Seiverling, MD; Ilona Frieden, MD; Elena Hawryluk, MD, PhD; Ashfaq Marghoob, MD"
+          ]
+        },
+        {
+          "name": "Eingun James Song",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Linda Stein-Gold, MD; Kenneth Gordon, MD; Eingun James Song, MD; Philip Mease, MD"
+          ]
+        },
+        {
+          "name": "James Treat",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Dawn Eichenfield, MD, PhD; Sharon Fallon Friedlander, MD; Ilona Frieden, MD; James Treat, MD; Vikash Oza, MD"
+          ]
+        },
+        {
+          "name": "Hensin Tsao",
+          "credentials": "MD, PhD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Hensin Tsao, MD, PhD; Sheila Fallon Friedlander, MD"
+          ]
+        }
+      ],
+      "llm_dropped_ungrounded": 0,
+      "chars": 6139
+    }
+  ]
+}

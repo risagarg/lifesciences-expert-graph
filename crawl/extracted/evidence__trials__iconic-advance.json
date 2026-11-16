@@ -1,0 +1,15 @@
+{
+  "node": "evidence/trials/iconic-advance",
+  "kind": "trial-publication",
+  "sources": [
+    {
+      "url": "https://www.jnjmedicalconnect.com/products/icotyde/pivotal-clinical-trial-publications",
+      "title": "J&J Medical Connect: pivotal trial publications",
+      "ok": false,
+      "status": 200,
+      "method": "http",
+      "error": "",
+      "people": []
+    }
+  ]
+}

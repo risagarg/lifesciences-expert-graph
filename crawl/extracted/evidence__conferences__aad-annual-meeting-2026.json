@@ -1,0 +1,432 @@
+{
+  "node": "evidence/conferences/aad-annual-meeting-2026",
+  "kind": "conference",
+  "sources": [
+    {
+      "url": "https://psoriasiscouncil.org/congress-reports/aad-26/",
+      "title": "International Psoriasis Council: AAD 2026 congress report",
+      "ok": true,
+      "status": 200,
+      "method": "http",
+      "error": "",
+      "people": [
+        {
+          "name": "Andrew Blauvelt",
+          "credentials": "MD, MBA",
+          "affiliation": "",
+          "role": "member",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Andrew Blauvelt, MD, MBA, IPC Board Member",
+            "Dr. Andrew Blauvelt presented 24-week phase 3 results for envudeucitinib, demonstrating high PASI 75 and PASI 90 response rates with continued improvement over time. Separation fr"
+          ]
+        },
+        {
+          "name": "IPC Councilor José-Manuel Carrascosa Carrillo",
+          "credentials": "MD, PhD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "IPC Councilor José-Manuel Carrascosa Carrillo, MD, PhD, on the BeNeBio trial and whether dose reduction fits an era focused on disease modification."
+          ]
+        },
+        {
+          "name": "Jeffrey Cohen",
+          "credentials": "MD, MPH",
+          "affiliation": "",
+          "role": "member",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Bruce Strober, MD, PhD, IPC President; Richard Langley, MD, IPC Councilor; Mona Shahriari, MD; Jeffrey Cohen, MD, MPH, IPC Councilor; Jennifer Soung, MD; Joel Gelfand, MD, MSCE, IPC Board Member; Kenneth Gordon, MD, IPC Councilor"
+          ]
+        },
+        {
+          "name": "Amy Paller di",
+          "credentials": "",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Dr. Amy Paller discussed pediatric TNF inhibitor–induced psoriasiform dermatitis, including prevalence ranges, clinical features, and diagnostic challenges. Presentations often"
+          ]
+        },
+        {
+          "name": "Gowri Kabbur di",
+          "credentials": "",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Dr. Gowri Kabbur discussed the management of psoriasis and atopic dermatitis in patients with current or prior malignancy, using a case-based approach. She emphasized prioritizing"
+          ]
+        },
+        {
+          "name": "Kilian Eyerich",
+          "credentials": "MD, PhD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Kilian Eyerich, MD, PhD, IPC Councilor"
+          ]
+        },
+        {
+          "name": "Joel Gelfand",
+          "credentials": "MD, MSCE",
+          "affiliation": "",
+          "role": "member",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "ent; Richard Langley, MD, IPC Councilor; Mona Shahriari, MD; Jeffrey Cohen, MD, MPH, IPC Councilor; Jennifer Soung, MD; Joel Gelfand, MD, MSCE, IPC Board Member; Kenneth Gordon, MD, IPC Councilor"
+          ]
+        },
+        {
+          "name": "Maria-Angeliki Gkini",
+          "credentials": "MD, MSc, PhD, FRCP",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Maria-Angeliki Gkini, MD, MSc, PhD, FRCP and Josep Riera, MD"
+          ]
+        },
+        {
+          "name": "Melinda Gooderham",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "presenter",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Melinda Gooderham, MD, IPC Councilor",
+            "Dr. Melinda Gooderham presented phase 3 results for zasocitinib, showing high PASI 75 and PASI 90 response rates and sustained efficacy through follow-up. Improvements in skin clear"
+          ]
+        },
+        {
+          "name": "Kenneth Gordon",
+          "credentials": "MD",
+          "affiliation": "Psoriasiform Reactions in Patients Receiving Treatments for Atopic Dermatitis & Prurigo Nodularis: Clinical Presentation",
+          "role": "member",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Kenneth Gordon, MD, IPC Councilor",
+            "Dr. Kenneth Gordon outlined a clinical approach to managing eczematous reactions in patients receiving biologic therapy, including diagnostic evaluation and treatment decision-ma",
+            "ona Shahriari, MD; Jeffrey Cohen, MD, MPH, IPC Councilor; Jennifer Soung, MD; Joel Gelfand, MD, MSCE, IPC Board Member; Kenneth Gordon, MD, IPC Councilor"
+          ]
+        },
+        {
+          "name": "Johann Gudjonsson",
+          "credentials": "MD, PhD",
+          "affiliation": "",
+          "role": "member",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Johann Gudjonsson, MD, PhD, IPC Board Member"
+          ]
+        },
+        {
+          "name": "Jason Hawkes",
+          "credentials": "MD, MS, FAAD",
+          "affiliation": "Eczematous Reactions in Patients Receiving Treatments for Psoriasis: Clinical Approach",
+          "role": "member",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Jason Hawkes, MD, MS, FAAD, IPC Councilor",
+            "Dr. Jason Hawkes reviewed eczematous reactions in patients receiving biologic therapies for psoriasis, including clinical presentation, terminology, and diagnostic challenges."
+          ]
+        },
+        {
+          "name": "Gowri Kabbur",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Gowri Kabbur, MD"
+          ]
+        },
+        {
+          "name": "Shawn G. Kwatra",
+          "credentials": "MD",
+          "affiliation": "Psoriasiform Reactions in Patients Receiving Treatments for Atopic Dermatitis & Prurigo Nodularis: Clinical Approach",
+          "role": "presenter",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Shawn G. Kwatra, MD",
+            "Dr. Shawn G. Kwatra presented on psoriasiform reactions associated with therapies for atopic dermatitis and prurigo nodularis, including incidence, clinical features, and time to"
+          ]
+        },
+        {
+          "name": "Richard Langley",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "member",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Bruce Strober, MD, PhD, IPC President; Richard Langley, MD, IPC Councilor; Mona Shahriari, MD; Jeffrey Cohen, MD, MPH, IPC Councilor; Jennifer Soung, MD; Joel Gelfand, MD, MSCE, IPC Board Member; Kenneth Gordon, MD, IP"
+          ]
+        },
+        {
+          "name": "Craig Leonardi",
+          "credentials": "",
+          "affiliation": "The International Psoriasis Council (IPC) remembers Dr. Craig Leonardi, founding member and former President, whose research shaped modern psoriasis treatment",
+          "role": "member",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Remembering Dr. Craig Leonardi",
+            "The International Psoriasis Council (IPC) remembers Dr. Craig Leonardi, founding member and former President, whose research shaped modern psoriasis treatment."
+          ]
+        },
+        {
+          "name": "Yael Anne Leshem",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Yael Anne Leshem, MD, MCR",
+            "Dr. Yael Anne Leshem reviewed the pathogenesis and management of psoriasiform reactions in atopic dermatitis, including the “flip-flop” phenomenon between AD and psoriasis phenotyp"
+          ]
+        },
+        {
+          "name": "Joseph Merola",
+          "credentials": "MD, MMSc",
+          "affiliation": "",
+          "role": "presenter",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Joseph Merola, MD, MMSc, IPC Councilor",
+            "Dr. Joseph Merola reviewed advances in psoriasis and psoriatic arthritis therapeutics, with a focus on interleukin-23 pathway agents, oral TYK2 inhibitors, and emerging long-act"
+          ]
+        },
+        {
+          "name": "Amy Paller",
+          "credentials": "MS, MD",
+          "affiliation": "",
+          "role": "member",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Amy Paller, MS, MD, IPC Board Member"
+          ]
+        },
+        {
+          "name": "IPC Board Member Amy Paller",
+          "credentials": "MS, MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Day campaign with four videos on pediatric psoriasis: Psoriasis Look-Alikes and Anti-TNF-α Induced Skin Eruptions with IPC Board Member Amy Paller, MS, MD; Conventional Therapies with IPC Councilor Mona El-Kalioby, MBBCh, MSc, MD; and Phototherapy in Pediatric Psoriasis with Fernando Valenzuela, MD. New Take Two"
+          ]
+        },
+        {
+          "name": "Lev Pavlovsky",
+          "credentials": "MD, PhD",
+          "affiliation": "Anti-TNF-α Induced Skin Eruptions in Patients with Inflammatory Bowel Disease: Presentation and Clinical Approach in Children",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Lev Pavlovsky, MD, PhD, IPC Councilor",
+            "Dr. Lev Pavlovsky reviewed anti-TNF–induced psoriasiform eruptions in patients with inflammatory bowel disease, including incidence, risk factors, and clinical presentation. Man"
+          ]
+        },
+        {
+          "name": "Andrew Pink",
+          "credentials": "PhD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Andrew Pink, PhD, IPC Councilor"
+          ]
+        },
+        {
+          "name": "Josep Riera",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Maria-Angeliki Gkini, MD, MSc, PhD, FRCP and Josep Riera, MD"
+          ]
+        },
+        {
+          "name": "Mona Shahriari",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "member",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Bruce Strober, MD, PhD, IPC President; Richard Langley, MD, IPC Councilor; Mona Shahriari, MD; Jeffrey Cohen, MD, MPH, IPC Councilor; Jennifer Soung, MD; Joel Gelfand, MD, MSCE, IPC Board Member; Kenneth Gordon, MD, IPC Councilor"
+          ]
+        },
+        {
+          "name": "Jennifer Soung",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "member",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "MD, PhD, IPC President; Richard Langley, MD, IPC Councilor; Mona Shahriari, MD; Jeffrey Cohen, MD, MPH, IPC Councilor; Jennifer Soung, MD; Joel Gelfand, MD, MSCE, IPC Board Member; Kenneth Gordon, MD, IPC Councilor"
+          ]
+        },
+        {
+          "name": "Bruce Strober",
+          "credentials": "MD, PhD",
+          "affiliation": "",
+          "role": "member",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Bruce Strober, MD, PhD, IPC President; Richard Langley, MD, IPC Councilor; Mona Shahriari, MD; Jeffrey Cohen, MD, MPH, IPC Councilor; Jennifer Soung, MD; Joel Gelfand, MD, MSCE, IPC",
+            "Bruce Strober, MD, PhD, IPC President",
+            "Dr. Bruce Strober reviewed the diagnosis and management of palmoplantar psoriasis and palmoplantar pustulosis, emphasizing the importance of accurate diagnosis. He discussed com"
+          ]
+        },
+        {
+          "name": "Fernando Valenzuela",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "member",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Conventional Therapies with IPC Councilor Mona El-Kalioby, MBBCh, MSc, MD; and Phototherapy in Pediatric Psoriasis with Fernando Valenzuela, MD. New Take Two videos will be featured each month, drawn from the Take Ten with IPC library and recordings from IPC symposia, with a link to the full presentati"
+          ]
+        }
+      ],
+      "llm_dropped_ungrounded": 0,
+      "chars": 18877
+    },
+    {
+      "url": "https://www.consultantlive.com/view/aad-2026-6-psoriasis-trials-to-know",
+      "title": "ConsultantLive: AAD 2026, 6 psoriasis trials to know",
+      "ok": true,
+      "status": 200,
+      "method": "http",
+      "error": "",
+      "people": [
+        {
+          "name": "Andrew Blauvelt",
+          "credentials": "MD, MBA",
+          "affiliation": "owner of Blauvelt Consulting, LLC, and principal investigator on the ONWARD program. Both ONWARD1 and ONWARD2 together enrolled more than 1700 adult patients li",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "ctive oral TYK2 inhibitor, demonstrating robust skin clearance in moderate-to-severe plaque psoriasis, was discussed by Andrew Blauvelt, MD, MBA, owner of Blauvelt Consulting, LLC, and principal investigator on the ONWARD program. Both ONWARD1 and ONWARD2 together enrolled more than 1700 adult patients"
+          ]
+        },
+        {
+          "name": "Melinda Gooderham",
+          "credentials": "MD",
+          "affiliation": "medical director of the SKiN Centre for Dermatology in Ontario, Canada, spoke about these key findings from the pair of pivotal phase 3 studies evaluating zasoc",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "re plaque psoriasis. The drug was shown to have a high level of skin clearance, a result typically seen with biologics. Melinda Gooderham, MD, medical director of the SKiN Centre for Dermatology in Ontario, Canada, spoke about these key findings from the pair of pivotal phase 3 studies evaluating zas"
+          ]
+        },
+        {
+          "name": "Jay Lieberman",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Allergic Reactions Do Not Blunt Sublingual Epinephrine: Jay Lieberman, MD"
+          ]
+        }
+      ],
+      "llm_dropped_ungrounded": 0,
+      "chars": 5405
+    }
+  ]
+}

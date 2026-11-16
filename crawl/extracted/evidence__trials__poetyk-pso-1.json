@@ -1,0 +1,15 @@
+{
+  "node": "evidence/trials/poetyk-pso-1",
+  "kind": "trial-publication",
+  "sources": [
+    {
+      "url": "https://git.lsit.ucsb.edu/publicdata/nih-gov/raw/branch/main/pubmed.ncbi.nlm.nih.gov/35820547/index.html",
+      "title": "PubMed 35820547 (mirror with affiliations)",
+      "ok": false,
+      "status": 200,
+      "method": "http",
+      "error": "",
+      "people": []
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "node": "evidence/conferences/obesityweek-2025",
+  "kind": "conference",
+  "sources": [
+    {
+      "url": "https://medical.lilly.com/us/science/conferences/obesity/ow2025",
+      "title": "Lilly Medical: ObesityWeek 2025 presentations",
+      "ok": false,
+      "status": 403,
+      "method": "http",
+      "error": "",
+      "people": []
+    }
+  ]
+}

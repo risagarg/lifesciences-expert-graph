@@ -1,0 +1,692 @@
+{
+  "node": "evidence/conferences/winter-clinical-hawaii-2026",
+  "kind": "conference",
+  "sources": [
+    {
+      "url": "https://d18uhdhjoz8by6.cloudfront.net/WCH_26_Digital_Agenda_v08_1bjs_66d17c71ee.pdf",
+      "title": "Winter Clinical Hawaii 2026 digital agenda (PDF)",
+      "ok": true,
+      "status": 200,
+      "method": "http",
+      "error": "",
+      "people": [
+        {
+          "name": "Glynis R. Ablon",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "chair",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Glynis R. Ablon, MD",
+            "Glynis Ablon, MD"
+          ]
+        },
+        {
+          "name": "Brandon L. Adler",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "chair",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Brandon L. Adler, MD"
+          ]
+        },
+        {
+          "name": "Prince Adotama",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "chair",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Prince Adotama, MD"
+          ]
+        },
+        {
+          "name": "Soraya Azzawi",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Soraya Azzawi, MD"
+          ]
+        },
+        {
+          "name": "Brian Berman",
+          "credentials": "MD, PhD",
+          "affiliation": "",
+          "role": "chair",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Brian Berman, MD, PhD"
+          ]
+        },
+        {
+          "name": "Neal D. Bhatia",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "chair",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Neal D. Bhatia, MD ~ Chair",
+            "Neal Bhatia, MD ~ Chair",
+            "Neal D. Bhatia, MD"
+          ]
+        },
+        {
+          "name": "Christopher G. Bunick",
+          "credentials": "MD, PhD",
+          "affiliation": "",
+          "role": "chair",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Christopher G. Bunick, MD, PhD"
+          ]
+        },
+        {
+          "name": "Joshua G. Burshtein",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Joshua G. Burshtein, MD"
+          ]
+        },
+        {
+          "name": "Roger I. Ceilley",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "chair",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Roger I. Ceilley, MD"
+          ]
+        },
+        {
+          "name": "Clay J. Cockerell",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Clay J. Cockerell, MD, JD, MBA"
+          ]
+        },
+        {
+          "name": "Brett M. Coldiron",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "chair",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Brett M. Coldiron, MD"
+          ]
+        },
+        {
+          "name": "David Cotter",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "David Cotter, MD"
+          ]
+        },
+        {
+          "name": "Seemal R. Desai",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "chair",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Seemal R. Desai, MD",
+            "Seemal R. Desai, MD ~ Chair"
+          ]
+        },
+        {
+          "name": "Scott Dinehart",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "chair",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Scott Dinehart, MD"
+          ]
+        },
+        {
+          "name": "Lawrence F. Eichenfield",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "chair",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Lawrence F. Eichenfield, MD"
+          ]
+        },
+        {
+          "name": "Boni E. Elewski",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Boni E. Elewski, MD"
+          ]
+        },
+        {
+          "name": "Scott Elman",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "chair",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Scott Elman, MD"
+          ]
+        },
+        {
+          "name": "Dirk M. Elston",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Dirk M. Elston, MD"
+          ]
+        },
+        {
+          "name": "Alexandra K. Golant",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Alexandra K. Golant, MD"
+          ]
+        },
+        {
+          "name": "Linda F. Stein Gold",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "chair",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Linda F. Stein Gold, MD",
+            "Linda F. Stein Gold, MD ~ Chair"
+          ]
+        },
+        {
+          "name": "Gary Goldenberg",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "chair",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Gary Goldenberg, MD",
+            "Gary Goldenberg, MD ~ Chair"
+          ]
+        },
+        {
+          "name": "Julie C. Harper",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Julie C. Harper, MD"
+          ]
+        },
+        {
+          "name": "Jennifer Hsiao",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Jennifer Hsiao, MD"
+          ]
+        },
+        {
+          "name": "Naiem Issa",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Naiem Issa, MD"
+          ]
+        },
+        {
+          "name": "Mark D. Kaufmann",
+          "credentials": "MD",
+          "affiliation": "Faculty",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Mark D. Kaufmann, MD"
+          ]
+        },
+        {
+          "name": "Daniela Kroshinsky",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Daniela Kroshinsky, MD",
+            "Daniela Kroshinsky, MD, MPH"
+          ]
+        },
+        {
+          "name": "Karan Lal",
+          "credentials": "DO",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Karan Lal, DO"
+          ]
+        },
+        {
+          "name": "Mark Lebwohl",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "speaker",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Mark Lebwohl, MD"
+          ]
+        },
+        {
+          "name": "Wilson Liao",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Wilson Liao, MD"
+          ]
+        },
+        {
+          "name": "Graham Litchman",
+          "credentials": "DO, MS",
+          "affiliation": "",
+          "role": "chair",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Graham Litchman, DO, MS ~ Co-Chair"
+          ]
+        },
+        {
+          "name": "Amy McMichael",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "chair",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Amy McMichael, MD"
+          ]
+        },
+        {
+          "name": "Joseph F. Merola",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Joseph F. Merola, MD"
+          ]
+        },
+        {
+          "name": "Dawn Merritt",
+          "credentials": "DO",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Dawn Merritt, DO"
+          ]
+        },
+        {
+          "name": "Andrea Murina",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Andrea Murina, MD"
+          ]
+        },
+        {
+          "name": "Mark S. Nestor",
+          "credentials": "MD, PhD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Mark S. Nestor, MD, PhD"
+          ]
+        },
+        {
+          "name": "Harrison Nguyen",
+          "credentials": "MD, MBA, MPH",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Harrison Nguyen, MD, MBA, MPH"
+          ]
+        },
+        {
+          "name": "Khoa Nguyen",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Khoa Nguyen, MD"
+          ]
+        },
+        {
+          "name": "Keyvan Nouri",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Keyvan Nouri, MD"
+          ]
+        },
+        {
+          "name": "Darrell S. Rigel",
+          "credentials": "MD, MS",
+          "affiliation": "",
+          "role": "chair",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Darrell S. Rigel, MD, MS",
+            "Darrell S. Rigel, MD, MS ~ Chair"
+          ]
+        },
+        {
+          "name": "James Q. Del Rosso",
+          "credentials": "DO",
+          "affiliation": "",
+          "role": "chair",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "James Q. Del Rosso, DO",
+            "James Q. Del Rosso, DO ~ Chair"
+          ]
+        },
+        {
+          "name": "Todd Schlesinger",
+          "credentials": "MD",
+          "affiliation": "Faculty",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Todd Schlesinger, MD"
+          ]
+        },
+        {
+          "name": "Jerry Shapiro",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Jerry Shapiro, MD"
+          ]
+        },
+        {
+          "name": "Kanade Shinkai",
+          "credentials": "MD, PhD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Kanade Shinkai, MD, PhD"
+          ]
+        },
+        {
+          "name": "E. James Song",
+          "credentials": "MD, PhD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "E. James Song, MD, PhD"
+          ]
+        },
+        {
+          "name": "A. Swanson",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "chair",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Elizabeth (Lisa) A. Swanson, MD",
+            "Elizabeth (Lisa) A. Swanson, MD ~ Co-Chair"
+          ]
+        },
+        {
+          "name": "Michelle Tarbox",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Michelle Tarbox, MD"
+          ]
+        },
+        {
+          "name": "Susan C. Taylor",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Susan C. Taylor, MD"
+          ]
+        },
+        {
+          "name": "Hadar Lev-Tov",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Hadar Lev-Tov, MD, MAS"
+          ]
+        },
+        {
+          "name": "Shannon Trotter",
+          "credentials": "DO",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Shannon Trotter, DO"
+          ]
+        },
+        {
+          "name": "Matthew Vesely",
+          "credentials": "MD, PhD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Matthew Vesely, MD, PhD"
+          ]
+        },
+        {
+          "name": "Joshua Zeichner",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "chair",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Joshua Zeichner, MD",
+            "Joshua Zeichner, MD ~ Chair"
+          ]
+        }
+      ],
+      "llm_dropped_ungrounded": 0,
+      "chars": 22339
+    }
+  ]
+}

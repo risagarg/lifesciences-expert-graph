@@ -1,0 +1,79 @@
+{
+  "node": "evidence/trials/iconic-lead",
+  "kind": "trial-publication",
+  "sources": [
+    {
+      "url": "https://www.dermatologytimes.com/view/robert-bissonnette-late-breaking-data-on-icotrokinra-shows-promising-efficacy-and-safety-in-psoriasis",
+      "title": "Dermatology Times (NCT number)",
+      "ok": true,
+      "status": 200,
+      "method": "http",
+      "error": "",
+      "people": [
+        {
+          "name": "Robert Bissonnette",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "presenter",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Robert Bissonnette, MD: Late-Breaking Data on Icotrokinra Shows Promising Efficacy and Safety in Psoriasis | Dermatology Times",
+            "Robert Bissonnette, MD: Late-Breaking Data on Icotrokinra Shows Promising Efficacy and Safety in Psoriasis",
+            "Robert Bissonnette, MD"
+          ]
+        },
+        {
+          "name": "Heidi Anne Duerr",
+          "credentials": "MPH",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Heidi Anne Duerr, MPH"
+          ]
+        },
+        {
+          "name": "Doral Fredericks",
+          "credentials": "PharmD, MBA",
+          "affiliation": "discusses how life stages, mental health, and reproductive concerns can shape dermatologic care for women",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Doral Fredericks, PharmD, MBA, discusses how life stages, mental health, and reproductive concerns can shape dermatologic care for women."
+          ]
+        }
+      ],
+      "llm_dropped_ungrounded": 0,
+      "chars": 6966
+    },
+    {
+      "url": "https://ce.massmed.nejm.org/node/3703",
+      "title": "NEJM Group CME record (full author list)",
+      "ok": true,
+      "status": 200,
+      "method": "http",
+      "error": "",
+      "people": [],
+      "llm_dropped_ungrounded": 0,
+      "chars": 907
+    },
+    {
+      "url": "https://www.jnjmedicalconnect.com/products/icotyde/pivotal-clinical-trial-publications",
+      "title": "J&J Medical Connect: pivotal trial publications",
+      "ok": false,
+      "status": 200,
+      "method": "http",
+      "error": "",
+      "people": []
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "node": "evidence/advisory-committees/fda-arthritis-advisory-committee",
+  "kind": "advisory committee",
+  "sources": [
+    {
+      "url": "https://www.healio.com/news/rheumatology/20251111/shortsighted-fda-terminates-arthritis-advisory-committee",
+      "title": "Healio: 'Shortsighted': FDA terminates Arthritis Advisory Committee (Oct 3, 2025)",
+      "ok": true,
+      "status": 200,
+      "method": "http",
+      "error": "",
+      "people": [
+        {
+          "name": "Allan Gibofsky",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Allan Gibofsky, MD, JD, FACP, FCLM,",
+            "Allan Gibofsky, MD, JD, FACP, FCLM"
+          ]
+        },
+        {
+          "name": "Kenneth G. Saag MD",
+          "credentials": "MSc",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Kenneth G. Saag MD, MSc"
+          ]
+        },
+        {
+          "name": "Kenneth G. Saag",
+          "credentials": "MD, MSc",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Kenneth G. Saag, MD, MSc,"
+          ]
+        },
+        {
+          "name": "Lee Simon",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Lee Simon, MD, MACR, FACP"
+          ]
+        }
+      ],
+      "llm_dropped_ungrounded": 0,
+      "chars": 13056
+    }
+  ]
+}

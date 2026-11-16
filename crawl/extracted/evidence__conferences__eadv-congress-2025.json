@@ -1,0 +1,82 @@
+{
+  "node": "evidence/conferences/eadv-congress-2025",
+  "kind": "conference",
+  "sources": [
+    {
+      "url": "https://www.jnj.com/innovativemedicine/us/news-center/immunology/icotrokinra-shows-superiority-to-deucravacitinib-in-first-reported-head-to-head-trials-reinforcing-promise-of-novel-targeted-oral-peptide-for-treatment-of-plaque-psoriasis",
+      "title": "Johnson & Johnson: icotrokinra head-to-head data at EADV 2025",
+      "ok": true,
+      "status": 200,
+      "method": "http",
+      "error": "",
+      "people": [
+        {
+          "name": "Linda Stein Gold",
+          "credentials": "M.D",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "head data clearly demonstrate superior complete skin clearance rates for icotrokinra compared to deucravacitinib,” said Linda Stein Gold, M.D., Director of Dermatology Clinical Research at Henry Ford Health and ICONIC-ADVANCE study investigator.b “With significantly higher response rates seen as earl"
+          ]
+        },
+        {
+          "name": "Liza O'Dowd",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "member",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "a Phase 3 ICONIC program continue to deliver robust and clinically meaningful head-to-head and long-term results,” said Liza O’Dowd, MD, Vice President, Immunodermatology and Respiratory Disease Areas Lead, Johnson & Johnson Innovative Medicine. “A novel oral therapy that can provide complete s"
+          ]
+        },
+        {
+          "name": "Jennifer Soung",
+          "credentials": "M.D",
+          "affiliation": "",
+          "role": "member",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "ue to demonstrate the potential of icotrokinra to address the need for a novel targeted oral psoriasis treatment,” said Jennifer Soung, M.D., Director of Clinical Research at Southern California Dermatology and ICONIC-LEAD study investigator."
+          ]
+        }
+      ],
+      "llm_dropped_ungrounded": 0,
+      "chars": 27558
+    },
+    {
+      "url": "https://www.consultantlive.com/view/eadv-2025-congress-recap-14-late-breaking-trials-to-know",
+      "title": "ConsultantLive: EADV 2025 recap, 14 late-breaking trials",
+      "ok": true,
+      "status": 200,
+      "method": "http",
+      "error": "",
+      "people": [
+        {
+          "name": "Jay Lieberman",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Allergic Reactions Do Not Blunt Sublingual Epinephrine: Jay Lieberman, MD"
+          ]
+        }
+      ],
+      "llm_dropped_ungrounded": 0,
+      "chars": 11297
+    }
+  ]
+}

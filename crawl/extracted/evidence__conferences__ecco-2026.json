@@ -1,0 +1,26 @@
+{
+  "node": "evidence/conferences/ecco-2026",
+  "kind": "conference",
+  "sources": [
+    {
+      "url": "https://ecco-ibd.eu/publications/news/issues/2026/volume-21-issue-1/johnson-johnson-sponsored-activities-at-the-21st-congress-of-ecco-stockholm-sweden-february-18-21-2026",
+      "title": "ECCO: J&J sponsored activities at the 21st Congress of ECCO, Stockholm, February 18-21, 2026",
+      "ok": true,
+      "status": 200,
+      "method": "http",
+      "error": "",
+      "people": [],
+      "llm_dropped_ungrounded": 0,
+      "chars": 12346
+    },
+    {
+      "url": "https://www.jnjmedicalconnect.com/therapeutic-areas/immunology/congress/ecco-2026",
+      "title": "J&J Medical Connect: ECCO 2026 abstracts",
+      "ok": false,
+      "status": 200,
+      "method": "http",
+      "error": "",
+      "people": []
+    }
+  ]
+}

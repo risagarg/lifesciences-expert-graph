@@ -1,0 +1,109 @@
+{
+  "node": "evidence/advisory-committees/fda-dodac-roster",
+  "kind": "advisory committee roster",
+  "sources": [
+    {
+      "url": "https://www.fda.gov/advisory-committees/dermatologic-and-ophthalmic-drugs-advisory-committee/dermatologic-and-ophthalmic-drugs-advisory-committee-roster",
+      "title": "FDA: Dermatologic and Ophthalmic Drugs Advisory Committee Roster",
+      "ok": true,
+      "status": 200,
+      "method": "http",
+      "error": "",
+      "people": [
+        {
+          "name": "LaToya Bonner",
+          "credentials": "PharmD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "LaToya Bonner, PharmD"
+          ]
+        },
+        {
+          "name": "James Chodosh",
+          "credentials": "MD, MPH",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "James Chodosh, MD, MPH"
+          ]
+        },
+        {
+          "name": "Todd Durham",
+          "credentials": "MS, PhD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "*Todd Durham, MS, PhD"
+          ]
+        },
+        {
+          "name": "Brian Green",
+          "credentials": "DO, MS, FAAD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Brian Green, DO, MS, FAAD"
+          ]
+        },
+        {
+          "name": "Lotus Mallbris",
+          "credentials": "MD, PhD, MBA",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Lotus Mallbris, MD, PhD, MBA"
+          ]
+        },
+        {
+          "name": "Megha Tollefson",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Megha Tollefson, MD"
+          ]
+        },
+        {
+          "name": "Benjamin Y. Xu",
+          "credentials": "MD, PhD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Benjamin Y. Xu, MD, PhD"
+          ]
+        }
+      ],
+      "llm_dropped_ungrounded": 0,
+      "chars": 2868
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "node": "evidence/conferences/eular-2026",
+  "kind": "conference",
+  "sources": [
+    {
+      "url": "https://www.rheum-live.com/view/eular-2026-expert-interviews-late-breakers-watch",
+      "title": "Rheum-Live: EULAR 2026 expert interviews and late-breakers to watch",
+      "ok": true,
+      "status": 200,
+      "method": "http",
+      "error": "",
+      "people": [
+        {
+          "name": "Jack Arnolds",
+          "credentials": "MBBS, PhD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "of hosts’ Jack Arnolds, MBBS, PhD, and Rihards Buss, MD, most anticipated sessions and data readouts."
+          ]
+        },
+        {
+          "name": "Xenofon Baraliakos",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Xenofon Baraliakos, MD"
+          ]
+        },
+        {
+          "name": "Abigail Brooks",
+          "credentials": "MA",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Abigail Brooks, MA"
+          ]
+        },
+        {
+          "name": "Rihards Buss",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "of hosts’ Jack Arnolds, MBBS, PhD, and Rihards Buss, MD, most anticipated sessions and data readouts."
+          ]
+        },
+        {
+          "name": "Laura C. Coates",
+          "credentials": "MD, PhD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Laura C. Coates, MD, PhD"
+          ]
+        },
+        {
+          "name": "Anisha Dua",
+          "credentials": "MD",
+          "affiliation": "— Northwestern University, who will discuss 2-year outcomes by disease onset type from the SELECT-GCA phase 3 trial of upadacitinib in giant cell arteritis",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Anisha Dua, MD"
+          ]
+        },
+        {
+          "name": "Richard A. Furie",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "presenter",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Richard A. Furie, MD"
+          ]
+        },
+        {
+          "name": "Norman Gaylis",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            ": Norman Gaylis, MD"
+          ]
+        },
+        {
+          "name": "Philip J. Mease",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Philip J. Mease, MD"
+          ]
+        },
+        {
+          "name": "Joseph F. Merola",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            ": Joseph F. Merola, MD"
+          ]
+        },
+        {
+          "name": "Liying Peng",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "presenter",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Liying Peng, MD"
+          ]
+        },
+        {
+          "name": "Helga Lechner-Radner",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "presenter",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Helga Lechner-Radner, MD"
+          ]
+        },
+        {
+          "name": "Emanuel Della Torre",
+          "credentials": "MD",
+          "affiliation": "— IRCCS San Raffaele Hospital (Milan), who will discuss the phase 3 INDIGO trial of obexelimab, a B cell inhibitor, in IgG4-related disease",
+          "role": "presenter",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Emanuel Della Torre, MD"
+          ]
+        }
+      ],
+      "llm_dropped_ungrounded": 0,
+      "chars": 12402
+    }
+  ]
+}

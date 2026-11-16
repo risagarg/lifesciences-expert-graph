@@ -1,0 +1,308 @@
+{
+  "node": "evidence/value-assessments/icer-psoriasis-2018",
+  "kind": "value assessment",
+  "sources": [
+    {
+      "url": "https://icer.org/wp-content/uploads/2020/10/ICER_Psoriasis_Update_Final_Evidence_Report_10042018.pdf",
+      "title": "ICER final evidence report, August 3, 2018 (PDF)",
+      "ok": true,
+      "status": 200,
+      "method": "http",
+      "error": "",
+      "people": [
+        {
+          "name": "Foluso Agboola",
+          "credentials": "MBBS, MPH",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Foluso Agboola, MBBS, MPH"
+          ]
+        },
+        {
+          "name": "Reiner Banken",
+          "credentials": "MD, MSc",
+          "affiliation": "David Veenstra, PharmD, PhD University of Washington None",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Reiner Banken, MD, MSc",
+            "Reiner Banken, MD MSc ICER None"
+          ]
+        },
+        {
+          "name": "Rick Chapman",
+          "credentials": "PhD, MS",
+          "affiliation": "Director of Health Economics",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Rick Chapman, PhD, MS"
+          ]
+        },
+        {
+          "name": "Alexandra Ellis",
+          "credentials": "MSc",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Alexandra Ellis, MSc, AM"
+          ]
+        },
+        {
+          "name": "Teresa Fama",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Teresa Fama, MD  Central Vermont Medical Center *"
+          ]
+        },
+        {
+          "name": "Claudia B. Gruss",
+          "credentials": "MD, FACP, FACG",
+          "affiliation": "CNSC  Western Connecticut Medical Group *",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Claudia B. Gruss, MD, FACP, FACG, CNSC  Western Connecticut Medical Group *"
+          ]
+        },
+        {
+          "name": "Nathaniel Hendrix",
+          "credentials": "PharmD",
+          "affiliation": "Pharmaceutical Outcomes Research and Policy",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Nathaniel Hendrix, PharmD"
+          ]
+        },
+        {
+          "name": "David L. Kaplan",
+          "credentials": "MD, MS, FACP, FAAD",
+          "affiliation": "Clinical Assistant Professor, University of Missouri, Kansas City School of Medicine; Clinical",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "David L. Kaplan, MD, MS, FACP, FAAD"
+          ]
+        },
+        {
+          "name": "Alexa B. Kimball",
+          "credentials": "MD",
+          "affiliation": "Harvard Medical Faculty Physicians",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Alexa B. Kimball, MD",
+            "Alexa B. Kimball, MD Beth Israel"
+          ]
+        },
+        {
+          "name": "Stephen Kogut",
+          "credentials": "PhD, MBA",
+          "affiliation": "RPh University of Rhode Island College of",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Stephen Kogut, PhD, MBA, RPh University of Rhode Island College of"
+          ]
+        },
+        {
+          "name": "Joseph F. Merola",
+          "credentials": "MD",
+          "affiliation": "Assistant Professor, Director of the Center for Skin and Related Musculoskeletal Disease",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Joseph F. Merola, MD MMSc"
+          ]
+        },
+        {
+          "name": "Stephanie Nichols",
+          "credentials": "PharmD",
+          "affiliation": "BCPS, BCPP Husson University",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Stephanie Nichols, PharmD, BCPS, BCPP Husson University; Maine Medical Center *"
+          ]
+        },
+        {
+          "name": "Brian P. O'Sullivan",
+          "credentials": "MD",
+          "affiliation": "Jeanne Ryer, MSc, EdD New Hampshire Citizens Health Initiative *",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Brian P. O'Sullivan, MD Dartmouth College *"
+          ]
+        },
+        {
+          "name": "Daniel A. Ollendorf",
+          "credentials": "PhD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Daniel A. Ollendorf, PhD"
+          ]
+        },
+        {
+          "name": "Dan Ollendorf",
+          "credentials": "PhD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "The discussion was facilitated by Dan Ollendorf, PhD, Chief Scientific Officer of ICER.  Participants in",
+            "Dan Ollendorf, PhD ICER None"
+          ]
+        },
+        {
+          "name": "Steven D. Pearson",
+          "credentials": "MD, MSc",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Steven D. Pearson, MD, MSc"
+          ]
+        },
+        {
+          "name": "Bram Ramaekers",
+          "credentials": "PhD",
+          "affiliation": "Senior Researcher Health Economics",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Bram Ramaekers, PhD"
+          ]
+        },
+        {
+          "name": "Jeanne Ryer",
+          "credentials": "MSc",
+          "affiliation": "EdD New Hampshire Citizens Health Initiative *",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Jeanne Ryer, MSc, EdD New Hampshire Citizens Health Initiative *"
+          ]
+        },
+        {
+          "name": "Brad Stolshek",
+          "credentials": "PharmD",
+          "affiliation": "Director, Global Health Economics, Inflammation, Amgen",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Brad Stolshek, PharmD"
+          ]
+        },
+        {
+          "name": "David L. Veenstra",
+          "credentials": "PharmD, PhD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "David L. Veenstra, PharmD, PhD",
+            "David Veenstra, PharmD, PhD University of Washington None"
+          ]
+        },
+        {
+          "name": "Jason Wasfy",
+          "credentials": "MD",
+          "affiliation": "MPhil Massachusetts General Hospital *",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Jason Wasfy, MD, MPhil Massachusetts General Hospital *"
+          ]
+        },
+        {
+          "name": "Albert Whitaker",
+          "credentials": "MA",
+          "affiliation": "* No conflicts of interest to disclose, defined as individual health care stock ownership (including anyone in the member’s",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Rev. Albert Whitaker, MA American Diabetes Association *"
+          ]
+        }
+      ],
+      "llm_dropped_ungrounded": 0,
+      "chars": 653428
+    }
+  ]
+}

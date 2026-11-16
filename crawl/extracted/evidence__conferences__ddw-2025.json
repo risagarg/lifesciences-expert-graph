@@ -1,0 +1,66 @@
+{
+  "node": "evidence/conferences/ddw-2025",
+  "kind": "conference",
+  "sources": [
+    {
+      "url": "https://www.jnjmedicalconnect.com/therapeutic-areas/immunology/congress/ddw-2025",
+      "title": "J&J Medical Connect: DDW 2025 abstracts",
+      "ok": false,
+      "status": 200,
+      "method": "http",
+      "error": "",
+      "people": []
+    },
+    {
+      "url": "https://alimentiv.com/news/alimentiv-experts-share-insights-ddw-2025/",
+      "title": "Alimentiv: experts share insights at DDW 2025",
+      "ok": true,
+      "status": 200,
+      "method": "http",
+      "error": "",
+      "people": [
+        {
+          "name": "Vipul Jairath",
+          "credentials": "",
+          "affiliation": "Placebo rates in randomized clinical trials of ulcerative colitis: An individual patient data meta-analysis",
+          "role": "presenter",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Presenter: Dr. Vipul Jairath"
+          ]
+        },
+        {
+          "name": "Christopher Ma",
+          "credentials": "",
+          "affiliation": "",
+          "role": "presenter",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Presenter: Dr. Christopher Ma"
+          ]
+        },
+        {
+          "name": "Virginia Solitano",
+          "credentials": "",
+          "affiliation": "",
+          "role": "presenter",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Presenter: Dr. Virginia Solitano"
+          ]
+        }
+      ],
+      "llm_dropped_ungrounded": 0,
+      "chars": 2270
+    }
+  ]
+}

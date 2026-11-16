@@ -1,0 +1,165 @@
+{
+  "node": "evidence/conferences/ada-scientific-sessions-2026",
+  "kind": "conference",
+  "sources": [
+    {
+      "url": "https://hcplive.com/view/triumph-1-retatrutide-substantially-lowers-weight-bmi-in-patients-with-obesity-or-overweight",
+      "title": "HCPLive: TRIUMPH-1 at ADA 2026",
+      "ok": true,
+      "status": 200,
+      "method": "http",
+      "error": "",
+      "people": [
+        {
+          "name": "Natalie Bellini",
+          "credentials": "DNP",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Tom Martens, MD, joins Diana Isaacs, PharmD, and Natalie Bellini, DNP, to discuss CONNECT trial data on CGM in non-insulin-treated type 2 diabetes."
+          ]
+        },
+        {
+          "name": "Abigail Brooks",
+          "credentials": "MA",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Abigail Brooks, MA"
+          ]
+        },
+        {
+          "name": "Gerard Criner",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Gerard Criner, MD, reviews GOLD 2026 sessions on mucus plugs and inhaler technique, plus multimorbidity, exacerbation risk, and the 2027 GOLD Report."
+          ]
+        },
+        {
+          "name": "Diana Isaacs",
+          "credentials": "PharmD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Tom Martens, MD, joins Diana Isaacs, PharmD, and Natalie Bellini, DNP, to discuss CONNECT trial data on CGM in non-insulin-treated type 2 diabetes."
+          ]
+        },
+        {
+          "name": "Ania Jastreboff",
+          "credentials": "MD, PhD",
+          "affiliation": "the Harvey and Kate Cushing Professor of Medicine and professor of pediatrics at Yale School of Medicine, these data highlight retatrutide’s substantial efficac",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "in New Orleans, Louisiana, by Ania Jastreboff, MD, PhD, the Harvey and Kate Cushing Professor of Medicine and professor of pediatrics at Yale School of Medicine, these data highlight retatrutide’s substantial effic",
+            "sleep apnea, with many individuals reaching what are classified as healthy-range weight and normal blood sugar levels,” Ania Jastreboff, MD, PhD, professor of medicine and pediatrics at the Yale School of Medicine, director of the Yale Obesity research Center, and lead investigator of TRIUMPH-1. “These"
+          ]
+        },
+        {
+          "name": "Tom Martens",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Tom Martens, MD, joins Diana Isaacs, PharmD, and Natalie Bellini, DNP, to discuss CONNECT trial data on CGM in non-insulin-treated type 2 diabetes."
+          ]
+        }
+      ],
+      "llm_dropped_ungrounded": 0,
+      "chars": 9126
+    },
+    {
+      "url": "https://www.adameetingnews.org/presenters-to-provide-first-look-at-data-from-reimagine-trials-of-cagrilintide-semaglutide-for-type-2-diabetes-management/",
+      "title": "ADA Meeting News: REIMAGINE session preview (Apr 27, 2026)",
+      "ok": true,
+      "status": 200,
+      "method": "http",
+      "error": "",
+      "people": [
+        {
+          "name": "Vanita R. Aroda",
+          "credentials": "MD",
+          "affiliation": "Director of Diabetes Clinical Research at Brigham and Women’s Hospital and Associate Professor of Medicine at Harvard Medical School. “The areas of interest are",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Vanita R. Aroda, MD",
+            "ial gives us a very clean look and profile of what the medication can do in this very early treatment population,” said Vanita R. Aroda, MD, Director of Diabetes Clinical Research at Brigham and Women’s Hospital and Associate Professor of Medicine at Harvard Medical School. “The areas of interest a"
+          ]
+        },
+        {
+          "name": "John B. Buse",
+          "credentials": "MD, PhD",
+          "affiliation": "the Verne S. Caviness Distinguished Professor of Medicine at the University of North Carolina School of Medicine. “The combination of cagrilintide, an amylin re",
+          "role": "member",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "John B. Buse, MD, PhD",
+            "to increase the efficacy of semaglutide for weight loss and for A1C reduction in the setting of type 2 diabetes,” said John B. Buse, MD, PhD, the Verne S. Caviness Distinguished Professor of Medicine at the University of North Carolina School of Medicine. “The combination of cagrilintide, an amylin"
+          ]
+        },
+        {
+          "name": "Akshay Jain",
+          "credentials": "MD, FRCPC, FACE",
+          "affiliation": "CCD, ECNU, DABIM, DABOM, Clinical Instructor in Medicine at the University of British Columbia, Canada. “And we’ll be looking at cardiovascular risk markers as",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Akshay Jain, MD, FRCPC, FACE, CCD, ECNU, DABIM, DABOM",
+            "“We will be looking at some very interesting data on A1C and weight reduction [during the symposium],” said Akshay Jain, MD, FRCPC, FACE, CCD, ECNU, DABIM, DABOM, Clinical Instructor in Medicine at the University of British Columbia, Canada. “And we’ll be looking at cardiovascular risk markers a"
+          ]
+        },
+        {
+          "name": "Julio Rosenstock",
+          "credentials": "MD",
+          "affiliation": "Clinical Professor of Medicine at Texas Southwestern Medical Center. “It has been nicely demonstrated that adding a GLP-1 RA is highly effective in improving gl",
+          "role": "member",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Julio Rosenstock, MD",
+            "sal insulin therapy has been challenging due to insulin titration inertia, but many also need additional therapy,” said Julio Rosenstock, MD, Clinical Professor of Medicine at Texas Southwestern Medical Center. “It has been nicely demonstrated that adding a GLP-1 RA is highly effective in improving"
+          ]
+        }
+      ],
+      "llm_dropped_ungrounded": 0,
+      "chars": 8778
+    }
+  ]
+}

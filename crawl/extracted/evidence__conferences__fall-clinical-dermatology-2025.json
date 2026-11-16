@@ -1,0 +1,96 @@
+{
+  "node": "evidence/conferences/fall-clinical-dermatology-2025",
+  "kind": "conference",
+  "sources": [
+    {
+      "url": "https://www.dermatologytimes.com/view/day-1-fall-clinical-2025",
+      "title": "Dermatology Times: Day 1 of Fall Clinical 2025",
+      "ok": true,
+      "status": 200,
+      "method": "http",
+      "error": "",
+      "people": [
+        {
+          "name": "Linda Stein Gold",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "presenter",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "James Del Rosso, DO; April Armstrong, MD, MPH; Mark Nestor, MD, PhD; Mark Lebwohl, MD; Linda Stein Gold, MD; and Darrell Rigel, MD, MS, presented some of the biggest updates in dermatology to close out the year."
+          ]
+        },
+        {
+          "name": "Mark Lebwohl",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "presenter",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "James Del Rosso, DO; April Armstrong, MD, MPH; Mark Nestor, MD, PhD; Mark Lebwohl, MD; Linda Stein Gold, MD; and Darrell Rigel, MD, MS, presented some of the biggest updates in dermatology to close out the year."
+          ]
+        },
+        {
+          "name": "Mark Nestor",
+          "credentials": "MD, PhD",
+          "affiliation": "",
+          "role": "presenter",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "James Del Rosso, DO; April Armstrong, MD, MPH; Mark Nestor, MD, PhD; Mark Lebwohl, MD; Linda Stein Gold, MD; and Darrell Rigel, MD, MS, presented some of the biggest updates in dermatology to close out the year."
+          ]
+        },
+        {
+          "name": "Vishal A. Patel",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "At a Dermatology Times Case-Based Roundtable, Vishal A. Patel, MD, led a discussion on treatment selection, tolerability, and individualized care for patients with advanced basal cell carcinoma."
+          ]
+        },
+        {
+          "name": "Darrell Rigel",
+          "credentials": "MD, MS",
+          "affiliation": "",
+          "role": "presenter",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "James Del Rosso, DO; April Armstrong, MD, MPH; Mark Nestor, MD, PhD; Mark Lebwohl, MD; Linda Stein Gold, MD; and Darrell Rigel, MD, MS, presented some of the biggest updates in dermatology to close out the year."
+          ]
+        },
+        {
+          "name": "James Del Rosso",
+          "credentials": "DO",
+          "affiliation": "",
+          "role": "presenter",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "James Del Rosso, DO; April Armstrong, MD, MPH; Mark Nestor, MD, PhD; Mark Lebwohl, MD; Linda Stein Gold, MD; and Darrell Rigel, MD, MS, presented some of the biggest updates in de"
+          ]
+        }
+      ],
+      "llm_dropped_ungrounded": 0,
+      "chars": 4974
+    }
+  ]
+}

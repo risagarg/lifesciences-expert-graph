@@ -1,0 +1,15 @@
+{
+  "node": "evidence/conferences/acr-convergence-2025",
+  "kind": "conference",
+  "sources": [
+    {
+      "url": "https://www.consultantlive.com/view/acr-convergence-2025-recap-late-breaking-trials-to-know",
+      "title": "ConsultantLive: ACR Convergence 2025 recap, late-breaking trials",
+      "ok": false,
+      "status": 404,
+      "method": "http",
+      "error": "",
+      "people": []
+    }
+  ]
+}

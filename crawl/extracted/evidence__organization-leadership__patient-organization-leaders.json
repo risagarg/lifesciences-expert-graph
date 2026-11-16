@@ -1,0 +1,169 @@
+{
+  "node": "evidence/organization-leadership/patient-organization-leaders",
+  "kind": "leadership listing",
+  "sources": [
+    {
+      "url": "https://www.psoriasis.org/new-leadership-2026/",
+      "title": "NPF: New leadership to advance the mission (Apr 2, 2026)",
+      "ok": true,
+      "status": 200,
+      "method": "http",
+      "error": "",
+      "people": [],
+      "llm_dropped_ungrounded": 0,
+      "chars": 3702
+    },
+    {
+      "url": "https://nationaleczema.org/blog/new-ceo-kristin-belleson/",
+      "title": "NEA: new CEO Kristin Belleson (Aug 19, 2024)",
+      "ok": false,
+      "status": 200,
+      "method": "http",
+      "error": "",
+      "people": []
+    },
+    {
+      "url": "https://nationalhealthcouncil.org/news-releases/crohns-colitis-foundation-president-and-ceo-michael-osso-named-chair-of-the-nhc-board-of-directors-for-2026/",
+      "title": "National Health Council: Michael Osso named 2026 board chair (Dec 9, 2025)",
+      "ok": true,
+      "status": 200,
+      "method": "http",
+      "error": "",
+      "people": [],
+      "llm_dropped_ungrounded": 0,
+      "chars": 138
+    },
+    {
+      "url": "https://www.managedhealthcareexecutive.com/view/science-complicated-pharmacology-patient-relationships-drew-alan-moss-m-d-to-crohn-s-and-colitis",
+      "title": "Managed Healthcare Executive: Alan Moss, Crohn's & Colitis Foundation CSO (Oct 11, 2023)",
+      "ok": true,
+      "status": 200,
+      "method": "http",
+      "error": "",
+      "people": [
+        {
+          "name": "Prerna Mewawalla",
+          "credentials": "M.D",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Six jobs for AI in myeloma care, from Prerna Mewawalla, M.D."
+          ]
+        },
+        {
+          "name": "Patient Relationships Drew Alan Moss",
+          "credentials": "M.D",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Science, Complicated Pharmacology, Patient Relationships Drew Alan Moss, M.D., to Crohn’s and Colitis | Managed Healthcare Executive",
+            "Science, Complicated Pharmacology, Patient Relationships Drew Alan Moss, M.D., to Crohn’s and Colitis"
+          ]
+        },
+        {
+          "name": "Alan Moss",
+          "credentials": "M.D",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "In an era of U.S. healthcare that can make for fleeting and fragmented relationships between patients and clinicians, Alan Moss, M.D., has had different experience, sometimes seeing patients over many years and different stages of their lives."
+          ]
+        },
+        {
+          "name": "Haley B. Naik",
+          "credentials": "M.D",
+          "affiliation": "Naik says a strong recommendation for infliximab and a call for routine pain assessment are the HS guideline changes most likely to change clinical practice",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Haley B. Naik, M.D., on the hidradenitis suppurativa guideline recommendations most likely to change clinical practice practice",
+            "Haley B. Naik, M.D., on why new HS guidelines recommend against radiotherapy for HS in children and teens",
+            "Haley B. Naik, M.D., M.H.Sc.,on the true prevalence of hidradenititis suppurativa"
+          ]
+        },
+        {
+          "name": "Benjamin N. Rome",
+          "credentials": "M.D",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Quick Q&A: Benjamin N. Rome, M.D., M.P.H., on the IRA and drug launch prices",
+            "Drug launch prices are rising, but Benjamin N. Rome, M.D., M.P.H., and colleagues found no evidence manufacturers raised them in response to the Inflation Reduction Act."
+          ]
+        }
+      ],
+      "llm_dropped_ungrounded": 0,
+      "chars": 4638
+    },
+    {
+      "url": "https://www.consultantlive.com/view/fda-approves-orforglipron-foundayo-as-first-daily-glp-1-pill-without-food-water-restrictions",
+      "title": "ConsultantLive: orforglipron approval, quoting the Obesity Action Coalition CEO (Apr 1, 2026)",
+      "ok": true,
+      "status": 200,
+      "method": "http",
+      "error": "",
+      "people": [
+        {
+          "name": "Abigail Brooks",
+          "credentials": "MA",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Abigail Brooks, MA"
+          ]
+        },
+        {
+          "name": "Deborah Horn",
+          "credentials": "DO",
+          "affiliation": "director of the Center for Obesity Medicine at McGovern Medical School at UTHealth Houston, said in a statement. \"With [orforglipron], we now have an oral optio",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "n be taken with no food or water restrictions can offer them greater flexibility in how they approach their treatment,\" Deborah Horn, DO, director of the Center for Obesity Medicine at McGovern Medical School at UTHealth Houston, said in a statement. \"With [orforglipron], we now have an oral opt"
+          ]
+        },
+        {
+          "name": "Jay Lieberman",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "named",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Allergic Reactions Do Not Blunt Sublingual Epinephrine: Jay Lieberman, MD"
+          ]
+        }
+      ],
+      "llm_dropped_ungrounded": 0,
+      "chars": 5811
+    }
+  ]
+}
