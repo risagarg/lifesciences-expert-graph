@@ -52,6 +52,22 @@ def main():
     r = rule_people(ROSTER)
     ok &= check(any(p["name"] == "Megan Example" and "Mayo Clinic" in p["affiliation"] for p in r),
                 "roster: affiliation on the next line")
+    # names with titles or degrees glued on
+    g = names("IPC Board Member Amy Example, MS, MD, chaired the session.\nKenneth G. Sample MD, MSc, said the change was shortsighted.")
+    ok &= check("Amy Example" in g and "Kenneth G. Sample" in g, "names: titles in front and degree without comma removed")
+    # plain author lists
+    from extract import author_list_people
+    a1 = {p["name"] for p in author_list_people("Menter A, Strober BE, Kaplan DH, Stein Gold L, et al.")}
+    ok &= check({"A. Menter", "B. E. Strober", "D. H. Kaplan", "L. Stein Gold"} <= a1, "authors: PubMed short style")
+    a2 = {p["name"] for p in author_list_people("Menter, Alan; Strober, Bruce E.; Kaplan, Daniel H.")}
+    ok &= check({"Alan Menter", "Bruce E. Strober", "Daniel H. Kaplan"} <= a2, "authors: 'Last, First;' style")
+    a3 = {p["name"] for p in author_list_people("Authors: Alan Menter, Bruce E. Strober, Daniel H. Kaplan and Joel M. Gelfand")}
+    ok &= check({"Alan Menter", "Bruce E. Strober", "Daniel H. Kaplan", "Joel M. Gelfand"} <= a3, "authors: labelled 'First Last' list")
+    a4 = author_list_people("Offices in New York, Los Angeles, San Diego and Boston")
+    ok &= check(not a4, "authors: unlabelled city list ignored")
+    from util import same_person as sp
+    ok &= check(sp("B. E. Strober", "Bruce E. Strober") and sp("Dan Ollendorf", "Daniel A. Ollendorf")
+                and sp("Linda F. Stein Gold", "Linda Stein Gold"), "match: initials, nicknames, middle initials")
     # matching
     ok &= check(same_person("Linda Stein-Gold", "Linda Stein Gold"), "match: hyphenated vs spaced surname")
     ok &= check(same_person("L. Stein Gold", "Linda Stein Gold"), "match: initial vs full first name")

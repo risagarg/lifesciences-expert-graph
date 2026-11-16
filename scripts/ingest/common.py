@@ -13,7 +13,9 @@ import yaml
 
 ROOT = pathlib.Path(__file__).resolve().parents[2]
 DATA = ROOT / "data"
-UA = "lifesciences-expert-graph/0.1 (research; contact via repo owner)"
+# Browser-style string so CDNs that block bare scripts let us through, but still says who we are.
+UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36 "
+      "lifesciences-expert-graph/0.1 (+https://github.com/risagarg/lifesciences-expert-graph)")
 
 
 def indications(only=None):
@@ -26,7 +28,7 @@ def get(url, params=None, as_json=True, tries=4, pause=0.0):
         url += ("&" if "?" in url else "?") + urllib.parse.urlencode(params, doseq=True)
     for attempt in range(tries):
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": UA})
+            req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/json, text/plain, */*"})
             with urllib.request.urlopen(req, timeout=90) as r:
                 body = r.read().decode("utf-8")
             if pause:

@@ -11,6 +11,8 @@
     python3 scripts/crawl/fetch.py [--force] [node-or-url-fragment ...]
 """
 import datetime
+import os
+import re
 import sys
 import time
 import urllib.parse
@@ -71,7 +73,14 @@ def browser_get(url):
         with sync_playwright() as p:
             b = p.chromium.launch()
             page = b.new_page(user_agent=USER_AGENT)
-            resp = page.goto(url, wait_until="networkidle", timeout=60000)
+            # Sites with live chat or analytics never go fully quiet, so wait for the page itself,
+            # then give scripts a few seconds to fill it in.
+            resp = page.goto(url, wait_until="domcontentloaded", timeout=60000)
+            page.wait_for_timeout(6000)
+            try:
+                page.wait_for_load_state("networkidle", timeout=10000)
+            except Exception:  # noqa: BLE001 - still busy is fine, we have the content
+                pass
             html = page.content()
             b.close()
             return (resp.status if resp else 0), "text/html", html.encode()
@@ -80,7 +89,37 @@ def browser_get(url):
         return None
 
 
+PUBMED = re.compile(r"pubmed\.ncbi\.nlm\.nih\.gov/(\d+)")
+EUTILS = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
+
+
+def pubmed_get(pmid):
+    """PubMed's website blocks bots, so read the record from its official API and write the
+    authors as plain lines extract.py understands: 'Author 1 of 12: Name | Affiliation'."""
+    import xml.etree.ElementTree as ET
+    polite_wait(EUTILS)
+    params = {"db": "pubmed", "id": pmid, "retmode": "xml", "tool": "lifesciences-expert-graph"}
+    if os.environ.get("NCBI_API_KEY"):
+        params["api_key"] = os.environ["NCBI_API_KEY"]
+    r = requests.get(EUTILS, params=params, headers={"User-Agent": USER_AGENT}, timeout=60)
+    if r.status_code != 200:
+        return r.status_code, "", b""
+    art = ET.fromstring(r.content).find(".//PubmedArticle")
+    if art is None:
+        return 404, "", b""
+    title = "".join(art.find(".//ArticleTitle").itertext()) if art.find(".//ArticleTitle") is not None else ""
+    authors = [a for a in art.findall(".//AuthorList/Author") if a.findtext("LastName")]
+    lines = [f"PMID {pmid}: {title}"]
+    for i, a in enumerate(authors, 1):
+        name = f"{a.findtext('ForeName') or a.findtext('Initials') or ''} {a.findtext('LastName')}".strip()
+        aff = a.findtext(".//AffiliationInfo/Affiliation") or ""
+        lines.append(f"Author {i} of {len(authors)}: {name}" + (f" | {aff}" if aff else ""))
+    return 200, "text/plain", "\n".join(lines).encode()
+
+
 def looks_empty(ctype, body):
+    if "text/plain" in ctype:
+        return len(body) < 50
     if "pdf" in ctype:
         return len(body) < 2000
     text = body.decode("utf-8", "ignore").lower()
@@ -100,20 +139,25 @@ def main():
             age = now - datetime.datetime.fromisoformat(old["fetched_at"])
             if age.days < 7:
                 continue
-        if not allowed(s["url"]):
+        if not PUBMED.search(s["url"]) and not allowed(s["url"]):  # PubMed goes through its official API
             write_json(meta_path, {**s, "id": sid, "ok": False, "error": "disallowed by robots.txt",
                                    "fetched_at": now.isoformat()})
             print(f"robots.txt disallows {s['url']}", file=sys.stderr)
             continue
-        status, ctype, body = http_get(s["url"])
-        method = "http"
-        if status != 200 or looks_empty(ctype, body):
+        pm = PUBMED.search(s["url"])
+        if pm:
+            status, ctype, body = pubmed_get(pm.group(1))
+            method = "pubmed-api"
+        else:
+            status, ctype, body = http_get(s["url"])
+            method = "http"
+        if method == "http" and (status != 200 or looks_empty(ctype, body)):
             got = browser_get(s["url"]) if "pdf" not in ctype and not s["url"].lower().endswith(".pdf") else None
             if got and got[0] == 200 and not looks_empty(got[1], got[2]):
                 status, ctype, body = got
                 method = "browser"
         ok = status == 200 and not looks_empty(ctype, body)
-        ext = "pdf" if ("pdf" in ctype or body[:4] == b"%PDF") else "html"
+        ext = "txt" if "text/plain" in ctype else "pdf" if ("pdf" in ctype or body[:4] == b"%PDF") else "html"
         if ok:
             (RAW / f"{sid}.{ext}").write_bytes(body)
         write_json(meta_path, {**s, "id": sid, "ok": ok, "status": status, "content_type": ctype, "ext": ext,

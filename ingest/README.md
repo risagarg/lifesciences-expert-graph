@@ -17,6 +17,8 @@ These scripts fill the graph automatically. For every disease in [`indications.y
 
 The NPI and payments show on each person's page under **Practice and industry ties**. Anyone with payments is flagged *industry-paid* in [EXPERTS.md](../EXPERTS.md).
 
+The full PubMed and ClinicalTrials.gov tables are large, so they aren't committed. Each run attaches them as a download (Actions > the run > **ingest-data**). The people chosen from them are committed in `people/`.
+
 ## Add a disease
 
 Add an entry to `indications.yml` and push. Each entry points at a tree node and gives:

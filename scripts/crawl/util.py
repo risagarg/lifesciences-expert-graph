@@ -11,7 +11,8 @@ ROOT = pathlib.Path(__file__).resolve().parents[2]
 CRAWL = ROOT / "crawl"
 RAW = CRAWL / "raw"            # downloaded pages (not committed; uploaded as a GitHub Actions artifact)
 EXTRACTED = CRAWL / "extracted"  # people found on each source (committed)
-USER_AGENT = "lifesciences-expert-graph-crawler/0.1 (+https://github.com/risagarg/lifesciences-expert-graph)"
+USER_AGENT = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36 "
+              "lifesciences-expert-graph-crawler/0.1 (+https://github.com/risagarg/lifesciences-expert-graph)")
 
 FM = re.compile(r"^---\n(.*?)\n---", re.S)
 
@@ -80,26 +81,44 @@ def name_key(name):
     return words[0], words[-1], middles
 
 
-def _compatible(a, b):
-    """Two name parts agree: equal, or one is the other's initial."""
+NICKNAMES = {
+    "dan": "daniel", "danny": "daniel", "ted": "edward", "ed": "edward", "bob": "robert", "rob": "robert",
+    "bill": "william", "will": "william", "jim": "james", "jimmy": "james", "joe": "joseph", "ken": "kenneth",
+    "steve": "steven", "mike": "michael", "tom": "thomas", "lisa": "elizabeth", "liz": "elizabeth", "beth": "elizabeth",
+    "kate": "katherine", "katie": "katherine", "chris": "christopher", "rick": "richard", "rich": "richard",
+    "dick": "richard", "jen": "jennifer", "jenny": "jennifer", "andy": "andrew", "drew": "andrew", "tony": "anthony",
+    "larry": "lawrence", "matt": "matthew", "dave": "david", "alex": "alexander", "sam": "samuel", "ben": "benjamin",
+    "nick": "nicholas", "pat": "patrick", "greg": "gregory", "jeff": "jeffrey", "tim": "timothy", "jon": "jonathan",
+    "sue": "susan", "peggy": "margaret", "meg": "margaret", "maggie": "margaret", "al": "alan", "fred": "frederick",
+}
+
+
+def _first_ok(a, b):
+    a, b = NICKNAMES.get(a, a), NICKNAMES.get(b, b)
     return a == b or (len(a) == 1 and b.startswith(a)) or (len(b) == 1 and a.startswith(b))
 
 
 def same_person(a, b):
     """Conservative match between two names.
 
-    Last names must be equal and first names compatible ('L.' matches 'Linda').
-    A full middle word on one side ('Linda Stein Gold') blocks a match with an
-    initial-only first name on the other ('L. Gold'), since 'Stein' may be part of the surname.
+    - Last names must be equal (hyphens and spaces ignored) and first names compatible:
+      'L.' matches 'Linda', 'Dan' matches 'Daniel', accents ignored.
+    - Middle initials are ignored ('Linda F. Stein Gold' = 'Linda Stein Gold'), but full middle
+      words must agree when both names have them.
+    - A full middle word on one side blocks a match with an initial-only first name on the other:
+      'L. Gold' does not match 'Linda Stein Gold', since 'Stein' may be part of the surname.
     """
     ka, kb = name_key(a), name_key(b)
-    if not ka or not kb or ka[1] != kb[1] or not _compatible(ka[0], kb[0]):
+    if not ka or not kb or ka[1] != kb[1] or not _first_ok(ka[0], kb[0]):
         return False
-    ma, mb = ka[2], kb[2]
-    if ma and mb:
-        return all(_compatible(x, y) for x, y in zip(ma, mb))
-    full_mid = [m for m in (ma or mb) if len(m) > 1]
-    other_first = kb[0] if ma else ka[0]
-    if full_mid and len(other_first) == 1:
+    full_a = [m for m in ka[2] if len(m) > 1]
+    full_b = [m for m in kb[2] if len(m) > 1]
+    if full_a and full_b:
+        return set(full_a) <= set(full_b) or set(full_b) <= set(full_a)
+    if (full_a and len(kb[0]) == 1) or (full_b and len(ka[0]) == 1):
+        return False
+    init_a = [m for m in ka[2] if len(m) == 1]
+    init_b = [m for m in kb[2] if len(m) == 1]
+    if init_a and init_b and init_a[0] != init_b[0]:   # 'Wei A. Wang' vs 'Wei B. Wang'
         return False
     return True

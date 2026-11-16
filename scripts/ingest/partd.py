@@ -22,7 +22,12 @@ FIELDS = ["npi", "last_name", "first_name", "credential", "specialty", "city", "
 
 def latest_dataset():
     cat = get(CATALOG)
-    ds = next(d for d in cat["dataset"] if d.get("title") == TITLE)
+    norm = lambda s: re.sub(r"[^a-z0-9]+", " ", (s or "").lower()).strip()
+    hits = [d for d in cat["dataset"] if "part d prescribers" in norm(d.get("title")) and "provider and drug" in norm(d.get("title"))]
+    if not hits:
+        names = sorted({d.get("title", "") for d in cat["dataset"] if "part d" in norm(d.get("title"))})
+        raise RuntimeError("Part D 'by Provider and Drug' dataset not found in the CMS catalog. Part D titles: " + "; ".join(names[:20]))
+    ds = hits[0]
     best = None
     for dist in ds.get("distribution", []):
         url = dist.get("accessURL") or dist.get("downloadURL") or ""

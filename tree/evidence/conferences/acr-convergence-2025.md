@@ -10,7 +10,8 @@ links:
   - {rel: covers, to: therapeutic-areas/immunology/rheumatology/psoriatic-arthritis}
   - {rel: covers, to: therapeutic-areas/immunology/rheumatology/rheumatoid-arthritis}
 sources:
-  - {title: "ConsultantLive: ACR Convergence 2025 recap, late-breaking trials", url: "https://www.consultantlive.com/view/acr-convergence-2025-recap-late-breaking-trials-to-know"}
+  - {title: "Rheum-Live: ACR Convergence 2025 recap, late-breaking trials (Nov 15, 2025)", url: "https://www.rheum-live.com/view/acr-convergence-2025-recap-late-breaking-trials-to-know"}
+  - {title: "ConsultantLive: same recap, original address (now returns not found)", url: "https://www.consultantlive.com/view/acr-convergence-2025-recap-late-breaking-trials-to-know"}
 ---
 
 Late-breaking trials in psoriatic arthritis and rheumatoid arthritis, with the presenter named in the recap. Late-breakers in other diseases (lupus, Sjögren's, osteoarthritis) are not in the tree yet.
@@ -34,4 +35,5 @@ Ranked by number of independent sources. Under each name is why they are listed 
 - **[Jonathan Graf](../../../people/jonathan-graf.md)** (1 source · last seen 2025)
   - presenter, late-breaker: rosnilimab phase 2b in RA · ACR Convergence 2025
 ### Sources
-- [ConsultantLive: ACR Convergence 2025 recap, late-breaking trials](https://www.consultantlive.com/view/acr-convergence-2025-recap-late-breaking-trials-to-know)
+- [Rheum-Live: ACR Convergence 2025 recap, late-breaking trials (Nov 15, 2025)](https://www.rheum-live.com/view/acr-convergence-2025-recap-late-breaking-trials-to-know)
+- [ConsultantLive: same recap, original address (now returns not found)](https://www.consultantlive.com/view/acr-convergence-2025-recap-late-breaking-trials-to-know)

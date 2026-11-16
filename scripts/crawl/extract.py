@@ -28,6 +28,8 @@ from util import EXTRACTED, RAW, fold, name_key, read_json, slug, sources, sourc
 def page_text(meta):
     path = RAW / f"{meta['id']}.{meta['ext']}"
     data = path.read_bytes()
+    if meta["ext"] == "txt":
+        return data.decode("utf-8")
     if meta["ext"] == "pdf":
         from pypdf import PdfReader
         return "\n".join((pg.extract_text() or "") for pg in PdfReader(io.BytesIO(data)).pages)
@@ -41,11 +43,14 @@ def page_text(meta):
 
 # ---------- layer 1: rules ----------
 
-DEG = (r"(?:M\.?D\.?|D\.?O\.?|Ph\.?D\.?|MPH|MSc|MS|MA|MBBS|MBChB|FRCPC|FRCP|FAAD|FACP|FACR|FACG|AGAF|FACE|FTOS|"
-       r"DABOM|MSCE|MHS|MBA|PharmD|DNP|NP|PA-C|RN|MMSc|FRACP|FRCPI|DPhil)")
-WORD = r"[A-ZÀ-Ý][A-Za-zÀ-ÿ'’\-]+"
+DEG_LIST = ("M.D.|MD|D.O.|DO|Ph.D.|PhD|MPH|MSc|MS|MA|MBBS|MBChB|FRCPC|FRCP|FAAD|FACP|FACR|FACG|AGAF|FACE|FTOS|"
+            "DABOM|MSCE|MHS|MBA|PharmD|DNP|NP|PA-C|RN|MMSc|FRACP|FRCPI|DPhil|JD|MSW|MSN|EdD|BCPS|BCPP|RPh|MPhil|CNSC|"
+            "DrPH|BSN|MHA|MSPH|FASGE|FAASLD|FRCSC|MBE|MD-PhD|M.D|Ph.D")
+DEG = "(?:" + "|".join(re.escape(d) + (r"(?![A-Za-z])") for d in DEG_LIST.split("|")) + ")"
+NOT_DEG = r"(?!(?:" + "|".join(re.escape(d) for d in DEG_LIST.split("|")) + r")(?![A-Za-z]))"
+WORD = rf"{NOT_DEG}[A-ZÀ-Ý][A-Za-zÀ-ÿ'’\-]+"
 NAME = rf"((?:{WORD}|[A-Z]\.)(?:\s+(?:{WORD}|[A-Z]\.|de|van|von|da|del|der|di|le|la|dos)){{1,4}})"
-WITH_DEG = re.compile(rf"{NAME},?\s+(?P<deg>{DEG}(?:\s*,\s*{DEG})*)\b")
+WITH_DEG = re.compile(rf"{NAME},?\s+(?P<deg>{DEG}(?:\s*,?\s*{DEG})*)")
 DR = re.compile(rf"\bDr\.?\s+{NAME}")
 ORG_WORDS = re.compile(r"University|Universit|Hospital|Medical|Center|Centre|Clinic|Institute|School|College|Health|"
                        r"Foundation|Pharma|Laborator|Research|Inc\b|LLC|Society|Association|Department|Faculty|FDA", re.I)
@@ -70,8 +75,28 @@ def guess_role(context):
     return "named"
 
 
+TITLE_WORDS = {"councilor", "member", "board", "president", "chair", "chairs", "professor", "prof", "director",
+               "relationships", "patient", "dr", "ceo", "officer", "vice", "executive", "chief", "founder",
+               "investigator", "lead", "senior", "associate", "assistant", "fellow", "editor", "session", "by",
+               "moderator", "faculty", "speaker", "speakers", "panelist", "panelists", "author", "authors",
+               "presenter", "co-chair", "cochair", "dean", "head", "emeritus", "resident", "attending"}
+PARTICLE_END = {"de", "van", "von", "da", "del", "der", "di", "le", "la", "dos"}
+
+
 def clean(name):
-    return re.sub(r"\s+", " ", name.replace("’", "'")).strip(" ,.")
+    """Tidy a matched name: drop job titles or headline words in front, acronyms, and trailing particles."""
+    name = re.sub(r"\s+", " ", name.replace("’", "'")).strip(" ,.")
+    name = re.sub(r"(?<![\w'])([A-Z])(?![\w.'])", r"\1.", name)   # 'Bruce E Strober' -> 'Bruce E. Strober'
+    toks = name.split()
+    cut = 0
+    for i, w in enumerate(toks[:-2]):  # keep at least two words for the name itself
+        acronym = 2 <= len(w) <= 5 and w.isupper() and not w.endswith(".") and not toks[i + 1].isupper()   # 'IPC Board Member ...'
+        if w.lower().strip(".,") in TITLE_WORDS or acronym:
+            cut = i + 1
+    toks = toks[cut:]
+    while toks and toks[-1].lower() in PARTICLE_END:
+        toks = toks[:-1]
+    return " ".join(toks)
 
 
 def rule_people(text):
@@ -112,6 +137,65 @@ def rule_people(text):
                               "affiliation": aff, "role": role, "topic": "",
                               "quote": line[start:m.end() + 160].strip(), "method": "rules"})
     return found
+
+
+AUTHOR_LABEL = re.compile(r"\b(authors?|by|faculty|speakers?|panel(ists)?|presenters?|investigators?|members?)\b", re.I)
+SHORT = re.compile(r"^((?:[A-ZÀ-Ý][a-zà-ÿ'’\-]+\s){0,2}[A-ZÀ-Ý][a-zà-ÿ'’\-]+)\s+([A-Z]{1,3})$")  # 'Stein Gold L', 'Strober BE'
+LAST_FIRST = re.compile(rf"^([A-ZÀ-Ý][A-Za-zà-ÿ'’\- ]+),\s+((?:{WORD}|[A-Z]\.?)(?:\s*(?:{WORD}|[A-Z]\.?))*)$")
+FIRST_LAST = re.compile(rf"^((?:{WORD}|[A-Z]\.)(?:\s+(?:{WORD}|[A-Z]\.|de|van|von|da|del|der|di)){{1,3}})$")
+
+
+def author_list_people(text):
+    """Plain author lists without degrees:
+    'Menter A, Strober BE, Kaplan DH' (PubMed style), 'Menter, Alan; Strober, Bruce E.', or
+    'Alan Menter, Bruce E. Strober, Daniel H. Kaplan' when the line or the one above says authors/faculty/by."""
+    lines = text.split("\n")
+    found = []
+    for i, line in enumerate(lines):
+        line = line.strip()
+        if line.count(",") + line.count(";") < 2 or len(line) > 4000:
+            continue
+        labelled = bool(AUTHOR_LABEL.search(line[:40])) or (i > 0 and bool(AUTHOR_LABEL.search(lines[i - 1][-60:])))
+        body = re.sub(r"^\s*[A-Za-z ]{0,25}:\s*", "", line)  # drop a leading 'Authors:' label
+        body = re.sub(r"\s*(et al\.?|and others)\s*\.?$", "", body)
+        for sep, kind in ((";", "last_first"), (",", "short"), (",", "first_last")):
+            items = [x.strip(" .*†‡§0-9") for x in re.split(rf"{sep}|\band\b|&", body) if x.strip(" .*†‡§0-9")]
+            if len(items) < 3:
+                continue
+            names = []
+            for it in items:
+                it = re.sub(r"\s*\d+(,\d+)*$", "", it)  # superscript affiliation numbers
+                if kind == "short" and (m := SHORT.match(it)):
+                    names.append(" ".join(c + "." for c in m.group(2)) + " " + m.group(1))
+                elif kind == "last_first" and (m := LAST_FIRST.match(it)):
+                    names.append(f"{m.group(2)} {m.group(1)}")
+                elif kind == "first_last" and labelled and (m := FIRST_LAST.match(it)):
+                    names.append(m.group(1))
+            if len(names) >= 3 and len(names) >= 0.7 * len(items):
+                for k, n in enumerate(names):
+                    n = clean(n)
+                    if NOT_NAME.search(n) or not name_key(n):
+                        continue
+                    found.append({"name": n, "credentials": "", "affiliation": "",
+                                  "role": "first author" if k == 0 else "author", "topic": "",
+                                  "quote": line[:300], "method": "rules"})
+                break
+    return found
+
+
+PUBMED_LINE = re.compile(r"^Author (\d+) of \d+: (.+?)(?: \| (.+))?$")
+
+
+def pubmed_people(text):
+    """Lines written by fetch.py's PubMed adapter: 'Author 1 of 12: Linda Stein Gold | Henry Ford Health'."""
+    out = []
+    for line in text.split("\n"):
+        m = PUBMED_LINE.match(line.strip())
+        if m and name_key(m.group(2)):
+            out.append({"name": m.group(2), "credentials": "", "affiliation": (m.group(3) or "")[:200],
+                        "role": "first author" if m.group(1) == "1" else "author", "topic": "",
+                        "quote": line.strip()[:300], "method": "rules"})
+    return out
 
 
 # ---------- layer 2: LLM ----------
@@ -212,8 +296,9 @@ def main():
         if entry["ok"]:
             text = page_text(meta)
             page = squash(text)
-            found = rule_people(text)
-            llm = llm_people(text, s)
+            found = rule_people(text) + author_list_people(text) + pubmed_people(text)
+            cap = int(os.environ.get("CRAWL_LLM_MAX_CHARS", "120000"))  # huge PDFs: the AI reads the start only
+            llm = llm_people(text[:cap], s)
             kept = [p for p in llm if grounded(p, page)]
             entry["llm_dropped_ungrounded"] = len(llm) - len(kept)
             entry["chars"] = len(text)

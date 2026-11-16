@@ -14,7 +14,33 @@ Writes crawl/report.md.
 """
 import collections
 
-from util import CRAWL, EXTRACTED, ROOT, frontmatter, read_json, same_person
+import re
+
+from util import CRAWL, EXTRACTED, RAW, ROOT, fold, frontmatter, name_key, read_json, same_person, source_id
+
+
+def page_texts(data):
+    """Text of each fetched page for this node, if the raw copies are here (they are on GitHub runs)."""
+    from extract import page_text
+    out = []
+    for s in data["sources"]:
+        meta = read_json(RAW / f"{source_id(s['url'])}.json")
+        if meta and meta.get("ok") and (RAW / f"{meta['id']}.{meta['ext']}").exists():
+            out.append(page_text(meta))
+    return out
+
+
+def near(texts, name):
+    """Where a missed person's last name appears on the page, to tell 'not on the page' from 'misread'."""
+    k = name_key(name)
+    if not k:
+        return None
+    for text in texts:
+        flat = re.sub(r"\s+", " ", text)
+        m = re.search(rf"(?i)\b{re.escape(k[1])}\b", fold(flat).replace("-", " "))
+        if m:
+            return flat[max(0, m.start() - 70):m.end() + 70].strip()
+    return ""
 
 def load_people():
     people = []
@@ -61,7 +87,13 @@ def main():
             state = f"ok ({s['method']}, {s.get('chars', 0):,} chars)" if s["ok"] else f"not fetched (status {s['status']}) {s.get('error', '')}"
             d.append(f"- [{s['title'] or s['url']}]({s['url']}): {state}, {len(s['people'])} people")
         if missed:
-            d += ["", "**Missed** (entered by hand, not found by the crawler): " + ", ".join(p["name"] for p in missed)]
+            texts = page_texts(data)
+            d += ["", "**Missed** (entered by hand, not found by the crawler):", ""]
+            for p in missed:
+                ctx = near(texts, p["name"]) if texts else None
+                where = ("page text not available here" if ctx is None else
+                         "name not on the page" if ctx == "" else f"on the page as: “…{ctx.replace('|', '/')}…”")
+                d.append(f"- {p['name']}: {where}")
         if new:
             d += ["", "**New candidates** (found, not in the graph):", ""]
             for x, _ in new[:40]:
