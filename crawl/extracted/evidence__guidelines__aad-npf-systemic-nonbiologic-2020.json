@@ -9,7 +9,437 @@
       "status": 200,
       "method": "http",
       "error": "",
-      "people": [],
+      "people": [
+        {
+          "name": "A. W. Armstrong",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Gelfand JM, Connor C, Armstrong AW, Cordoro KM, Davis DMR, Elewski BE, Gordon KB, Gottlieb AB, Kaplan DH, Kavanaugh A, Kiselica M, Kivelevitch D, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Prater EF, Rahimi RS, Rupani RN, Si"
+          ]
+        },
+        {
+          "name": "C. Connor",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Gelfand JM, Connor C, Armstrong AW, Cordoro KM, Davis DMR, Elewski BE, Gordon KB, Gottlieb AB, Kaplan DH, Kavanaugh A, Kiselica M, Kivelevitch D, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Prater EF, Rahimi RS, Rupani RN, Si"
+          ]
+        },
+        {
+          "name": "K. M. Cordoro",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Gelfand JM, Connor C, Armstrong AW, Cordoro KM, Davis DMR, Elewski BE, Gordon KB, Gottlieb AB, Kaplan DH, Kavanaugh A, Kiselica M, Kivelevitch D, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Prater EF, Rahimi RS, Rupani RN, Si"
+          ]
+        },
+        {
+          "name": "D. M. R. Davis",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Gelfand JM, Connor C, Armstrong AW, Cordoro KM, Davis DMR, Elewski BE, Gordon KB, Gottlieb AB, Kaplan DH, Kavanaugh A, Kiselica M, Kivelevitch D, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Prater EF, Rahimi RS, Rupani RN, Si"
+          ]
+        },
+        {
+          "name": "B. E. Elewski",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Gelfand JM, Connor C, Armstrong AW, Cordoro KM, Davis DMR, Elewski BE, Gordon KB, Gottlieb AB, Kaplan DH, Kavanaugh A, Kiselica M, Kivelevitch D, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Prater EF, Rahimi RS, Rupani RN, Si"
+          ]
+        },
+        {
+          "name": "J. M. Gelfand",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Gelfand JM, Connor C, Armstrong AW, Cordoro KM, Davis DMR, Elewski BE, Gordon KB, Gottlieb AB, Kaplan DH, Kavanaugh A, Kiselica M, Kivelevitch D, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Prater EF, Rahimi RS, Rupani RN, Si"
+          ]
+        },
+        {
+          "name": "K. B. Gordon",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Gelfand JM, Connor C, Armstrong AW, Cordoro KM, Davis DMR, Elewski BE, Gordon KB, Gottlieb AB, Kaplan DH, Kavanaugh A, Kiselica M, Kivelevitch D, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Prater EF, Rahimi RS, Rupani RN, Si"
+          ]
+        },
+        {
+          "name": "A. B. Gottlieb",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Gelfand JM, Connor C, Armstrong AW, Cordoro KM, Davis DMR, Elewski BE, Gordon KB, Gottlieb AB, Kaplan DH, Kavanaugh A, Kiselica M, Kivelevitch D, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Prater EF, Rahimi RS, Rupani RN, Si"
+          ]
+        },
+        {
+          "name": "V. Hariharan",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Gelfand JM, Connor C, Armstrong AW, Cordoro KM, Davis DMR, Elewski BE, Gordon KB, Gottlieb AB, Kaplan DH, Kavanaugh A, Kiselica M, Kivelevitch D, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Prater EF, Rahimi RS, Rupani RN, Si"
+          ]
+        },
+        {
+          "name": "D. H. Kaplan",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Gelfand JM, Connor C, Armstrong AW, Cordoro KM, Davis DMR, Elewski BE, Gordon KB, Gottlieb AB, Kaplan DH, Kavanaugh A, Kiselica M, Kivelevitch D, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Prater EF, Rahimi RS, Rupani RN, Si"
+          ]
+        },
+        {
+          "name": "A. Kavanaugh",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Gelfand JM, Connor C, Armstrong AW, Cordoro KM, Davis DMR, Elewski BE, Gordon KB, Gottlieb AB, Kaplan DH, Kavanaugh A, Kiselica M, Kivelevitch D, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Prater EF, Rahimi RS, Rupani RN, Si"
+          ]
+        },
+        {
+          "name": "M. Kiselica",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Gelfand JM, Connor C, Armstrong AW, Cordoro KM, Davis DMR, Elewski BE, Gordon KB, Gottlieb AB, Kaplan DH, Kavanaugh A, Kiselica M, Kivelevitch D, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Prater EF, Rahimi RS, Rupani RN, Si"
+          ]
+        },
+        {
+          "name": "D. Kivelevitch",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Gelfand JM, Connor C, Armstrong AW, Cordoro KM, Davis DMR, Elewski BE, Gordon KB, Gottlieb AB, Kaplan DH, Kavanaugh A, Kiselica M, Kivelevitch D, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Prater EF, Rahimi RS, Rupani RN, Si"
+          ]
+        },
+        {
+          "name": "N. J. Korman",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Gelfand JM, Connor C, Armstrong AW, Cordoro KM, Davis DMR, Elewski BE, Gordon KB, Gottlieb AB, Kaplan DH, Kavanaugh A, Kiselica M, Kivelevitch D, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Prater EF, Rahimi RS, Rupani RN, Si"
+          ]
+        },
+        {
+          "name": "D. Kroshinsky",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Gelfand JM, Connor C, Armstrong AW, Cordoro KM, Davis DMR, Elewski BE, Gordon KB, Gottlieb AB, Kaplan DH, Kavanaugh A, Kiselica M, Kivelevitch D, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Prater EF, Rahimi RS, Rupani RN, Si"
+          ]
+        },
+        {
+          "name": "M. Lebwohl",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Gelfand JM, Connor C, Armstrong AW, Cordoro KM, Davis DMR, Elewski BE, Gordon KB, Gottlieb AB, Kaplan DH, Kavanaugh A, Kiselica M, Kivelevitch D, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Prater EF, Rahimi RS, Rupani RN, Si"
+          ]
+        },
+        {
+          "name": "C. L. Leonardi",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Gelfand JM, Connor C, Armstrong AW, Cordoro KM, Davis DMR, Elewski BE, Gordon KB, Gottlieb AB, Kaplan DH, Kavanaugh A, Kiselica M, Kivelevitch D, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Prater EF, Rahimi RS, Rupani RN, Si"
+          ]
+        },
+        {
+          "name": "J. Lichten",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Gelfand JM, Connor C, Armstrong AW, Cordoro KM, Davis DMR, Elewski BE, Gordon KB, Gottlieb AB, Kaplan DH, Kavanaugh A, Kiselica M, Kivelevitch D, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Prater EF, Rahimi RS, Rupani RN, Si"
+          ]
+        },
+        {
+          "name": "H. W. Lim",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Gelfand JM, Connor C, Armstrong AW, Cordoro KM, Davis DMR, Elewski BE, Gordon KB, Gottlieb AB, Kaplan DH, Kavanaugh A, Kiselica M, Kivelevitch D, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Prater EF, Rahimi RS, Rupani RN, Si"
+          ]
+        },
+        {
+          "name": "N. N. Mehta",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Gelfand JM, Connor C, Armstrong AW, Cordoro KM, Davis DMR, Elewski BE, Gordon KB, Gottlieb AB, Kaplan DH, Kavanaugh A, Kiselica M, Kivelevitch D, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Prater EF, Rahimi RS, Rupani RN, Si"
+          ]
+        },
+        {
+          "name": "A. Menter",
+          "credentials": "",
+          "affiliation": "",
+          "role": "first author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Gelfand JM, Connor C, Armstrong AW, Cordoro KM, Davis DMR, Elewski BE, Gordon KB, Gottlieb AB, Kaplan DH, Kavanaugh A, Kiselica M, Kivelevitch D, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Prater EF, Rahimi RS, Rupani RN, Si"
+          ]
+        },
+        {
+          "name": "A. S. Paller",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Gelfand JM, Connor C, Armstrong AW, Cordoro KM, Davis DMR, Elewski BE, Gordon KB, Gottlieb AB, Kaplan DH, Kavanaugh A, Kiselica M, Kivelevitch D, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Prater EF, Rahimi RS, Rupani RN, Si"
+          ]
+        },
+        {
+          "name": "S. L. Parra",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Gelfand JM, Connor C, Armstrong AW, Cordoro KM, Davis DMR, Elewski BE, Gordon KB, Gottlieb AB, Kaplan DH, Kavanaugh A, Kiselica M, Kivelevitch D, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Prater EF, Rahimi RS, Rupani RN, Si"
+          ]
+        },
+        {
+          "name": "A. L. Pathy",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Gelfand JM, Connor C, Armstrong AW, Cordoro KM, Davis DMR, Elewski BE, Gordon KB, Gottlieb AB, Kaplan DH, Kavanaugh A, Kiselica M, Kivelevitch D, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Prater EF, Rahimi RS, Rupani RN, Si"
+          ]
+        },
+        {
+          "name": "E. F. Prater",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Gelfand JM, Connor C, Armstrong AW, Cordoro KM, Davis DMR, Elewski BE, Gordon KB, Gottlieb AB, Kaplan DH, Kavanaugh A, Kiselica M, Kivelevitch D, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Prater EF, Rahimi RS, Rupani RN, Si"
+          ]
+        },
+        {
+          "name": "R. S. Rahimi",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Gelfand JM, Connor C, Armstrong AW, Cordoro KM, Davis DMR, Elewski BE, Gordon KB, Gottlieb AB, Kaplan DH, Kavanaugh A, Kiselica M, Kivelevitch D, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Prater EF, Rahimi RS, Rupani RN, Si"
+          ]
+        },
+        {
+          "name": "R. N. Rupani",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Gelfand JM, Connor C, Armstrong AW, Cordoro KM, Davis DMR, Elewski BE, Gordon KB, Gottlieb AB, Kaplan DH, Kavanaugh A, Kiselica M, Kivelevitch D, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Prater EF, Rahimi RS, Rupani RN, Si"
+          ]
+        },
+        {
+          "name": "M. Siegel",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Gelfand JM, Connor C, Armstrong AW, Cordoro KM, Davis DMR, Elewski BE, Gordon KB, Gottlieb AB, Kaplan DH, Kavanaugh A, Kiselica M, Kivelevitch D, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Prater EF, Rahimi RS, Rupani RN, Si"
+          ]
+        },
+        {
+          "name": "B. Stoff",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Gelfand JM, Connor C, Armstrong AW, Cordoro KM, Davis DMR, Elewski BE, Gordon KB, Gottlieb AB, Kaplan DH, Kavanaugh A, Kiselica M, Kivelevitch D, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Prater EF, Rahimi RS, Rupani RN, Si"
+          ]
+        },
+        {
+          "name": "B. E. Strober",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Gelfand JM, Connor C, Armstrong AW, Cordoro KM, Davis DMR, Elewski BE, Gordon KB, Gottlieb AB, Kaplan DH, Kavanaugh A, Kiselica M, Kivelevitch D, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Prater EF, Rahimi RS, Rupani RN, Si"
+          ]
+        },
+        {
+          "name": "E. B. Tapper",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Gelfand JM, Connor C, Armstrong AW, Cordoro KM, Davis DMR, Elewski BE, Gordon KB, Gottlieb AB, Kaplan DH, Kavanaugh A, Kiselica M, Kivelevitch D, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Prater EF, Rahimi RS, Rupani RN, Si"
+          ]
+        },
+        {
+          "name": "E. B. Wong",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Gelfand JM, Connor C, Armstrong AW, Cordoro KM, Davis DMR, Elewski BE, Gordon KB, Gottlieb AB, Kaplan DH, Kavanaugh A, Kiselica M, Kivelevitch D, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Prater EF, Rahimi RS, Rupani RN, Si"
+          ]
+        },
+        {
+          "name": "J. J. Wu",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Gelfand JM, Connor C, Armstrong AW, Cordoro KM, Davis DMR, Elewski BE, Gordon KB, Gottlieb AB, Kaplan DH, Kavanaugh A, Kiselica M, Kivelevitch D, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Prater EF, Rahimi RS, Rupani RN, Si"
+          ]
+        }
+      ],
       "llm_dropped_ungrounded": 0,
       "chars": 2845
     }

@@ -13,11 +13,12 @@
         {
           "name": "Robert Bissonnette",
           "credentials": "MD",
-          "affiliation": "",
+          "affiliation": "Innovaderm Research, Montreal, Canada",
           "role": "presenter",
-          "topic": "",
+          "topic": "Icotrokinra ICONIC-LEAD phase 3 trial in plaque psoriasis",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
             "Robert Bissonnette, MD: Late-Breaking Data on Icotrokinra Shows Promising Efficacy and Safety in Psoriasis | Dermatology Times",
@@ -29,10 +30,11 @@
           "name": "Heidi Anne Duerr",
           "credentials": "MPH",
           "affiliation": "",
-          "role": "named",
+          "role": "author",
           "topic": "",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
             "Heidi Anne Duerr, MPH"

@@ -21,41 +21,47 @@
       "people": [
         {
           "name": "Vipul Jairath",
-          "credentials": "",
+          "credentials": "Dr.",
           "affiliation": "Placebo rates in randomized clinical trials of ulcerative colitis: An individual patient data meta-analysis",
           "role": "presenter",
-          "topic": "",
+          "topic": "Improvement in biomarkers in ulcerative colitis treated with vedolizumab: VERDICT trial",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
-            "Presenter: Dr. Vipul Jairath"
+            "Presenter: Dr. Vipul Jairath",
+            "Improvement in biomarkers in patients with ulcerative colitis treated with vedolizumab: Results from the continuing VERDICT trial\nPresenter: Dr. Vipul Jairath"
           ]
         },
         {
           "name": "Christopher Ma",
-          "credentials": "",
-          "affiliation": "",
+          "credentials": "Dr.",
+          "affiliation": "Alimentiv",
           "role": "presenter",
-          "topic": "",
+          "topic": "Endoscopic activity score for Crohn's disease (EASE-CD)",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
-            "Presenter: Dr. Christopher Ma"
+            "Presenter: Dr. Christopher Ma",
+            "Presenter: Dr. Christopher Ma"
           ]
         },
         {
           "name": "Virginia Solitano",
-          "credentials": "",
-          "affiliation": "",
+          "credentials": "Dr.",
+          "affiliation": "Alimentiv",
           "role": "presenter",
-          "topic": "",
+          "topic": "Placebo rates in randomized clinical trials of ulcerative colitis",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
-            "Presenter: Dr. Virginia Solitano"
+            "Presenter: Dr. Virginia Solitano",
+            "Presenter: Dr. Virginia Solitano"
           ]
         }
       ],

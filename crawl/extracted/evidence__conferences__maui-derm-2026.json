@@ -14,7 +14,7 @@
           "name": "Hilary Baldwin",
           "credentials": "MD",
           "affiliation": "",
-          "role": "named",
+          "role": "author",
           "topic": "",
           "methods": [
             "rules"
@@ -66,7 +66,7 @@
           "name": "Lawrence Eichenfield",
           "credentials": "MD",
           "affiliation": "",
-          "role": "named",
+          "role": "first author",
           "topic": "",
           "methods": [
             "rules"
@@ -80,7 +80,7 @@
           "name": "Ilona Frieden",
           "credentials": "MD",
           "affiliation": "",
-          "role": "named",
+          "role": "author",
           "topic": "",
           "methods": [
             "rules"
@@ -107,7 +107,7 @@
           "name": "Sharon Fallon Friedlander",
           "credentials": "MD",
           "affiliation": "",
-          "role": "named",
+          "role": "first author",
           "topic": "",
           "methods": [
             "rules"
@@ -120,7 +120,7 @@
           "name": "Linda Stein-Gold",
           "credentials": "MD",
           "affiliation": "",
-          "role": "named",
+          "role": "first author",
           "topic": "",
           "methods": [
             "rules"
@@ -133,7 +133,7 @@
           "name": "Kenneth Gordon",
           "credentials": "MD",
           "affiliation": "",
-          "role": "named",
+          "role": "author",
           "topic": "",
           "methods": [
             "rules"
@@ -159,7 +159,7 @@
           "name": "Julie Harper",
           "credentials": "MD",
           "affiliation": "",
-          "role": "named",
+          "role": "author",
           "topic": "",
           "methods": [
             "rules"
@@ -237,7 +237,7 @@
           "name": "Ashfaq Marghoob",
           "credentials": "MD",
           "affiliation": "",
-          "role": "named",
+          "role": "author",
           "topic": "",
           "methods": [
             "rules"
@@ -250,7 +250,7 @@
           "name": "George Martin",
           "credentials": "MD",
           "affiliation": "",
-          "role": "named",
+          "role": "author",
           "topic": "",
           "methods": [
             "rules"
@@ -263,7 +263,7 @@
           "name": "Philip Mease",
           "credentials": "MD",
           "affiliation": "",
-          "role": "named",
+          "role": "author",
           "topic": "",
           "methods": [
             "rules"
@@ -289,7 +289,7 @@
           "name": "Vikash Oza",
           "credentials": "MD",
           "affiliation": "",
-          "role": "named",
+          "role": "author",
           "topic": "",
           "methods": [
             "rules"
@@ -302,7 +302,7 @@
           "name": "Ted Rosen",
           "credentials": "MD",
           "affiliation": "",
-          "role": "named",
+          "role": "first author",
           "topic": "",
           "methods": [
             "rules"
@@ -316,7 +316,7 @@
           "name": "Chrysalyne Schmults",
           "credentials": "MD",
           "affiliation": "",
-          "role": "named",
+          "role": "author",
           "topic": "",
           "methods": [
             "rules"
@@ -329,7 +329,7 @@
           "name": "Elizabeth Seiverling",
           "credentials": "MD",
           "affiliation": "",
-          "role": "named",
+          "role": "first author",
           "topic": "",
           "methods": [
             "rules"
@@ -342,7 +342,7 @@
           "name": "Eingun James Song",
           "credentials": "MD",
           "affiliation": "",
-          "role": "named",
+          "role": "author",
           "topic": "",
           "methods": [
             "rules"
@@ -355,7 +355,7 @@
           "name": "James Treat",
           "credentials": "MD",
           "affiliation": "",
-          "role": "named",
+          "role": "author",
           "topic": "",
           "methods": [
             "rules"

@@ -12,7 +12,7 @@
       "people": [
         {
           "name": "Allan Gibofsky",
-          "credentials": "MD",
+          "credentials": "MD, JD, FACP",
           "affiliation": "",
           "role": "named",
           "topic": "",
@@ -25,29 +25,19 @@
           ]
         },
         {
-          "name": "Kenneth G. Saag MD",
-          "credentials": "MSc",
-          "affiliation": "",
-          "role": "named",
-          "topic": "",
-          "methods": [
-            "rules"
-          ],
-          "quotes": [
-            "Kenneth G. Saag MD, MSc"
-          ]
-        },
-        {
           "name": "Kenneth G. Saag",
           "credentials": "MD, MSc",
-          "affiliation": "",
-          "role": "named",
-          "topic": "",
+          "affiliation": "University of Alabama at Birmingham",
+          "role": "quoted",
+          "topic": "FDA termination of Arthritis Advisory Committee",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
-            "Kenneth G. Saag, MD, MSc,"
+            "Kenneth G. Saag, MD, MSc,",
+            "Kenneth G. Saag MD, MSc",
+            "“Regrettably, there are now several concerning recent examples of federal oversight bodies being curtailed or pruned of the experts best poised to protect our health,” said Saag"
           ]
         },
         {
@@ -64,7 +54,7 @@
           ]
         }
       ],
-      "llm_dropped_ungrounded": 0,
+      "llm_dropped_ungrounded": 2,
       "chars": 13056
     }
   ]

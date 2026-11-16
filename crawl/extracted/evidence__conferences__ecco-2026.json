@@ -9,7 +9,281 @@
       "status": 200,
       "method": "http",
       "error": "",
-      "people": [],
+      "people": [
+        {
+          "name": "A. Armuzzi",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Panés J, Hisamats T, Armuzzi A, et al. Corticosteroid sparing effects of treatment with guselkumab in patients with moderately to severely active Crohn’s disease: Phase 3 GALAXI 2/3 results through week 48. Presented at ECCO 2025; P0917."
+          ]
+        },
+        {
+          "name": "Axel Dignass",
+          "credentials": "",
+          "affiliation": "",
+          "role": "first author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "• Presenters: Anthony Buisson, Axel Dignass, Catherine Reenaers and Stefan Schreiber"
+          ]
+        },
+        {
+          "name": "A. Dignass",
+          "credentials": "",
+          "affiliation": "",
+          "role": "first author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Dignass A, Hirai F, Saruta M, et al. Symptomatic improvement with intravenous guselkumab induction therapy is observed early in patients with moderately to severely active Ulcerative Colitis: post-hoc analysis of QUASAR. Presented at ECCO 2026; OP10."
+          ]
+        },
+        {
+          "name": "J. Gorospe",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Hracs L, Windsor JW, Gorospe J, et al; Global IBD Visualization of Epidemiology Studies in the 21st Century (GIVES-21) Research Group. Global evolution of inflammatory bowel disease across epidemiologic stages. Nature 2025;642:458–66. doi: 10.1038/s41586-025-08940-0."
+          ]
+        },
+        {
+          "name": "D. Hammaker",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Sachen KL, Hammaker D, Sarabia I, et al. Guselkumab binding to CD64+ IL-23-producing myeloid cells enhances potency for neutralizing IL-23 signaling. Front Immunol 2025;16:1532852. doi: 10.3389/fimmu.2025.1532852. eCollection 2025."
+          ]
+        },
+        {
+          "name": "A. Hart",
+          "credentials": "",
+          "affiliation": "",
+          "role": "first author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Hart A, Panaccione R, Steinwurz F, et al. Corticosteroid sparing effects of treatment with guselkumab in patients with moderately to severely active Crohn’s disease: Phase 3 GRAVITI study results through week 48. Presented at ECCO 2025; P0872."
+          ]
+        },
+        {
+          "name": "F. Hirai",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Dignass A, Hirai F, Saruta M, et al. Symptomatic improvement with intravenous guselkumab induction therapy is observed early in patients with moderately to severely active Ulcerative Colitis: post-hoc analysis of QUASAR. Presented at ECCO 2026; OP10."
+          ]
+        },
+        {
+          "name": "T. Hisamats",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Panés J, Hisamats T, Armuzzi A, et al. Corticosteroid sparing effects of treatment with guselkumab in patients with moderately to severely active Crohn’s disease: Phase 3 GALAXI 2/3 results through week 48. Presented at ECCO 2025; P0917."
+          ]
+        },
+        {
+          "name": "L. Hracs",
+          "credentials": "",
+          "affiliation": "",
+          "role": "first author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Hracs L, Windsor JW, Gorospe J, et al; Global IBD Visualization of Epidemiology Studies in the 21st Century (GIVES-21) Research Group. Global evolution of inflammatory bowel disease across epidemiologic stages. Nature 2025;642:458–66. doi: 10.1038/s41586-025-08940-0."
+          ]
+        },
+        {
+          "name": "James Lindsay",
+          "credentials": "",
+          "affiliation": "",
+          "role": "first author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "• Presenters: Ailsa Hart, James Lindsay, Elisabeth Schnoy and Bram Verstockt"
+          ]
+        },
+        {
+          "name": "R. Panaccione",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Hart A, Panaccione R, Steinwurz F, et al. Corticosteroid sparing effects of treatment with guselkumab in patients with moderately to severely active Crohn’s disease: Phase 3 GRAVITI study results through week 48. Presented at ECCO 2025; P0872."
+          ]
+        },
+        {
+          "name": "J. Panés",
+          "credentials": "",
+          "affiliation": "",
+          "role": "first author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Panés J, Hisamats T, Armuzzi A, et al. Corticosteroid sparing effects of treatment with guselkumab in patients with moderately to severely active Crohn’s disease: Phase 3 GALAXI 2/3 results through week 48. Presented at ECCO 2025; P0917."
+          ]
+        },
+        {
+          "name": "Catherine Reenaers",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "• Presenters: Anthony Buisson, Axel Dignass, Catherine Reenaers and Stefan Schreiber"
+          ]
+        },
+        {
+          "name": "K. L. Sachen",
+          "credentials": "",
+          "affiliation": "",
+          "role": "first author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Sachen KL, Hammaker D, Sarabia I, et al. Guselkumab binding to CD64+ IL-23-producing myeloid cells enhances potency for neutralizing IL-23 signaling. Front Immunol 2025;16:1532852. doi: 10.3389/fimmu.2025.1532852. eCollection 2025."
+          ]
+        },
+        {
+          "name": "I. Sarabia",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Sachen KL, Hammaker D, Sarabia I, et al. Guselkumab binding to CD64+ IL-23-producing myeloid cells enhances potency for neutralizing IL-23 signaling. Front Immunol 2025;16:1532852. doi: 10.3389/fimmu.2025.1532852. eCollection 2025."
+          ]
+        },
+        {
+          "name": "M. Saruta",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Dignass A, Hirai F, Saruta M, et al. Symptomatic improvement with intravenous guselkumab induction therapy is observed early in patients with moderately to severely active Ulcerative Colitis: post-hoc analysis of QUASAR. Presented at ECCO 2026; OP10."
+          ]
+        },
+        {
+          "name": "Elisabeth Schnoy",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "• Presenters: Ailsa Hart, James Lindsay, Elisabeth Schnoy and Bram Verstockt"
+          ]
+        },
+        {
+          "name": "Stefan Schreiber",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "• Presenters: Anthony Buisson, Axel Dignass, Catherine Reenaers and Stefan Schreiber"
+          ]
+        },
+        {
+          "name": "F. Steinwurz",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Hart A, Panaccione R, Steinwurz F, et al. Corticosteroid sparing effects of treatment with guselkumab in patients with moderately to severely active Crohn’s disease: Phase 3 GRAVITI study results through week 48. Presented at ECCO 2025; P0872."
+          ]
+        },
+        {
+          "name": "Bram Verstockt",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "• Presenters: Ailsa Hart, James Lindsay, Elisabeth Schnoy and Bram Verstockt"
+          ]
+        },
+        {
+          "name": "J. W. Windsor",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Hracs L, Windsor JW, Gorospe J, et al; Global IBD Visualization of Epidemiology Studies in the 21st Century (GIVES-21) Research Group. Global evolution of inflammatory bowel disease across epidemiologic stages. Nature 2025;642:458–66. doi: 10.1038/s41586-025-08940-0."
+          ]
+        }
+      ],
       "llm_dropped_ungrounded": 0,
       "chars": 12346
     },

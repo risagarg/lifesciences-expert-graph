@@ -13,92 +13,106 @@
         {
           "name": "LaToya Bonner",
           "credentials": "PharmD",
-          "affiliation": "",
+          "affiliation": "Division of Advisory Committee and Consultant, Office of Executive Programs, Center for Drug Evaluation and Research, Food and Drug Administration",
           "role": "named",
-          "topic": "",
+          "topic": "Designated Federal Officer",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
-            "LaToya Bonner, PharmD"
+            "LaToya Bonner, PharmD",
+            "Designated Federal Officer:\nLaToya Bonner, PharmD"
           ]
         },
         {
           "name": "James Chodosh",
           "credentials": "MD, MPH",
-          "affiliation": "",
-          "role": "named",
-          "topic": "",
+          "affiliation": "Department of Ophthalmology and Visual Sciences, University of New Mexico School of Medicine",
+          "role": "chair",
+          "topic": "Ophthalmology",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
-            "James Chodosh, MD, MPH"
+            "James Chodosh, MD, MPH",
+            "Chairperson:\nJames Chodosh, MD, MPH"
           ]
         },
         {
           "name": "Todd Durham",
           "credentials": "MS, PhD",
-          "affiliation": "",
-          "role": "named",
-          "topic": "",
+          "affiliation": "Foundation Fighting Blindness",
+          "role": "member",
+          "topic": "Ophthalmology, Dermatology (Consumer Representative)",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
-            "*Todd Durham, MS, PhD"
+            "*Todd Durham, MS, PhD",
+            "*Todd Durham, MS, PhD\nExpertise: Ophthalmology, Dermatology"
           ]
         },
         {
           "name": "Brian Green",
           "credentials": "DO, MS, FAAD",
-          "affiliation": "",
-          "role": "named",
-          "topic": "",
+          "affiliation": "Penn State Health Milton S. Hershey Medical Center, Department of Dermatology",
+          "role": "member",
+          "topic": "Dermatology and Pediatric Dermatology",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
-            "Brian Green, DO, MS, FAAD"
+            "Brian Green, DO, MS, FAAD",
+            "Brian Green, DO, MS, FAAD\nExpertise: Dermatology and Pediatric Dermatology"
           ]
         },
         {
           "name": "Lotus Mallbris",
           "credentials": "MD, PhD, MBA",
-          "affiliation": "",
-          "role": "named",
-          "topic": "",
+          "affiliation": "Eli Lilly and Company",
+          "role": "member",
+          "topic": "Dermatology (Industry Representative, non-voting)",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
-            "Lotus Mallbris, MD, PhD, MBA"
+            "Lotus Mallbris, MD, PhD, MBA",
+            "Lotus Mallbris, MD, PhD, MBA\nExpertise: Dermatology"
           ]
         },
         {
           "name": "Megha Tollefson",
           "credentials": "MD",
-          "affiliation": "",
-          "role": "named",
-          "topic": "",
+          "affiliation": "Mayo Clinic and Mayo Clinic College of Medicine and Science",
+          "role": "member",
+          "topic": "Dermatology",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
-            "Megha Tollefson, MD"
+            "Megha Tollefson, MD",
+            "Megha Tollefson, MD\nExpertise: Dermatology"
           ]
         },
         {
           "name": "Benjamin Y. Xu",
           "credentials": "MD, PhD",
-          "affiliation": "",
-          "role": "named",
-          "topic": "",
+          "affiliation": "USC Roski Eye Institute, Keck Medicine of University of Southern California",
+          "role": "member",
+          "topic": "Ophthalmology",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
-            "Benjamin Y. Xu, MD, PhD"
+            "Benjamin Y. Xu, MD, PhD",
+            "Benjamin Y. Xu, MD, PhD\nExpertise: Ophthalmology"
           ]
         }
       ],

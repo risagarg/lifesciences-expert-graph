@@ -27,40 +27,59 @@
           "name": "Reiner Banken",
           "credentials": "MD, MSc",
           "affiliation": "David Veenstra, PharmD, PhD University of Washington None",
-          "role": "named",
-          "topic": "",
+          "role": "first author",
+          "topic": "Plaque psoriasis condition update",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
             "Reiner Banken, MD, MSc",
-            "Reiner Banken, MD MSc ICER None"
+            "Reiner Banken, MD MSc ICER None",
+            "Reiner Banken served as the lead author for the report."
           ]
         },
         {
           "name": "Rick Chapman",
           "credentials": "PhD, MS",
           "affiliation": "Director of Health Economics",
-          "role": "named",
+          "role": "author",
+          "topic": "cost-effectiveness analyses and budget impact model",
+          "methods": [
+            "rules",
+            "llm"
+          ],
+          "quotes": [
+            "Rick Chapman, PhD, MS",
+            "Rick Chapman was responsible for oversight of the cost-\neffectiveness analyses and developed the budget impact model."
+          ]
+        },
+        {
+          "name": "S. Dias",
+          "credentials": "",
+          "affiliation": "",
+          "role": "first author",
           "topic": "",
           "methods": [
             "rules"
           ],
           "quotes": [
-            "Rick Chapman, PhD, MS"
+            "90. Dias S, Welton NJ, Sutton AJ, Ades AE. NICE DSU Technical Support Document 2: A Generalised"
           ]
         },
         {
           "name": "Alexandra Ellis",
           "credentials": "MSc",
-          "affiliation": "",
-          "role": "named",
-          "topic": "",
+          "affiliation": "Institute for Clinical and Economic Review",
+          "role": "author",
+          "topic": "methodologic guidance",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
-            "Alexandra Ellis, MSc, AM"
+            "Alexandra Ellis, MSc, AM",
+            "Alexandra Ellis, Daniel Ollendorf, and Steven Pearson provided methodologic \nguidance on the clinical and economic evaluations."
           ]
         },
         {
@@ -77,9 +96,22 @@
           ]
         },
         {
+          "name": "Katherine Fazioli",
+          "credentials": "BS",
+          "affiliation": "Institute for Clinical and Economic Review",
+          "role": "author",
+          "topic": "systematic review and network meta-analysis",
+          "methods": [
+            "llm"
+          ],
+          "quotes": [
+            "Katherine Fazioli assisted with the \n systematic review and network meta-analysis."
+          ]
+        },
+        {
           "name": "Claudia B. Gruss",
-          "credentials": "MD, FACP, FACG",
-          "affiliation": "CNSC  Western Connecticut Medical Group *",
+          "credentials": "MD, FACP, FACG, CNSC",
+          "affiliation": "Stephen Kogut, PhD, MBA, RPh University of Rhode Island College of",
           "role": "named",
           "topic": "",
           "methods": [
@@ -90,16 +122,46 @@
           ]
         },
         {
-          "name": "Nathaniel Hendrix",
-          "credentials": "PharmD",
-          "affiliation": "Pharmaceutical Outcomes Research and Policy",
+          "name": "Claudio W. Gualtieri",
+          "credentials": "JD",
+          "affiliation": "Claudia B. Gruss, MD, FACP, FACG, CNSC  Western Connecticut Medical Group *",
           "role": "named",
           "topic": "",
           "methods": [
             "rules"
           ],
           "quotes": [
+            "Claudio W. Gualtieri, JD  AARP *"
+          ]
+        },
+        {
+          "name": "Nathaniel Hendrix",
+          "credentials": "PharmD",
+          "affiliation": "Pharmaceutical Outcomes Research and Policy",
+          "role": "author",
+          "topic": "cost-effectiveness model",
+          "methods": [
+            "rules",
+            "llm"
+          ],
+          "quotes": [
             "Nathaniel Hendrix, PharmD"
+          ]
+        },
+        {
+          "name": "Leah McCormick Howard",
+          "credentials": "JD",
+          "affiliation": "National Psoriasis Foundation",
+          "role": "speaker",
+          "topic": "expert reviewer",
+          "methods": [
+            "rules",
+            "llm"
+          ],
+          "quotes": [
+            "Leah McCormick Howard, JD Chief Operating Officer",
+            "Leah McCormick Howard, JD",
+            "Leah McCormick Howard, J.D."
           ]
         },
         {
@@ -120,19 +182,21 @@
           "credentials": "MD",
           "affiliation": "Harvard Medical Faculty Physicians",
           "role": "named",
-          "topic": "",
+          "topic": "expert reviewer",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
             "Alexa B. Kimball, MD",
-            "Alexa B. Kimball, MD Beth Israel"
+            "Alexa B. Kimball, MD Beth Israel",
+            "Alexa B. Kimball, MD \nHarvard Medical Faculty Physicians \nBeth Israel Deaconess Medical Center"
           ]
         },
         {
           "name": "Stephen Kogut",
-          "credentials": "PhD, MBA",
-          "affiliation": "RPh University of Rhode Island College of",
+          "credentials": "PhD, MBA, RPh",
+          "affiliation": "Pharmacy",
           "role": "named",
           "topic": "",
           "methods": [
@@ -143,13 +207,40 @@
           ]
         },
         {
-          "name": "Joseph F. Merola",
-          "credentials": "MD",
-          "affiliation": "Assistant Professor, Director of the Center for Skin and Related Musculoskeletal Disease",
-          "role": "named",
+          "name": "C. L. Leonardi",
+          "credentials": "",
+          "affiliation": "",
+          "role": "first author",
           "topic": "",
           "methods": [
             "rules"
+          ],
+          "quotes": [
+            "99. Leonardi CL, Powers JL, Matheson RT, et al. Etanercept as monotherapy in patients with"
+          ]
+        },
+        {
+          "name": "R. T. Matheson",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "99. Leonardi CL, Powers JL, Matheson RT, et al. Etanercept as monotherapy in patients with"
+          ]
+        },
+        {
+          "name": "Joseph F. Merola",
+          "credentials": "MD MMSc",
+          "affiliation": "Assistant Professor, Director of the Center for Skin and Related Musculoskeletal Disease",
+          "role": "named",
+          "topic": "expert reviewer",
+          "methods": [
+            "rules",
+            "llm"
           ],
           "quotes": [
             "Joseph F. Merola, MD MMSc"
@@ -157,8 +248,8 @@
         },
         {
           "name": "Stephanie Nichols",
-          "credentials": "PharmD",
-          "affiliation": "BCPS, BCPP Husson University",
+          "credentials": "PharmD, BCPS, BCPP",
+          "affiliation": "Brian P. O'Sullivan, MD Dartmouth College *",
           "role": "named",
           "topic": "",
           "methods": [
@@ -184,14 +275,16 @@
         {
           "name": "Daniel A. Ollendorf",
           "credentials": "PhD",
-          "affiliation": "",
-          "role": "named",
-          "topic": "",
+          "affiliation": "Institute for Clinical and Economic Review",
+          "role": "author",
+          "topic": "methodologic guidance",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
-            "Daniel A. Ollendorf, PhD"
+            "Daniel A. Ollendorf, PhD",
+            "Alexandra Ellis, Daniel Ollendorf, and Steven Pearson provided methodologic \nguidance on the clinical and economic evaluations."
           ]
         },
         {
@@ -211,14 +304,29 @@
         {
           "name": "Steven D. Pearson",
           "credentials": "MD, MSc",
+          "affiliation": "Institute for Clinical and Economic Review",
+          "role": "author",
+          "topic": "methodologic guidance",
+          "methods": [
+            "rules",
+            "llm"
+          ],
+          "quotes": [
+            "Steven D. Pearson, MD, MSc",
+            "Alexandra Ellis, Daniel Ollendorf, and Steven Pearson provided methodologic \nguidance on the clinical and economic evaluations."
+          ]
+        },
+        {
+          "name": "J. L. Powers",
+          "credentials": "",
           "affiliation": "",
-          "role": "named",
+          "role": "author",
           "topic": "",
           "methods": [
             "rules"
           ],
           "quotes": [
-            "Steven D. Pearson, MD, MSc"
+            "99. Leonardi CL, Powers JL, Matheson RT, et al. Etanercept as monotherapy in patients with"
           ]
         },
         {
@@ -226,9 +334,10 @@
           "credentials": "PhD",
           "affiliation": "Senior Researcher Health Economics",
           "role": "named",
-          "topic": "",
+          "topic": "expert reviewer",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
             "Bram Ramaekers, PhD"
@@ -236,8 +345,8 @@
         },
         {
           "name": "Jeanne Ryer",
-          "credentials": "MSc",
-          "affiliation": "EdD New Hampshire Citizens Health Initiative *",
+          "credentials": "MSc, EdD",
+          "affiliation": "Jason Wasfy, MD, MPhil Massachusetts General Hospital *",
           "role": "named",
           "topic": "",
           "methods": [
@@ -245,6 +354,19 @@
           ],
           "quotes": [
             "Jeanne Ryer, MSc, EdD New Hampshire Citizens Health Initiative *"
+          ]
+        },
+        {
+          "name": "Celia Segel",
+          "credentials": "MPP",
+          "affiliation": "Institute for Clinical and Economic Review",
+          "role": "author",
+          "topic": "coverage policies and clinical guidelines",
+          "methods": [
+            "llm"
+          ],
+          "quotes": [
+            "Celia Segel authored the section on coverage \npolicies and clinical guidelines."
           ]
         },
         {
@@ -261,23 +383,38 @@
           ]
         },
         {
-          "name": "David L. Veenstra",
-          "credentials": "PharmD, PhD",
+          "name": "A. J. Sutton",
+          "credentials": "",
           "affiliation": "",
-          "role": "named",
+          "role": "author",
           "topic": "",
           "methods": [
             "rules"
           ],
           "quotes": [
+            "90. Dias S, Welton NJ, Sutton AJ, Ades AE. NICE DSU Technical Support Document 2: A Generalised"
+          ]
+        },
+        {
+          "name": "David L. Veenstra",
+          "credentials": "PharmD, PhD",
+          "affiliation": "University of Washington School of Pharmacy Modeling Group; The Comparative Health, Outcomes, Policy, and Economics Institute",
+          "role": "author",
+          "topic": "cost-effectiveness model",
+          "methods": [
+            "rules",
+            "llm"
+          ],
+          "quotes": [
             "David L. Veenstra, PharmD, PhD",
-            "David Veenstra, PharmD, PhD University of Washington None"
+            "David Veenstra, PharmD, PhD University of Washington None",
+            "David L. Veenstra, PharmD, PhD  \nProfessor and Associate Director"
           ]
         },
         {
           "name": "Jason Wasfy",
-          "credentials": "MD",
-          "affiliation": "MPhil Massachusetts General Hospital *",
+          "credentials": "MD, MPhil",
+          "affiliation": "Rev. Albert Whitaker, MA American Diabetes Association *",
           "role": "named",
           "topic": "",
           "methods": [
@@ -285,6 +422,19 @@
           ],
           "quotes": [
             "Jason Wasfy, MD, MPhil Massachusetts General Hospital *"
+          ]
+        },
+        {
+          "name": "N. J. Welton",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "90. Dias S, Welton NJ, Sutton AJ, Ades AE. NICE DSU Technical Support Document 2: A Generalised"
           ]
         },
         {
@@ -301,7 +451,7 @@
           ]
         }
       ],
-      "llm_dropped_ungrounded": 0,
+      "llm_dropped_ungrounded": 1,
       "chars": 653428
     }
   ]

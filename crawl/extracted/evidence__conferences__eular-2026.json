@@ -14,26 +14,30 @@
           "name": "Jack Arnolds",
           "credentials": "MBBS, PhD",
           "affiliation": "",
-          "role": "named",
-          "topic": "",
+          "role": "speaker",
+          "topic": "Joint Ventures podcast preview",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
-            "of hosts’ Jack Arnolds, MBBS, PhD, and Rihards Buss, MD, most anticipated sessions and data readouts."
+            "of hosts’ Jack Arnolds, MBBS, PhD, and Rihards Buss, MD, most anticipated sessions and data readouts.",
+            "hosts’ Jack Arnolds, MBBS, PhD, and Rihards Buss, MD"
           ]
         },
         {
           "name": "Xenofon Baraliakos",
           "credentials": "MD",
-          "affiliation": "",
+          "affiliation": "Rheumazentrum Ruhrgebiet (Herne)",
           "role": "author",
-          "topic": "",
+          "topic": "S-OLARIS trial of sonelokimab in axSpA",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
-            "Xenofon Baraliakos, MD"
+            "Xenofon Baraliakos, MD",
+            "Xenofon Baraliakos, MD\n — Rheumazentrum Ruhrgebiet (Herne), who will discuss clinical and imaging outcomes from the phase 2 S-OLARIS trial"
           ]
         },
         {
@@ -53,39 +57,45 @@
           "name": "Rihards Buss",
           "credentials": "MD",
           "affiliation": "",
-          "role": "named",
-          "topic": "",
+          "role": "speaker",
+          "topic": "Joint Ventures podcast preview",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
-            "of hosts’ Jack Arnolds, MBBS, PhD, and Rihards Buss, MD, most anticipated sessions and data readouts."
+            "of hosts’ Jack Arnolds, MBBS, PhD, and Rihards Buss, MD, most anticipated sessions and data readouts.",
+            "hosts’ Jack Arnolds, MBBS, PhD, and Rihards Buss, MD"
           ]
         },
         {
           "name": "Laura C. Coates",
           "credentials": "MD, PhD",
-          "affiliation": "",
-          "role": "named",
-          "topic": "",
+          "affiliation": "University of Oxford",
+          "role": "speaker",
+          "topic": "TOGETHER-PsA trial of ixekizumab and tirzepatide",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
-            "Laura C. Coates, MD, PhD"
+            "Laura C. Coates, MD, PhD",
+            "Laura C. Coates, MD, PhD\n — University of Oxford, who will discuss the phase 3b TOGETHER-PsA trial"
           ]
         },
         {
           "name": "Anisha Dua",
           "credentials": "MD",
           "affiliation": "— Northwestern University, who will discuss 2-year outcomes by disease onset type from the SELECT-GCA phase 3 trial of upadacitinib in giant cell arteritis",
-          "role": "named",
-          "topic": "",
+          "role": "speaker",
+          "topic": "SELECT-GCA 2-year outcomes of upadacitinib",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
-            "Anisha Dua, MD"
+            "Anisha Dua, MD",
+            "Anisha Dua, MD\n — Northwestern University, who will discuss 2-year outcomes by disease onset type from the SELECT-GCA phase 3 trial"
           ]
         },
         {
@@ -93,9 +103,10 @@
           "credentials": "MD",
           "affiliation": "",
           "role": "presenter",
-          "topic": "",
+          "topic": "Nipocalimab JASMINE-SLE",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
             "Richard A. Furie, MD"
@@ -105,49 +116,69 @@
           "name": "Norman Gaylis",
           "credentials": "MD",
           "affiliation": "",
-          "role": "named",
-          "topic": "",
+          "role": "presenter",
+          "topic": "AB-101 allogeneic NK cell therapy with rituximab",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
-            ": Norman Gaylis, MD"
+            ": Norman Gaylis, MD",
+            "Presenter\n: Norman Gaylis, MD"
+          ]
+        },
+        {
+          "name": "Victoria Johnson",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "EULAR 2026 coverage preview",
+          "methods": [
+            "llm"
+          ],
+          "quotes": [
+            "Author(s)\nVictoria Johnson"
           ]
         },
         {
           "name": "Philip J. Mease",
           "credentials": "MD",
-          "affiliation": "",
-          "role": "named",
-          "topic": "",
+          "affiliation": "Providence Swedish Medical Center (Seattle)",
+          "role": "speaker",
+          "topic": "Izokibep week 52 data in PsA; risankizumab real-world comparative data",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
-            "Philip J. Mease, MD"
+            "Philip J. Mease, MD",
+            "Philip J. Mease, MD\n — Providence Swedish Medical Center (Seattle), who will discuss the week 52 durability data from the phase 2b/3 trial of izokibep in active psoriatic arthritis (PsA)"
           ]
         },
         {
           "name": "Joseph F. Merola",
           "credentials": "MD",
           "affiliation": "",
-          "role": "named",
-          "topic": "",
+          "role": "presenter",
+          "topic": "BE BOLD: bimekizumab vs risankizumab in PsA",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
-            ": Joseph F. Merola, MD"
+            ": Joseph F. Merola, MD",
+            "Presenter\n: Joseph F. Merola, MD"
           ]
         },
         {
           "name": "Liying Peng",
           "credentials": "MD",
-          "affiliation": "",
+          "affiliation": "Peking Union Medical College Hospital",
           "role": "presenter",
-          "topic": "",
+          "topic": "Sirolimus in active SLE",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
             "Liying Peng, MD"
@@ -158,9 +189,10 @@
           "credentials": "MD",
           "affiliation": "",
           "role": "presenter",
-          "topic": "",
+          "topic": "JAK-SPARE baricitinib in PMR",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
             "Helga Lechner-Radner, MD"
@@ -171,17 +203,19 @@
           "credentials": "MD",
           "affiliation": "— IRCCS San Raffaele Hospital (Milan), who will discuss the phase 3 INDIGO trial of obexelimab, a B cell inhibitor, in IgG4-related disease",
           "role": "presenter",
-          "topic": "",
+          "topic": "INDIGO trial of obexelimab in IgG4-RD",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
-            "Emanuel Della Torre, MD"
+            "Emanuel Della Torre, MD",
+            "Emanuel Della Torre, MD\n — IRCCS San Raffaele Hospital (Milan), who will discuss the phase 3 INDIGO trial of obexelimab"
           ]
         }
       ],
       "llm_dropped_ungrounded": 0,
-      "chars": 12402
+      "chars": 12411
     }
   ]
 }

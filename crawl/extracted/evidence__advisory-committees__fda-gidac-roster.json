@@ -13,66 +13,76 @@
         {
           "name": "Christopher S. Coffey",
           "credentials": "PhD, MS",
-          "affiliation": "",
-          "role": "named",
-          "topic": "",
+          "affiliation": "University of Iowa",
+          "role": "member",
+          "topic": "Biostatistics",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
-            "Christopher S. Coffey, PhD, MS"
+            "Christopher S. Coffey, PhD, MS",
+            "Christopher S. Coffey, PhD, MS\nExpertise: Biostatistics\nTerm: 6/27/2024–6/30/2026"
           ]
         },
         {
           "name": "Wallace V. Crandall",
-          "credentials": "M.D",
-          "affiliation": "",
-          "role": "named",
-          "topic": "",
+          "credentials": "M.D.",
+          "affiliation": "Eli Lilly and Company",
+          "role": "member",
+          "topic": "Pediatric Gastroenterology, Late Phase Drug Development",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
-            "Wallace V. Crandall, M.D., M.M.M."
+            "Wallace V. Crandall, M.D., M.M.M.",
+            "Wallace V. Crandall, M.D., M.M.M.\nExpertise: Pediatric Gastroenterology, Late Phase Drug Development"
           ]
         },
         {
           "name": "Theo Heller",
           "credentials": "MD",
-          "affiliation": "",
-          "role": "named",
-          "topic": "",
+          "affiliation": "National Institute of Diabetes and Digestive Kidney Diseases, National Institutes of Health",
+          "role": "member",
+          "topic": "Hepatology",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
-            "Theo Heller, MD"
+            "Theo Heller, MD",
+            "Theo Heller, MD\nExpertise: Hepatology\nTerm: 9/9/2024 – 6/30/2028"
           ]
         },
         {
           "name": "Brian P. Lee",
           "credentials": "MD",
-          "affiliation": "",
-          "role": "named",
-          "topic": "",
+          "affiliation": "Keck School of Medicine, University of Southern California",
+          "role": "member",
+          "topic": "Hepatology",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
-            "Brian P. Lee, MD, MAS"
+            "Brian P. Lee, MD, MAS",
+            "Brian P. Lee, MD, MAS\nExpertise: Hepatology\nTerm: 9/9/2024 – 6/30/2028"
           ]
         },
         {
           "name": "Jessica Seo",
           "credentials": "PharmD, MPH",
-          "affiliation": "",
-          "role": "named",
-          "topic": "",
+          "affiliation": "Division of Advisory Committee and Consultant Management, Office of Executive Programs, Center for Drug Evaluation and Research, Food and Drug Administration",
+          "role": "leader",
+          "topic": "Designated Federal Officer, Gastrointestinal Drugs Advisory Committee",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
-            "Jessica Seo, PharmD, MPH"
+            "Jessica Seo, PharmD, MPH",
+            "Designated Federal Officer \nJessica Seo, PharmD, MPH\nDivision of Advisory Committee and Consultant Management"
           ]
         }
       ],

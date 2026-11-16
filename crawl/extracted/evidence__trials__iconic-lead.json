@@ -13,11 +13,12 @@
         {
           "name": "Robert Bissonnette",
           "credentials": "MD",
-          "affiliation": "",
+          "affiliation": "Innovaderm Research, Montreal, Canada",
           "role": "presenter",
-          "topic": "",
+          "topic": "icotrokinra ICONIC-LEAD phase 3 trial in plaque psoriasis",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
             "Robert Bissonnette, MD: Late-Breaking Data on Icotrokinra Shows Promising Efficacy and Safety in Psoriasis | Dermatology Times",
@@ -29,10 +30,11 @@
           "name": "Heidi Anne Duerr",
           "credentials": "MPH",
           "affiliation": "",
-          "role": "named",
-          "topic": "",
+          "role": "author",
+          "topic": "icotrokinra in psoriasis",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
             "Heidi Anne Duerr, MPH"
@@ -62,7 +64,216 @@
       "status": 200,
       "method": "http",
       "error": "",
-      "people": [],
+      "people": [
+        {
+          "name": "R. Bissonnette",
+          "credentials": "",
+          "affiliation": "",
+          "role": "first author",
+          "topic": "Oral icotrokinra for plaque psoriasis",
+          "methods": [
+            "llm"
+          ],
+          "quotes": [
+            "R. Bissonnette, J. Soung, A.A. Hebert, A.E. Pink, A. Pinter, A.Y. Moore, Y. Shi, W. Wang, D.P. Toth, M. Miller-Kassamali, J. Cafone, J. Jiang, S. Li, C.M. DeKlotz, F. Nunes, and M.G. Lebwohl"
+          ]
+        },
+        {
+          "name": "J. Cafone",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "Oral icotrokinra for plaque psoriasis",
+          "methods": [
+            "llm"
+          ],
+          "quotes": [
+            "R. Bissonnette, J. Soung, A.A. Hebert, A.E. Pink, A. Pinter, A.Y. Moore, Y. Shi, W. Wang, D.P. Toth, M. Miller-Kassamali, J. Cafone, J. Jiang, S. Li, C.M. DeKlotz, F. Nunes, and M.G. Lebwohl"
+          ]
+        },
+        {
+          "name": "C.M. DeKlotz",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "Oral icotrokinra for plaque psoriasis",
+          "methods": [
+            "llm"
+          ],
+          "quotes": [
+            "R. Bissonnette, J. Soung, A.A. Hebert, A.E. Pink, A. Pinter, A.Y. Moore, Y. Shi, W. Wang, D.P. Toth, M. Miller-Kassamali, J. Cafone, J. Jiang, S. Li, C.M. DeKlotz, F. Nunes, and M.G. Lebwohl"
+          ]
+        },
+        {
+          "name": "A.A. Hebert",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "Oral icotrokinra for plaque psoriasis",
+          "methods": [
+            "llm"
+          ],
+          "quotes": [
+            "R. Bissonnette, J. Soung, A.A. Hebert, A.E. Pink, A. Pinter, A.Y. Moore, Y. Shi, W. Wang, D.P. Toth, M. Miller-Kassamali, J. Cafone, J. Jiang, S. Li, C.M. DeKlotz, F. Nunes, and M.G. Lebwohl"
+          ]
+        },
+        {
+          "name": "J. Jiang",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "Oral icotrokinra for plaque psoriasis",
+          "methods": [
+            "llm"
+          ],
+          "quotes": [
+            "R. Bissonnette, J. Soung, A.A. Hebert, A.E. Pink, A. Pinter, A.Y. Moore, Y. Shi, W. Wang, D.P. Toth, M. Miller-Kassamali, J. Cafone, J. Jiang, S. Li, C.M. DeKlotz, F. Nunes, and M.G. Lebwohl"
+          ]
+        },
+        {
+          "name": "M. Miller-Kassamali",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "Oral icotrokinra for plaque psoriasis",
+          "methods": [
+            "llm"
+          ],
+          "quotes": [
+            "R. Bissonnette, J. Soung, A.A. Hebert, A.E. Pink, A. Pinter, A.Y. Moore, Y. Shi, W. Wang, D.P. Toth, M. Miller-Kassamali, J. Cafone, J. Jiang, S. Li, C.M. DeKlotz, F. Nunes, and M.G. Lebwohl"
+          ]
+        },
+        {
+          "name": "M.G. Lebwohl",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "Oral icotrokinra for plaque psoriasis",
+          "methods": [
+            "llm"
+          ],
+          "quotes": [
+            "R. Bissonnette, J. Soung, A.A. Hebert, A.E. Pink, A. Pinter, A.Y. Moore, Y. Shi, W. Wang, D.P. Toth, M. Miller-Kassamali, J. Cafone, J. Jiang, S. Li, C.M. DeKlotz, F. Nunes, and M.G. Lebwohl"
+          ]
+        },
+        {
+          "name": "S. Li",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "Oral icotrokinra for plaque psoriasis",
+          "methods": [
+            "llm"
+          ],
+          "quotes": [
+            "R. Bissonnette, J. Soung, A.A. Hebert, A.E. Pink, A. Pinter, A.Y. Moore, Y. Shi, W. Wang, D.P. Toth, M. Miller-Kassamali, J. Cafone, J. Jiang, S. Li, C.M. DeKlotz, F. Nunes, and M.G. Lebwohl"
+          ]
+        },
+        {
+          "name": "A.Y. Moore",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "Oral icotrokinra for plaque psoriasis",
+          "methods": [
+            "llm"
+          ],
+          "quotes": [
+            "R. Bissonnette, J. Soung, A.A. Hebert, A.E. Pink, A. Pinter, A.Y. Moore, Y. Shi, W. Wang, D.P. Toth, M. Miller-Kassamali, J. Cafone, J. Jiang, S. Li, C.M. DeKlotz, F. Nunes, and M.G. Lebwohl"
+          ]
+        },
+        {
+          "name": "F. Nunes",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "Oral icotrokinra for plaque psoriasis",
+          "methods": [
+            "llm"
+          ],
+          "quotes": [
+            "R. Bissonnette, J. Soung, A.A. Hebert, A.E. Pink, A. Pinter, A.Y. Moore, Y. Shi, W. Wang, D.P. Toth, M. Miller-Kassamali, J. Cafone, J. Jiang, S. Li, C.M. DeKlotz, F. Nunes, and M.G. Lebwohl"
+          ]
+        },
+        {
+          "name": "A.E. Pink",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "Oral icotrokinra for plaque psoriasis",
+          "methods": [
+            "llm"
+          ],
+          "quotes": [
+            "R. Bissonnette, J. Soung, A.A. Hebert, A.E. Pink, A. Pinter, A.Y. Moore, Y. Shi, W. Wang, D.P. Toth, M. Miller-Kassamali, J. Cafone, J. Jiang, S. Li, C.M. DeKlotz, F. Nunes, and M.G. Lebwohl"
+          ]
+        },
+        {
+          "name": "A. Pinter",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "Oral icotrokinra for plaque psoriasis",
+          "methods": [
+            "llm"
+          ],
+          "quotes": [
+            "R. Bissonnette, J. Soung, A.A. Hebert, A.E. Pink, A. Pinter, A.Y. Moore, Y. Shi, W. Wang, D.P. Toth, M. Miller-Kassamali, J. Cafone, J. Jiang, S. Li, C.M. DeKlotz, F. Nunes, and M.G. Lebwohl"
+          ]
+        },
+        {
+          "name": "Y. Shi",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "Oral icotrokinra for plaque psoriasis",
+          "methods": [
+            "llm"
+          ],
+          "quotes": [
+            "R. Bissonnette, J. Soung, A.A. Hebert, A.E. Pink, A. Pinter, A.Y. Moore, Y. Shi, W. Wang, D.P. Toth, M. Miller-Kassamali, J. Cafone, J. Jiang, S. Li, C.M. DeKlotz, F. Nunes, and M.G. Lebwohl"
+          ]
+        },
+        {
+          "name": "J. Soung",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "Oral icotrokinra for plaque psoriasis",
+          "methods": [
+            "llm"
+          ],
+          "quotes": [
+            "R. Bissonnette, J. Soung, A.A. Hebert, A.E. Pink, A. Pinter, A.Y. Moore, Y. Shi, W. Wang, D.P. Toth, M. Miller-Kassamali, J. Cafone, J. Jiang, S. Li, C.M. DeKlotz, F. Nunes, and M.G. Lebwohl"
+          ]
+        },
+        {
+          "name": "D.P. Toth",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "Oral icotrokinra for plaque psoriasis",
+          "methods": [
+            "llm"
+          ],
+          "quotes": [
+            "R. Bissonnette, J. Soung, A.A. Hebert, A.E. Pink, A. Pinter, A.Y. Moore, Y. Shi, W. Wang, D.P. Toth, M. Miller-Kassamali, J. Cafone, J. Jiang, S. Li, C.M. DeKlotz, F. Nunes, and M.G. Lebwohl"
+          ]
+        },
+        {
+          "name": "W. Wang",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "Oral icotrokinra for plaque psoriasis",
+          "methods": [
+            "llm"
+          ],
+          "quotes": [
+            "R. Bissonnette, J. Soung, A.A. Hebert, A.E. Pink, A. Pinter, A.Y. Moore, Y. Shi, W. Wang, D.P. Toth, M. Miller-Kassamali, J. Cafone, J. Jiang, S. Li, C.M. DeKlotz, F. Nunes, and M.G. Lebwohl"
+          ]
+        }
+      ],
       "llm_dropped_ungrounded": 0,
       "chars": 907
     },

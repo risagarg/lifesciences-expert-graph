@@ -11,16 +11,31 @@
       "error": "",
       "people": [
         {
-          "name": "Linda Stein Gold",
-          "credentials": "M.D",
-          "affiliation": "",
-          "role": "named",
-          "topic": "",
+          "name": "Liza O’Dowd",
+          "credentials": "MD",
+          "affiliation": "Johnson & Johnson Innovative Medicine",
+          "role": "quoted",
+          "topic": "icotrokinra ICONIC program",
           "methods": [
-            "rules"
+            "llm"
           ],
           "quotes": [
-            "head data clearly demonstrate superior complete skin clearance rates for icotrokinra compared to deucravacitinib,” said Linda Stein Gold, M.D., Director of Dermatology Clinical Research at Henry Ford Health and ICONIC-ADVANCE study investigator.b “With significantly higher response rates seen as earl"
+            "said Liza O’Dowd, MD, Vice President, Immunodermatology and Respiratory Disease Areas Lead, Johnson & Johnson Innovative Medicine."
+          ]
+        },
+        {
+          "name": "Linda Stein Gold",
+          "credentials": "M.D.",
+          "affiliation": "Director of Dermatology Clinical Research at Henry Ford Health and ICONIC-ADVANCE study investigator.b “With significantly higher response rates seen as early a",
+          "role": "quoted",
+          "topic": "icotrokinra vs deucravacitinib, ICONIC-ADVANCE",
+          "methods": [
+            "rules",
+            "llm"
+          ],
+          "quotes": [
+            "head data clearly demonstrate superior complete skin clearance rates for icotrokinra compared to deucravacitinib,” said Linda Stein Gold, M.D., Director of Dermatology Clinical Research at Henry Ford Health and ICONIC-ADVANCE study investigator.b “With significantly higher response rates seen as early",
+            "said Linda Stein Gold, M.D., Director of Dermatology Clinical Research at Henry Ford Health and ICONIC-ADVANCE study investigator."
           ]
         },
         {
@@ -38,15 +53,17 @@
         },
         {
           "name": "Jennifer Soung",
-          "credentials": "M.D",
-          "affiliation": "",
+          "credentials": "M.D.",
+          "affiliation": "Director of Clinical Research at Southern California Dermatology and ICONIC-LEAD study investigator",
           "role": "member",
-          "topic": "",
+          "topic": "icotrokinra ICONIC-LEAD 52-week data",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
-            "ue to demonstrate the potential of icotrokinra to address the need for a novel targeted oral psoriasis treatment,” said Jennifer Soung, M.D., Director of Clinical Research at Southern California Dermatology and ICONIC-LEAD study investigator."
+            "ue to demonstrate the potential of icotrokinra to address the need for a novel targeted oral psoriasis treatment,” said Jennifer Soung, M.D., Director of Clinical Research at Southern California Dermatology and ICONIC-LEAD study investigator.",
+            "said Jennifer Soung, M.D., Director of Clinical Research at Southern California Dermatology and ICONIC-LEAD study investigator."
           ]
         }
       ],

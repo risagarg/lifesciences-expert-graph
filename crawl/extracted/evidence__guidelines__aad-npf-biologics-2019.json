@@ -5,11 +5,430 @@
     {
       "url": "https://pubmed.ncbi.nlm.nih.gov/30772098/",
       "title": "PubMed 30772098",
-      "ok": false,
-      "status": 203,
-      "method": "http",
+      "ok": true,
+      "status": 200,
+      "method": "pubmed-api",
       "error": "",
-      "people": []
+      "people": [
+        {
+          "name": "April W Armstrong",
+          "credentials": "",
+          "affiliation": "University of Southern California, Los Angeles, San Francisco.",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Author 7 of 32: April W Armstrong | University of Southern California, Los Angeles, San Francisco."
+          ]
+        },
+        {
+          "name": "Cody Connor",
+          "credentials": "",
+          "affiliation": "University of Alabama, Birmingham, Alabama.",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Author 8 of 32: Cody Connor | University of Alabama, Birmingham, Alabama."
+          ]
+        },
+        {
+          "name": "Kelly M Cordoro",
+          "credentials": "",
+          "affiliation": "University of California, San Francisco School of Medicine, Department of Dermatology, San Francisco, California.",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Author 9 of 32: Kelly M Cordoro | University of California, San Francisco School of Medicine, Department of Dermatology, San Francisco, California."
+          ]
+        },
+        {
+          "name": "Dawn M R Davis",
+          "credentials": "",
+          "affiliation": "Mayo Clinic, Rochester, Minnesota.",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Author 10 of 32: Dawn M R Davis | Mayo Clinic, Rochester, Minnesota."
+          ]
+        },
+        {
+          "name": "Boni E Elewski",
+          "credentials": "",
+          "affiliation": "University of Alabama, Birmingham, Alabama.",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Author 11 of 32: Boni E Elewski | University of Alabama, Birmingham, Alabama."
+          ]
+        },
+        {
+          "name": "Craig A Elmets",
+          "credentials": "",
+          "affiliation": "University of Alabama, Birmingham, Alabama.",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Author 32 of 32: Craig A Elmets | University of Alabama, Birmingham, Alabama."
+          ]
+        },
+        {
+          "name": "Joel M Gelfand",
+          "credentials": "",
+          "affiliation": "University of Pennsylvania Perelman School of Medicine, Philadelphia, Pennsylvania.",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Author 12 of 32: Joel M Gelfand | University of Pennsylvania Perelman School of Medicine, Philadelphia, Pennsylvania."
+          ]
+        },
+        {
+          "name": "Kenneth B Gordon",
+          "credentials": "",
+          "affiliation": "Medical College of Wisconsin, Milwaukee, Wisconsin.",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Author 13 of 32: Kenneth B Gordon | Medical College of Wisconsin, Milwaukee, Wisconsin."
+          ]
+        },
+        {
+          "name": "Alice B Gottlieb",
+          "credentials": "",
+          "affiliation": "Department of Dermatology, Icahn School of Medicine at Mt. Sinai, New York.",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Author 14 of 32: Alice B Gottlieb | Department of Dermatology, Icahn School of Medicine at Mt. Sinai, New York."
+          ]
+        },
+        {
+          "name": "Vidhya Hariharan",
+          "credentials": "",
+          "affiliation": "American Academy of Dermatology, Rosemont, Illinois. Electronic address: vhariharan@aad.org.",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Author 31 of 32: Vidhya Hariharan | American Academy of Dermatology, Rosemont, Illinois. Electronic address: vhariharan@aad.org."
+          ]
+        },
+        {
+          "name": "Daniel H Kaplan",
+          "credentials": "",
+          "affiliation": "University of Pittsburgh, Pittsburgh, Pennsylvania.",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Author 3 of 32: Daniel H Kaplan | University of Pittsburgh, Pittsburgh, Pennsylvania."
+          ]
+        },
+        {
+          "name": "Arthur Kavanaugh",
+          "credentials": "",
+          "affiliation": "University of California San Diego, San Diego, California.",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Author 15 of 32: Arthur Kavanaugh | University of California San Diego, San Diego, California."
+          ]
+        },
+        {
+          "name": "Matthew Kiselica",
+          "credentials": "",
+          "affiliation": "National Psoriasis Foundation, Portland, Oregon.",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Author 16 of 32: Matthew Kiselica | National Psoriasis Foundation, Portland, Oregon."
+          ]
+        },
+        {
+          "name": "Dario Kivelevitch",
+          "credentials": "",
+          "affiliation": "Baylor Scott and White, Dallas, Texas.",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Author 4 of 32: Dario Kivelevitch | Baylor Scott and White, Dallas, Texas."
+          ]
+        },
+        {
+          "name": "Neil J Korman",
+          "credentials": "",
+          "affiliation": "University Hospitals Cleveland Medical Center, Cleveland, Ohio.",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Author 17 of 32: Neil J Korman | University Hospitals Cleveland Medical Center, Cleveland, Ohio."
+          ]
+        },
+        {
+          "name": "Daniela Kroshinsky",
+          "credentials": "",
+          "affiliation": "Massachusetts General Hospital, Boston, Massachusetts.",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Author 18 of 32: Daniela Kroshinsky | Massachusetts General Hospital, Boston, Massachusetts."
+          ]
+        },
+        {
+          "name": "Mark Lebwohl",
+          "credentials": "",
+          "affiliation": "Department of Dermatology, Icahn School of Medicine at Mt. Sinai, New York.",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Author 19 of 32: Mark Lebwohl | Department of Dermatology, Icahn School of Medicine at Mt. Sinai, New York."
+          ]
+        },
+        {
+          "name": "Craig L Leonardi",
+          "credentials": "",
+          "affiliation": "Central Dermatology, St. Louis, Missouri.",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Author 20 of 32: Craig L Leonardi | Central Dermatology, St. Louis, Missouri."
+          ]
+        },
+        {
+          "name": "Jason Lichten",
+          "credentials": "",
+          "affiliation": "National Psoriasis Foundation, Portland, Oregon.",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Author 21 of 32: Jason Lichten | National Psoriasis Foundation, Portland, Oregon."
+          ]
+        },
+        {
+          "name": "Henry W Lim",
+          "credentials": "",
+          "affiliation": "Department of Dermatology, Henry Ford Hospital, Detroit, Michigan.",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Author 22 of 32: Henry W Lim | Department of Dermatology, Henry Ford Hospital, Detroit, Michigan."
+          ]
+        },
+        {
+          "name": "Nehal N Mehta",
+          "credentials": "",
+          "affiliation": "National Heart, Lung, and Blood Institute, National Institutes of Health, Bethesda, Maryland.",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Author 23 of 32: Nehal N Mehta | National Heart, Lung, and Blood Institute, National Institutes of Health, Bethesda, Maryland."
+          ]
+        },
+        {
+          "name": "Alan Menter",
+          "credentials": "",
+          "affiliation": "Baylor Scott and White, Dallas, Texas.",
+          "role": "first author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Author 1 of 32: Alan Menter | Baylor Scott and White, Dallas, Texas."
+          ]
+        },
+        {
+          "name": "Amy S Paller",
+          "credentials": "",
+          "affiliation": "Northwestern University Feinberg School of Medicine, Chicago, Illinois.",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Author 24 of 32: Amy S Paller | Northwestern University Feinberg School of Medicine, Chicago, Illinois."
+          ]
+        },
+        {
+          "name": "Sylvia L Parra",
+          "credentials": "",
+          "affiliation": "Dermatology and Skin Surgery, Sumter, South Carolina.",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Author 25 of 32: Sylvia L Parra | Dermatology and Skin Surgery, Sumter, South Carolina."
+          ]
+        },
+        {
+          "name": "Arun L Pathy",
+          "credentials": "",
+          "affiliation": "Colorado Permanente Medical Group, Centennial, Colorado.",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Author 26 of 32: Arun L Pathy | Colorado Permanente Medical Group, Centennial, Colorado."
+          ]
+        },
+        {
+          "name": "Elizabeth Farley Prater",
+          "credentials": "",
+          "affiliation": "University of Oklahoma Health Sciences Center, Oklahoma City, Oklahoma.",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Author 5 of 32: Elizabeth Farley Prater | University of Oklahoma Health Sciences Center, Oklahoma City, Oklahoma."
+          ]
+        },
+        {
+          "name": "Reena N Rupani",
+          "credentials": "",
+          "affiliation": "Central Dermatology, St. Louis, Missouri.",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Author 27 of 32: Reena N Rupani | Central Dermatology, St. Louis, Missouri."
+          ]
+        },
+        {
+          "name": "Michael Siegel",
+          "credentials": "",
+          "affiliation": "National Psoriasis Foundation, Portland, Oregon.",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Author 28 of 32: Michael Siegel | National Psoriasis Foundation, Portland, Oregon."
+          ]
+        },
+        {
+          "name": "Benjamin Stoff",
+          "credentials": "",
+          "affiliation": "Emory University School of Medicine, Atlanta, Georgia.",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Author 6 of 32: Benjamin Stoff | Emory University School of Medicine, Atlanta, Georgia."
+          ]
+        },
+        {
+          "name": "Bruce E Strober",
+          "credentials": "",
+          "affiliation": "University of Connecticut, Farmington, Connecticut; Probity Medical Research, Waterloo, Ontario, Canada.",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Author 2 of 32: Bruce E Strober | University of Connecticut, Farmington, Connecticut; Probity Medical Research, Waterloo, Ontario, Canada."
+          ]
+        },
+        {
+          "name": "Emily B Wong",
+          "credentials": "",
+          "affiliation": "San Antonio Uniformed Services Health Education Consortium, Joint-Base San Antonio.",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Author 29 of 32: Emily B Wong | San Antonio Uniformed Services Health Education Consortium, Joint-Base San Antonio."
+          ]
+        },
+        {
+          "name": "Jashin J Wu",
+          "credentials": "",
+          "affiliation": "Dermatology Research and Education Foundation, Irvine, California.",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Author 30 of 32: Jashin J Wu | Dermatology Research and Education Foundation, Irvine, California."
+          ]
+        }
+      ],
+      "llm_dropped_ungrounded": 0,
+      "chars": 3190
     },
     {
       "url": "https://scholars.duke.edu/publication/1590495",
@@ -18,7 +437,525 @@
       "status": 200,
       "method": "http",
       "error": "",
-      "people": [],
+      "people": [
+        {
+          "name": "AW Armstrong",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter, A;  Strober, BE;  Kaplan, DH;  Kivelevitch, D;  Prater, EF;  Stoff, B;  Armstrong, AW;  Connor, C;  Cordoro, KM;  Davis, DMR;  Elewski, BE ..."
+          ]
+        },
+        {
+          "name": "A. W. Armstrong",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, Armstrong AW, Connor C, Cordoro KM, Davis DMR, Elewski BE, Gelfand JM, Gordon KB, Gottlieb AB, Kavanaugh A, Kiselica M, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Rup"
+          ]
+        },
+        {
+          "name": "C. Connor",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter, A;  Strober, BE;  Kaplan, DH;  Kivelevitch, D;  Prater, EF;  Stoff, B;  Armstrong, AW;  Connor, C;  Cordoro, KM;  Davis, DMR;  Elewski, BE ...",
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, Armstrong AW, Connor C, Cordoro KM, Davis DMR, Elewski BE, Gelfand JM, Gordon KB, Gottlieb AB, Kavanaugh A, Kiselica M, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Rup"
+          ]
+        },
+        {
+          "name": "KM Cordoro",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter, A;  Strober, BE;  Kaplan, DH;  Kivelevitch, D;  Prater, EF;  Stoff, B;  Armstrong, AW;  Connor, C;  Cordoro, KM;  Davis, DMR;  Elewski, BE ..."
+          ]
+        },
+        {
+          "name": "K. M. Cordoro",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, Armstrong AW, Connor C, Cordoro KM, Davis DMR, Elewski BE, Gelfand JM, Gordon KB, Gottlieb AB, Kavanaugh A, Kiselica M, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Rup"
+          ]
+        },
+        {
+          "name": "DMR Davis",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter, A;  Strober, BE;  Kaplan, DH;  Kivelevitch, D;  Prater, EF;  Stoff, B;  Armstrong, AW;  Connor, C;  Cordoro, KM;  Davis, DMR;  Elewski, BE ..."
+          ]
+        },
+        {
+          "name": "D. M. R. Davis",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, Armstrong AW, Connor C, Cordoro KM, Davis DMR, Elewski BE, Gelfand JM, Gordon KB, Gottlieb AB, Kavanaugh A, Kiselica M, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Rup"
+          ]
+        },
+        {
+          "name": "BE Elewski",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter, A;  Strober, BE;  Kaplan, DH;  Kivelevitch, D;  Prater, EF;  Stoff, B;  Armstrong, AW;  Connor, C;  Cordoro, KM;  Davis, DMR;  Elewski, BE ..."
+          ]
+        },
+        {
+          "name": "B. E. Elewski",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, Armstrong AW, Connor C, Cordoro KM, Davis DMR, Elewski BE, Gelfand JM, Gordon KB, Gottlieb AB, Kavanaugh A, Kiselica M, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Rup"
+          ]
+        },
+        {
+          "name": "C. A. Elmets",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, Armstrong AW, Connor C, Cordoro KM, Davis DMR, Elewski BE, Gelfand JM, Gordon KB, Gottlieb AB, Kavanaugh A, Kiselica M, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Rup"
+          ]
+        },
+        {
+          "name": "J. M. Gelfand",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, Armstrong AW, Connor C, Cordoro KM, Davis DMR, Elewski BE, Gelfand JM, Gordon KB, Gottlieb AB, Kavanaugh A, Kiselica M, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Rup"
+          ]
+        },
+        {
+          "name": "K. B. Gordon",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, Armstrong AW, Connor C, Cordoro KM, Davis DMR, Elewski BE, Gelfand JM, Gordon KB, Gottlieb AB, Kavanaugh A, Kiselica M, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Rup"
+          ]
+        },
+        {
+          "name": "A. B. Gottlieb",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, Armstrong AW, Connor C, Cordoro KM, Davis DMR, Elewski BE, Gelfand JM, Gordon KB, Gottlieb AB, Kavanaugh A, Kiselica M, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Rup"
+          ]
+        },
+        {
+          "name": "V. Hariharan",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, Armstrong AW, Connor C, Cordoro KM, Davis DMR, Elewski BE, Gelfand JM, Gordon KB, Gottlieb AB, Kavanaugh A, Kiselica M, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Rup"
+          ]
+        },
+        {
+          "name": "DH Kaplan",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter, A;  Strober, BE;  Kaplan, DH;  Kivelevitch, D;  Prater, EF;  Stoff, B;  Armstrong, AW;  Connor, C;  Cordoro, KM;  Davis, DMR;  Elewski, BE ..."
+          ]
+        },
+        {
+          "name": "D. H. Kaplan",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, et al.",
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, Armstrong AW, Connor C, Cordoro KM, Davis DMR, Elewski BE, Gelfand JM, Gordon KB, Gottlieb AB, Kavanaugh A, Kiselica M, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Rup"
+          ]
+        },
+        {
+          "name": "A. Kavanaugh",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, Armstrong AW, Connor C, Cordoro KM, Davis DMR, Elewski BE, Gelfand JM, Gordon KB, Gottlieb AB, Kavanaugh A, Kiselica M, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Rup"
+          ]
+        },
+        {
+          "name": "M. Kiselica",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, Armstrong AW, Connor C, Cordoro KM, Davis DMR, Elewski BE, Gelfand JM, Gordon KB, Gottlieb AB, Kavanaugh A, Kiselica M, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Rup"
+          ]
+        },
+        {
+          "name": "D. Kivelevitch",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter, A;  Strober, BE;  Kaplan, DH;  Kivelevitch, D;  Prater, EF;  Stoff, B;  Armstrong, AW;  Connor, C;  Cordoro, KM;  Davis, DMR;  Elewski, BE ...",
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, et al.",
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, Armstrong AW, Connor C, Cordoro KM, Davis DMR, Elewski BE, Gelfand JM, Gordon KB, Gottlieb AB, Kavanaugh A, Kiselica M, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Rup"
+          ]
+        },
+        {
+          "name": "N. J. Korman",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, Armstrong AW, Connor C, Cordoro KM, Davis DMR, Elewski BE, Gelfand JM, Gordon KB, Gottlieb AB, Kavanaugh A, Kiselica M, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Rup"
+          ]
+        },
+        {
+          "name": "D. Kroshinsky",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, Armstrong AW, Connor C, Cordoro KM, Davis DMR, Elewski BE, Gelfand JM, Gordon KB, Gottlieb AB, Kavanaugh A, Kiselica M, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Rup"
+          ]
+        },
+        {
+          "name": "M. Lebwohl",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, Armstrong AW, Connor C, Cordoro KM, Davis DMR, Elewski BE, Gelfand JM, Gordon KB, Gottlieb AB, Kavanaugh A, Kiselica M, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Rup"
+          ]
+        },
+        {
+          "name": "C. L. Leonardi",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, Armstrong AW, Connor C, Cordoro KM, Davis DMR, Elewski BE, Gelfand JM, Gordon KB, Gottlieb AB, Kavanaugh A, Kiselica M, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Rup"
+          ]
+        },
+        {
+          "name": "J. Lichten",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, Armstrong AW, Connor C, Cordoro KM, Davis DMR, Elewski BE, Gelfand JM, Gordon KB, Gottlieb AB, Kavanaugh A, Kiselica M, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Rup"
+          ]
+        },
+        {
+          "name": "H. W. Lim",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, Armstrong AW, Connor C, Cordoro KM, Davis DMR, Elewski BE, Gelfand JM, Gordon KB, Gottlieb AB, Kavanaugh A, Kiselica M, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Rup"
+          ]
+        },
+        {
+          "name": "N. N. Mehta",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, Armstrong AW, Connor C, Cordoro KM, Davis DMR, Elewski BE, Gelfand JM, Gordon KB, Gottlieb AB, Kavanaugh A, Kiselica M, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Rup"
+          ]
+        },
+        {
+          "name": "A. Menter",
+          "credentials": "",
+          "affiliation": "",
+          "role": "first author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter, A;  Strober, BE;  Kaplan, DH;  Kivelevitch, D;  Prater, EF;  Stoff, B;  Armstrong, AW;  Connor, C;  Cordoro, KM;  Davis, DMR;  Elewski, BE ...",
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, et al.",
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, Armstrong AW, Connor C, Cordoro KM, Davis DMR, Elewski BE, Gelfand JM, Gordon KB, Gottlieb AB, Kavanaugh A, Kiselica M, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Rup"
+          ]
+        },
+        {
+          "name": "A. S. Paller",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, Armstrong AW, Connor C, Cordoro KM, Davis DMR, Elewski BE, Gelfand JM, Gordon KB, Gottlieb AB, Kavanaugh A, Kiselica M, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Rup"
+          ]
+        },
+        {
+          "name": "S. L. Parra",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, Armstrong AW, Connor C, Cordoro KM, Davis DMR, Elewski BE, Gelfand JM, Gordon KB, Gottlieb AB, Kavanaugh A, Kiselica M, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Rup"
+          ]
+        },
+        {
+          "name": "A. L. Pathy",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, Armstrong AW, Connor C, Cordoro KM, Davis DMR, Elewski BE, Gelfand JM, Gordon KB, Gottlieb AB, Kavanaugh A, Kiselica M, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Rup"
+          ]
+        },
+        {
+          "name": "EF Prater",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter, A;  Strober, BE;  Kaplan, DH;  Kivelevitch, D;  Prater, EF;  Stoff, B;  Armstrong, AW;  Connor, C;  Cordoro, KM;  Davis, DMR;  Elewski, BE ..."
+          ]
+        },
+        {
+          "name": "E. F. Prater",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, et al.",
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, Armstrong AW, Connor C, Cordoro KM, Davis DMR, Elewski BE, Gelfand JM, Gordon KB, Gottlieb AB, Kavanaugh A, Kiselica M, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Rup"
+          ]
+        },
+        {
+          "name": "R. N. Rupani",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, Armstrong AW, Connor C, Cordoro KM, Davis DMR, Elewski BE, Gelfand JM, Gordon KB, Gottlieb AB, Kavanaugh A, Kiselica M, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Rup"
+          ]
+        },
+        {
+          "name": "M. Siegel",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, Armstrong AW, Connor C, Cordoro KM, Davis DMR, Elewski BE, Gelfand JM, Gordon KB, Gottlieb AB, Kavanaugh A, Kiselica M, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Rup"
+          ]
+        },
+        {
+          "name": "B. Stoff",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter, A;  Strober, BE;  Kaplan, DH;  Kivelevitch, D;  Prater, EF;  Stoff, B;  Armstrong, AW;  Connor, C;  Cordoro, KM;  Davis, DMR;  Elewski, BE ...",
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, et al.",
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, Armstrong AW, Connor C, Cordoro KM, Davis DMR, Elewski BE, Gelfand JM, Gordon KB, Gottlieb AB, Kavanaugh A, Kiselica M, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Rup"
+          ]
+        },
+        {
+          "name": "BE Strober",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter, A;  Strober, BE;  Kaplan, DH;  Kivelevitch, D;  Prater, EF;  Stoff, B;  Armstrong, AW;  Connor, C;  Cordoro, KM;  Davis, DMR;  Elewski, BE ..."
+          ]
+        },
+        {
+          "name": "B. E. Strober",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, et al.",
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, Armstrong AW, Connor C, Cordoro KM, Davis DMR, Elewski BE, Gelfand JM, Gordon KB, Gottlieb AB, Kavanaugh A, Kiselica M, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Rup"
+          ]
+        },
+        {
+          "name": "E. B. Wong",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, Armstrong AW, Connor C, Cordoro KM, Davis DMR, Elewski BE, Gelfand JM, Gordon KB, Gottlieb AB, Kavanaugh A, Kiselica M, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Rup"
+          ]
+        },
+        {
+          "name": "J. J. Wu",
+          "credentials": "",
+          "affiliation": "",
+          "role": "author",
+          "topic": "",
+          "methods": [
+            "rules"
+          ],
+          "quotes": [
+            "Menter A, Strober BE, Kaplan DH, Kivelevitch D, Prater EF, Stoff B, Armstrong AW, Connor C, Cordoro KM, Davis DMR, Elewski BE, Gelfand JM, Gordon KB, Gottlieb AB, Kavanaugh A, Kiselica M, Korman NJ, Kroshinsky D, Lebwohl M, Leonardi CL, Lichten J, Lim HW, Mehta NN, Paller AS, Parra SL, Pathy AL, Rup"
+          ]
+        }
+      ],
       "llm_dropped_ungrounded": 0,
       "chars": 3404
     }

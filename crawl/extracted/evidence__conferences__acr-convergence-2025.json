@@ -3,8 +3,192 @@
   "kind": "conference",
   "sources": [
     {
+      "url": "https://www.rheum-live.com/view/acr-convergence-2025-recap-late-breaking-trials-to-know",
+      "title": "Rheum-Live: ACR Convergence 2025 recap, late-breaking trials (Nov 15, 2025)",
+      "ok": true,
+      "status": 200,
+      "method": "http",
+      "error": "",
+      "people": [
+        {
+          "name": "Frank Behrens",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "speaker",
+          "topic": "AgAIN: secukinumab vs ustekinumab in PsA",
+          "methods": [
+            "llm"
+          ],
+          "quotes": [
+            "AgAIN: Secukinumab Outperforms Ustekinumab in Post-TNFi Psoriatic Arthritis, With Frank Behrens, MD"
+          ]
+        },
+        {
+          "name": "Philip Conaghan",
+          "credentials": "MBBS, PhD",
+          "affiliation": "",
+          "role": "speaker",
+          "topic": "Apoptotic cell therapy for knee OA",
+          "methods": [
+            "rules",
+            "llm"
+          ],
+          "quotes": [
+            "Apoptotic Cell Therapy Shows Promising Benefits for Older Adults With Knee OA, with Philip Conaghan, MBBS, PhD"
+          ]
+        },
+        {
+          "name": "Claire Daien",
+          "credentials": "MD, PhD",
+          "affiliation": "",
+          "role": "speaker",
+          "topic": "Fiber and methotrexate response in RA (SUPERFIBRE)",
+          "methods": [
+            "llm"
+          ],
+          "quotes": [
+            "Gut Microbiome Modulation by Fiber Enhances RA Methotrexate Response, With Claire Daien, MD, PhD"
+          ]
+        },
+        {
+          "name": "Chelsie Derman",
+          "credentials": "",
+          "affiliation": "",
+          "role": "named",
+          "topic": "Fact checker for the article",
+          "methods": [
+            "llm"
+          ],
+          "quotes": [
+            "Fact checked by: \nChelsie Derman"
+          ]
+        },
+        {
+          "name": "Jonathan Graf",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "speaker",
+          "topic": "Rosnilimab in RA",
+          "methods": [
+            "llm"
+          ],
+          "quotes": [
+            "Rosnilimab: A New Era of Upstream RA Disease Control, With Jonathan Graf, MD"
+          ]
+        },
+        {
+          "name": "Yuebo Jin",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "speaker",
+          "topic": "Low-dose IL-2 in SLE",
+          "methods": [
+            "llm"
+          ],
+          "quotes": [
+            "Low-Dose IL-2 Rebalances Immunity in SLE, With Yuebo Jin, MD"
+          ]
+        },
+        {
+          "name": "Victoria Johnson",
+          "credentials": "",
+          "affiliation": "HCPLive Rheumatology",
+          "role": "author",
+          "topic": "ACR Convergence 2025 late-breaking trials",
+          "methods": [
+            "llm"
+          ],
+          "quotes": [
+            "Author(s)\nVictoria Johnson"
+          ]
+        },
+        {
+          "name": "Moshiur Rahman Khasru",
+          "credentials": "MBBS, MSc",
+          "affiliation": "",
+          "role": "speaker",
+          "topic": "Adipose-derived MSCs for knee OA",
+          "methods": [
+            "llm"
+          ],
+          "quotes": [
+            "Adipose-Derived MSCs Show Promise as Nonsurgical Option for Knee OA, With Moshiur Rahman Khasru, MBBS, MSc"
+          ]
+        },
+        {
+          "name": "Emily Littlejohn",
+          "credentials": "DO, MPH",
+          "affiliation": "",
+          "role": "speaker",
+          "topic": "Durable SLE responses with zola-cel",
+          "methods": [
+            "llm"
+          ],
+          "quotes": [
+            "Durable SLE Responses With Zola-cel, With Emily Littlejohn, DO, MPH"
+          ]
+        },
+        {
+          "name": "Philip Mease",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "speaker",
+          "topic": "Bimekizumab and IL-17 inhibitors, state zero in PsA",
+          "methods": [
+            "rules",
+            "llm"
+          ],
+          "quotes": [
+            "Achieving “State Zero”: New Data on Bimekizumab, Other IL-17is, Transform PsA Treatment Goals, with Philip Mease, MD",
+            "Transform PsA Treatment Goals, with Philip Mease, MD"
+          ]
+        },
+        {
+          "name": "Fabian Proft",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "speaker",
+          "topic": "Risankizumab real-world PsA data (PERIS)",
+          "methods": [
+            "llm"
+          ],
+          "quotes": [
+            "Risankizumab Real World PsA Data From PERIS, With Fabian Proft, MD"
+          ]
+        },
+        {
+          "name": "John Stone",
+          "credentials": "MD, MPH",
+          "affiliation": "",
+          "role": "speaker",
+          "topic": "INDIGO: obexelimab in IgG4-RD",
+          "methods": [
+            "llm"
+          ],
+          "quotes": [
+            "INDIGO: Obexelimab Sustains IgG4-RD Flare Control, With John Stone, MD, MPH"
+          ]
+        },
+        {
+          "name": "Jessica Walsh",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "speaker",
+          "topic": "Upadacitinib vs IL-17 inhibitors in PsA",
+          "methods": [
+            "llm"
+          ],
+          "quotes": [
+            "Upadacitinib vs IL-17 Inhibitors in PsA, With Jessica Walsh, MD"
+          ]
+        }
+      ],
+      "llm_dropped_ungrounded": 0,
+      "chars": 10771
+    },
+    {
       "url": "https://www.consultantlive.com/view/acr-convergence-2025-recap-late-breaking-trials-to-know",
-      "title": "ConsultantLive: ACR Convergence 2025 recap, late-breaking trials",
+      "title": "ConsultantLive: same recap, original address (now returns not found)",
       "ok": false,
       "status": 404,
       "method": "http",

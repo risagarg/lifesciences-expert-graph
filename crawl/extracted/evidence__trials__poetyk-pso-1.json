@@ -5,11 +5,243 @@
     {
       "url": "https://git.lsit.ucsb.edu/publicdata/nih-gov/raw/branch/main/pubmed.ncbi.nlm.nih.gov/35820547/index.html",
       "title": "PubMed 35820547 (mirror with affiliations)",
-      "ok": false,
+      "ok": true,
       "status": 200,
-      "method": "http",
+      "method": "pubmed-api",
       "error": "",
-      "people": []
+      "people": [
+        {
+          "name": "April W Armstrong",
+          "credentials": "",
+          "affiliation": "Department of Dermatology, Keck School of Medicine, University of Southern California, Los Angeles, California. Electronic address: aprilarmstrong@post.harvard.edu.",
+          "role": "first author",
+          "topic": "Deucravacitinib POETYK PSO-1 trial",
+          "methods": [
+            "rules",
+            "llm"
+          ],
+          "quotes": [
+            "Author 1 of 16: April W Armstrong | Department of Dermatology, Keck School of Medicine, University of Southern California, Los Angeles, California. Electronic address: aprilarmstrong@post.harvard.edu.",
+            "Author 1 of 16: April W Armstrong | Department of Dermatology, Keck School of Medicine, University of Southern California, Los Angeles, California."
+          ]
+        },
+        {
+          "name": "Subhashis Banerjee",
+          "credentials": "",
+          "affiliation": "Bristol Myers Squibb, Princeton, New Jersey.",
+          "role": "author",
+          "topic": "Deucravacitinib POETYK PSO-1 trial",
+          "methods": [
+            "rules",
+            "llm"
+          ],
+          "quotes": [
+            "Author 15 of 16: Subhashis Banerjee | Bristol Myers Squibb, Princeton, New Jersey."
+          ]
+        },
+        {
+          "name": "Andrew Blauvelt",
+          "credentials": "",
+          "affiliation": "Oregon Medical Research Center, Portland, Oregon.",
+          "role": "author",
+          "topic": "Deucravacitinib POETYK PSO-1 trial",
+          "methods": [
+            "rules",
+            "llm"
+          ],
+          "quotes": [
+            "Author 16 of 16: Andrew Blauvelt | Oregon Medical Research Center, Portland, Oregon."
+          ]
+        },
+        {
+          "name": "Elizabeth Colston",
+          "credentials": "",
+          "affiliation": "Bristol Myers Squibb, Princeton, New Jersey.",
+          "role": "author",
+          "topic": "Deucravacitinib POETYK PSO-1 trial",
+          "methods": [
+            "rules",
+            "llm"
+          ],
+          "quotes": [
+            "Author 10 of 16: Elizabeth Colston | Bristol Myers Squibb, Princeton, New Jersey."
+          ]
+        },
+        {
+          "name": "Melinda Gooderham",
+          "credentials": "",
+          "affiliation": "SKiN Centre for Dermatology, Department of Dermatology at Queen's University, and Probity Medical Research, Peterborough, Ontario, Canada.",
+          "role": "author",
+          "topic": "Deucravacitinib POETYK PSO-1 trial",
+          "methods": [
+            "rules",
+            "llm"
+          ],
+          "quotes": [
+            "Author 2 of 16: Melinda Gooderham | SKiN Centre for Dermatology, Department of Dermatology at Queen's University, and Probity Medical Research, Peterborough, Ontario, Canada."
+          ]
+        },
+        {
+          "name": "Shinichi Imafuku",
+          "credentials": "",
+          "affiliation": "Dermatology, Faculty of Medicine, Fukuoka University, Fukuoka, Japan.",
+          "role": "author",
+          "topic": "Deucravacitinib POETYK PSO-1 trial",
+          "methods": [
+            "rules",
+            "llm"
+          ],
+          "quotes": [
+            "Author 9 of 16: Shinichi Imafuku | Dermatology, Faculty of Medicine, Fukuoka University, Fukuoka, Japan."
+          ]
+        },
+        {
+          "name": "Sudeep Kundu",
+          "credentials": "",
+          "affiliation": "Bristol Myers Squibb, Princeton, New Jersey.",
+          "role": "author",
+          "topic": "Deucravacitinib POETYK PSO-1 trial",
+          "methods": [
+            "rules",
+            "llm"
+          ],
+          "quotes": [
+            "Author 12 of 16: Sudeep Kundu | Bristol Myers Squibb, Princeton, New Jersey."
+          ]
+        },
+        {
+          "name": "Misti Linaberry",
+          "credentials": "",
+          "affiliation": "Bristol Myers Squibb, Princeton, New Jersey.",
+          "role": "author",
+          "topic": "Deucravacitinib POETYK PSO-1 trial",
+          "methods": [
+            "rules",
+            "llm"
+          ],
+          "quotes": [
+            "Author 14 of 16: Misti Linaberry | Bristol Myers Squibb, Princeton, New Jersey."
+          ]
+        },
+        {
+          "name": "Akimichi Morita",
+          "credentials": "",
+          "affiliation": "Department of Geriatric and Environmental Dermatology, Nagoya City University Graduate School of Medical Sciences, Nagoya City, Aichi, Japan.",
+          "role": "author",
+          "topic": "Deucravacitinib POETYK PSO-1 trial",
+          "methods": [
+            "rules",
+            "llm"
+          ],
+          "quotes": [
+            "Author 7 of 16: Akimichi Morita | Department of Geriatric and Environmental Dermatology, Nagoya City University Graduate School of Medical Sciences, Nagoya City, Aichi, Japan.",
+            "Author 7 of 16: Akimichi Morita | Department of Geriatric and Environmental Dermatology"
+          ]
+        },
+        {
+          "name": "Kim A Papp",
+          "credentials": "",
+          "affiliation": "K Papp Clinical Research and Probity Medical Research, Waterloo, Ontario, Canada.",
+          "role": "author",
+          "topic": "Deucravacitinib POETYK PSO-1 trial",
+          "methods": [
+            "rules",
+            "llm"
+          ],
+          "quotes": [
+            "Author 4 of 16: Kim A Papp | K Papp Clinical Research and Probity Medical Research, Waterloo, Ontario, Canada."
+          ]
+        },
+        {
+          "name": "Steve Schoenfeld",
+          "credentials": "",
+          "affiliation": "Bristol Myers Squibb, Princeton, New Jersey.",
+          "role": "author",
+          "topic": "Deucravacitinib POETYK PSO-1 trial",
+          "methods": [
+            "rules",
+            "llm"
+          ],
+          "quotes": [
+            "Author 13 of 16: Steve Schoenfeld | Bristol Myers Squibb, Princeton, New Jersey."
+          ]
+        },
+        {
+          "name": "Bruce Strober",
+          "credentials": "",
+          "affiliation": "Department of Dermatology, Yale University School of Medicine, New Haven, and Central Connecticut Dermatology Research, Cromwell, Connecticut.",
+          "role": "author",
+          "topic": "Deucravacitinib POETYK PSO-1 trial",
+          "methods": [
+            "rules",
+            "llm"
+          ],
+          "quotes": [
+            "Author 5 of 16: Bruce Strober | Department of Dermatology, Yale University School of Medicine, New Haven, and Central Connecticut Dermatology Research, Cromwell, Connecticut.",
+            "Author 5 of 16: Bruce Strober | Department of Dermatology, Yale University School of Medicine, New Haven"
+          ]
+        },
+        {
+          "name": "Jacek C Szepietowski",
+          "credentials": "",
+          "affiliation": "Department of Dermatology, Venereology and Allergology, Wroclaw Medical University, Wrocław, Poland.",
+          "role": "author",
+          "topic": "Deucravacitinib POETYK PSO-1 trial",
+          "methods": [
+            "rules",
+            "llm"
+          ],
+          "quotes": [
+            "Author 8 of 16: Jacek C Szepietowski | Department of Dermatology, Venereology and Allergology, Wroclaw Medical University, Wrocław, Poland.",
+            "Author 8 of 16: Jacek C Szepietowski | Department of Dermatology, Venereology and Allergology, Wroclaw Medical University"
+          ]
+        },
+        {
+          "name": "Diamant Thaçi",
+          "credentials": "",
+          "affiliation": "Comprehensive Center for Inflammation Medicine, University of Lübeck, Lübeck, Germany.",
+          "role": "author",
+          "topic": "Deucravacitinib POETYK PSO-1 trial",
+          "methods": [
+            "rules",
+            "llm"
+          ],
+          "quotes": [
+            "Author 6 of 16: Diamant Thaçi | Comprehensive Center for Inflammation Medicine, University of Lübeck, Lübeck, Germany."
+          ]
+        },
+        {
+          "name": "John Throup",
+          "credentials": "",
+          "affiliation": "Bristol Myers Squibb, Princeton, New Jersey.",
+          "role": "author",
+          "topic": "Deucravacitinib POETYK PSO-1 trial",
+          "methods": [
+            "rules",
+            "llm"
+          ],
+          "quotes": [
+            "Author 11 of 16: John Throup | Bristol Myers Squibb, Princeton, New Jersey."
+          ]
+        },
+        {
+          "name": "Richard B Warren",
+          "credentials": "",
+          "affiliation": "Dermatology Centre at Salford Royal NHS Foundation Trust Hospital, NIHR Manchester Biomedical Research Centre at the University of Manchester, Manchester, United Kingdom.",
+          "role": "author",
+          "topic": "Deucravacitinib POETYK PSO-1 trial",
+          "methods": [
+            "rules",
+            "llm"
+          ],
+          "quotes": [
+            "Author 3 of 16: Richard B Warren | Dermatology Centre at Salford Royal NHS Foundation Trust Hospital, NIHR Manchester Biomedical Research Centre at the University of Manchester, Manchester, United Kingdom.",
+            "Author 3 of 16: Richard B Warren | Dermatology Centre at Salford Royal NHS Foundation Trust Hospital"
+          ]
+        }
+      ],
+      "llm_dropped_ungrounded": 0,
+      "chars": 2193
     }
   ]
 }

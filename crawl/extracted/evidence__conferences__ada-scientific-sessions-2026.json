@@ -66,14 +66,29 @@
           "name": "Ania Jastreboff",
           "credentials": "MD, PhD",
           "affiliation": "the Harvey and Kate Cushing Professor of Medicine and professor of pediatrics at Yale School of Medicine, these data highlight retatrutide’s substantial efficac",
-          "role": "named",
-          "topic": "",
+          "role": "presenter",
+          "topic": "TRIUMPH-1 retatrutide",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
             "in New Orleans, Louisiana, by Ania Jastreboff, MD, PhD, the Harvey and Kate Cushing Professor of Medicine and professor of pediatrics at Yale School of Medicine, these data highlight retatrutide’s substantial effic",
-            "sleep apnea, with many individuals reaching what are classified as healthy-range weight and normal blood sugar levels,” Ania Jastreboff, MD, PhD, professor of medicine and pediatrics at the Yale School of Medicine, director of the Yale Obesity research Center, and lead investigator of TRIUMPH-1. “These"
+            "sleep apnea, with many individuals reaching what are classified as healthy-range weight and normal blood sugar levels,” Ania Jastreboff, MD, PhD, professor of medicine and pediatrics at the Yale School of Medicine, director of the Yale Obesity research Center, and lead investigator of TRIUMPH-1. “These",
+            "Presented at the American Diabetes Association (ADA) Scientific Sessions 2026 in New Orleans, Louisiana, by Ania Jastreboff, MD, PhD, the Harvey and Kate Cushing Professor of Medicine and professor of pediatrics at Yale School of Medicine"
+          ]
+        },
+        {
+          "name": "Ryan Livingston",
+          "credentials": "",
+          "affiliation": "HCPLive",
+          "role": "author",
+          "topic": "TRIUMPH-1 retatrutide",
+          "methods": [
+            "llm"
+          ],
+          "quotes": [
+            "Author(s)\nRyan Livingston"
           ]
         },
         {
@@ -105,14 +120,16 @@
           "name": "Vanita R. Aroda",
           "credentials": "MD",
           "affiliation": "Director of Diabetes Clinical Research at Brigham and Women’s Hospital and Associate Professor of Medicine at Harvard Medical School. “The areas of interest are",
-          "role": "named",
-          "topic": "",
+          "role": "quoted",
+          "topic": "REIMAGINE 1 (CagriSema monotherapy)",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
             "Vanita R. Aroda, MD",
-            "ial gives us a very clean look and profile of what the medication can do in this very early treatment population,” said Vanita R. Aroda, MD, Director of Diabetes Clinical Research at Brigham and Women’s Hospital and Associate Professor of Medicine at Harvard Medical School. “The areas of interest a"
+            "ial gives us a very clean look and profile of what the medication can do in this very early treatment population,” said Vanita R. Aroda, MD, Director of Diabetes Clinical Research at Brigham and Women’s Hospital and Associate Professor of Medicine at Harvard Medical School. “The areas of interest a",
+            "said Vanita R. Aroda, MD, Director of Diabetes Clinical Research at Brigham and Women’s Hospital and Associate Professor of Medicine at Harvard Medical School."
           ]
         },
         {
@@ -120,27 +137,31 @@
           "credentials": "MD, PhD",
           "affiliation": "the Verne S. Caviness Distinguished Professor of Medicine at the University of North Carolina School of Medicine. “The combination of cagrilintide, an amylin re",
           "role": "member",
-          "topic": "",
+          "topic": "REIMAGINE 1, 2, 3 symposium: CagriSema for type 2 diabetes",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
             "John B. Buse, MD, PhD",
-            "to increase the efficacy of semaglutide for weight loss and for A1C reduction in the setting of type 2 diabetes,” said John B. Buse, MD, PhD, the Verne S. Caviness Distinguished Professor of Medicine at the University of North Carolina School of Medicine. “The combination of cagrilintide, an amylin"
+            "to increase the efficacy of semaglutide for weight loss and for A1C reduction in the setting of type 2 diabetes,” said John B. Buse, MD, PhD, the Verne S. Caviness Distinguished Professor of Medicine at the University of North Carolina School of Medicine. “The combination of cagrilintide, an amylin",
+            "Dr. Buse will chair a symposium exploring"
           ]
         },
         {
           "name": "Akshay Jain",
           "credentials": "MD, FRCPC, FACE",
           "affiliation": "CCD, ECNU, DABIM, DABOM, Clinical Instructor in Medicine at the University of British Columbia, Canada. “And we’ll be looking at cardiovascular risk markers as",
-          "role": "named",
-          "topic": "",
+          "role": "quoted",
+          "topic": "REIMAGINE 2 (CagriSema vs components)",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
             "Akshay Jain, MD, FRCPC, FACE, CCD, ECNU, DABIM, DABOM",
-            "“We will be looking at some very interesting data on A1C and weight reduction [during the symposium],” said Akshay Jain, MD, FRCPC, FACE, CCD, ECNU, DABIM, DABOM, Clinical Instructor in Medicine at the University of British Columbia, Canada. “And we’ll be looking at cardiovascular risk markers a"
+            "“We will be looking at some very interesting data on A1C and weight reduction [during the symposium],” said Akshay Jain, MD, FRCPC, FACE, CCD, ECNU, DABIM, DABOM, Clinical Instructor in Medicine at the University of British Columbia, Canada. “And we’ll be looking at cardiovascular risk markers a",
+            "said Akshay Jain, MD, FRCPC, FACE, CCD, ECNU, DABIM, DABOM, Clinical Instructor in Medicine at the University of British Columbia, Canada."
           ]
         },
         {
@@ -148,13 +169,15 @@
           "credentials": "MD",
           "affiliation": "Clinical Professor of Medicine at Texas Southwestern Medical Center. “It has been nicely demonstrated that adding a GLP-1 RA is highly effective in improving gl",
           "role": "member",
-          "topic": "",
+          "topic": "REIMAGINE 3 (CagriSema add-on to basal insulin)",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
             "Julio Rosenstock, MD",
-            "sal insulin therapy has been challenging due to insulin titration inertia, but many also need additional therapy,” said Julio Rosenstock, MD, Clinical Professor of Medicine at Texas Southwestern Medical Center. “It has been nicely demonstrated that adding a GLP-1 RA is highly effective in improving"
+            "sal insulin therapy has been challenging due to insulin titration inertia, but many also need additional therapy,” said Julio Rosenstock, MD, Clinical Professor of Medicine at Texas Southwestern Medical Center. “It has been nicely demonstrated that adding a GLP-1 RA is highly effective in improving",
+            "said Julio Rosenstock, MD, Clinical Professor of Medicine at Texas Southwestern Medical Center."
           ]
         }
       ],

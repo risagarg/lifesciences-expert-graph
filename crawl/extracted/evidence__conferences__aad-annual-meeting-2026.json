@@ -25,7 +25,7 @@
           ]
         },
         {
-          "name": "IPC Councilor José-Manuel Carrascosa Carrillo",
+          "name": "José-Manuel Carrascosa Carrillo",
           "credentials": "MD, PhD",
           "affiliation": "",
           "role": "named",
@@ -48,32 +48,6 @@
           ],
           "quotes": [
             "Bruce Strober, MD, PhD, IPC President; Richard Langley, MD, IPC Councilor; Mona Shahriari, MD; Jeffrey Cohen, MD, MPH, IPC Councilor; Jennifer Soung, MD; Joel Gelfand, MD, MSCE, IPC Board Member; Kenneth Gordon, MD, IPC Councilor"
-          ]
-        },
-        {
-          "name": "Amy Paller di",
-          "credentials": "",
-          "affiliation": "",
-          "role": "named",
-          "topic": "",
-          "methods": [
-            "rules"
-          ],
-          "quotes": [
-            "Dr. Amy Paller discussed pediatric TNF inhibitor–induced psoriasiform dermatitis, including prevalence ranges, clinical features, and diagnostic challenges. Presentations often"
-          ]
-        },
-        {
-          "name": "Gowri Kabbur di",
-          "credentials": "",
-          "affiliation": "",
-          "role": "named",
-          "topic": "",
-          "methods": [
-            "rules"
-          ],
-          "quotes": [
-            "Dr. Gowri Kabbur discussed the management of psoriasis and atopic dermatitis in patients with current or prior malignancy, using a case-based approach. She emphasized prioritizing"
           ]
         },
         {
@@ -181,7 +155,8 @@
             "rules"
           ],
           "quotes": [
-            "Gowri Kabbur, MD"
+            "Gowri Kabbur, MD",
+            "Dr. Gowri Kabbur discussed the management of psoriasis and atopic dermatitis in patients with current or prior malignancy, using a case-based approach. She emphasized prioritizing"
           ]
         },
         {
@@ -263,19 +238,8 @@
             "rules"
           ],
           "quotes": [
-            "Amy Paller, MS, MD, IPC Board Member"
-          ]
-        },
-        {
-          "name": "IPC Board Member Amy Paller",
-          "credentials": "MS, MD",
-          "affiliation": "",
-          "role": "named",
-          "topic": "",
-          "methods": [
-            "rules"
-          ],
-          "quotes": [
+            "Amy Paller, MS, MD, IPC Board Member",
+            "Dr. Amy Paller discussed pediatric TNF inhibitor–induced psoriasiform dermatitis, including prevalence ranges, clinical features, and diagnostic challenges. Presentations often",
             "Day campaign with four videos on pediatric psoriasis: Psoriasis Look-Alikes and Anti-TNF-α Induced Skin Eruptions with IPC Board Member Amy Paller, MS, MD; Conventional Therapies with IPC Councilor Mona El-Kalioby, MBBCh, MSc, MD; and Phototherapy in Pediatric Psoriasis with Fernando Valenzuela, MD. New Take Two"
           ]
         },
@@ -389,26 +353,30 @@
           "name": "Andrew Blauvelt",
           "credentials": "MD, MBA",
           "affiliation": "owner of Blauvelt Consulting, LLC, and principal investigator on the ONWARD program. Both ONWARD1 and ONWARD2 together enrolled more than 1700 adult patients li",
-          "role": "named",
-          "topic": "",
+          "role": "presenter",
+          "topic": "ONWARD1 and 2, envudeucitinib phase 3",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
-            "ctive oral TYK2 inhibitor, demonstrating robust skin clearance in moderate-to-severe plaque psoriasis, was discussed by Andrew Blauvelt, MD, MBA, owner of Blauvelt Consulting, LLC, and principal investigator on the ONWARD program. Both ONWARD1 and ONWARD2 together enrolled more than 1700 adult patients"
+            "ctive oral TYK2 inhibitor, demonstrating robust skin clearance in moderate-to-severe plaque psoriasis, was discussed by Andrew Blauvelt, MD, MBA, owner of Blauvelt Consulting, LLC, and principal investigator on the ONWARD program. Both ONWARD1 and ONWARD2 together enrolled more than 1700 adult patients",
+            "was discussed by Andrew Blauvelt, MD, MBA, owner of Blauvelt Consulting, LLC, and principal investigator on the ONWARD program."
           ]
         },
         {
           "name": "Melinda Gooderham",
           "credentials": "MD",
           "affiliation": "medical director of the SKiN Centre for Dermatology in Ontario, Canada, spoke about these key findings from the pair of pivotal phase 3 studies evaluating zasoc",
-          "role": "named",
-          "topic": "",
+          "role": "presenter",
+          "topic": "LATITUDE trials, zasocitinib",
           "methods": [
-            "rules"
+            "rules",
+            "llm"
           ],
           "quotes": [
-            "re plaque psoriasis. The drug was shown to have a high level of skin clearance, a result typically seen with biologics. Melinda Gooderham, MD, medical director of the SKiN Centre for Dermatology in Ontario, Canada, spoke about these key findings from the pair of pivotal phase 3 studies evaluating zas"
+            "re plaque psoriasis. The drug was shown to have a high level of skin clearance, a result typically seen with biologics. Melinda Gooderham, MD, medical director of the SKiN Centre for Dermatology in Ontario, Canada, spoke about these key findings from the pair of pivotal phase 3 studies evaluating zas",
+            "Melinda Gooderham, MD, medical director of the SKiN Centre for Dermatology in Ontario, Canada, spoke about these key findings"
           ]
         },
         {
@@ -422,6 +390,19 @@
           ],
           "quotes": [
             "Allergic Reactions Do Not Blunt Sublingual Epinephrine: Jay Lieberman, MD"
+          ]
+        },
+        {
+          "name": "Jennifer Soung",
+          "credentials": "MD",
+          "affiliation": "",
+          "role": "presenter",
+          "topic": "ICONIC-LEAD, icotrokinra 1-year data",
+          "methods": [
+            "llm"
+          ],
+          "quotes": [
+            "ICONIC-LEAD: 1 Year Icotrokinra Data Confirm Durable Psoriasis Clearance, PRO Improvements in Adults, Adolescents, With Jennifer Soung, MD"
           ]
         }
       ],
